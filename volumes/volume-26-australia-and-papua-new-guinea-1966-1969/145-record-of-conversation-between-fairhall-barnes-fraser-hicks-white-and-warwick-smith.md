@@ -1,0 +1,94 @@
+---
+title: "145 Record Of Conversation Between Fairhall, Barnes, Fraser, Hicks White And Warwick Smith"
+volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
+doc_id: 9653
+vol_id: 26
+date: 1967-10-18
+barcode: 3125687
+---
+
+# 145 Record Of Conversation Between Fairhall, Barnes, Fraser, Hicks White And Warwick Smith
+
+Canberra, 18 October 1967
+
+SECRET
+
+**Local defence forces Papua and New Guinea**
+
+_Mr Fairhall_ drew attention to the concern of the Minister for Territories that in the event of Australia’s early departure from Papua and New Guinea as a result of various pressures for independence, the army could become the dominant force in the Territory. He suggested that as the various departments concerned had different problems it was necessary to bring their combined wisdom to bear on them and try and arrive at an objective solution. In the first place there was the political problem. Territories had the difficult task of trying to lead the people to independence and it would be unwise to introduce false standards into the country or to raise an elite which could create problems. He suggested that the best solution would be the one which was most in keeping with Australia’s national aims for the Territory.
+
+_Mr Barnes_ said that he had no argument with the P.I.R. Itself which he thought was doing a good job and would play an important part in the Territory’s future. However, we had before us examples of army take-overs in other under-developed countries and we must try to avoid this happening in P.&amp; N.G. He was concerned that too rapid expansion of the local forces could result in inadequate discipline. Already there had been examples of what could happen, e.g., the P.I.R. riot in 19615 and the disturbances among both the P.I.R. and the police in relation to the wages question in 1966, when the situation had been very touchy.6 We could not afford to be in a situation where these groups were not under proper control. There were lots of problems ahead which would generate forces over which we would not have control, but we did have control over the P.I.R. There was of course the problem of Indonesia, but he felt that further expansion of the P.I.R. should be held up until we were sure we had a group we could depend on. The Papua and New Guinea people were a very emotional people and the influence of demagogues could lead to a violent explosion.
+
+On the other side there was the political question and the question of standards—housing, food, pay, etc. Although we had been able to bring standards closer, Army were still ahead and we must still try to get some equality in standards, especially between the P.I.R. and the police. We had faced up to the salaries problem which had created a situation that had been difficult to hold, but we did so despite the criticism. There was also the economic aspect of the problem. It was Government policy to advance the people politically, socially and economically until they were ready for self-government. How long this would take one could not say, but the economic situation would continue to be pretty difficult for a long time unless the Territory struck oil, and the defence forces should be set at a level which the Territory economy could support.
+
+Again, there was the question of constitutional reform, a further step in which would be taken next year with the introduction of a form of Ministerial government. Members of the House of Assembly would be given responsibilities in relation to particular departments of the Administration and would take their place in the newly constituted Administrator’s Executive Council. Some relationship would have to be developed between this group and the Army. We had already made some progress with the Australian Broadcasting Commission and if Australia were to suddenly hand over its responsibilities to a Territory government a local Broadcasting Commission would be in existence which could take over from the A.B.C.
+
+_Mr Warwick Smith_ mentioned that the Administrator’s Executive Council would throw up new kinds of problems and that it would be necessary to have some sort of system in readiness for this so far as the relationships between the Administration and Army and Defence were concerned.
+
+_Mr Fraser_ said that after listening to Mr Barnes he felt that Territories and Army were less far apart than had been thought. We must work out our problems jointly. As regards housing, at the time the decision to build up the P.I.R. was taken Army had had discussions with Territories about standards and had built to the standards agreed upon. He felt that it was Territories’ position that had changed since. Army had built with the aim of keeping maintenance costs low and as the construction programme was now almost complete nothing much could be done at this stage to reduce the standards already adopted.
+
+Regarding the build-up of the P.l.R. he mentioned that he had written to Mr Fairhall earlier this year saying that it would be desirable to slow down the rate of expansion towards the target of 3,640 Pacific Islanders and 650 Europeans by 1968,7 which Cabinet had approved in December, 1964. The main reason was that with National Service and the build-up in Vietnam there was difficulty in providing suitable European staff for the P.I.R. It would be unwise to continue recruitment without an adequate number of officers and N.C.O.’s capable of assimilating Pacific Islanders into the Army and training and controlling them. Recruitment was still running below the level necessary to achieve the target and he felt that if we could look to reaching a figure of about 3,000 (not necessarily within the next year or two) there would not be too much difference between the views of the two Departments. He thought a figure of 3,500 in the longer term would not be unrealistic, but would be happy to see this put off for several years provided Army could have reasonable occupancy of the establishments that had been built. A strength of 3,000 would probably be sufficient for this.
+
+_Mr White_ mentioned that it would be necessary to get Cabinet endorsement if it were decided to hold the level at about 3,000 for the time being.
+
+_Mr Fraser_ went on to say that, although he was not so much concerned about P.I.R. numbers, he _was_ concerned about the rate of Pacific Islander officer production. Local officers must not only be good militarily but must recognise their subordination to the civil authorities. Army education programmes laid great emphasis on this. He felt that the loyalty of the P.I.R. was improving and would be nearly on a par with that of the police. His main problem now was to get enough Pacific Islands officers of a high enough calibre to enable the Australian element in the P.I.R. to be phased out at the appropriate stage. So far Army had only been averaging 1% P.I. officers a year.8
+
+_Mr Barnes_ and _Mr Warwick Smith_ mentioned that not enough students were coming forward at present at a high enough standard to meet the needs of the Administration and the various tertiary institutions, but agreed that something would nevertheless have to be done to improve the P.I. officer position.
+
+_Mr Fairhall_ pointed out that Army’s problem regarding officers could become Territories’ problem if it were not solved and agreed that Army was right in insisting on high standards for P.I. officers.
+
+_Mr Barnes_ agreed that they should have the best.
+
+In reply to a question by _Mr Fairhall_ as to whether there was any worry about standards at this stage Sir Edwin Hicks stated that inter-departmental committees were at present working on questions of housing and rationing standards. He went on to say that it would be necessary to think right through the new problem posed by constitutional development in Papua and New Guinea.
+
+_Mr Fraser_ said that as the P.I.R. was being developed as a national force, Army would welcome any arrangements which would help to emphasise the relationship between the P.I.R. and the government of the Territory. _Mr Fairhall_ agreed that the Army must be educated in the arrangements that would ultimately come into force in the Territory and asked if Territories had any idea how consultation with the Administrator’s Executive Council on defence matters might develop. _Mr Barnes_ replied that nothing had been worked out on this but it would have to be developed through the Administrator.
+
+_Mr Warwick Smith_ pointed out that there would probably be a need to decide whether there were any security areas that the Council should not be told about but it would have some new powers and would probably need to be consulted about such matters as the P.I. officer programme and proposals to set up new defence establishments in the Territory.
+
+_Mr Fairhall_ asked if there were any other frictions, e.g. the recent ‘Government’ booklet.9
+
+_Mr Barnes_ said that he and Mr Fraser did not quite agree on this. He felt that Army had been a little too sensitive about the booklet but that another booklet devoted to the role of the P.I.R. was to be produced in consultation with Army and that this should clear the matter up. If it was found necessary to do so suitable amendments would be made to the ‘Government’ booklet when it was re-issued. He also said that he was very satisfied with the degree of understanding which this meeting had shown.
+
+_Mr Fairhall_ said that as it would be necessary to go to Cabinet for a new directive regarding the strength of the P.I.R. this would present an opportunity to bring to Cabinet’s notice the various problems that had been discussed at the meeting.
+
+_Mr Fraser_ suggested that before going to Cabinet it might be desirable to get some agreement with Territories on the level of numbers which would also ensure a reasonable use of the buildings.
+
+_Mr Fairhall_ concluded by saying that he would be glad if the kind of liaison and understanding that had been shown at the meeting could continue as it was necessary for the Army in P.&amp; N.G. to fit into the overall Territory situation, for which the Department of Territories was responsible, and for a similar relationship to develop as that which existed in Australia between the Army and the Commonwealth Government.
+
+Summary
+
+There was general agreement that—
+
+(1) The development of the P.l.R. as a national force should conform with the general economic and political development of the Territory.
+
+(2) For the time being recruitment should aim merely at a strength which would enable economic occupation of Army establishments in the Territory.
+
+(3) On this understanding Army would consult with Territories on what constituted a reasonable strength and a submission would then be put to Cabinet seeking a variation of the target figure and rate of expansion approved in December, 1964; Cabinet should be informed at the same time of the various problems canvassed during this meeting.
+
+(4) Liaison of the kind at present taking place on such matters as housing and rationing would continue in relation to any other problems that might arise.
+
+(5) In particular there should be consultation aimed at ensuring that Army obtained a reasonable quota of high calibre Pacific Islander recruits for officer training.
+
+(6) Joint attention would need to be given to the problem of developing appropriate consultation on defence matters with the new Administrator’s Executive Council.10
+
+[ [NAA: A452, 1966/4989](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=3125687) ]
+
+1 The record used is a draft.
+
+2 Sir Edwin Hicks, Secretary, Department of Defence.
+
+3 Bruce White, Secretary, Department of the Army.
+
+4 The meeting was held subsequent to Barnes’ objections to Defence Committee consideration (see attachment B, Document 111 and Document 119). In DEA, Ashwin explained that the problem had been ‘withdrawn from consideration in the formal machinery’ because ‘Territories at a high level asked Defence to have the issues handled in such a way as to preclude too much service involvement ... and to restrict knowledge of discussions’ (minute to W.B. Pritchett (Head, Defence Liaison Branch, DEA), 6 December 1967, NAA: A1838, 68911 part 4).
+
+5 On 3 January 1961, the Commander of the PIR had ordered the arrest of seven soldiers believed to be leaders of a proposed strike. Afterward, 70 other soldiers broke barracks and marched toward the jail in Port Moresby where their comrades were held. They were intercepted by officers and NCOs who, with the assistance of police, arrested the marchers (cablegram AP Guidance 1, DEA to all posts, 13 January 1961, NAA: A452, 1962/8172). Seventy members of the PIR were subsequently dismissed (see letter, Cleland to C.R. Lambert (then Secretary, DOT), 2 February 1961, ibid.).
+
+6 See, for example, Documents 2, 35, 41–2, 45–6 and editorial notes ‘Industrial unrest: announcements on police and PIR conditions of service’ and ‘Internal security planning’.
+
+7 See attachment A, Document 111.
+
+8 White and Fraser later objected to a DOT summary of Fraser’s comments (see letter, White to Warwick Smith, 25 October 1967, NAA: A452, 1966/4989, and paper entitled ‘Pacific Islands Regiment—Papua and New Guinea’, 20 October 1967, ibid.). A revised precis read: ‘Mr Fraser pointed out that the recruitment objectives desired by Cabinet had in practice been modified, partly because of the changed circumstances following the cessation of confrontation and partly because of the difficulty in view of other Army commitments in providing A.R.A. officers and N.C.O.’s for the suggested rate of expansion of the P.I.R. He suggested that, in consequence, the difference in approach between Army and Territories might not be as great as might have been thought. The desirable strength of the P.I.R. in the immediate future, however, would have been examined in the light of the numbers required to permit reasonable occupation of the new barracks, which have been or are being completed under the programme approved by Cabinet. Mr Fraser also [said that) Adequate numbers of good indigenous officers were required and insufficient officer material was at present available to the P.I.R. [and that] Liaison on standards between Territories and Army has been working satisfactorily’ (loc. cit.).
+
+9 Hunter had written to Hay on 4 September asking for the withdrawal of a new Department of District Administration (DDA) publication, _Government in New Guinea_, because it ‘fail[ed] to recognize the Army as an essential and lawful element of the community’ and instead represented it as ‘a positive danger to democracy and the rights of the individual’. He referred to the ‘common and well–documented practice of Communist and subversive organisations in emerging countries to direct their efforts to discreditation of the law enforcement agencies’ and asserted that ‘this publication can be taken as providing official sponsorship for any attempt to discredit the Army’ (letter, NAA: A6846 part 6). Hunter explained the strength of his representation in a memorandum of the same day to Army headquarters: it was his ‘considered opinion’ that the views expressed in the publication ‘represent strongly–held and even official attitudes’ in DOT and the Administration ‘and that these attitudes, if allowed to continue to influence the situation in the Territory to their present degree, will make achievement of the Army’s present mission impossible’. Hunter recommended that ‘the question as to whether there is to be an army in Papua–New Guinea, and if so what form it is to take, should now be resolved at high, possibly Cabinet, level’. Unless Territories and the Administration were given an ‘unequivocal direction’, Australia would ‘undoubtedly fail, as have so many other colonial powers, to create a national army capable of fulfilling a difficult and demanding assignment’ (ibid.). The booklet became the object of public controversy when an annual Returned Soldiers League (RSL) congress in Lae called for its removal, with delegates saying it portrayed the Army as a ‘monster’ (_South Pacific Post_, 4 September 1967, ibid.). Hay responded to the RSL by saying that ‘There were no references to the Papua–New Guinea Army as such’ and that the ‘references to which exception was taken are to events which have occurred in certain emerging countries [and these] were included to emphasise the necessity of a firm democratic foundation for the future government of this Territory’ (_South Pacific Post_, 8 September 1967, ibid.). In a private meeting with Hunter, Hay made clear his disapproval of the parallel the Army had drawn between communist and Administration activities—after which Hunter agreed to submit a reworded protest against the publication (memorandum, PNG Command (Hunter) to Army Headquarters, 15 September 1967, ibid.) Hunter later wrote to Chief of the General Staff Sir Thomas Daly that in making this concession he had been ‘anxious to avoid an appearance of inflexibility’, though he felt ‘we have made a point with the Administration’ (19 September 1967, ibid.).
+
+10 In a letter to Hay of 24 October, Warwick Smith asked for views on the possibility of the Administration using army buildings and on the ‘means by which an appropriate form of consultation may be developed with the Administrator’s Executive Council when it is set up after the next elections’ (NAA: A452, 1966/4989). In another letter to Hay of the same date, Warwick Smith remarked that a suitable size for the PIR was ‘partly related to the need to have a reasonable degree of occupancy of its buildings at various centres’. He continued: ‘I am really very troubled about how we are going to finance the building of the University. As the present strength of the P.I.R. in Port Moresby will be reduced by the transfer of detachments to Lae, I am wondering whether part of the solution might lie in taking over some of the Army buildings in the Port Moresby area’ (ibid.). Hay replied that ‘Immediate and urgent needs are for local officers, single and married, for temporary accommodation for the Institute of Higher Technical Education and for further secondary school places’. The Administrator listed a number of specific needs in Port Moresby, Lae and Wewak, and said that ‘a complete plan for the total usage of buildings’ could be readily provided if a preliminary assessment of the optimum size of the army establishment could be determined (letter, undated (received 8 November), ibid.). Warwick Smith subsequently wrote to Hay that ‘if the need for a reasonable degree of occupancy is in fact a real factor in the situation, as was indicated at the meeting between Ministers, the information you have supplied will be most helpful’, though he warned that he was ‘not of course able to say what the prospects are of Army buildings being made available for civil purposes’ (letter, 10 November 1967, ibid.).

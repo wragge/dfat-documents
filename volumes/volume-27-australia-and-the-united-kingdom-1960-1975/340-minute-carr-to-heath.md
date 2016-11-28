@@ -1,0 +1,31 @@
+---
+title: "340 MINUTE, CARR TO HEATH"
+volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
+doc_id: 10206
+vol_id: 27
+date: 1972-11-16
+---
+
+# 340 MINUTE, CARR TO HEATH
+
+UKNA:FC024/1315
+
+London, 16 November 1972
+
+Confidential
+
+**Immigration Control and the Old Commonwealth**
+
+When we had a word a day or 2 ago about the Old Commonwealth and our immigration control you suggested that it would be as well for a few of us to get together for an early discussion. I am circulating this note with a view to such a discussion. 1
+
+As you know, there has currently been a great deal of criticism about our attitude to people who wish to come here from the Old Commonwealth. A number of MP’s have spoken to me about it, the Daily Express is running a campaign on the point, and I have been asked to send a memorandum to Buckingham Palace. What seems to have brought matters to a head is the introduction on 1st January of the Immigration Act 1971 and our entry into EEC on the same date. Under the Act, and in accordance with the policy which we put before the country at the General Election, Commonwealth workers will no longer be admitted for settlement from the outset but, like aliens, for an initial period of 12 months with a possibility of extensions. Entry into the EEC will not mean any change for Commonwealth citizens but their position will be worsened by comparison with that of EEC nationals who will be free to work here without permits, and for whom there will be special arrangements at the ports to permit of their prompt passage through the controls. They will be admitted for a uniform period of 6 months after a check on the Suspect Index whereas Commonwealth citizens will continue to be subject to an individual examination which, however brief, will necessarily take longer.
+
+In this position what freedom of manoeuvre have we? I think that we have to go back to essentials. Commonwealth immigration was introduced in 1962 because it was only too evident that very large numbers of people wished to settle here from certain areas in Asia and in the Caribbean and from Cyprus and elsewhere. It was essential, in the interests of preserving harmony in this country, to prevent the inflow getting out of hand, and this we did by saying that those who wished to work here must first obtain an employment voucher. Since then the number of vouchers has been greatly decreased (while we have had to introduce special vouchers for United Kingdom passport holders). In line with the restriction on the number of vouchers we have had to examine visitors and students from the Commonwealth to make sure that they were bona fide and not really workers in disguise. This examination is an essential part of an effective control.
+
+It is clear that the pressure for immigration from these areas is just as great. People persist in trying to enter in small boats and in light aircraft, or with forged papers, or with entry certificates obtained by misrepresentation. There is every sign that if controls were relaxed, if we allowed people to work here without permits, or if we stopped examining visitors and students to satisfy ourselves of their bona fides, very large numbers indeed of Commonwealth citizens would settle here; and we can be in no doubt of the trouble this would create.
+
+It follows that we cannot permit the easier entry of people from the Old Commonwealth unless we are prepared to do what no Government has so far been prepared to do, namely, to run the immigration control on a discriminatory basis, with one set of rules for the Old Commonwealth and another for the New. There is no economic or social reason why we should control immigration from the Old Commonwealth at all. Large numbers would not come here even if we gave complete freedom of entry. The only reason for maintaining control is that we cannot relax it for the Commonwealth as a whole and that hitherto we have not thought it right to discriminate. If we were minded to discriminate, nothing would be simpler so far as the mechanics go. We would not need to legislate. We would simply have to amend the immigration rules (which are subject to negative resolution) so as to provide that citizens from countries in the Old Commonwealth were to be allowed in to take or look for work without the need to have work permits. Everything else would follow from this. It would no longer be necessary to examine visitors or students because they would be free to stay here in employment even without work permits. And passage through the controls and ports would be greatly speeded up for the Old Commonwealth. We could still keep out crooks and other undesirable people by a check on a Suspect Index, but we could not do more than this.
+
+I am not advocating the change set out in the preceding paragraph. But I think we have to face the disagreeable fact that it is the only way of meeting the complaints about our treatment of people from the Old Commonwealth. We have already stretched the rules in practice as far as we can: to do more it would be necessary to make the discrimination sharp and open. The Foreign and Commonwealth Secretary has sent me a number of minor suggestions for improvement in our procedures. But even if I could accept them—and there are formidable difficulties about this—I do not for a moment believe that minor changes would reduce the current volume of complaints and criticism. What the Australians in particular object to is being subject to control at all, and it seems to me that we have the choice of either maintaining a control on the present basis, explaining the necessity for it, and putting up with these complaints; or, alternatively, deciding to run the control on a frankly discriminatory basis, with all the criticism that that is likely to entail at home and overseas. We could rationalize special treatment for the Old Commonwealth countries by saying that there was no pressure for immigration from them, or that Australia, Canada and New Zealand accept a large number of British immigrants. But whatever we said along these lines it would be only too evident that we were introducing an immigration control which discriminated on the basis of colour [...]
+
+1  Circulated to the Foreign and Commonwealth Secretary and the Secretary of State for Defence. 

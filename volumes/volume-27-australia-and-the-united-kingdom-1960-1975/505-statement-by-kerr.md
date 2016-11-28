@@ -1,0 +1,57 @@
+---
+title: "505 STATEMENT BY KERR"
+volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
+doc_id: 10372
+vol_id: 27
+date: 1975-11-11
+---
+
+# 505 STATEMENT BY KERR
+
+NAA: A432, A1975/7583 PART 1 
+
+Government House, Canberra, 11 November 1975
+
+**Statement by the Governor-General1**
+
+I have given careful consideration to the constitutional crisis and have made some decisions which I wish to explain.
+
+_Summary_
+
+It has been necessary for me to find a democratic and constitutional solution to the current crisis which will permit the people of Australia to decide as soon as possible what should be the outcome of the deadlock which developed over supply between the two Houses of Parliament and between the Government and the Opposition parties. The only solution consistent with the Constitution and with my oath of office and my responsibilities, authority and duty as Governor-General is to terminate the commission as Prime Minister of Mr Whitlam and to arrange for a caretaker government able to secure supply and willing to let the issue go to the people.
+
+I shall summarise the elements of the problem and the reasons for my decision which places the matter before the people of Australia for prompt determination.
+
+Because of the federal nature of our Constitution and because of its provisions the Senate undoubtedly has constitutional power to refuse or defer supply to the Government. Because of the principles of responsible government a Prime Minister who cannot obtain supply, including money for carrying on the ordinary services of government, must either advise a general election or resign. If he refuses to do this I have the authority and indeed the duty under the Constitution to withdraw his commission as Prime Minister. The position in Australia is quite different from the position in the United Kingdom. Here the confidence of both Houses on supply is necessary to ensure its provision. In the United Kingdom the confidence of the House of Commons alone is necessary. But both here and in the United Kingdom the duty of the Prime Minister is the same in a most important respect—if he cannot get supply he must resign or advise an election.
+
+If a Prime Minister refuses to resign or to advise an election, and this is the case with Mr Whitlam, my constitutional authority and duty require me to do what I have now done—to withdraw his commission—and to invite the Leader of the Opposition to form a caretaker government—that is one that makes no appointments or dismissals and initiates no policies, until a general election is held. It is most desirable that he should guarantee supply. Mr Fraser will be asked to give the necessary undertakings and advise whether he is prepared to recommend a double dissolution. He will also be asked to guarantee supply.
+
+The decisions I have made were made after l was satisfied that Mr Whitlam could not obtain supply. No other decision open to me would enable the Australian people to decide for themselves what should be done.
+
+Once I had made up my mind, for my own part, what I must do if Mr Whitlam persisted in his stated intentions I consulted the Chief Justice of Australia, Sir Garfield Barwick. I have his permission to say that I consulted him in this way.
+
+The result is that there will be an early general election for both Houses and the people can do what, in a democracy such as ours, is their responsibility and duty and theirs alone. It is for the people now to decide the issue which the two leaders have failed to settle.
+
+_Detailed Statements of Decisions_
+
+On 16 October the Senate deferred consideration of Appropriation Bills (Nos. 1 &amp; 2) 1975-1976. In the time which elapsed since then events made it clear that the Senate was determined to refuse to grant supply to the Government. In that time the Senate on no less than two occasions resolved to proceed no further with fresh Appropriation Bills, in identical terms, which had been passed by the House of Representatives. The determination of the Senate to maintain its refusal to grant supply was confirmed by the public statements made by the Leader of the Opposition, the Opposition having control of the Senate.
+
+By virtue of what has in fact happened there therefore came into existence a deadlock between the House of Representatives and the Senate on the central issue of supply without which all the ordinary services of the government cannot be maintained. I had the benefit of discussions with the Prime Minister and, with his approval, with the Leader of the Opposition and with the Treasurer and the Attorney-General. As a result of those discussions and having regard to the public statements of the Prime Minister and the Leader of the Opposition, I have come regretfully to the conclusion that there is no likelihood of a compromise between the House of Representatives and the Senate nor for that matter between the Government and the Opposition.
+
+The deadlock which arose was one which, in the interests of the nation, had to be resolved as promptly as possible and by means which are appropriate in our democratic system. In all the circumstances which have occurred the appropriate means is a dissolution of the Parliament and an election for both Houses. No other course offers a sufficient assurance of resolving the deadlock and resolving it promptly.
+
+Parliamentary control of appropriation and accordingly of expenditure is a fundamental feature of our system of responsible government. In consequence it has been generally accepted that a government which has been denied supply by the Parliament cannot govern. So much at least is clear in cases where a ministry is refused supply by a popularly elected Lower House. In other systems where an Upper House is denied the right to reject a money bill, denial of supply can occur only at the instance of the Lower House. When, however, an Upper House possesses the power to reject a money bill including an appropriation bill, and exercises the power by denying supply, the principle that a government which has been denied supply by the Parliament should resign or go to an election must still apply—it is a necessary consequence of Parliamentary control of appropriation and expenditure and of the expectation that the ordinary and necessary services of government will continue to be provided.
+
+The Constitution combines the two elements of responsible government and federalism. The Senate is, like the House, a popularly elected chamber. It was designed to provide representatives by States, not by electorates, and was given by Sec. 53, equal powers with the House with respect to proposed laws, except in the respects mentioned in the section. It was denied power to originate or amend appropriation bills but was left with power to reject them or defer consideration of them. The Senate accordingly has the power and has exercised the power to refuse to grant supply to the Government. The Government stands in the position that it has been denied supply by the Parliament with all the consequences which flow from that fact.
+
+There have been public discussions about whether there is a convention deriving from the principles of responsible government that the Senate must never under any circumstances exercise the power to reject an appropriation bill. The Constitution must prevail over any convention because, in determining the question how far the conventions of responsible government have been grafted on to the federal compact, the Constitution itself must in the end control the situation.
+
+Sec. 57 of the Constitution provides a means, perhaps the usual means, of resolving a disagreement between the Houses with respect to a proposed law. But the machinery which it provides necessarily entails a considerable time lag which is quite inappropriate to a speedy resolution of the fundamental problems posed by the refusal of supply. Its presence in the Constitution does not cut down the reserve powers of the Governor-General.
+
+I should be surprised if the Law Officers expressed the view that there is no reserve power in the Governor-General to dismiss a Ministry which has been refused supply by the Parliament and to commission a Ministry, as a caretaker ministry which will secure supply and recommend a dissolution, including where appropriate a double dissolution. This is a matter on which my own mind is quite clear and I am acting in accordance with my own clear view of the principles laid down by the Constitution and of the nature, powers and responsibility of my office.
+
+There is one other point. There has been discussion of the possibility that a half-Senate election might be held under circumstances in which the Government has not obtained supply. If such advice were given to me I should feel constrained to reject it because a half-Senate election held whilst supply continues to be denied does not guarantee a prompt or sufficiently clear prospect of the deadlock being resolved in accordance with proper principles. When I refer to rejection of such advice I mean that, as I would find it necessary in the circumstances I have envisaged to determine Mr Whitlam’s commission and, as things have turned out have done so, he would not be Prime Minister and not able to give or persist with such advice.
+
+The announced proposals about financing public servants, suppliers, contractors and others do not amount to a satisfactory alternative to supply.
+
+1  This statement was circulated by Greenwood, the Attorney-General, to ‘all members of the legal profession’ on 13 November 1975. Greenwood’s covering letter stated: ‘His Excellency’s statement is a constitutional document of the highest importance. I believe that it should be read by all lawyers in Australia, having regard especially to the responsibility that lawyers have for upholding the law and the Constitution’ (NAA: A432, 1975/7583 part 1). 

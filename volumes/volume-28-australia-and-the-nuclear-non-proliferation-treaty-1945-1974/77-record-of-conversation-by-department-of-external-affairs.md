@@ -1,0 +1,63 @@
+---
+title: "77 Record of Conversation by Department of External Affairs"
+volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
+doc_id: 10451
+vol_id: 28
+date: 1965-11-17
+barcode: 546396
+---
+
+# 77 Record of Conversation by Department of External Affairs
+
+Canberra, 17 November 1965
+
+Secret
+
+Officers present:Officers present:| Mr. A.M. Morris  
+---|---  
+ | Mr. G.N. Upton1  
+ | Mr. J. Piper  
+ | Mr. D.W. Evans  
+  
+Subjects discussed: Proposals for an Australian atomic reactor; transfer of safeguards
+
+Messrs. Timbs and Thomas came to the Department to outline the A.A.E.C.'s views on the current proposals for a design and cost study on a possible atomic energy reactor in South Australia which is to be put to Cabinet shortly; and on the recent United States approach to Australia to transfer the administration of United States bilateral safeguards on nuclear plant and materials to the I.A.E.A.2 Mr Timbs stressed that the meeting should be regarded as an informal exchange of views, and he expressed what were purely personal opinions on some of the points raised. This record should not therefore be quoted back at the A.A.E.C.
+
+  2. The bulk of the discussion concentrated on the defence aspects of the two current proposals and the ways in which they might affect any subsequent Australian decision to 'go nuclear'—assuming that it remained Government policy to keep this option open. The following is a summary of the points made by the A.A.E.C. representatives together with some comments: 
+
+## A. On the South Australian reactor proposal
+
+  3. The A.A.E.C. was convinced that if a reactor were established in South Australia it would prove a good economic proposition although they recognised there might be a good case for wanting to put it elsewhere, e.g. in Northern Territory or A.C.T., for defence or other reasons. In any case the construction of such a reactor would shorten by at least five years the time that would be needed to implement any policy subsequently adopted to develop nuclear weapons. A.A.E.C. was now thinking in terms of United Kingdom and not Canadian plant for the proposed South Australian reactor and this might attract I.A.E.A. safeguards, as would the initial charge of fuel rods and the heavy water used as a moderator. Only the French seemed willing to supply such plant without safeguards and A.A.E.C. assumed there would be political difficulties about getting into too close a relationship with the French in the atomic energy field.
+  4. It would be possible for Australia to develop later, at a moderate cost, a local fuel-processing plant and heavy water plant (with fertilisers as a bi-product). A.A.E.C. were including pilot plants of these two types in their next work programme. They could be developed later into full-scale plants and would lead to the acquisition of the necessary local experience.
+  5. The South Australian reactor if constructed as planned could readily be used to produce weapons-grade plutonium without violating any system of safeguards-Australia could argue, as had India, that she was producing, for peaceful purposes, enriched fuel to be used in more advanced breeder reactors or even for plowshare experiments. (External Affairs pointed out that plutonium was too 'dirty' to be acceptable for the latter purpose). In any event A.A.E.C. maintained that the capability to produce weapons-grade plutonium would be there, simply requiring a quicker change-around with only partial burn up of fuel rods, and at some later stage the construction of a chemical separation plant. If, following a decision to 'go nuclear', construction of such a plant were put in hand at the same time as a programme for the design of actual nuclear weapons and the development of an effective weapons delivery system, these different phases of a nuclear weapons development programme could proceed simultaneously leading to an effective capability in 12-18 months.
+  6. Mr. Timbs could see no advantage in Australia developing from its own resources and without safeguards a more primitive plutonium reactor of the Calder Hall type as part of a straight-out defence programme. He maintained that in any case the pressure vessel for such a reactor required thick steel plating (and necessary welding) of a type not available in Australia and that the graphite used as a moderator would also have to be imported, doubtless attracting safeguards. Moreover the establishment of such a reactor, which was uneconomic as a power producer, would be a clear signal to the world that Australia intended to embark on a nuclear weapons programme. 
+
+### Comment
+
+  7. The Department has recommended to the Minister3 that he should support the proposal for a feasibility study for an atomic reactor in South Australia, inter alia, because of its potential defence significance. However we may not be able to accept A.A.E.C.'s conviction that such a reactor, especially if it carried I.A.E.A. safeguards, could be readily used for producing weapons-grade plutonium without leading to any criticism in the I.A.E.A., which is likely to be less sympathetic in its consideration of the matter towards an aligned country like Australia than it has been towards India which enjoys some support from both the U.S.S.R. and the United States. A.A.E.C.'s more relaxed view of the implications of safeguards leads them to ignore the advantages of being able to push forward covertly a programme of nuclear weapons development, as the French did, before one is ready to make this publicly known.
+  8. Nevertheless A.A.E.C. argues convincingly that a peaceful uses programme would provide an effective cover for establishing local nuclear energy plant which could be set up with a dual peaceful and weapons purpose in mind, as well as providing the experience, technology and trained manpower that would be needed in any subsequent all-out nuclear weapons programme. 
+
+## B. On the United States proposals to transfer the administration of other bilateral safeguards to the I.A.E.A.
+
+  9. A.A.E.C. views on this matter were heavily coloured by the conviction that the United States Government would react sharply to any Australian refusal to agree to transfer. They think this would lead to (1) the suspension of valuable training in the United States; (2) the closing-off of the only remaining reliable source of enriched uranium fuel (since the United Kingdom are now shutting down their U-235 plants and the French will need all their production to expanded shortly for their own purposes, e.g. for weapons tests); and (3) probably the termination of the whole current research programme at Lucas Heights. The Departmental representatives pointed out that Ministers, at least, would probably argue that our 'special relationship' with the United States would protect us against any such drastic results. Mr Timbs conceded that there were no practical examples of United States retaliatory action in such a situation to which one could point. However the A.A.E.C. had a very clear indication from their United States A.E.C. colleagues that an uncooperative Australian attitude on the transfer of safeguards would not go without a response. Mr. Timbs referred to the United States surprise and disappointment over Australia's refusal to co-sponsor the resolution in the I.A.E.A. on the new safeguards system. The External Affairs representatives confirmed that the United States has been putting great emphasis on the role of I.A.E.A. safeguards in non-proliferation proposals in disarmament discussions in Geneva and at the United Nations. Canada has been adopting a similar position.
+  10. As a consequence of the above views A.A.E.C. clearly hopes that other departments and their Ministers will not reject the current United States approach. A.A.E.C. is certain that Canada will follow the United States lead on safeguards (despite the economic disadvantages-some of which the Canadians have already incurred through insisting on I.A.E.A. safeguards on the sale of uranium ore to France thus losing the business.) They believe the United Kingdom will also press for the imposition of effective safeguards and for the transfer of the administration of them to the I.A.E.A.
+  11. Other standard A.A.E.C. arguments were again put forward by Mr. Timbs, i.e. that none of the United States nuclear plant or materials could ever be used for non-peaceful purposes; and that inspections by the United States were every bit as stringent as those of the I.A.E.A. although neither kind of inspection would interfere with any (defence) work which might be going on in the same plant using non-safeguarding materials. By inference the A.A.E.C. clearly does not expect that Australia will in the future ever want to use additional United States nuclear plant or materials for weapons purposes, or that the United States would tolerate diversion of United States-supplied plant or materials to weapons purposes if it were under safeguards administered bilaterally and not under I.A.E.A. auspices.
+  12. A.A.E.C.'s view that safeguards-I.A.E.A. or bilateral-will not in any way inhibit or restrict Australia's option to develop a nuclear capability derives basically from the assumption (cf. paragraph 5 above on the South Australian reactor proposals) that there is no need for any clandestine production activity before the stage when a decision is actually taken to develop a nuclear weapon (arguing that the bulk of the preliminaries can be undertaken under an overt peaceful nuclear programme). The decision to embark on a weapons programme, A.A.E.C. assumes, would only be taken in a crisis situation when Australia's security was seriously threatened and when international agreements on safeguards could be revoked or ignored, if necessary, perhaps by reference to Article 514 of the United Nations Charter on the right of self-defence. 
+
+### Comment
+
+  13. It is possible to agree that on balance we should not oppose the United States proposal to transfer the administration of safeguards to the I.A.E.A. _without_ accepting the view that safeguards, particularly I.A.E.A. safeguards, would not restrict or inhibit in any way the option to develop an Australian weapons programme. Safeguards must surely have an effect of directing international attention to aspects of any nuclear energy programme which Australia might prefer to have kept quiet, e.g. the accumulation of substantial stocks of weapons-grade plutonium. It would be useful to have other non-A.A.E.C. views on the following questions: 
+    1. Is there not ancillary nuclear plant with a clear weapons application (e.g. chemical separation or fuel enrichment plant) which we would have to import and which it would be better to have working before any decision were publicly taken to 'go nuclear'? If so would it not be better to have such plant outside safeguards? Who would supply it?
+    2. Could Australia, under the international scrutiny which would be involved in I.A.E.A. safeguards, in fact get away with stock-piling weapons-grade plutonium allegedly for use in advanced reactors if we had no such reactors in operation or even under construction?
+  14. Another thought is that if one is going to 'dodge' safeguards it would seem better to do so early in the piece-rather than to acquire imported plant and materials under safeguards and then, conspicuously, avoid safeguards on plant obtained later from some other country (e.g. from France), and/or to refuse to place one's own reactors under safeguards. To go 'cold' on safeguards later would build up the suspicions of other countries. This consideration would strengthen the case for Australia obtaining as soon as possible plant and materials from nonsafeguarded sources if we do decide to go along with the United States proposal to transfer the administration of United States bilateral safeguards to the I.A.E.A. On the other hand, by our own evasion of safeguards we might undermine the stand against the proliferation of nuclear weapons, which we are committed to support.
+
+
+
+_[ [NAA: A1838, 919/12/1 part 2](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=546396) ]_
+
+  * 1 Gordon N. Upton, Head, Economic Relations Branch, Department of External Affairs.
+  * 2 See Document 76.
+  * 3 Paul Hasluck, Minister for External Affairs.
+  * 4 Article 51 of the UN Charter refers to 'the inherent right of individual or collective self-defence if an armed attack occurs against a Member of the United Nations, until the Security Council has taken the measures necessary to maintain international peace and security'.
+
+

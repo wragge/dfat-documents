@@ -1,0 +1,39 @@
+---
+title: "222 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs"
+volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
+doc_id: 9091
+vol_id: 23
+date: 1981-05-19
+---
+
+# 222 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs
+
+Canberra, 19 May 1981
+
+No 1564. CONFIDENTIAL PRIORITY
+
+**ANZCER: Government Purchasing**
+
+As the mission is now being led by the Minister of Trade and Industry we assume the main objective is negotiating a mutually satisfactory accommodation with the States on this issue. If so, given the brief amount of time the mission will have in each state capital, we can only concur with Melbourne's observation1 that the Mission's primary focus should be the broad policy issue arising from the application of preferences to local tenders, and that too detailed a discussion of specific complaints should be avoided. The broad policy issues for the mission to address are:
+
+  1. Preferences: Here we need to distinguish carefully between (i) local/ regional preferences, (ii) instate preferences, and (iii) preferences for tenders from other Australian states. From a negotiating point of view, our main interest is in securing access to tendering procedures which are broadly equivalent to those enjoyed by Australian companies. In practical terms, however, there would be no point in homing in on the local and/or regional preferences: Our main target will be the instate preferences, applied to local companies against those of other states, and those available to companies in other states competing with overseas companies. We face something of a dilemma in that with some states (e.g. Victoria and South Australia) the chances of our negotiating elimination of instate preferences are relatively good, while with other States (e.g. NSW and Western Australia) the best we can hope for realistically is 'most favoured state' status. The concept of 'equivalence of access' seems to us sufficiently flexible to cover both these circumstances. Where we are able to negotiate only 'most favoured state' access, an agreement to review the arrangement after a specified period to determine the impact, if any, on access could be an important ingredient in the settlement. In States where it is clear that negotiations of instate or other- Australian-State preferences are not on, an agreement to re-open talks on the issue at some later stage would be worth securing.
+  2. Procedures: In States where it is clear that we are not able to negotiate any substantive improvement in access, it should be possible nevertheless to satisfy ourselves that the procedures for notifying tenders take full account of our interests. Officials in both Queensland and NSW have observed that the loadings are applied to only a small number of tenders in any one year. Further investigation may reveal that this is not because competitive tenders from other States or from overseas are so few, but because in many instances tenders are called for only locally (e.g. through an advertisement in a local newspaper) or selectively. In many cases, however, tendering authorities have a list of companies which are notified automatically when a tender likely to be of interest to them is coming up: This list usually includes out-of-State as well as overseas suppliers who have a 'track record' in winning successful tenders. Perhaps some form of procedure can be devised which locks NZ companies into the notification stage of tendering better than at present. This could be a complex process, involving separate discussions with a wide range of bodies in each State. For the purpose of the mission, what we are looking for is an undertaking by the Premier's Dept or Treasury to the effect that such discussions between State authorities and NZ companies may take place.
+  3. Presentation: In terms of presenting the NZ case to the States, we will need to avoid giving the impression that from the point of view of the NZ Government's purchasing procedures, we are prepared to discriminate between suppliers in different Australian States (e.g. that we accord more favourable treatment to Victorian and S.A. companies than to those in W.A. or Queensland.) This point was made to us very forcefully by Lind some time ago (our 411 of 11 February refers). Pages 2-3 of the brief, on the other hand, seem to imply that we should discriminate between suppliers in different States, and that to the extent that State purchasing policies differ, we should be prepared to offer access to NZ Government purchasing on the same basis as NZ enjoys in each particular State. From the Federal Government's point of view, any such discrimination could not be tolerated: They will continue to require Australian companies to be treated as an 'indivisible' entity for the purposes of trade with another international entity. But does this apply to advertising tenders? Surely if we get better treatment from some, they can't all expect us to let them know what we need.
+
+
+  3. Given that we will be talking to each State individually this Federal Government position does cause some problems. They could be resolved, however, if we approach these negotiations on a conditional basis: NZ is prepared to modify its government purchasing procedures provided that:
+    * the Federal Government reciprocates,
+    * an 'acceptable' accommodation with State governments (not necessary2 on the same terms for each state) can be reached.
+The line we could take is that as the Federal Government has indicated its readiness to accord the same treatment to Australian and NZ suppliers, the question is whether NZ can secure equivalence of access in the States. From the States' point of view, appropriate modifications in NZ's procedures should yield substantial benefits.
+  4. This form of presentation would avoid any suggestion that we are prepared to discriminate between the States, as well as leave our options open so that we can decide at the end of the mission whether the balance in the package is sufficient to enable us to meet the Federal Government's position (a 'reciprocal exchange of preferences at the State Government level'), and if not, whether other options should be explored with the Federal Government.
+  5. Again on presentation, an important issue we need to address amongst ourselves is how to dispose of the other parts of the CER negotiations about which some States at least will be anxious to hear from us. (In discussions with Federal officials, NSW has taken the line that its readiness to accommodate NZ on the government purchasing issue is contingent to some extent on satisfactory arrangements on the other CER issues). We should avoid being drawn into too detailed a discussion on the 'other' CER issues, however and here again, perhaps the conditional approach would be best, i.e. 'provided that you can live with the settlement reached by the Federal Government on the other issues, to what extent would you be prepared to negotiate a mutually satisfactory arrangement on government purchasing policies ...?'
+  6. Given, however, the request that we understand Mr Anthony made of the team, at the talks last week-i.e. that it be briefed to cover the dairy issue with the Victorian Government, it would be helpful if the team could come with a piece of paper which could be handed across on any of the other CER issues which may be raised. Not all the issues need to be covered in this way-those most likely to crop up are the commodity issues e.g. dairy, horticulture, whiteware, wine, peas and beans and potatoes.
+
+
+
+_[ABHS 950/Boxes1221-1226, 40/4/1 Part 36 Archives New Zealand/Te Whare Tohu Tuhituhinga 0 Aotearoa, Head Office, Wellington]_
+
+  * 1 In a message from the New Zealand Consulate-General in Melbourne.
+  * 2 Perhaps 'necessarily' was meant.
+
+

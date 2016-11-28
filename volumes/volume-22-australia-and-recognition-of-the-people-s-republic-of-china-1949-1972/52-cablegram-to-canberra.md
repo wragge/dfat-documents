@@ -1,0 +1,47 @@
+---
+title: "52 CABLEGRAM TO CANBERRA"
+volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
+doc_id: 8535
+vol_id: 22
+date: 1955-03-17
+---
+
+# 52 CABLEGRAM TO CANBERRA
+
+Washington, 17 March 1955
+
+311\. Top Secret
+
+For Fadden and Casey from Menzies.
+
+During a two hour meeting in the State Department on 16th March, Dulles gave me frank outline of United States thinking along the lines already indicated in Spender’s 1571 and 283.2 Dulles emphasised that United States intentions concerning the defence of Quemoy and Matsu are based primarily on United States judgement that their abandonment would mean disastrous loss of morale not only in Formosa but in South East Asia, Japan, etc. as well.
+
+2\. I said I realised there would be a serious impact on Nationalist morale if Quemoy and Matsu were lost by the Nationalists in circumstances which would seem to foreshadow the loss of Formosa. Would it, however, be possible to meet this situation by associating Australia, New Zealand, the United Kingdom and others in some form of guarantee that the status of Formosa will not be determined by force? Such guarantee might, I suggested, counteract the effect on Nationalist morale of withdrawal from those Offshore Islands. The guarantee I had in mind would aim not at propping up Chiang but at asserting principle that ultimate disposal of the territory was not to be determined by force. The military effect of such guarantee might not be considerable but the moral effect both in Formosa and throughout Asia might be very great. As far as Australia was concerned, public opinion would be extremely sceptical about a war brought on as a result of operations to protect Quemoy and Matsu. It could, I thought, be brought solidly behind a guarantee to Formosa and I was prepared to discuss this with my colleagues.
+
+3\. Dulles said he had already been thinking on somewhat similar lines. What was necessary was to alter the present situation (involving retention of Quemoy and Matsu) without adversely affecting Nationalist morale. He found my suggestion interesting and would like to give it further thought. He wanted to know whether the United Kingdom would go along. Eden had so far not replied to soundings made by Dulles. Dulles agreed with me that United Kingdom domestic political situation was limiting Eden’s freedom of action.
+
+4\. Robertson argued that Chiang would probably baulk at a guarantee from a country like the United Kingdom which recognised Communist China since such a guarantee might appear to freeze the present de-facto situation of two Chinas. Dulles admitted that Chiang _might_ feel that an extra guarantee would not help him. Dulles’ own judgement, however, was that United Kingdom guarantee would be of special value in its effect on morale both in Formosa and throughout Asia.
+
+5\. Dulles then indicated that he personally was thinking of an alternative solution: namely, blockade of China coast (at least from Shanghai to Canton) either supplementary to or in substitution for the defence of Quemoy and Matsu.
+
+[_matter omitted_]
+
+[NAA: Al838, TS519/3/l, iv]
+
+**AUSTRALIA’S PROPOSAL FOR A COMMONWEALTH GUARANTEE OF FORMOSA**
+
+_During the month of April, the Australian Government continued to canvass the idea of a Commonwealth guarantee of Formosa. In a minute to Plimsoll dated 12 April, Casey outlined several reasons why the Australian Government had not adopted the ‘America—right or wrong’ line in relation to the Formosa Straits. First, Australia wished to restrain the United States from joining a major war with China, possibly involving the use of atomic weapons; secondly, Australia wanted to avoid a major break with the United Kingdom, India and Canada; and thirdly, Australia was not as convinced as the United States as to the value of Nationalist Chinese forces to the West. Casey declared in a teleprinter message to Plimsoll on the following day that ‘I think, in fact, that the course of events in the East has gradually resulted in the Americans living a lie—which is never a good thing to do. The Americans are prisoners of their past attitudes. Their present attitude is dictated by Cold War considerations’. Added Casey: ‘As to Chiang and his Formosa forces, commonsense prompts one to believe that they must be a factor of declining importance in the scheme of things as time goes on. Peking will remain—but Formosa will decline. If things in the East don’t blow up meanwhile, in a few years time, we’ll find it difficult to believe that anyone could have contemplated risking the possibility of a world war over Formosa’. The solution, as Casey saw it, ‘is to find a form of words that will tend to damp down the Formosa Straits situation without giving Peking some psychological advantage and without offending the Americans. You may say that silence on our part is the nearest answer to this but I don’t think silence is enough’._
+
+_In a memorandum dated 13 April, the United Kingdom Government set out a strongly argued case against a Commonwealth guarantee of Formosa. The UK view was that such a guarantee would increase the possibility of its being embroiled in a war with China; it would put an end to the possibility of negotiation with the Chinese whose objective was to prevent the creation of ‘two Chinas’; it would risk being obliged to ‘prop up’ Chiang Kai-shek; and it would put Hong Kong at risk and possibly alienate neutralist opinion. The UK Government proposed instead to advise the United States to encourage the Nationalists to evacuate the offshore islands and to suggest an international conference to consider Far Eastern problems. In a note dated 14 April, Tange described the UK paper as pointing to ‘the prospect of a far-reaching division between Australia and the United Kingdom on Formosa and on policy towards Communist China’._
+
+_In a letter to the Acting UK High Commissioner in Canberra dated 16 April, Menzies remonstrated that the UK counter-proposal ‘has little chance of success. We doubt whether it would have any appeal to the Americans. It does not answer the important question they have posed about the morale of the non-Communist Chinese and other Asians, and about the attitude of our own countries to the future of Formosa. We are therefore prompted to return to our idea of a joint declaration to see whether it cannot be made more attractive to the United Kingdom Government’. The Office of the UK High Commissioner replied with a letter dated 23 April that gave notice of a UK Government public statement indicating that the UK Government would not support the retention of Quemoy and Matsu by force or of Formosa itself. A.S. Brown, Secretary of the Australian Prime Minister’s Department, commented to Menzies on 24 April: ‘I have said before that I do not think there is much hope of changing the attitude of the United Kingdom Government in these matters, but Australia need not support that attitude when the Australian Government thinks that such an attitude will lead to a weakening of Australia’s own defence situation’. In a letter to the Acting UK High Commissioner dated 25 April, Menzies wrote:_
+
+_’Consequently, if the United Kingdom made the statement suggested, and if the United States either disagreed with it in public, or else explained its own position in a way that made it clear that there was disagreement, the effect would be that the Communists would establish a public cleavage between the United States and the United Kingdom on a matter of first rate importance. The moral effect of that would be incalculable, not only in South East Asia but all over the world._
+
+_If, however, the Americans took the view that they would be content if the United Kingdom said that it would give definite support in the United Nations to measures to meet a Communist attempt to resolve the Formosa problem by force, and if the United States were to regard such an assurance as sufficient for them to be able to induce the Chinese Nationalists to withdraw from the off-shore islands, we in Australia would not pursue our objections. But if the United States is not so satisfied, then we continue to believe that we shall have to face up to the question of finding an arrangement to cover both the off-shore islands and Formosa in one stroke, which has been our objective’._
+
+_Meanwhile at the Asian—African Conference held in Bandung, Indonesia, from 18 to 24 April, Chou En-lai made a conciliatory speech offering to negotiate on Formosa directly with the United States._
+
+1 11 February. Spender reported that he had put to Dulles Australia’s position that ‘Formosa and the Pescadores must be denied to the Communists’ but that the offshore islands were neither vital nor important for the defence of Formosa and that the Nationalists should disengage from them. Dulles responded that, after the Nationalist evacuation of the Tachen Islands, the United States had concluded that morale in Formosa and other parts of non-Communist Asia needed to be bolstered by the adoption of a ‘stronger defensive posture in relation to the rest of non-Communist held areas’. Dulles added that ‘knowing that giving up the Offshore Islands would mean serious loss in nationalist morale, and in absence of any indication from the Communists that giving up the islands would in any way alleviate the situation, the United States thinks the islands must be held’.
+
+2 11 March. Dulles stated that his views on the situation were unchanged after visiting Formosa.

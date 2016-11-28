@@ -1,0 +1,18 @@
+---
+title: "287 Department of External Affairs to Embassy in Washington"
+volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
+doc_id: 7002
+vol_id: 16
+date: 1948-07-07
+barcode: 235983
+---
+
+# 287 Department of External Affairs to Embassy in Washington
+
+## Cablegram unnumbered, CANBERRA, 7 July 1948, 7.15 p.m.
+
+The Acting Prime Minister and Minister for External Affairs (Dr. H. V. Evatt) commented today on the cutting off by the Soviet authorities of all surface methods of supplying Allied Occupation Forces and the German population in the three Western Sectors of Berlin. In their determined employment of emergency supply measures Dr. Evatt said, the Governments of the United Kingdom, United States and France were protecting their undoubted juridical rights. The presence of the Occupation Forces of the Western Allies in Berlin is clearly authorized by the Agreement of 1944 nominating Berlin as the centre of Allied control for Germany and setting up machinery for Allied Government of the city itself. This Agreement is thus referred to in the communique of the Yalta Conference: under agreed plans the forces of the three powers will each occupy a separate zone of Germany, coordinated administration and control has been provided for through a central control commission consisting of the three Supreme Commanders with Headquarters in Berlin. Details of the Agreement concerning Berlin were subsequently amended to provide for the participation of France and were made public in joint four power statements issued with the Declaration on the Surrender of Germany on 5th June 1945. The statement on Zones of Occupation declared that the area of greater Berlin will be occupied by forces of each of the four powers; an inter-allied governing authority (Kommandatura) consisting of the four commandants appointed by their respective Commanders in Chief will be established to direct jointly its administration. Further the statement on Machinery of Control provides that the administration of the Greater Berlin area will be directed by an inter-allied governing authority which will operate under the general direction of the Control Council and will consist of the four commandants each of whom will serve in rotation as Chief Commandant. It should be noted, said Dr. Evatt, that the above agreements became operative prior to the Potsdam Agreement so that the Soviet contention that the Western Powers have brought four power control to an end by violating the Potsdam Agreement is clearly inadmissible. Equally inadmissible has been the reported announcement by the Chief of Staff to the Soviet Commandant in Berlin on 1st July that four power government of the city was at an end. The United Kingdom Military Governor has rightly replied that this announcement cannot be recognized as valid. The Kommandatura cannot be dissolved by unilateral act. Dr. Evatt added that the government was being kept informed of developments by the United Kingdom Government and by the Australian Military Mission in Berlin. The latest information reaching the Government indicated that efforts to supply the Western Sectors of Berlin by air had to date been successful. In the interests of world peace it was to be hoped that all outstanding matters affecting Berlin would soon be discussed between the Western Powers and the Soviet Union but no permanent easing of tension could result unless the Soviet Union recognized clearly and unequivocally the undoubted occupation rights of the Western Allies. These had been hardly won in the common struggle against Hitler and could not be set aside or nullified by unilateral acts.
+
+__
+
+_ [ [AA : A3300, 789](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=235983) ]_
