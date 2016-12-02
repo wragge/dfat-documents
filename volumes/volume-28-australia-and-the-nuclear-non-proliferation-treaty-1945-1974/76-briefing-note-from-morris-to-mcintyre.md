@@ -3,7 +3,7 @@ title: "76 Briefing Note from Morris to McIntyre"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10450
 vol_id: 28
-date: 1965-10-20
+doc_date: 1965-10-20
 barcode: 1730506
 ---
 

@@ -3,7 +3,7 @@ title: "561 Embassy in Washington to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5243
 vol_id: 12
-date: 1947-10-19
+doc_date: 1947-10-19
 barcode: 274948
 ---
 

@@ -3,7 +3,7 @@ title: "384 CABLEGRAM, DOWNER TO BUNTING"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10250
 vol_id: 27
-date: 1972-05-09
+doc_date: 1972-05-09
 ---
 
 # 384 CABLEGRAM, DOWNER TO BUNTING

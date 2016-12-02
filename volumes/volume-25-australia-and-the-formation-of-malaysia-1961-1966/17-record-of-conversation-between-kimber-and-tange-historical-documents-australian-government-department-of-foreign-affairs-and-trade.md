@@ -3,7 +3,7 @@ title: "17 Record of Conversation Between Kimber and Tange - Historical Document
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9151
 vol_id: 25
-date: 1963-01-17
+doc_date: 1963-01-17
 barcode: 1729128
 ---
 

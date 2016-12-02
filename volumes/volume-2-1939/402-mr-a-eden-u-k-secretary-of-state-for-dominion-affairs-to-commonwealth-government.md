@@ -3,7 +3,7 @@ title: "402 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonw
 volume: "Volume 2: 1939"
 doc_id: 739
 vol_id: 2
-date: 1939-12-02
+doc_date: 1939-12-02
 ---
 
 # 402 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

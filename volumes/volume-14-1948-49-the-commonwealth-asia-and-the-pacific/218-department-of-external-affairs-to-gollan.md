@@ -3,7 +3,7 @@ title: "218 Department of External Affairs to Gollan"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5994
 vol_id: 14
-date: 1949-03-28
+doc_date: 1949-03-28
 ---
 
 # 218 Department of External Affairs to Gollan

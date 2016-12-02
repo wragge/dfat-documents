@@ -3,7 +3,7 @@ title: "150 Note from Bunting to Menzies - Historical Documents - Australian Gov
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9280
 vol_id: 25
-date: 1964-01-24
+doc_date: 1964-01-24
 barcode: 1328060
 ---
 

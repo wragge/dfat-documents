@@ -3,7 +3,7 @@ title: "26 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary o
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1780
 vol_id: 5
-date: 1941-08-02
+doc_date: 1941-08-02
 ---
 
 # 26 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs

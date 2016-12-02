@@ -3,7 +3,7 @@ title: "317 Cabinet Submission by Mr W. M. Hughes, Minister for External Affairs
 volume: "Volume 1: 1937-38"
 doc_id: 316
 vol_id: 1
-date: 1938-11-15
+doc_date: 1938-11-15
 ---
 
 # 317 Cabinet Submission by Mr W. M. Hughes, Minister for External Affairs

@@ -3,7 +3,7 @@ title: "129 Attlee to Chifley"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3977
 vol_id: 10
-date: 1946-09-20
+doc_date: 1946-09-20
 ---
 
 # 129 Attlee to Chifley

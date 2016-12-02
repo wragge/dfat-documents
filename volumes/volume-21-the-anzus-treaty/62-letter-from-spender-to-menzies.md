@@ -3,7 +3,7 @@ title: "62 Letter From Spender to Menzies"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8413
 vol_id: 21
-date: 1951-03-15
+doc_date: 1951-03-15
 ---
 
 # 62 Letter From Spender to Menzies

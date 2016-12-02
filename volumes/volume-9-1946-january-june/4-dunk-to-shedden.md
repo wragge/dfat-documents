@@ -3,7 +3,7 @@ title: "4 Dunk to Shedden"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3516
 vol_id: 9
-date: 1946-01-02
+doc_date: 1946-01-02
 ---
 
 # 4 Dunk to Shedden

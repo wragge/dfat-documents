@@ -3,7 +3,7 @@ title: "288 Submission by Dedman and Calwell"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4970
 vol_id: 12
-date: 1947-11-10
+doc_date: 1947-11-10
 ---
 
 # 288 Submission by Dedman and Calwell

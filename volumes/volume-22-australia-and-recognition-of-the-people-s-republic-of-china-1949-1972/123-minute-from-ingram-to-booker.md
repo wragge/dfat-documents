@@ -3,7 +3,7 @@ title: "123 MINUTE FROM INGRAM TO BOOKER"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8606
 vol_id: 22
-date: 1967-12-21
+doc_date: 1967-12-21
 ---
 
 # 123 MINUTE FROM INGRAM TO BOOKER

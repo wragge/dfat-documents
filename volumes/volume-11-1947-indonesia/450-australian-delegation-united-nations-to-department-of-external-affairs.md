@@ -3,7 +3,7 @@ title: "450 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4634
 vol_id: 11
-date: 1947-12-02
+doc_date: 1947-12-02
 ---
 
 # 450 Australian Delegation, United Nations, to Department of External Affairs

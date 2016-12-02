@@ -3,7 +3,7 @@ title: "231 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Pr
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1462
 vol_id: 4
-date: 1940-12-18
+doc_date: 1940-12-18
 barcode: 242427
 ---
 

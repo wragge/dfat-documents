@@ -3,7 +3,7 @@ title: "323 Chifley to Sjarifuddin"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4507
 vol_id: 11
-date: 1947-09-08
+doc_date: 1947-09-08
 ---
 
 # 323 Chifley to Sjarifuddin

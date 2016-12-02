@@ -3,7 +3,7 @@ title: "370 CABINET MINUTE, 3RD CONCLUSIONS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10236
 vol_id: 27
-date: 1973-01-23
+doc_date: 1973-01-23
 ---
 
 # 370 CABINET MINUTE, 3RD CONCLUSIONS

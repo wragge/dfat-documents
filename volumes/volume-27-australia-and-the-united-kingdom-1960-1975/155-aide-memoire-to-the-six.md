@@ -3,7 +3,7 @@ title: "155 AIDE MEMOIRE TO THE SIX"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10020
 vol_id: 27
-date: 1961-09-04
+doc_date: 1961-09-04
 ---
 
 # 155 AIDE MEMOIRE TO THE SIX

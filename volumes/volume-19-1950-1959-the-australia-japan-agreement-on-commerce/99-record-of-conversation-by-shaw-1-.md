@@ -3,7 +3,7 @@ title: "99 Record Of Conversation By Shaw [1]"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7704
 vol_id: 19
-date: 1955-04-05
+doc_date: 1955-04-05
 ---
 
 # 99 Record Of Conversation By Shaw [1]

@@ -3,7 +3,7 @@ title: "151 TELEGRAM, SANDYS TO MACMILLAN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10016
 vol_id: 27
-date: 1961-07-11
+doc_date: 1961-07-11
 ---
 
 # 151 TELEGRAM, SANDYS TO MACMILLAN

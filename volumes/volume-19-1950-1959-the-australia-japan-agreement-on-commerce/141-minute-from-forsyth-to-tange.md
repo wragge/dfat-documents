@@ -3,7 +3,7 @@ title: "141 Minute From Forsyth To Tange"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7746
 vol_id: 19
-date: 1956-06-08
+doc_date: 1956-06-08
 ---
 
 # 141 Minute From Forsyth To Tange

@@ -3,7 +3,7 @@ title: "46 MESSAGE, WILSON TO MENZIES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9911
 vol_id: 27
-date: 1965-12-31
+doc_date: 1965-12-31
 ---
 
 # 46 MESSAGE, WILSON TO MENZIES

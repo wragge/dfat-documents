@@ -3,7 +3,7 @@ title: "105 Note By Prowse On Submission No. 36 And 187"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9613
 vol_id: 26
-date: 1967-04-17
+doc_date: 1967-04-17
 barcode: 1346178
 ---
 

@@ -3,7 +3,7 @@ title: "462 Sir John Latham, Minister to Japan, to Sir Frederick Stewart, Minist
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1693
 vol_id: 4
-date: 1941-05-20
+doc_date: 1941-05-20
 ---
 
 # 462 Sir John Latham, Minister to Japan, to Sir Frederick Stewart, Minister for External Affairs

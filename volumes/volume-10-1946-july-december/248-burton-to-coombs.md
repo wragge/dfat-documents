@@ -3,7 +3,7 @@ title: "248 Burton to Coombs"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4096
 vol_id: 10
-date: 1946-11-26
+doc_date: 1946-11-26
 barcode: 191254
 ---
 

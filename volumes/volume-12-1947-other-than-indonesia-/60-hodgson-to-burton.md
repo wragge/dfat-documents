@@ -3,7 +3,7 @@ title: "60 Hodgson to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4742
 vol_id: 12
-date: 1947-07-23
+doc_date: 1947-07-23
 ---
 
 # 60 Hodgson to Burton

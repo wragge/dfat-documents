@@ -3,7 +3,7 @@ title: "433 Mr F. Strahan, Secretary of Prime Minister's Department, to Sir Geof
 volume: "Volume 3: 1940, January-June"
 doc_id: 1199
 vol_id: 3
-date: 1940-06-25
+doc_date: 1940-06-25
 ---
 
 # 433 Mr F. Strahan, Secretary of Prime Minister's Department, to Sir Geoffrey Whiskard, U.K, High Commissioner in Australia

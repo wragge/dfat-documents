@@ -3,7 +3,7 @@ title: "183 Record of Conversation between Rotsey and Helfrich"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10557
 vol_id: 28
-date: 1971-09-27
+doc_date: 1971-09-27
 barcode: 549307
 ---
 

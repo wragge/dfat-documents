@@ -3,7 +3,7 @@ title: "126 Mr O. Scott, U.K. Charge d'Affaires in Portugal, to Commonwealth Gov
 volume: "Volume 2: 1939"
 doc_id: 463
 vol_id: 2
-date: 1939-07-19
+doc_date: 1939-07-19
 ---
 
 # 126 Mr O. Scott, U.K. Charge d'Affaires in Portugal, to Commonwealth Government

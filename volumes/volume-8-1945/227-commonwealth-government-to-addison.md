@@ -3,7 +3,7 @@ title: "227 Commonwealth Government to Addison"
 volume: "Volume 8: 1945"
 doc_id: 3258
 vol_id: 8
-date: 1945-08-31
+doc_date: 1945-08-31
 ---
 
 # 227 Commonwealth Government to Addison

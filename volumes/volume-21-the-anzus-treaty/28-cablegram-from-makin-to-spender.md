@@ -3,7 +3,7 @@ title: "28 Cablegram From Makin to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8379
 vol_id: 21
-date: 1950-12-09
+doc_date: 1950-12-09
 ---
 
 # 28 Cablegram From Makin to Spender

@@ -3,7 +3,7 @@ title: "86 Glasheen to Department of External Affairs"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6801
 vol_id: 16
-date: 1948-02-08
+doc_date: 1948-02-08
 ---
 
 # 86 Glasheen to Department of External Affairs

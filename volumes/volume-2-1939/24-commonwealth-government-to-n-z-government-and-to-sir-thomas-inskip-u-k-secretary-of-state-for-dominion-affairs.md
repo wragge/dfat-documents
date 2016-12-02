@@ -3,7 +3,7 @@ title: "24 Commonwealth Government to N.Z. Government and to Sir Thomas Inskip, 
 volume: "Volume 2: 1939"
 doc_id: 361
 vol_id: 2
-date: 1939-02-15
+doc_date: 1939-02-15
 ---
 
 # 24 Commonwealth Government to N.Z. Government and to Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs

@@ -3,7 +3,7 @@ title: "180 Department of External Affairs to Mansfield"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3692
 vol_id: 9
-date: 1946-04-09
+doc_date: 1946-04-09
 barcode: 194084
 ---
 

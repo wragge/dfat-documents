@@ -3,7 +3,7 @@ title: "78 Heydon to Burton and Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5854
 vol_id: 14
-date: 1948-11-15
+doc_date: 1948-11-15
 ---
 
 # 78 Heydon to Burton and Chifley

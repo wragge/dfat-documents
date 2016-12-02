@@ -3,7 +3,7 @@ title: "101 High Commissioner's Office in London to Department of External Affai
 volume: "Volume 9: 1946, January-June"
 doc_id: 3613
 vol_id: 9
-date: 1946-02-20
+doc_date: 1946-02-20
 barcode: 191558
 ---
 

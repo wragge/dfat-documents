@@ -3,7 +3,7 @@ title: "187 Brief For Gorton By Treasury"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9695
 vol_id: 26
-date: 1968-05-10
+doc_date: 1968-05-10
 barcode: 1370828
 ---
 

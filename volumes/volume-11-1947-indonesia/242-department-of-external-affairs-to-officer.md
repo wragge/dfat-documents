@@ -3,7 +3,7 @@ title: "242 Department of External Affairs to Officer"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4426
 vol_id: 11
-date: 1947-08-05
+doc_date: 1947-08-05
 ---
 
 # 242 Department of External Affairs to Officer

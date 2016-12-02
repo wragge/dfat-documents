@@ -3,7 +3,7 @@ title: "94 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of Exter
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1848
 vol_id: 5
-date: 1941-10-30
+doc_date: 1941-10-30
 ---
 
 # 94 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs

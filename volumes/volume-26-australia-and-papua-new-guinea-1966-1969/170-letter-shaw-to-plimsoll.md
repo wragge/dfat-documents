@@ -3,7 +3,7 @@ title: "170 Letter, Shaw To Plimsoll"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9678
 vol_id: 26
-date: 1968-04-09
+doc_date: 1968-04-09
 barcode: 546681
 ---
 

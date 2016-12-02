@@ -3,7 +3,7 @@ title: "181 Minute From Warwick Smith To Phillips"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7786
 vol_id: 19
-date: 1956-12-10
+doc_date: 1956-12-10
 ---
 
 # 181 Minute From Warwick Smith To Phillips

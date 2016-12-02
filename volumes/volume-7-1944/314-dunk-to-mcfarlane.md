@@ -3,7 +3,7 @@ title: "314 Dunk to McFarlane"
 volume: "Volume 7: 1944"
 doc_id: 2961
 vol_id: 7
-date: 1944-10-09
+doc_date: 1944-10-09
 ---
 
 # 314 Dunk to McFarlane

@@ -3,7 +3,7 @@ title: "311 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6480
 vol_id: 15
-date: 1949-03-23
+doc_date: 1949-03-23
 ---
 
 # 311 Department of External Affairs to Australian Delegation, United Nations

@@ -3,7 +3,7 @@ title: "271 Department of External Affairs to Landale [1]"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5538
 vol_id: 13
-date: 1948-10-09
+doc_date: 1948-10-09
 barcode: 1729706
 ---
 

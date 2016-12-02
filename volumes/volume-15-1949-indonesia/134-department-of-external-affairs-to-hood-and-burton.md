@@ -3,7 +3,7 @@ title: "134 Department of External Affairs to Hood and Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6303
 vol_id: 15
-date: 1949-01-21
+doc_date: 1949-01-21
 ---
 
 # 134 Department of External Affairs to Hood and Burton

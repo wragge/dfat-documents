@@ -3,7 +3,7 @@ title: "305 McIntosh [1] to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6081
 vol_id: 14
-date: 1948-05-21
+doc_date: 1948-05-21
 ---
 
 # 305 McIntosh [1] to Department of External Affairs

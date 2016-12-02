@@ -3,7 +3,7 @@ title: "9 Cablegram to Canberra - Historical Documents - Australian Government D
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9143
 vol_id: 25
-date: 1962-09-04
+doc_date: 1962-09-04
 barcode: 1549426
 ---
 

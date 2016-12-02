@@ -3,7 +3,7 @@ title: "162 Australian Government to Addison and Hodgson"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3674
 vol_id: 9
-date: 1946-04-02
+doc_date: 1946-04-02
 ---
 
 # 162 Australian Government to Addison and Hodgson

@@ -3,7 +3,7 @@ title: "151 Letter from Anthony to Fraser"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9020
 vol_id: 23
-date: 1981-04-03
+doc_date: 1981-04-03
 ---
 
 # 151 Letter from Anthony to Fraser

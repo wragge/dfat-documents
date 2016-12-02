@@ -3,7 +3,7 @@ title: "242 LETTER, HALL TO SHEARS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10107
 vol_id: 27
-date: 1967-11-08
+doc_date: 1967-11-08
 ---
 
 # 242 LETTER, HALL TO SHEARS

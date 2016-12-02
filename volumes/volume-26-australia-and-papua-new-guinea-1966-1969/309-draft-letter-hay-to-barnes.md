@@ -3,7 +3,7 @@ title: "309 Draft Letter, Hay To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9818
 vol_id: 26
-date: 1969-08-31
+doc_date: 1969-08-31
 barcode: 3118337
 ---
 

@@ -3,7 +3,7 @@ title: "437 MrR.G.Casey, Minister to the United States, to Mr A. W. Fadden, Acti
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1668
 vol_id: 4
-date: 1941-04-29
+doc_date: 1941-04-29
 ---
 
 # 437 MrR.G.Casey, Minister to the United States, to Mr A. W. Fadden, Acting Prime Minister

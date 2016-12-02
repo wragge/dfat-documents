@@ -3,7 +3,7 @@ title: "172 CABINET DECISION N0.114"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8655
 vol_id: 22
-date: 1971-04-22
+doc_date: 1971-04-22
 barcode: 1730898
 ---
 

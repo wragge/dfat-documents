@@ -3,7 +3,7 @@ title: "421 Mr John Curtin, Prime Minister, to Dr H. V. Evatt, Minister for Exte
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2175
 vol_id: 5
-date: 1942-03-19
+doc_date: 1942-03-19
 ---
 
 # 421 Mr John Curtin, Prime Minister, to Dr H. V. Evatt, Minister for External Affairs (in Washington)

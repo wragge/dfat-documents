@@ -3,7 +3,7 @@ title: "47 Submission No. 349, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9555
 vol_id: 26
-date: 1966-07-07
+doc_date: 1966-07-07
 barcode: 1807074
 ---
 

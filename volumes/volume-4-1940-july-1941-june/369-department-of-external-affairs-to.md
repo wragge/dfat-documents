@@ -3,7 +3,7 @@ title: "369 Department of External Affairs to"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1600
 vol_id: 4
-date: 1941-03-27
+doc_date: 1941-03-27
 ---
 
 # 369 Department of External Affairs to

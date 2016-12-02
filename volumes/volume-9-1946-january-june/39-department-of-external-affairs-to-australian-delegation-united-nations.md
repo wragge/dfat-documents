@@ -3,7 +3,7 @@ title: "39 Department of External Affairs to Australian Delegation, United Natio
 volume: "Volume 9: 1946, January-June"
 doc_id: 3551
 vol_id: 9
-date: 1946-01-21
+doc_date: 1946-01-21
 ---
 
 # 39 Department of External Affairs to Australian Delegation, United Nations

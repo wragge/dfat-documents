@@ -3,7 +3,7 @@ title: "328 Evatt to Bruce"
 volume: "Volume 7: 1944"
 doc_id: 2975
 vol_id: 7
-date: 1944-10-26
+doc_date: 1944-10-26
 ---
 
 # 328 Evatt to Bruce

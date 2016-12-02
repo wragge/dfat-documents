@@ -3,7 +3,7 @@ title: "189 Note From Suzuki To Australian Delegation"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7794
 vol_id: 19
-date: 1957-02-08
+doc_date: 1957-02-08
 ---
 
 # 189 Note From Suzuki To Australian Delegation

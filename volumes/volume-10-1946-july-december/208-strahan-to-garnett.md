@@ -3,7 +3,7 @@ title: "208 Strahan to Garnett"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4056
 vol_id: 10
-date: 1946-11-11
+doc_date: 1946-11-11
 barcode: 193344
 ---
 

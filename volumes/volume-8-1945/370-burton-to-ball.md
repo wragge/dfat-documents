@@ -3,7 +3,7 @@ title: "370 Burton to Ball"
 volume: "Volume 8: 1945"
 doc_id: 3401
 vol_id: 8
-date: 1945-11-08
+doc_date: 1945-11-08
 ---
 
 # 370 Burton to Ball

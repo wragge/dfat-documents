@@ -3,7 +3,7 @@ title: "477 Hodgson to Makin"
 volume: "Volume 8: 1945"
 doc_id: 3508
 vol_id: 8
-date: 1945-12-24
+doc_date: 1945-12-24
 barcode: 191271
 ---
 

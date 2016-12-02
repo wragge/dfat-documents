@@ -3,7 +3,7 @@ title: "189 Addison to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3220
 vol_id: 8
-date: 1945-08-14
+doc_date: 1945-08-14
 ---
 
 # 189 Addison to Chifley

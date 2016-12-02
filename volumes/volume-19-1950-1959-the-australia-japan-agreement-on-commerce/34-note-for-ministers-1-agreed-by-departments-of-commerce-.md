@@ -3,7 +3,7 @@ title: "34 Note For Ministers [1] Agreed By Departments Of Commerce &"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7639
 vol_id: 19
-date: 1953-06-23
+doc_date: 1953-06-23
 ---
 
 # 34 Note For Ministers [1] Agreed By Departments Of Commerce &

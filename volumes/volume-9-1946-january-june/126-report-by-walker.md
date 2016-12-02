@@ -3,7 +3,7 @@ title: "126 Report by Walker"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3638
 vol_id: 9
-date: 1946-03-12
+doc_date: 1946-03-12
 barcode: 191555
 ---
 

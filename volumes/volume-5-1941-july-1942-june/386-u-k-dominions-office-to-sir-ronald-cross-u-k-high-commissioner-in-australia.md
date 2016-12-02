@@ -3,7 +3,7 @@ title: "386 U.K. Dominions Office to Sir Ronald Cross, U.K. High Commissioner in
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2140
 vol_id: 5
-date: 1942-03-02
+doc_date: 1942-03-02
 ---
 
 # 386 U.K. Dominions Office to Sir Ronald Cross, U.K. High Commissioner in Australia

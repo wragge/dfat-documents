@@ -3,7 +3,7 @@ title: "473 LETTER CHARTERIS TO BRIMELOW"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10340
 vol_id: 27
-date: 1974-01-23
+doc_date: 1974-01-23
 ---
 
 # 473 LETTER CHARTERIS TO BRIMELOW

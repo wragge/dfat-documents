@@ -3,7 +3,7 @@ title: "233 Statement by Makin"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6948
 vol_id: 16
-date: 1948-02-19
+doc_date: 1948-02-19
 ---
 
 # 233 Statement by Makin

@@ -3,7 +3,7 @@ title: "313 LETTER, HEYDON TO CASEY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10179
 vol_id: 27
-date: 1964-02-21
+doc_date: 1964-02-21
 ---
 
 # 313 LETTER, HEYDON TO CASEY

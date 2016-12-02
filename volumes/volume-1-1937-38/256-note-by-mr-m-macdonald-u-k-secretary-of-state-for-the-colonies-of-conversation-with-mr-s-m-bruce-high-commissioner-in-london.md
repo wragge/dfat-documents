@@ -3,7 +3,7 @@ title: "256 Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies, o
 volume: "Volume 1: 1937-38"
 doc_id: 255
 vol_id: 1
-date: 1938-09-15
+doc_date: 1938-09-15
 ---
 
 # 256 Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies, of Conversation with Mr S. M. Bruce, High Commissioner in London

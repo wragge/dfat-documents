@@ -3,7 +3,7 @@ title: "137 Minute from Gilchrist to Hasluck and Plimsoll"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10511
 vol_id: 28
-date: 1968-05-14
+doc_date: 1968-05-14
 barcode: 1725939
 ---
 

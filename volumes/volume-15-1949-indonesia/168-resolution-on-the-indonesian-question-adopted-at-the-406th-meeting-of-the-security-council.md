@@ -3,7 +3,7 @@ title: "168 Resolution on the Indonesian Question Adopted at the 406th Meeting o
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6337
 vol_id: 15
-date: 1949-01-28
+doc_date: 1949-01-28
 ---
 
 # 168 Resolution on the Indonesian Question Adopted at the 406th Meeting of the Security Council

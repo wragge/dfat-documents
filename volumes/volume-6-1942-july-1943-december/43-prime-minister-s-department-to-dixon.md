@@ -3,7 +3,7 @@ title: "43 Prime Minister's Department to Dixon"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2334
 vol_id: 6
-date: 1942-09-11
+doc_date: 1942-09-11
 ---
 
 # 43 Prime Minister's Department to Dixon

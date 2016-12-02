@@ -3,7 +3,7 @@ title: "38 Bruce to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2685
 vol_id: 7
-date: 1944-02-01
+doc_date: 1944-02-01
 ---
 
 # 38 Bruce to Curtin

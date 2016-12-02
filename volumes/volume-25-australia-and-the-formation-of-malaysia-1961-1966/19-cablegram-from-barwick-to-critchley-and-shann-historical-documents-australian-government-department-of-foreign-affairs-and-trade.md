@@ -3,7 +3,7 @@ title: "19 Cablegram from Barwick to Critchley and Shann - Historical Documents 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9153
 vol_id: 25
-date: 1963-01-25
+doc_date: 1963-01-25
 barcode: 1729128
 ---
 

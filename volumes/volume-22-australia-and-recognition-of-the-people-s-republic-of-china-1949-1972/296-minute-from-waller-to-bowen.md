@@ -3,7 +3,7 @@ title: "296 MINUTE FROM WALLER TO BOWEN"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8779
 vol_id: 22
-date: 1972-01-14
+doc_date: 1972-01-14
 ---
 
 # 296 MINUTE FROM WALLER TO BOWEN

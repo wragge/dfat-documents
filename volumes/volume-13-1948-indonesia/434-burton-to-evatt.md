@@ -3,7 +3,7 @@ title: "434 Burton to Evatt"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5701
 vol_id: 13
-date: 1948-12-23
+doc_date: 1948-12-23
 ---
 
 # 434 Burton to Evatt

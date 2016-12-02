@@ -3,7 +3,7 @@ title: "219 Department of External Affairs to Hood"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3731
 vol_id: 9
-date: 1946-04-29
+doc_date: 1946-04-29
 ---
 
 # 219 Department of External Affairs to Hood

@@ -3,7 +3,7 @@ title: "225 Note by Coombs of Discussion with United Kingdom Treasury Officials"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3737
 vol_id: 9
-date: 1946-05-01
+doc_date: 1946-05-01
 ---
 
 # 225 Note by Coombs of Discussion with United Kingdom Treasury Officials

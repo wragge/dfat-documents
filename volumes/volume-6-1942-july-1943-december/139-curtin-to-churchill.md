@@ -3,7 +3,7 @@ title: "139 Curtin to Churchill"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2430
 vol_id: 6
-date: 1943-03-18
+doc_date: 1943-03-18
 barcode: 31204346
 ---
 

@@ -3,7 +3,7 @@ title: "94 Mr H. Fitzmaurice, U.K. Consul-General in Batavia, to Sir George Pear
 volume: "Volume 1: 1937-38"
 doc_id: 93
 vol_id: 1
-date: 1937-10-18
+doc_date: 1937-10-18
 ---
 
 # 94 Mr H. Fitzmaurice, U.K. Consul-General in Batavia, to Sir George Pearce, Minister for External Affairs

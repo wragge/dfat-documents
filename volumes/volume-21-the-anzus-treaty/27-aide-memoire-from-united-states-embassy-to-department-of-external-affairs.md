@@ -3,7 +3,7 @@ title: "27 Aide-Memoire from United States Embassy to Department of External Aff
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8378
 vol_id: 21
-date: 1950-11-17
+doc_date: 1950-11-17
 ---
 
 # 27 Aide-Memoire from United States Embassy to Department of External Affairs

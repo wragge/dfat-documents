@@ -3,7 +3,7 @@ title: "175 Memorandum by Dixon"
 volume: "Volume 7: 1944"
 doc_id: 2822
 vol_id: 7
-date: 1944-05-30
+doc_date: 1944-05-30
 ---
 
 # 175 Memorandum by Dixon

@@ -3,7 +3,7 @@ title: "19 Internal Note from Powles to Senior Ministry of Foreign Affairs Offic
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8889
 vol_id: 23
-date: 1979-07-18
+doc_date: 1979-07-18
 ---
 
 # 19 Internal Note from Powles to Senior Ministry of Foreign Affairs Officers

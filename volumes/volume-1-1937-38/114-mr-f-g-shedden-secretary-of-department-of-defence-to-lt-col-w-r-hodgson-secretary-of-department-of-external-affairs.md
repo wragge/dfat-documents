@@ -3,7 +3,7 @@ title: "114 Mr F. G. Shedden, Secretary of Department of Defence, to Lt Col W. R
 volume: "Volume 1: 1937-38"
 doc_id: 113
 vol_id: 1
-date: 1937-12-06
+doc_date: 1937-12-06
 ---
 
 # 114 Mr F. G. Shedden, Secretary of Department of Defence, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs

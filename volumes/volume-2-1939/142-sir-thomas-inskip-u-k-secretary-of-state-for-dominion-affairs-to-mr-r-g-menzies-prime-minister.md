@@ -3,7 +3,7 @@ title: "142 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to 
 volume: "Volume 2: 1939"
 doc_id: 479
 vol_id: 2
-date: 1939-08-23
+doc_date: 1939-08-23
 ---
 
 # 142 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister

@@ -3,7 +3,7 @@ title: "204 Burton to Massey"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5980
 vol_id: 14
-date: 1948-08-25
+doc_date: 1948-08-25
 ---
 
 # 204 Burton to Massey

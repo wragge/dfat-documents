@@ -3,7 +3,7 @@ title: "3 Roosevelt to Curtin Letter"
 volume: "Volume 7: 1944"
 doc_id: 2650
 vol_id: 7
-date: 1944-01-03
+doc_date: 1944-01-03
 ---
 
 # 3 Roosevelt to Curtin Letter

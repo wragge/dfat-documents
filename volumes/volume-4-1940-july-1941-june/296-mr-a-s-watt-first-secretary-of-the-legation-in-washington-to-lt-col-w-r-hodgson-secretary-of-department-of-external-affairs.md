@@ -3,7 +3,7 @@ title: "296 Mr A. S. Watt, First Secretary of the Legation in Washington, to Lt 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1527
 vol_id: 4
-date: 1941-02-13
+doc_date: 1941-02-13
 ---
 
 # 296 Mr A. S. Watt, First Secretary of the Legation in Washington, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs

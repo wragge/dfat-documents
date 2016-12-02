@@ -3,7 +3,7 @@ title: "61 Mr A. W. Fadden, Prime Minister, to Sir John Latham, Minister to Japa
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1815
 vol_id: 5
-date: 1941-09-05
+doc_date: 1941-09-05
 ---
 
 # 61 Mr A. W. Fadden, Prime Minister, to Sir John Latham, Minister to Japan

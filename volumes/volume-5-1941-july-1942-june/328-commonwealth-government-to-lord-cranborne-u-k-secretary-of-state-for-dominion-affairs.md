@@ -3,7 +3,7 @@ title: "328 Commonwealth Government to Lord Cranborne, U.K. Secretary of State f
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2082
 vol_id: 5
-date: 1942-02-11
+doc_date: 1942-02-11
 ---
 
 # 328 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs

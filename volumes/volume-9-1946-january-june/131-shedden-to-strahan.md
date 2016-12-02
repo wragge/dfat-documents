@@ -3,7 +3,7 @@ title: "131 Shedden to Strahan"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3643
 vol_id: 9
-date: 1946-03-16
+doc_date: 1946-03-16
 ---
 
 # 131 Shedden to Strahan

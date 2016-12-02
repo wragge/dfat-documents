@@ -3,7 +3,7 @@ title: "122 Legation in Washington to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3634
 vol_id: 9
-date: 1946-03-08
+doc_date: 1946-03-08
 ---
 
 # 122 Legation in Washington to Department of External Affairs

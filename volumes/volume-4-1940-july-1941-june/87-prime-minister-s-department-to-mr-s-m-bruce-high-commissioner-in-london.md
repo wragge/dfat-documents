@@ -3,7 +3,7 @@ title: "87 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in L
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1318
 vol_id: 4
-date: 1940-08-30
+doc_date: 1940-08-30
 ---
 
 # 87 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London

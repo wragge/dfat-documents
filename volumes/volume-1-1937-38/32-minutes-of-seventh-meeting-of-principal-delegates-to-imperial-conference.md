@@ -3,7 +3,7 @@ title: "32 Minutes of Seventh Meeting of Principal Delegates to Imperial Confere
 volume: "Volume 1: 1937-38"
 doc_id: 32
 vol_id: 1
-date: 1937-05-26
+doc_date: 1937-05-26
 ---
 
 # 32 Minutes of Seventh Meeting of Principal Delegates to Imperial Conference

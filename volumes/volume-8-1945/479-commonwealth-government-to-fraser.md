@@ -3,7 +3,7 @@ title: "479 Commonwealth Government to Fraser"
 volume: "Volume 8: 1945"
 doc_id: 3510
 vol_id: 8
-date: 1945-12-27
+doc_date: 1945-12-27
 ---
 
 # 479 Commonwealth Government to Fraser

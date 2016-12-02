@@ -3,7 +3,7 @@ title: "122 Department of External Affairs to Officer"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5389
 vol_id: 13
-date: 1948-04-29
+doc_date: 1948-04-29
 ---
 
 # 122 Department of External Affairs to Officer

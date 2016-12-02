@@ -3,7 +3,7 @@ title: "102 Minute from Mott to Pritchett and Thomson"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10476
 vol_id: 28
-date: 1968-02-06
+doc_date: 1968-02-06
 barcode: 1725934
 ---
 

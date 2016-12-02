@@ -3,7 +3,7 @@ title: "440 MINUTE GREENHILL TO DOUGLAS-HOME"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10307
 vol_id: 27
-date: 1973-01-19
+doc_date: 1973-01-19
 ---
 
 # 440 MINUTE GREENHILL TO DOUGLAS-HOME

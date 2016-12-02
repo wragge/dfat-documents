@@ -3,7 +3,7 @@ title: "216 Burton to Shedden"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4898
 vol_id: 12
-date: 1947-08-15
+doc_date: 1947-08-15
 ---
 
 # 216 Burton to Shedden

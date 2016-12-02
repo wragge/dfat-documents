@@ -3,7 +3,7 @@ title: "182 Report by Payne"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5958
 vol_id: 14
-date: 1949-10-06
+doc_date: 1949-10-06
 barcode: 572960
 ---
 

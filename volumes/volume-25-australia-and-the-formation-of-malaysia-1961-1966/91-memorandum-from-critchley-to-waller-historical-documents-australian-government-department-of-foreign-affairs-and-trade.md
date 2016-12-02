@@ -3,7 +3,7 @@ title: "91 Memorandum From Critchley To Waller - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9222
 vol_id: 25
-date: 1963-07-28
+doc_date: 1963-07-28
 ---
 
 # 91 Memorandum From Critchley To Waller - Historical Documents - Australian Government Department of Foreign Affairs and Trade

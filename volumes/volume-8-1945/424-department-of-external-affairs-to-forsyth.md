@@ -3,7 +3,7 @@ title: "424 Department of External Affairs to Forsyth"
 volume: "Volume 8: 1945"
 doc_id: 3455
 vol_id: 8
-date: 1945-12-03
+doc_date: 1945-12-03
 barcode: 191468
 ---
 

@@ -3,7 +3,7 @@ title: "6 Burton to Evatt"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6721
 vol_id: 16
-date: 1948-08-31
+doc_date: 1948-08-31
 ---
 
 # 6 Burton to Evatt

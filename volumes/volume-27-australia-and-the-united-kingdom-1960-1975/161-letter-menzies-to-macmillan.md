@@ -3,7 +3,7 @@ title: "161 LETTER, MENZIES TO MACMILLAN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10026
 vol_id: 27
-date: 1962-01-15
+doc_date: 1962-01-15
 ---
 
 # 161 LETTER, MENZIES TO MACMILLAN

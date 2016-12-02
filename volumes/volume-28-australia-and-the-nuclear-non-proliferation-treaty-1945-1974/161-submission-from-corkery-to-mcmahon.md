@@ -3,7 +3,7 @@ title: "161 Submission from Corkery to McMahon"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10535
 vol_id: 28
-date: 1970-04-29
+doc_date: 1970-04-29
 barcode: 555695
 ---
 

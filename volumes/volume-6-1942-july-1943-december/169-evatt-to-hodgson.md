@@ -3,7 +3,7 @@ title: "169 Evatt to Hodgson"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2460
 vol_id: 6
-date: 1943-04-30
+doc_date: 1943-04-30
 ---
 
 # 169 Evatt to Hodgson

@@ -3,7 +3,7 @@ title: "195 Australia-Japan Trade Negotiations: Third Plenary Meeting"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7800
 vol_id: 19
-date: 1957-03-29
+doc_date: 1957-03-29
 ---
 
 # 195 Australia-Japan Trade Negotiations: Third Plenary Meeting

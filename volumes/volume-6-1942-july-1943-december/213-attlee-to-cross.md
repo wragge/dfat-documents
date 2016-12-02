@@ -3,7 +3,7 @@ title: "213 Attlee to Cross"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2504
 vol_id: 6
-date: 1943-06-05
+doc_date: 1943-06-05
 ---
 
 # 213 Attlee to Cross

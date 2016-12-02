@@ -3,7 +3,7 @@ title: "127 Beasley to Perkins"
 volume: "Volume 7: 1944"
 doc_id: 2774
 vol_id: 7
-date: 1944-05-03
+doc_date: 1944-05-03
 ---
 
 # 127 Beasley to Perkins

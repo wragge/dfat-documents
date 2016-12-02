@@ -3,7 +3,7 @@ title: "298 Cablegram, Dea To Jockel"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9806
 vol_id: 26
-date: 1969-07-24
+doc_date: 1969-07-24
 barcode: 3118115
 ---
 

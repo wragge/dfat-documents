@@ -3,7 +3,7 @@ title: "499 LETTER, CHARTERIS TO WRIGHT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10366
 vol_id: 27
-date: 1974-12-31
+doc_date: 1974-12-31
 ---
 
 # 499 LETTER, CHARTERIS TO WRIGHT

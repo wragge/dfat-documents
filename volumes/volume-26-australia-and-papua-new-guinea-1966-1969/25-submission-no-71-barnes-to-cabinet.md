@@ -3,7 +3,7 @@ title: "25 Submission No. 71, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9534
 vol_id: 26
-date: 1966-03-10
+doc_date: 1966-03-10
 barcode: 1885894
 ---
 

@@ -3,7 +3,7 @@ title: "88 Department of the Treasury to Legation in Washington"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2379
 vol_id: 6
-date: 1942-12-10
+doc_date: 1942-12-10
 ---
 
 # 88 Department of the Treasury to Legation in Washington

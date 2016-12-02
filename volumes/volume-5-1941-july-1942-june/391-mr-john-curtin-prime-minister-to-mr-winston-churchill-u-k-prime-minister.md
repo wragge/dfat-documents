@@ -3,7 +3,7 @@ title: "391 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2145
 vol_id: 5
-date: 1942-03-06
+doc_date: 1942-03-06
 ---
 
 # 391 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister

@@ -3,7 +3,7 @@ title: "302 Minute, Hay To Johnson"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9811
 vol_id: 26
-date: 1969-07-30
+doc_date: 1969-07-30
 barcode: 12095885
 ---
 

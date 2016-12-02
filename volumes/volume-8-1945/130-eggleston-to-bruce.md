@@ -3,7 +3,7 @@ title: "130 Eggleston to Bruce"
 volume: "Volume 8: 1945"
 doc_id: 3161
 vol_id: 8
-date: 1945-07-09
+doc_date: 1945-07-09
 barcode: 242482
 ---
 

@@ -3,7 +3,7 @@ title: "388 Addison to Commonwealth Government"
 volume: "Volume 8: 1945"
 doc_id: 3419
 vol_id: 8
-date: 1945-11-12
+doc_date: 1945-11-12
 barcode: 187581
 ---
 

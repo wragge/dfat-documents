@@ -3,7 +3,7 @@ title: "124 Department of External Affairs to Collings [1]"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3972
 vol_id: 10
-date: 1946-09-18
+doc_date: 1946-09-18
 barcode: 191325
 ---
 

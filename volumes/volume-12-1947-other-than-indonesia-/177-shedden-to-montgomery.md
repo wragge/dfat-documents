@@ -3,7 +3,7 @@ title: "177 Shedden to Montgomery"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4859
 vol_id: 12
-date: 1947-08-06
+doc_date: 1947-08-06
 ---
 
 # 177 Shedden to Montgomery

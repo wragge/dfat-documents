@@ -3,7 +3,7 @@ title: "414 Commonwealth Government to Lord Caldecote, U.K. Secretary of State f
 volume: "Volume 3: 1940, January-June"
 doc_id: 1180
 vol_id: 3
-date: 1940-06-21
+doc_date: 1940-06-21
 ---
 
 # 414 Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion Affairs

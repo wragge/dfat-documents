@@ -3,7 +3,7 @@ title: "114 Watt [1] to Brigden"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3962
 vol_id: 10
-date: 1946-09-12
+doc_date: 1946-09-12
 ---
 
 # 114 Watt [1] to Brigden

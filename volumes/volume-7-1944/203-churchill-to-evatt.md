@@ -3,7 +3,7 @@ title: "203 Churchill to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2850
 vol_id: 7
-date: 1944-06-22
+doc_date: 1944-06-22
 ---
 
 # 203 Churchill to Evatt

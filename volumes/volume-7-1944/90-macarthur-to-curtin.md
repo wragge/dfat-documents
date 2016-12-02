@@ -3,7 +3,7 @@ title: "90 MacArthur to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2737
 vol_id: 7
-date: 1944-03-22
+doc_date: 1944-03-22
 ---
 
 # 90 MacArthur to Curtin

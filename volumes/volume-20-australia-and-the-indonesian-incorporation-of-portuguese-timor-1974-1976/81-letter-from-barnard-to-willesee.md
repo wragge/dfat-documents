@@ -3,7 +3,7 @@ title: "81 Letter from Barnard to Willesee"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7920
 vol_id: 20
-date: 1975-02-11
+doc_date: 1975-02-11
 ---
 
 # 81 Letter from Barnard to Willesee

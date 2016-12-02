@@ -3,7 +3,7 @@ title: "422 Mr Masatoshi Akiyama, Japanese Consul-General in Sydney, to Mr R.G. 
 volume: "Volume 2: 1939"
 doc_id: 759
 vol_id: 2
-date: 1939-12-19
+doc_date: 1939-12-19
 ---
 
 # 422 Mr Masatoshi Akiyama, Japanese Consul-General in Sydney, to Mr R.G. Menzies, Prime Minister

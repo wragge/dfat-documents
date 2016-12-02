@@ -3,7 +3,7 @@ title: "113 Statement to be Made by Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8464
 vol_id: 21
-date: 1951-08-30
+doc_date: 1951-08-30
 barcode: 271757
 ---
 

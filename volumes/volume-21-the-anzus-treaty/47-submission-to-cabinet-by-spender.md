@@ -3,7 +3,7 @@ title: "47 Submission to Cabinet by Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8398
 vol_id: 21
-date: 1951-02-15
+doc_date: 1951-02-15
 barcode: 271757
 ---
 

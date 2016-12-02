@@ -3,7 +3,7 @@ title: "34 Hodgson to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4716
 vol_id: 12
-date: 1947-08-19
+doc_date: 1947-08-19
 ---
 
 # 34 Hodgson to Department of External Affairs

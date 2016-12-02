@@ -3,7 +3,7 @@ title: "335 Note by Mr S.M. Bruce, High Commissioner in London, of Conversation 
 volume: "Volume 2: 1939"
 doc_id: 672
 vol_id: 2
-date: 1939-11-08
+doc_date: 1939-11-08
 barcode: 242414
 ---
 

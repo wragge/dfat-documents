@@ -3,7 +3,7 @@ title: "439 Mr G. Pelicier, Governor of New Caledonia, 439 to Mr R. G. Menzies, 
 volume: "Volume 3: 1940, January-June"
 doc_id: 1205
 vol_id: 3
-date: 1940-06-26
+doc_date: 1940-06-26
 ---
 
 # 439 Mr G. Pelicier, Governor of New Caledonia, 439 to Mr R. G. Menzies, Prime Minister

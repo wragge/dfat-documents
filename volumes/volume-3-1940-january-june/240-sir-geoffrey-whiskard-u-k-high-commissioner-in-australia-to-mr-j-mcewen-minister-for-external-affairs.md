@@ -3,7 +3,7 @@ title: "240 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr J.
 volume: "Volume 3: 1940, January-June"
 doc_id: 1006
 vol_id: 3
-date: 1940-05-15
+doc_date: 1940-05-15
 ---
 
 # 240 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr J. McEwen, Minister for External Affairs

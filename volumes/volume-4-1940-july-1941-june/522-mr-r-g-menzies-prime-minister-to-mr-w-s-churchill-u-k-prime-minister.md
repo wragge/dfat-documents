@@ -3,7 +3,7 @@ title: "522 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1753
 vol_id: 4
-date: 1941-06-28
+doc_date: 1941-06-28
 ---
 
 # 522 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister

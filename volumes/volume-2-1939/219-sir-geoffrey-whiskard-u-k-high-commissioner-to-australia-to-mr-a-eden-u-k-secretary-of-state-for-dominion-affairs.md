@@ -3,7 +3,7 @@ title: "219 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Mr A.
 volume: "Volume 2: 1939"
 doc_id: 556
 vol_id: 2
-date: 1939-09-11
+doc_date: 1939-09-11
 ---
 
 # 219 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs

@@ -3,7 +3,7 @@ title: "109 Knowles to Department of External Affairs"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3957
 vol_id: 10
-date: 1946-09-08
+doc_date: 1946-09-08
 barcode: 193476
 ---
 

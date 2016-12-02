@@ -3,7 +3,7 @@ title: "20 Note By Officer"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8371
 vol_id: 21
-date: 1950-10-13
+doc_date: 1950-10-13
 ---
 
 # 20 Note By Officer

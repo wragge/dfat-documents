@@ -3,7 +3,7 @@ title: "11 Eggleston to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3042
 vol_id: 8
-date: 1945-01-15
+doc_date: 1945-01-15
 barcode: 1886556
 ---
 

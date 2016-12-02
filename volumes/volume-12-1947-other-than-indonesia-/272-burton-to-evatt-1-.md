@@ -3,7 +3,7 @@ title: "272 Burton to Evatt [1]"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4954
 vol_id: 12
-date: 1947-11-03
+doc_date: 1947-11-03
 barcode: 194681
 ---
 

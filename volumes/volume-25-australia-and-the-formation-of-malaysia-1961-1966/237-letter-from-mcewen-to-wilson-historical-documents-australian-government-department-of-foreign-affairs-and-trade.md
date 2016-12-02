@@ -3,7 +3,7 @@ title: "237 Letter from McEwen to Wilson - Historical Documents - Australian Gov
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9367
 vol_id: 25
-date: 1965-01-19
+doc_date: 1965-01-19
 barcode: 1160373
 ---
 

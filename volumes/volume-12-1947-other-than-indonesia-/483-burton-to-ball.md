@@ -3,7 +3,7 @@ title: "483 Burton to Ball"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5165
 vol_id: 12
-date: 1947-06-19
+doc_date: 1947-06-19
 ---
 
 # 483 Burton to Ball

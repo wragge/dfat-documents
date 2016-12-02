@@ -3,7 +3,7 @@ title: "154 Submission to Fraser by Shann"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9023
 vol_id: 23
-date: 1981-05-08
+doc_date: 1981-05-08
 ---
 
 # 154 Submission to Fraser by Shann

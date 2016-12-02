@@ -3,7 +3,7 @@ title: "311 Shedden to Dedman"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4495
 vol_id: 11
-date: 1947-09-03
+doc_date: 1947-09-03
 ---
 
 # 311 Shedden to Dedman

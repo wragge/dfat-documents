@@ -3,7 +3,7 @@ title: "50 Cranborne to Curtin"
 volume: "Volume 8: 1945"
 doc_id: 3081
 vol_id: 8
-date: 1945-02-26
+doc_date: 1945-02-26
 barcode: 187402
 ---
 

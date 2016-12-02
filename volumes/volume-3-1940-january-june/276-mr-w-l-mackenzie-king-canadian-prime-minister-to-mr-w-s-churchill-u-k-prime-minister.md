@@ -3,7 +3,7 @@ title: "276 Mr W. L. Mackenzie King, Canadian Prime Minister, to Mr W. S. Church
 volume: "Volume 3: 1940, January-June"
 doc_id: 1042
 vol_id: 3
-date: 1940-05-24
+doc_date: 1940-05-24
 ---
 
 # 276 Mr W. L. Mackenzie King, Canadian Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister

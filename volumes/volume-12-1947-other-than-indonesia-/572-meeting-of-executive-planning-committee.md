@@ -3,7 +3,7 @@ title: "572 Meeting of Executive Planning Committee"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5254
 vol_id: 12
-date: 1947-05-05
+doc_date: 1947-05-05
 barcode: 194379
 ---
 

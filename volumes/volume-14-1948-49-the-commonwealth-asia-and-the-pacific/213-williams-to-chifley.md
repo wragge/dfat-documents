@@ -3,7 +3,7 @@ title: "213 Williams to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5989
 vol_id: 14
-date: 1949-02-01
+doc_date: 1949-02-01
 barcode: 396979
 ---
 

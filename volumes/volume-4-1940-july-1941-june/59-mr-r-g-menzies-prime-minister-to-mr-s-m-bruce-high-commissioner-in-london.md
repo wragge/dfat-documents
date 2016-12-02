@@ -3,7 +3,7 @@ title: "59 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissione
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1290
 vol_id: 4
-date: 1940-08-09
+doc_date: 1940-08-09
 ---
 
 # 59 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London

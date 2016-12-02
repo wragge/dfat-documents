@@ -3,7 +3,7 @@ title: "38 Bruce to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2329
 vol_id: 6
-date: 1942-09-02
+doc_date: 1942-09-02
 ---
 
 # 38 Bruce to Curtin

@@ -3,7 +3,7 @@ title: "89 Curtin to Churchill"
 volume: "Volume 7: 1944"
 doc_id: 2736
 vol_id: 7
-date: 1944-03-22
+doc_date: 1944-03-22
 ---
 
 # 89 Curtin to Churchill

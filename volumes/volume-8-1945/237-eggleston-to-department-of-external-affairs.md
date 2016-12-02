@@ -3,7 +3,7 @@ title: "237 Eggleston to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3268
 vol_id: 8
-date: 1945-09-06
+doc_date: 1945-09-06
 barcode: 188045
 ---
 

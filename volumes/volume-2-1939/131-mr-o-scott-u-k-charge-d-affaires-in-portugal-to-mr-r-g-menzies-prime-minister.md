@@ -3,7 +3,7 @@ title: "131 Mr O. Scott, U.K. Charge d'Affaires in Portugal, to Mr R.G. Menzies,
 volume: "Volume 2: 1939"
 doc_id: 468
 vol_id: 2
-date: 1939-07-28
+doc_date: 1939-07-28
 barcode: 206913
 ---
 

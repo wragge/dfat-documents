@@ -3,7 +3,7 @@ title: "234 Curtin to Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2525
 vol_id: 6
-date: 1943-07-03
+doc_date: 1943-07-03
 ---
 
 # 234 Curtin to Evatt

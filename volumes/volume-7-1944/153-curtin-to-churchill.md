@@ -3,7 +3,7 @@ title: "153 Curtin to Churchill"
 volume: "Volume 7: 1944"
 doc_id: 2800
 vol_id: 7
-date: 1944-05-17
+doc_date: 1944-05-17
 ---
 
 # 153 Curtin to Churchill

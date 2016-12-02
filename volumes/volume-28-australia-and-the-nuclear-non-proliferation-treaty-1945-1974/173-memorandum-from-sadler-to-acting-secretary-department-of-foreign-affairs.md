@@ -3,7 +3,7 @@ title: "173 Memorandum from Sadleir to Acting Secretary, Department of Foreign A
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10547
 vol_id: 28
-date: 1971-07-06
+doc_date: 1971-07-06
 barcode: 549300
 ---
 

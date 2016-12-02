@@ -3,7 +3,7 @@ title: "57 Memorandum from Blakeney to Rowland"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10431
 vol_id: 28
-date: 1963-12-30
+doc_date: 1963-12-30
 barcode: 546404
 ---
 

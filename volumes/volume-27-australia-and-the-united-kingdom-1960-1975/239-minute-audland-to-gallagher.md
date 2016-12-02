@@ -3,7 +3,7 @@ title: "239 MINUTE, AUDLAND TO GALLAGHER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10104
 vol_id: 27
-date: 1967-10-12
+doc_date: 1967-10-12
 ---
 
 # 239 MINUTE, AUDLAND TO GALLAGHER

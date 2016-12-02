@@ -3,7 +3,7 @@ title: "93 Cablegram From Watt to McIntosh"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8444
 vol_id: 21
-date: 1951-06-18
+doc_date: 1951-06-18
 ---
 
 # 93 Cablegram From Watt to McIntosh

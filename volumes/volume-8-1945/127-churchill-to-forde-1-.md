@@ -3,7 +3,7 @@ title: "127 Churchill to Forde [1]"
 volume: "Volume 8: 1945"
 doc_id: 3158
 vol_id: 8
-date: 1945-07-05
+doc_date: 1945-07-05
 ---
 
 # 127 Churchill to Forde [1]

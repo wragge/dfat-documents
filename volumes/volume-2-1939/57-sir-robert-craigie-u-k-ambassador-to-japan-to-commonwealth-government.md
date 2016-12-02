@@ -3,7 +3,7 @@ title: "57 Sir Robert Craigie, U.K. Ambassador to Japan, to Commonwealth Governm
 volume: "Volume 2: 1939"
 doc_id: 394
 vol_id: 2
-date: 1939-03-25
+doc_date: 1939-03-25
 ---
 
 # 57 Sir Robert Craigie, U.K. Ambassador to Japan, to Commonwealth Government

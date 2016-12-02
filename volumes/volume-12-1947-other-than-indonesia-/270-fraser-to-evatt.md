@@ -3,7 +3,7 @@ title: "270 Fraser to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4952
 vol_id: 12
-date: 1947-04-24
+doc_date: 1947-04-24
 barcode: 194632
 ---
 

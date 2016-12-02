@@ -3,7 +3,7 @@ title: "92 Memorandum from Ministry of Foreign Affairs to Chairman, Officials' E
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8962
 vol_id: 23
-date: 1980-03-17
+doc_date: 1980-03-17
 ---
 
 # 92 Memorandum from Ministry of Foreign Affairs to Chairman, Officials' Economic Committee

@@ -3,7 +3,7 @@ title: "37 Admiral Sir Ragnar Colvin, First Naval Member, Naval Board, to Admira
 volume: "Volume 2: 1939"
 doc_id: 374
 vol_id: 2
-date: 1939-03-14
+doc_date: 1939-03-14
 ---
 
 # 37 Admiral Sir Ragnar Colvin, First Naval Member, Naval Board, to Admiral Sir Roger Backhouse, U.K. First Sea Lord

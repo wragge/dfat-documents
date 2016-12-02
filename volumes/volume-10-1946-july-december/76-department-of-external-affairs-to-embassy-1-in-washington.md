@@ -3,7 +3,7 @@ title: "76 Department of External Affairs to Embassy [1] in Washington"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3924
 vol_id: 10
-date: 1946-08-20
+doc_date: 1946-08-20
 barcode: 191304
 ---
 

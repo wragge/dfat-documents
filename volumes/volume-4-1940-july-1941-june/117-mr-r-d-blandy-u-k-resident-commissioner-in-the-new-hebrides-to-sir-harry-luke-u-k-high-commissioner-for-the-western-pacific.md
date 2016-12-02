@@ -3,7 +3,7 @@ title: "117 Mr R. D. Blandy, U.K. Resident Commissioner in the New Hebrides, to 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1348
 vol_id: 4
-date: 1940-09-10
+doc_date: 1940-09-10
 ---
 
 # 117 Mr R. D. Blandy, U.K. Resident Commissioner in the New Hebrides, to Sir Harry Luke, U.K. High Commissioner for the Western Pacific

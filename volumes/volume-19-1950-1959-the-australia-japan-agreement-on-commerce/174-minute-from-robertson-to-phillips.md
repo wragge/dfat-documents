@@ -3,7 +3,7 @@ title: "174 Minute From Robertson To Phillips"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7779
 vol_id: 19
-date: 1956-11-27
+doc_date: 1956-11-27
 ---
 
 # 174 Minute From Robertson To Phillips

@@ -3,7 +3,7 @@ title: "51 Department of External Affairs to U.K. Embassy, Tokyo"
 volume: "Volume 2: 1939"
 doc_id: 388
 vol_id: 2
-date: 1939-03-22
+doc_date: 1939-03-22
 ---
 
 # 51 Department of External Affairs to U.K. Embassy, Tokyo

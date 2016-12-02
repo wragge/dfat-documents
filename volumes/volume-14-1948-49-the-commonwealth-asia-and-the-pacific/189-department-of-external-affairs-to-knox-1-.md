@@ -3,7 +3,7 @@ title: "189 Department of External Affairs to Knox [1]"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5965
 vol_id: 14
-date: 1948-03-11
+doc_date: 1948-03-11
 ---
 
 # 189 Department of External Affairs to Knox [1]

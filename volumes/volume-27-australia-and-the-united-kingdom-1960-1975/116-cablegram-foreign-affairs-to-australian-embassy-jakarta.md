@@ -3,7 +3,7 @@ title: "116 CABLEGRAM, FOREIGN AFFAIRS TO AUSTRALIAN EMBASSY, JAKARTA"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9981
 vol_id: 27
-date: 1973-02-02
+doc_date: 1973-02-02
 ---
 
 # 116 CABLEGRAM, FOREIGN AFFAIRS TO AUSTRALIAN EMBASSY, JAKARTA

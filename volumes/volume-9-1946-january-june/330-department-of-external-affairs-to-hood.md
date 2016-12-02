@@ -3,7 +3,7 @@ title: "330 Department of External Affairs to Hood"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3842
 vol_id: 9
-date: 1946-06-26
+doc_date: 1946-06-26
 ---
 
 # 330 Department of External Affairs to Hood

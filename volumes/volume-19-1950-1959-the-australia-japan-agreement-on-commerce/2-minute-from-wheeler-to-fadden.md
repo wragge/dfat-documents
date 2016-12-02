@@ -3,7 +3,7 @@ title: "2 Minute From Wheeler To Fadden"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7607
 vol_id: 19
-date: 1950-12-06
+doc_date: 1950-12-06
 ---
 
 # 2 Minute From Wheeler To Fadden

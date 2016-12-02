@@ -3,7 +3,7 @@ title: "152 Australia-Japan Trade Negotiations: Initial Reaction By Australian D
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7757
 vol_id: 19
-date: 1956-10-05
+doc_date: 1956-10-05
 ---
 
 # 152 Australia-Japan Trade Negotiations: Initial Reaction By Australian Delegation To The Requests By The Japanese Government

@@ -3,7 +3,7 @@ title: "42 Note by Mr J.S. Duncan, Acting High Commissioner in London, of Conver
 volume: "Volume 2: 1939"
 doc_id: 379
 vol_id: 2
-date: 1939-03-17
+doc_date: 1939-03-17
 ---
 
 # 42 Note by Mr J.S. Duncan, Acting High Commissioner in London, of Conversation with Maj Gen H.L. Ismay, Secretary of U.K. Committee of Imperial Defence

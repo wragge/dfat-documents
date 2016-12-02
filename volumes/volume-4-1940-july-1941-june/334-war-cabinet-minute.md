@@ -3,7 +3,7 @@ title: "334 War Cabinet Minute"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1565
 vol_id: 4
-date: 1941-03-05
+doc_date: 1941-03-05
 ---
 
 # 334 War Cabinet Minute

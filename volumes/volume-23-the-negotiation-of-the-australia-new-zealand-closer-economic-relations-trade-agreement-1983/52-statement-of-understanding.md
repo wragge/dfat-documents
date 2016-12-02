@@ -3,7 +3,7 @@ title: "52 Statement of Understanding"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8922
 vol_id: 23
-date: 1979-11-03
+doc_date: 1979-11-03
 ---
 
 # 52 Statement of Understanding

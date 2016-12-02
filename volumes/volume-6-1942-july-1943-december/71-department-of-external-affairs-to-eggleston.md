@@ -3,7 +3,7 @@ title: "71 Department of External Affairs to Eggleston"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2362
 vol_id: 6
-date: 1942-11-05
+doc_date: 1942-11-05
 ---
 
 # 71 Department of External Affairs to Eggleston

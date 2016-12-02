@@ -3,7 +3,7 @@ title: "224 Cablegram from Tange to Hasluck - Historical Documents - Australian 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9354
 vol_id: 25
-date: 1964-11-09
+doc_date: 1964-11-09
 barcode: 1727141
 ---
 

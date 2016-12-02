@@ -3,7 +3,7 @@ title: "265 Australian Government to Mackay"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6980
 vol_id: 16
-date: 1948-06-22
+doc_date: 1948-06-22
 ---
 
 # 265 Australian Government to Mackay

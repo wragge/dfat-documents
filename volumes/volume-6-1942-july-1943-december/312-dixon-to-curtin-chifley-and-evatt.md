@@ -3,7 +3,7 @@ title: "312 Dixon to Curtin, Chifley and Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2603
 vol_id: 6
-date: 1943-10-24
+doc_date: 1943-10-24
 barcode: 7569687
 ---
 

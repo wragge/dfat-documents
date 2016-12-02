@@ -3,7 +3,7 @@ title: "442 Record of Conversation Between Peacock and Panggabean"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8280
 vol_id: 20
-date: 1976-04-14
+doc_date: 1976-04-14
 ---
 
 # 442 Record of Conversation Between Peacock and Panggabean

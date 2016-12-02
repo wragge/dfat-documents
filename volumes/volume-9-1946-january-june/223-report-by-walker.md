@@ -3,7 +3,7 @@ title: "223 Report by Walker"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3735
 vol_id: 9
-date: 1946-04-30
+doc_date: 1946-04-30
 ---
 
 # 223 Report by Walker

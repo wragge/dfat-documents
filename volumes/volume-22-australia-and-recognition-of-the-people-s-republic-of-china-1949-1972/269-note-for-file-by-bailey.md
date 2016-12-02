@@ -3,7 +3,7 @@ title: "269 NOTE FOR FILE BY BAILEY"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8752
 vol_id: 22
-date: 1971-10-08
+doc_date: 1971-10-08
 ---
 
 # 269 NOTE FOR FILE BY BAILEY

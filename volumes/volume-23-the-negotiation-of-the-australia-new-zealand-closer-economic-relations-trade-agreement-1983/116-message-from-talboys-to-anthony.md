@@ -3,7 +3,7 @@ title: "116 Message from Talboys to Anthony"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8986
 vol_id: 23
-date: 1980-04-02
+doc_date: 1980-04-02
 ---
 
 # 116 Message from Talboys to Anthony

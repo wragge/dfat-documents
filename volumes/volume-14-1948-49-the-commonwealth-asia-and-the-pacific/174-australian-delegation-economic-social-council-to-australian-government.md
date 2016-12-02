@@ -3,7 +3,7 @@ title: "174 Australian Delegation, Economic & Social Council, to Australian Gove
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5950
 vol_id: 14
-date: 1948-08-03
+doc_date: 1948-08-03
 ---
 
 # 174 Australian Delegation, Economic & Social Council, to Australian Government

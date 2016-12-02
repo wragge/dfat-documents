@@ -3,7 +3,7 @@ title: "124 Minute From Shaw To Loomes And Brennan"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7729
 vol_id: 19
-date: 1955-12-29
+doc_date: 1955-12-29
 ---
 
 # 124 Minute From Shaw To Loomes And Brennan

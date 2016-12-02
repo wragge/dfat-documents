@@ -3,7 +3,7 @@ title: "293 Chifley to Bruce"
 volume: "Volume 8: 1945"
 doc_id: 3324
 vol_id: 8
-date: 1945-10-05
+doc_date: 1945-10-05
 ---
 
 # 293 Chifley to Bruce

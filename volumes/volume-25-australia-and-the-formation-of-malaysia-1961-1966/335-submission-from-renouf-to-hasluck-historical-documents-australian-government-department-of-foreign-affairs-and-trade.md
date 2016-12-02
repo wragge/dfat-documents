@@ -3,7 +3,7 @@ title: "335 Submission from Renouf to Hasluck - Historical Documents - Australia
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9465
 vol_id: 25
-date: 1965-10-01
+doc_date: 1965-10-01
 barcode: 583388
 ---
 

@@ -3,7 +3,7 @@ title: "69 CABLEGRAM, CRITCHLEY TO CANBERRA"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9934
 vol_id: 27
-date: 1967-05-16
+doc_date: 1967-05-16
 ---
 
 # 69 CABLEGRAM, CRITCHLEY TO CANBERRA

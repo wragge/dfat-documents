@@ -3,7 +3,7 @@ title: "8 Note By Munro And Yeend On Cabinet Submission No. 1"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9517
 vol_id: 26
-date: 1966-02-02
+doc_date: 1966-02-02
 ---
 
 # 8 Note By Munro And Yeend On Cabinet Submission No. 1

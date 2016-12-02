@@ -3,7 +3,7 @@ title: "219 Chifley to Evatt (in Washington)"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2510
 vol_id: 6
-date: 1943-06-11
+doc_date: 1943-06-11
 ---
 
 # 219 Chifley to Evatt (in Washington)

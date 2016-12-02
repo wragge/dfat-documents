@@ -3,7 +3,7 @@ title: "263 Cabinet Minute"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9132
 vol_id: 23
-date: 1983-02-14
+doc_date: 1983-02-14
 ---
 
 # 263 Cabinet Minute

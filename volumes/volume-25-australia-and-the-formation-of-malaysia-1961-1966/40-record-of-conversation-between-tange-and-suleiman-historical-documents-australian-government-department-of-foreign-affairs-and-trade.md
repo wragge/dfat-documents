@@ -3,7 +3,7 @@ title: "40 Record of Conversation Between Tange and Suleiman - Historical Docume
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9173
 vol_id: 25
-date: 1963-02-21
+doc_date: 1963-02-21
 barcode: 553363
 ---
 

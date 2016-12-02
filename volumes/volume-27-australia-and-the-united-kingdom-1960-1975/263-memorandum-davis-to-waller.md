@@ -3,7 +3,7 @@ title: "263 MEMORANDUM, DAVIS TO WALLER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10128
 vol_id: 27
-date: 1970-06-11
+doc_date: 1970-06-11
 ---
 
 # 263 MEMORANDUM, DAVIS TO WALLER

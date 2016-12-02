@@ -3,7 +3,7 @@ title: "267 Cablegram from Hasluck to McEwen - Historical Documents - Australian
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9397
 vol_id: 25
-date: 1965-05-07
+doc_date: 1965-05-07
 barcode: 1505634
 ---
 

@@ -3,7 +3,7 @@ title: "287 Calwell to Innes"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4969
 vol_id: 12
-date: 1947-10-29
+doc_date: 1947-10-29
 barcode: 195998
 ---
 

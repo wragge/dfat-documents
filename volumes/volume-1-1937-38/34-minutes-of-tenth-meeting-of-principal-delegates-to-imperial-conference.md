@@ -3,7 +3,7 @@ title: "34 Minutes of Tenth Meeting of Principal Delegates to Imperial Conferenc
 volume: "Volume 1: 1937-38"
 doc_id: 34
 vol_id: 1
-date: 1937-06-01
+doc_date: 1937-06-01
 ---
 
 # 34 Minutes of Tenth Meeting of Principal Delegates to Imperial Conference

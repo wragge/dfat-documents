@@ -3,7 +3,7 @@ title: "10 Plimsoll to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5277
 vol_id: 13
-date: 1948-01-09
+doc_date: 1948-01-09
 ---
 
 # 10 Plimsoll to Burton

@@ -3,7 +3,7 @@ title: "446 MINUTE BY SHANN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10313
 vol_id: 27
-date: 1973-03-23
+doc_date: 1973-03-23
 ---
 
 # 446 MINUTE BY SHANN

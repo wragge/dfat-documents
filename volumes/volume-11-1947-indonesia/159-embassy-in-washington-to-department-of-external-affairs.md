@@ -3,7 +3,7 @@ title: "159 Embassy in Washington to Department of External Affairs"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4343
 vol_id: 11
-date: 1947-07-24
+doc_date: 1947-07-24
 ---
 
 # 159 Embassy in Washington to Department of External Affairs

@@ -3,7 +3,7 @@ title: "424 Mr F.K. Officer, Australian Counsellor at British Embassy in Washing
 volume: "Volume 2: 1939"
 doc_id: 761
 vol_id: 2
-date: 1939-12-20
+doc_date: 1939-12-20
 barcode: 97698
 ---
 

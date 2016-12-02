@@ -3,7 +3,7 @@ title: "96 Record of Meeting between Commonwealth and State Governments"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8966
 vol_id: 23
-date: 1980-04-22
+doc_date: 1980-04-22
 ---
 
 # 96 Record of Meeting between Commonwealth and State Governments

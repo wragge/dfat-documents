@@ -3,7 +3,7 @@ title: "172 Mackay to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5948
 vol_id: 14
-date: 1948-05-19
+doc_date: 1948-05-19
 ---
 
 # 172 Mackay to Department of External Affairs

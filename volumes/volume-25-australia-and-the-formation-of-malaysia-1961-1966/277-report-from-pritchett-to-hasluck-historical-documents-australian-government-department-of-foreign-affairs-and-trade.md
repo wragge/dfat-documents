@@ -3,7 +3,7 @@ title: "277 Report from Pritchett to Hasluck - Historical Documents - Australian
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9407
 vol_id: 25
-date: 1965-06-12
+doc_date: 1965-06-12
 barcode: 583169
 ---
 

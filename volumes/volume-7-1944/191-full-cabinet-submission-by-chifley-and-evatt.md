@@ -3,7 +3,7 @@ title: "191 Full Cabinet Submission by Chifley and Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2838
 vol_id: 7
-date: 1944-06-10
+doc_date: 1944-06-10
 ---
 
 # 191 Full Cabinet Submission by Chifley and Evatt

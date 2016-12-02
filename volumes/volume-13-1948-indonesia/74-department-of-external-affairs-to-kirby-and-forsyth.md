@@ -3,7 +3,7 @@ title: "74 Department of External Affairs to Kirby and Forsyth"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5341
 vol_id: 13
-date: 1948-02-17
+doc_date: 1948-02-17
 ---
 
 # 74 Department of External Affairs to Kirby and Forsyth

@@ -3,7 +3,7 @@ title: "184 War Cabinet Submission by Mr R. G. Menzies, Minister for Defence Co-
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1415
 vol_id: 4
-date: 1940-10-31
+doc_date: 1940-10-31
 barcode: 7559129
 ---
 

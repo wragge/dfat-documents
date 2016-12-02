@@ -3,7 +3,7 @@ title: "154 Cablegram to Selected Posts - Historical Documents - Australian Gove
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9284
 vol_id: 25
-date: 1964-02-04
+doc_date: 1964-02-04
 barcode: 1505559
 ---
 

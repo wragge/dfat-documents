@@ -3,7 +3,7 @@ title: "5 Cablegram from Evatt to Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10380
 vol_id: 28
-date: 1946-06-25
+doc_date: 1946-06-25
 barcode: 458629
 ---
 

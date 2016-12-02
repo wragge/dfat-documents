@@ -3,7 +3,7 @@ title: "193 War Cabinet Minute"
 volume: "Volume 3: 1940, January-June"
 doc_id: 959
 vol_id: 3
-date: 1940-05-01
+doc_date: 1940-05-01
 ---
 
 # 193 War Cabinet Minute

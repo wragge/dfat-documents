@@ -3,7 +3,7 @@ title: "304 Mr F. M. Forde, Deputy Prime Minister, to Lord Cranborne, U.K. Secre
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2058
 vol_id: 5
-date: 1942-01-26
+doc_date: 1942-01-26
 barcode: 31425949
 ---
 

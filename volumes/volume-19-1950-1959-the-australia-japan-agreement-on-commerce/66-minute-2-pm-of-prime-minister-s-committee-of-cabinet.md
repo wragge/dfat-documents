@@ -3,7 +3,7 @@ title: "66 Minute 2(Pm) Of Prime Minister's Committee Of Cabinet"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7671
 vol_id: 19
-date: 1954-08-17
+doc_date: 1954-08-17
 ---
 
 # 66 Minute 2(Pm) Of Prime Minister's Committee Of Cabinet

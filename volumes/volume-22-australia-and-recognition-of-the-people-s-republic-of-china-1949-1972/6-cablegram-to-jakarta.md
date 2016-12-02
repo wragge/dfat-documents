@@ -3,7 +3,7 @@ title: "6 CABLEGRAM TO JAKARTA"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8490
 vol_id: 22
-date: 1950-01-05
+doc_date: 1950-01-05
 barcode: 471021
 ---
 

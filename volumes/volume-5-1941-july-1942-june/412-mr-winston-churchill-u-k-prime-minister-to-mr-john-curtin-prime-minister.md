@@ -3,7 +3,7 @@ title: "412 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2166
 vol_id: 5
-date: 1942-03-13
+doc_date: 1942-03-13
 ---
 
 # 412 Mr Winston Churchill, U.K. Prime Minister, to Mr John Curtin, Prime Minister

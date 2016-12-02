@@ -3,7 +3,7 @@ title: "207 Notes By Prime Minister's Department On Cabinet Submission 643"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7812
 vol_id: 19
-date: 1957-05-16
+doc_date: 1957-05-16
 barcode: 428854
 ---
 

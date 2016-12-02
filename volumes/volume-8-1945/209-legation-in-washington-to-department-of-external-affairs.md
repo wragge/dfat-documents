@@ -3,7 +3,7 @@ title: "209 Legation in Washington to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3240
 vol_id: 8
-date: 1945-08-21
+doc_date: 1945-08-21
 barcode: 187582
 ---
 

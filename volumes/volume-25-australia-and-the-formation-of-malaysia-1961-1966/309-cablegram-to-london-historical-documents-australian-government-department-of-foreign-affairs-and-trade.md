@@ -3,7 +3,7 @@ title: "309 Cablegram to London - Historical Documents - Australian Government D
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9440
 vol_id: 25
-date: 1965-08-13
+doc_date: 1965-08-13
 barcode: 1726026
 ---
 

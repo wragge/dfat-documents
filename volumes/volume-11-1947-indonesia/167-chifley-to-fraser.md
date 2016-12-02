@@ -3,7 +3,7 @@ title: "167 Chifley to Fraser"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4351
 vol_id: 11
-date: 1947-07-26
+doc_date: 1947-07-26
 ---
 
 # 167 Chifley to Fraser

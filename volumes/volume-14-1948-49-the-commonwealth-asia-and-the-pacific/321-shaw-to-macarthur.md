@@ -3,7 +3,7 @@ title: "321 Shaw to MacArthur"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6097
 vol_id: 14
-date: 1948-03-24
+doc_date: 1948-03-24
 ---
 
 # 321 Shaw to MacArthur

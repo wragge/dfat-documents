@@ -3,7 +3,7 @@ title: "31 SUBMISSION TO CABINET"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8514
 vol_id: 22
-date: 1951-02-19
+doc_date: 1951-02-19
 barcode: 538322
 ---
 

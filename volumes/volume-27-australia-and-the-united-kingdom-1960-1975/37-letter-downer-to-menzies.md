@@ -3,7 +3,7 @@ title: "37 LETTER, DOWNER TO MENZIES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9903
 vol_id: 27
-date: 1965-09-20
+doc_date: 1965-09-20
 ---
 
 # 37 LETTER, DOWNER TO MENZIES

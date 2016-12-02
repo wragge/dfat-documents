@@ -3,7 +3,7 @@ title: "2 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Pr
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1755
 vol_id: 5
-date: 1941-07-09
+doc_date: 1941-07-09
 ---
 
 # 2 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister, and to Sir Frederick Stewart, Minister for External Affairs

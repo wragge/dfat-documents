@@ -3,7 +3,7 @@ title: "210 CABINET MINUTE, DECISION NO. 476"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10075
 vol_id: 27
-date: 1962-10-02
+doc_date: 1962-10-02
 ---
 
 # 210 CABINET MINUTE, DECISION NO. 476

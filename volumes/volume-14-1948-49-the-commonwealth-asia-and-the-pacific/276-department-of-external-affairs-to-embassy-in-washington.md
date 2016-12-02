@@ -3,7 +3,7 @@ title: "276 Department of External Affairs to Embassy in Washington"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6052
 vol_id: 14
-date: 1949-11-02
+doc_date: 1949-11-02
 ---
 
 # 276 Department of External Affairs to Embassy in Washington

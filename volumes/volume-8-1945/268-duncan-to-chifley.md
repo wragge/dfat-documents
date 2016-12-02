@@ -3,7 +3,7 @@ title: "268 Duncan to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3299
 vol_id: 8
-date: 1945-09-25
+doc_date: 1945-09-25
 ---
 
 # 268 Duncan to Chifley

@@ -3,7 +3,7 @@ title: "130 Evatt to Bruce"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2421
 vol_id: 6
-date: 1943-02-26
+doc_date: 1943-02-26
 barcode: 5169166
 ---
 

@@ -3,7 +3,7 @@ title: "7 Letter from Peacock to Fraser"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8877
 vol_id: 23
-date: 1979-05-07
+doc_date: 1979-05-07
 ---
 
 # 7 Letter from Peacock to Fraser

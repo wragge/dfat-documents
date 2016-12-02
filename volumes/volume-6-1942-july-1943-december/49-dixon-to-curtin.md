@@ -3,7 +3,7 @@ title: "49 Dixon to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2340
 vol_id: 6
-date: 1942-09-17
+doc_date: 1942-09-17
 ---
 
 # 49 Dixon to Curtin

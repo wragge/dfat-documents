@@ -3,7 +3,7 @@ title: "166 Chifley to Attlee"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4350
 vol_id: 11
-date: 1947-07-26
+doc_date: 1947-07-26
 ---
 
 # 166 Chifley to Attlee

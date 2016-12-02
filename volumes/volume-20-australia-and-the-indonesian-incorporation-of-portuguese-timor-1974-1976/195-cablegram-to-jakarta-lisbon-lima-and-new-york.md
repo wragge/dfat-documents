@@ -3,7 +3,7 @@ title: "195 Cablegram to Jakarta, Lisbon, Lima and New York"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8033
 vol_id: 20
-date: 1975-08-28
+doc_date: 1975-08-28
 ---
 
 # 195 Cablegram to Jakarta, Lisbon, Lima and New York

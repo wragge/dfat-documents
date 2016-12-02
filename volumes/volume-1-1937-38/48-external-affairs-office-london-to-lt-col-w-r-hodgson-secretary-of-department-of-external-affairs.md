@@ -3,7 +3,7 @@ title: "48 External Affairs Office, London, to Lt Col W. R. Hodgson, Secretary o
 volume: "Volume 1: 1937-38"
 doc_id: 48
 vol_id: 1
-date: 1937-06-19
+doc_date: 1937-06-19
 ---
 
 # 48 External Affairs Office, London, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs

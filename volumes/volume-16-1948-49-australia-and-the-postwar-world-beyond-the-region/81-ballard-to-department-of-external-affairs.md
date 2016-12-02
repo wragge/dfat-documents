@@ -3,7 +3,7 @@ title: "81 Ballard to Department of External Affairs"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6796
 vol_id: 16
-date: 1948-01-19
+doc_date: 1948-01-19
 ---
 
 # 81 Ballard to Department of External Affairs

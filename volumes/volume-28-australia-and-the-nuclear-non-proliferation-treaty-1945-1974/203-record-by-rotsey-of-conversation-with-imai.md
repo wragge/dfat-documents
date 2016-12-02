@@ -3,7 +3,7 @@ title: "203 Record by Rotsey of Conversation with Imai"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10577
 vol_id: 28
-date: 1974-10-08
+doc_date: 1974-10-08
 barcode: 1761031
 ---
 

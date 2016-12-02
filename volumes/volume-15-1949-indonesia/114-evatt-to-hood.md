@@ -3,7 +3,7 @@ title: "114 Evatt to Hood"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6283
 vol_id: 15
-date: 1949-01-20
+doc_date: 1949-01-20
 ---
 
 # 114 Evatt to Hood

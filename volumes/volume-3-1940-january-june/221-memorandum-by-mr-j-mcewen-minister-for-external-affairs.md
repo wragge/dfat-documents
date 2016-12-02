@@ -3,7 +3,7 @@ title: "221 Memorandum by Mr J. McEwen, Minister for External Affairs"
 volume: "Volume 3: 1940, January-June"
 doc_id: 987
 vol_id: 3
-date: 1940-05-10
+doc_date: 1940-05-10
 ---
 
 # 221 Memorandum by Mr J. McEwen, Minister for External Affairs

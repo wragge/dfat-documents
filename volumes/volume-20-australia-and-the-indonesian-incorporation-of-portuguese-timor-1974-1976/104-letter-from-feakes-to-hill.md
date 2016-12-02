@@ -3,7 +3,7 @@ title: "104 Letter from Feakes to Hill"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7943
 vol_id: 20
-date: 1975-03-05
+doc_date: 1975-03-05
 ---
 
 # 104 Letter from Feakes to Hill

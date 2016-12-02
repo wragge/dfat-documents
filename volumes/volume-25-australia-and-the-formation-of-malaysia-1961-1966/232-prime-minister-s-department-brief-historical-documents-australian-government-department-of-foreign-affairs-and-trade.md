@@ -3,7 +3,7 @@ title: "232 Prime Minister�s Department Brief - Historical Documents - Austral
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9362
 vol_id: 25
-date: 1965-01-07
+doc_date: 1965-01-07
 barcode: 1160373
 ---
 

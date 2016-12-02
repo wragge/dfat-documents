@@ -3,7 +3,7 @@ title: "16 Submission Ot/1 To Cabinet Committee [1] By Brown"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7621
 vol_id: 19
-date: 1952-09-03
+doc_date: 1952-09-03
 ---
 
 # 16 Submission Ot/1 To Cabinet Committee [1] By Brown

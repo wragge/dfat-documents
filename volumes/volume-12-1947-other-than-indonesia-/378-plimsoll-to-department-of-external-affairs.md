@@ -3,7 +3,7 @@ title: "378 Plimsoll to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5060
 vol_id: 12
-date: 1947-12-04
+doc_date: 1947-12-04
 barcode: 197321
 ---
 

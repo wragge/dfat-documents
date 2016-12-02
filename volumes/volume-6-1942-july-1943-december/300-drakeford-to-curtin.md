@@ -3,7 +3,7 @@ title: "300 Drakeford to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2591
 vol_id: 6
-date: 1943-10-19
+doc_date: 1943-10-19
 ---
 
 # 300 Drakeford to Curtin

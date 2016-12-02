@@ -3,7 +3,7 @@ title: "9 Davis to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2656
 vol_id: 7
-date: 1944-01-10
+doc_date: 1944-01-10
 ---
 
 # 9 Davis to Curtin

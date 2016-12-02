@@ -3,7 +3,7 @@ title: "91 Beasley to Chifley and Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3603
 vol_id: 9
-date: 1946-02-15
+doc_date: 1946-02-15
 barcode: 187357
 ---
 

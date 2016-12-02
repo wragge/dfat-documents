@@ -3,7 +3,7 @@ title: "8 Evatt to Fraser"
 volume: "Volume 8: 1945"
 doc_id: 3039
 vol_id: 8
-date: 1945-01-15
+doc_date: 1945-01-15
 barcode: 188220
 ---
 

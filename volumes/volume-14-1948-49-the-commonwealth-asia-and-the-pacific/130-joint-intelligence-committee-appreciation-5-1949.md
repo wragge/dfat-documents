@@ -3,7 +3,7 @@ title: "130 Joint Intelligence Committee Appreciation 5/1949"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5906
 vol_id: 14
-date: 1949-07-15
+doc_date: 1949-07-15
 ---
 
 # 130 Joint Intelligence Committee Appreciation 5/1949

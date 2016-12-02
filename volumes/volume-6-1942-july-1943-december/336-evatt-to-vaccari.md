@@ -3,7 +3,7 @@ title: "336 Evatt to Vaccari"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2627
 vol_id: 6
-date: 1943-11-26
+doc_date: 1943-11-26
 barcode: 204719
 ---
 

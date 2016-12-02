@@ -3,7 +3,7 @@ title: "492 FCO BRlEF AMV(74)15"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10359
 vol_id: 27
-date: 1974-12-10
+doc_date: 1974-12-10
 ---
 
 # 492 FCO BRlEF AMV(74)15

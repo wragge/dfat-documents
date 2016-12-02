@@ -3,7 +3,7 @@ title: "19 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Comm
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1773
 vol_id: 5
-date: 1941-07-26
+doc_date: 1941-07-26
 ---
 
 # 19 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

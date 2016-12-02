@@ -3,7 +3,7 @@ title: "145 Views of New Zealand Manufacturers' Federation"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9015
 vol_id: 23
-date: 1981-02-26
+doc_date: 1981-02-26
 ---
 
 # 145 Views of New Zealand Manufacturers' Federation

@@ -3,7 +3,7 @@ title: "87 Note by Mackay of Conversation with Evatt [1]"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3935
 vol_id: 10
-date: 1946-08-26
+doc_date: 1946-08-26
 ---
 
 # 87 Note by Mackay of Conversation with Evatt [1]

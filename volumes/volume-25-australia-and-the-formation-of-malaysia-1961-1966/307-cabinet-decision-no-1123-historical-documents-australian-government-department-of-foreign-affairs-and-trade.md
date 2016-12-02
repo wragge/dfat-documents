@@ -3,7 +3,7 @@ title: "307 Cabinet Decision No. 1123 - Historical Documents - Australian Govern
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9438
 vol_id: 25
-date: 1965-08-12
+doc_date: 1965-08-12
 barcode: 1758802
 ---
 

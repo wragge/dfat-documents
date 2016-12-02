@@ -3,7 +3,7 @@ title: "85 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Min
 volume: "Volume 2: 1939"
 doc_id: 422
 vol_id: 2
-date: 1939-05-10
+doc_date: 1939-05-10
 ---
 
 # 85 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister

@@ -3,7 +3,7 @@ title: "174 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, t
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1405
 vol_id: 4
-date: 1940-10-16
+doc_date: 1940-10-16
 ---
 
 # 174 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr B. C. Ballard, Official Representative in New Caledonia

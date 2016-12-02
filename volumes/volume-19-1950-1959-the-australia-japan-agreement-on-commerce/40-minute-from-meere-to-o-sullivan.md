@@ -3,7 +3,7 @@ title: "40 Minute From Meere To O'sullivan"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7645
 vol_id: 19
-date: 1953-08-12
+doc_date: 1953-08-12
 ---
 
 # 40 Minute From Meere To O'sullivan

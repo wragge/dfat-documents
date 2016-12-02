@@ -3,7 +3,7 @@ title: "432 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2186
 vol_id: 5
-date: 1942-03-20
+doc_date: 1942-03-20
 barcode: 925051
 ---
 

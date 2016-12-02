@@ -3,7 +3,7 @@ title: "16 Mr R.R. Sedgwick, Official Secretary to U.K. 16 High Commissioner to 
 volume: "Volume 2: 1939"
 doc_id: 353
 vol_id: 2
-date: 1939-02-08
+doc_date: 1939-02-08
 ---
 
 # 16 Mr R.R. Sedgwick, Official Secretary to U.K. 16 High Commissioner to Australia, to Mr F. Strahan, Secretary of Prime Minister's Department

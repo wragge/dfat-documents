@@ -3,7 +3,7 @@ title: "232 Hood to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3744
 vol_id: 9
-date: 1946-05-05
+doc_date: 1946-05-05
 barcode: 194073
 ---
 

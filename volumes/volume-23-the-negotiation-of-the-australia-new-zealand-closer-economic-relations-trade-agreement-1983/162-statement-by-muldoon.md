@@ -3,7 +3,7 @@ title: "162 Statement by Muldoon"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9031
 vol_id: 23
-date: 1981-02-24
+doc_date: 1981-02-24
 ---
 
 # 162 Statement by Muldoon

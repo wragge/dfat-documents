@@ -3,7 +3,7 @@ title: "312 Commonwealth Government to Mr R. G. Menzies, Prime Minister (in Lond
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1543
 vol_id: 4
-date: 1941-02-21
+doc_date: 1941-02-21
 ---
 
 # 312 Commonwealth Government to Mr R. G. Menzies, Prime Minister (in London)

@@ -3,7 +3,7 @@ title: "455 Truscott to McIntyre"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6624
 vol_id: 15
-date: 1949-07-11
+doc_date: 1949-07-11
 ---
 
 # 455 Truscott to McIntyre

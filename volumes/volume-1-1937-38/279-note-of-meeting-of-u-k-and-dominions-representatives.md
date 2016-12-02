@@ -3,7 +3,7 @@ title: "279 Note of Meeting of U.K. and Dominions Representatives"
 volume: "Volume 1: 1937-38"
 doc_id: 278
 vol_id: 1
-date: 1938-09-26
+doc_date: 1938-09-26
 ---
 
 # 279 Note of Meeting of U.K. and Dominions Representatives

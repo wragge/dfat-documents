@@ -3,7 +3,7 @@ title: "152 Letter, Fraser To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9660
 vol_id: 26
-date: 1967-12-21
+doc_date: 1967-12-21
 barcode: 3125687
 ---
 

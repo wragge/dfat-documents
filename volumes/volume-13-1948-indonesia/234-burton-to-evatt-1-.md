@@ -3,7 +3,7 @@ title: "234 Burton to Evatt [1]"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5501
 vol_id: 13
-date: 1948-09-07
+doc_date: 1948-09-07
 ---
 
 # 234 Burton to Evatt [1]

@@ -3,7 +3,7 @@ title: "273 TELEGRAM, JOHNSTON TO FOREIGN AND COMMONWEALTH OFFICE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10138
 vol_id: 27
-date: 1970-09-17
+doc_date: 1970-09-17
 ---
 
 # 273 TELEGRAM, JOHNSTON TO FOREIGN AND COMMONWEALTH OFFICE

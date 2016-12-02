@@ -3,7 +3,7 @@ title: "224 Shaw to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4906
 vol_id: 12
-date: 1947-09-30
+doc_date: 1947-09-30
 ---
 
 # 224 Shaw to Chifley

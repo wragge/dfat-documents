@@ -3,7 +3,7 @@ title: "255 Makin to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4937
 vol_id: 12
-date: 1947-02-27
+doc_date: 1947-02-27
 ---
 
 # 255 Makin to Evatt

@@ -3,7 +3,7 @@ title: "181 Letter from Confederation of Australian Industry to Street"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9050
 vol_id: 23
-date: 1982-02-22
+doc_date: 1982-02-22
 ---
 
 # 181 Letter from Confederation of Australian Industry to Street

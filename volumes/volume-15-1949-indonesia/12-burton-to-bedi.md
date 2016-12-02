@@ -3,7 +3,7 @@ title: "12 Burton to Bedi"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6181
 vol_id: 15
-date: 1949-01-04
+doc_date: 1949-01-04
 ---
 
 # 12 Burton to Bedi

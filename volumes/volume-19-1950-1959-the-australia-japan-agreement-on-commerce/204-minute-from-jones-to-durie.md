@@ -3,7 +3,7 @@ title: "204 Minute From Jones To Durie"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7809
 vol_id: 19
-date: 1957-05-13
+doc_date: 1957-05-13
 ---
 
 # 204 Minute From Jones To Durie

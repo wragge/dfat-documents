@@ -3,7 +3,7 @@ title: "124 Letter, Hay To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9632
 vol_id: 26
-date: 1967-06-23
+doc_date: 1967-06-23
 ---
 
 # 124 Letter, Hay To Warwick Smith

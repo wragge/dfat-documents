@@ -3,7 +3,7 @@ title: "64 Australian Government to Noel-Baker"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4746
 vol_id: 12
-date: 1947-10-31
+doc_date: 1947-10-31
 barcode: 195089
 ---
 

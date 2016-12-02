@@ -3,7 +3,7 @@ title: "23 Burton to Moodie"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4207
 vol_id: 11
-date: 1947-04-04
+doc_date: 1947-04-04
 ---
 
 # 23 Burton to Moodie

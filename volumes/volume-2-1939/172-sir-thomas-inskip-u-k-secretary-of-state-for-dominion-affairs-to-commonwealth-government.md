@@ -3,7 +3,7 @@ title: "172 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to 
 volume: "Volume 2: 1939"
 doc_id: 509
 vol_id: 2
-date: 1939-08-31
+doc_date: 1939-08-31
 ---
 
 # 172 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

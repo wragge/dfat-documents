@@ -3,7 +3,7 @@ title: "28 Despatch from Spender to Casey"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10403
 vol_id: 28
-date: 1957-12-24
+doc_date: 1957-12-24
 barcode: 842824
 ---
 

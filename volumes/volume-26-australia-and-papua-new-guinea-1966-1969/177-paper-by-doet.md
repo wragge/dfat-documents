@@ -3,7 +3,7 @@ title: "177 Paper By Doet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9685
 vol_id: 26
-date: 1968-03-16
+doc_date: 1968-03-16
 barcode: 4027860
 ---
 

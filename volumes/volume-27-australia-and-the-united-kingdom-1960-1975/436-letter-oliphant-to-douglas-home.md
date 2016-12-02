@@ -3,7 +3,7 @@ title: "436 LETTER OLIPHANT TO DOUGLAS-HOME"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10303
 vol_id: 27
-date: 1972-06-26
+doc_date: 1972-06-26
 ---
 
 # 436 LETTER OLIPHANT TO DOUGLAS-HOME

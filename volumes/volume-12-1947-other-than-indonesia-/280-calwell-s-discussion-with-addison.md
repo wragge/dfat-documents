@@ -3,7 +3,7 @@ title: "280 Calwell's discussion with Addison"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4962
 vol_id: 12
-date: 1947-07-02
+doc_date: 1947-07-02
 ---
 
 # 280 Calwell's discussion with Addison

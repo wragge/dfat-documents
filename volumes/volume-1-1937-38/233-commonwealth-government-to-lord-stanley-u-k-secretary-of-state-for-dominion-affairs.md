@@ -3,7 +3,7 @@ title: "233 Commonwealth Government to Lord Stanley, U.K. Secretary of State for
 volume: "Volume 1: 1937-38"
 doc_id: 232
 vol_id: 1
-date: 1938-07-24
+doc_date: 1938-07-24
 ---
 
 # 233 Commonwealth Government to Lord Stanley, U.K. Secretary of State for Dominion Affairs

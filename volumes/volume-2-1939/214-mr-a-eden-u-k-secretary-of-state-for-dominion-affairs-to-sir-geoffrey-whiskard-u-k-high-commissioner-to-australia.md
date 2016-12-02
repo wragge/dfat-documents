@@ -3,7 +3,7 @@ title: "214 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geo
 volume: "Volume 2: 1939"
 doc_id: 551
 vol_id: 2
-date: 1939-09-08
+doc_date: 1939-09-08
 barcode: 205677
 ---
 

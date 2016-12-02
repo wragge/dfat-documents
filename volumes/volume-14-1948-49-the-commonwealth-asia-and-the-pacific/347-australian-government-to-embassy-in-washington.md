@@ -3,7 +3,7 @@ title: "347 Australian Government to Embassy in Washington"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6123
 vol_id: 14
-date: 1949-02-18
+doc_date: 1949-02-18
 ---
 
 # 347 Australian Government to Embassy in Washington

@@ -3,7 +3,7 @@ title: "50 MINUTE, GRIFFITH TO BUNTING"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9915
 vol_id: 27
-date: 1966-01-27
+doc_date: 1966-01-27
 ---
 
 # 50 MINUTE, GRIFFITH TO BUNTING

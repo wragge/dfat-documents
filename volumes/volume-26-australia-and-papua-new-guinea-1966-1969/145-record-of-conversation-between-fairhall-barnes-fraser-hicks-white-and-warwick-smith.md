@@ -3,7 +3,7 @@ title: "145 Record Of Conversation Between Fairhall, Barnes, Fraser, Hicks White
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9653
 vol_id: 26
-date: 1967-10-18
+doc_date: 1967-10-18
 barcode: 3125687
 ---
 

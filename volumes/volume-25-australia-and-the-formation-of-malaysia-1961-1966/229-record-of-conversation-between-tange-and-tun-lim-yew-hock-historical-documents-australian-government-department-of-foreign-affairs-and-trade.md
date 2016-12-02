@@ -3,7 +3,7 @@ title: "229 Record of Conversation Between Tange and Tun Lim Yew Hock - Historic
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9359
 vol_id: 25
-date: 1964-12-30
+doc_date: 1964-12-30
 barcode: 1500920
 ---
 

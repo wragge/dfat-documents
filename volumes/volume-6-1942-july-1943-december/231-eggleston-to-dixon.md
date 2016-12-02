@@ -3,7 +3,7 @@ title: "231 Eggleston to Dixon"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2522
 vol_id: 6
-date: 1943-06-29
+doc_date: 1943-06-29
 barcode: 237671
 ---
 

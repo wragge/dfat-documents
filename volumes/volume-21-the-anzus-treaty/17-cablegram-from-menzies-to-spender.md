@@ -3,7 +3,7 @@ title: "17 Cablegram From Menzies to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8368
 vol_id: 21
-date: 1950-09-20
+doc_date: 1950-09-20
 ---
 
 # 17 Cablegram From Menzies to Spender

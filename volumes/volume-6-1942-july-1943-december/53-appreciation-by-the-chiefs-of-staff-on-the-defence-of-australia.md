@@ -3,7 +3,7 @@ title: "53 Appreciation by the Chiefs of Staff on the Defence of Australia"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2344
 vol_id: 6
-date: 1942-09-30
+doc_date: 1942-09-30
 barcode: 11187031
 ---
 

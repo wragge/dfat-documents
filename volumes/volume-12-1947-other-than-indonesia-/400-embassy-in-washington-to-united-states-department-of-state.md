@@ -3,7 +3,7 @@ title: "400 Embassy in Washington to United States Department of State"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5082
 vol_id: 12
-date: 1947-06-23
+doc_date: 1947-06-23
 ---
 
 # 400 Embassy in Washington to United States Department of State

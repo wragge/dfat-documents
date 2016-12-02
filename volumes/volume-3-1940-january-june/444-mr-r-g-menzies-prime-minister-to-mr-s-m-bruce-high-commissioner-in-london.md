@@ -3,7 +3,7 @@ title: "444 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commission
 volume: "Volume 3: 1940, January-June"
 doc_id: 1210
 vol_id: 3
-date: 1940-06-26
+doc_date: 1940-06-26
 ---
 
 # 444 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London

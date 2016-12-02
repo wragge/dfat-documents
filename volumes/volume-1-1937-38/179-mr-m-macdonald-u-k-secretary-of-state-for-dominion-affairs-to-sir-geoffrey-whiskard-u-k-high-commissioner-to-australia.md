@@ -3,7 +3,7 @@ title: "179 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Si
 volume: "Volume 1: 1937-38"
 doc_id: 178
 vol_id: 1
-date: 1938-04-01
+doc_date: 1938-04-01
 ---
 
 # 179 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner to Australia

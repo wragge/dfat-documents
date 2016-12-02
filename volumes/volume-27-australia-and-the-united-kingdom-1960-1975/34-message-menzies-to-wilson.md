@@ -3,7 +3,7 @@ title: "34 MESSAGE, MENZIES TO WILSON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9900
 vol_id: 27
-date: 1965-09-03
+doc_date: 1965-09-03
 ---
 
 # 34 MESSAGE, MENZIES TO WILSON

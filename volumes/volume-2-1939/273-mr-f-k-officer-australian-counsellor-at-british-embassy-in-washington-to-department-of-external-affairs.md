@@ -3,7 +3,7 @@ title: "273 Mr F.K. Officer, Australian Counsellor at British Embassy in Washing
 volume: "Volume 2: 1939"
 doc_id: 610
 vol_id: 2
-date: 1939-10-09
+doc_date: 1939-10-09
 ---
 
 # 273 Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to Department of External Affairs

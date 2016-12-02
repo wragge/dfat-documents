@@ -3,7 +3,7 @@ title: "115 McFarlane to Melville"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3627
 vol_id: 9
-date: 1945-12-31
+doc_date: 1945-12-31
 ---
 
 # 115 McFarlane to Melville

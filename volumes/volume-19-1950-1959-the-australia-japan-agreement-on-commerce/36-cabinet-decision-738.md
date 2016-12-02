@@ -3,7 +3,7 @@ title: "36 Cabinet Decision 738"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7641
 vol_id: 19
-date: 1953-07-02
+doc_date: 1953-07-02
 ---
 
 # 36 Cabinet Decision 738

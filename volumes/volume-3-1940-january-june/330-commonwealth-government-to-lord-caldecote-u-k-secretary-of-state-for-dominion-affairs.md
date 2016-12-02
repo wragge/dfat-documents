@@ -3,7 +3,7 @@ title: "330 Commonwealth Government to Lord Caldecote, U.K. Secretary of State f
 volume: "Volume 3: 1940, January-June"
 doc_id: 1096
 vol_id: 3
-date: 1940-06-03
+doc_date: 1940-06-03
 ---
 
 # 330 Commonwealth Government to Lord Caldecote, U.K. Secretary of State for Dominion Affairs

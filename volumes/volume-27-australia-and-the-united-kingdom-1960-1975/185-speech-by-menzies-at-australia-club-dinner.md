@@ -3,7 +3,7 @@ title: "185 SPEECH BY MENZIES AT AUSTRALIA CLUB DINNER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10050
 vol_id: 27
-date: 1962-06-12
+doc_date: 1962-06-12
 ---
 
 # 185 SPEECH BY MENZIES AT AUSTRALIA CLUB DINNER

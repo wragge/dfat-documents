@@ -3,7 +3,7 @@ title: "59 Department of External Affairs to High Commission in New Delhi"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6228
 vol_id: 15
-date: 1949-01-10
+doc_date: 1949-01-10
 barcode: 587590
 ---
 

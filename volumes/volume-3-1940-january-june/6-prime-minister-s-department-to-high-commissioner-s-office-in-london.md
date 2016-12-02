@@ -3,7 +3,7 @@ title: "6 Prime Minister's Department to High Commissioner's Office in London"
 volume: "Volume 3: 1940, January-June"
 doc_id: 772
 vol_id: 3
-date: 1940-01-08
+doc_date: 1940-01-08
 ---
 
 # 6 Prime Minister's Department to High Commissioner's Office in London

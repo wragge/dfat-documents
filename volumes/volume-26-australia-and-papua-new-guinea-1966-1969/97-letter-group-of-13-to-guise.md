@@ -3,7 +3,7 @@ title: "97 Letter, Group Of 13 To Guise"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9605
 vol_id: 26
-date: 1967-01-23
+doc_date: 1967-01-23
 barcode: 4025542
 ---
 

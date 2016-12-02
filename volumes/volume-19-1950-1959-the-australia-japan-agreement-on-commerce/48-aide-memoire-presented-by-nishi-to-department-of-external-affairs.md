@@ -3,7 +3,7 @@ title: "48 Aide Memoire Presented By Nishi To Department Of External Affairs"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7653
 vol_id: 19
-date: 1954-01-14
+doc_date: 1954-01-14
 ---
 
 # 48 Aide Memoire Presented By Nishi To Department Of External Affairs

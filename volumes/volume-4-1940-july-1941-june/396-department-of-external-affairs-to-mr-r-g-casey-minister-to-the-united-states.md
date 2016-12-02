@@ -3,7 +3,7 @@ title: "396 Department of External Affairs to Mr R. G. Casey, Minister to the Un
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1627
 vol_id: 4
-date: 1941-04-09
+doc_date: 1941-04-09
 barcode: 235575
 ---
 

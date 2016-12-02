@@ -3,7 +3,7 @@ title: "1 Evatt to Chifley"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3849
 vol_id: 10
-date: 1946-07-01
+doc_date: 1946-07-01
 ---
 
 # 1 Evatt to Chifley

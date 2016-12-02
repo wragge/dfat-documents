@@ -144,7 +144,7 @@ def harvest_all():
                         doc_file.write('vol_id: {}\n'.format(vol_id))
                         if document['date']:
                             isodate = document['date'].strftime('%Y-%m-%d')
-                            doc_file.write('date: {}\n'.format(isodate))
+                            doc_file.write('doc_date: {}\n'.format(isodate))
                         else:
                             isodate = None
                         barcode = document.get('item', {}).get('identifier')

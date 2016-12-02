@@ -3,7 +3,7 @@ title: "371 Department of External Affairs to Legation in Tokyo"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1602
 vol_id: 4
-date: 1941-03-28
+doc_date: 1941-03-28
 ---
 
 # 371 Department of External Affairs to Legation in Tokyo

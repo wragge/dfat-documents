@@ -3,7 +3,7 @@ title: "204 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Pr
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1958
 vol_id: 5
-date: 1941-12-17
+doc_date: 1941-12-17
 barcode: 1158601
 ---
 

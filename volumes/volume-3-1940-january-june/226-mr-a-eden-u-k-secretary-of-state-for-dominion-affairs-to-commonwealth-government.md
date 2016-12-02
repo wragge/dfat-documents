@@ -3,7 +3,7 @@ title: "226 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonw
 volume: "Volume 3: 1940, January-June"
 doc_id: 992
 vol_id: 3
-date: 1940-05-10
+doc_date: 1940-05-10
 ---
 
 # 226 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

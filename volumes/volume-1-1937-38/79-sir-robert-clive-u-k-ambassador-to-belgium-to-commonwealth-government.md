@@ -3,7 +3,7 @@ title: "79 Sir Robert Clive, U.K. Ambassador to Belgium, to Commonwealth Governm
 volume: "Volume 1: 1937-38"
 doc_id: 78
 vol_id: 1
-date: 1937-10-16
+doc_date: 1937-10-16
 ---
 
 # 79 Sir Robert Clive, U.K. Ambassador to Belgium, to Commonwealth Government

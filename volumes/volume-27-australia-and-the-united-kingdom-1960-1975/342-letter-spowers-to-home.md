@@ -3,7 +3,7 @@ title: "342 LETTER, SPOWERS TO HOME"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10208
 vol_id: 27
-date: 1972-11-17
+doc_date: 1972-11-17
 ---
 
 # 342 LETTER, SPOWERS TO HOME

@@ -3,7 +3,7 @@ title: "119 Cablegram From Watt to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8470
 vol_id: 21
-date: 1951-10-25
+doc_date: 1951-10-25
 barcode: 271757
 ---
 

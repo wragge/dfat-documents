@@ -3,7 +3,7 @@ title: "90 Burton to McIntyre"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6259
 vol_id: 15
-date: 1949-01-15
+doc_date: 1949-01-15
 ---
 
 # 90 Burton to McIntyre

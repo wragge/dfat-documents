@@ -3,7 +3,7 @@ title: "353 Department of External Affairs to Beasley"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7068
 vol_id: 16
-date: 1948-05-30
+doc_date: 1948-05-30
 barcode: 271936
 ---
 

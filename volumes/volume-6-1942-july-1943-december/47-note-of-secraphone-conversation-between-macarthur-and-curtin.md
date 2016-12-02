@@ -3,7 +3,7 @@ title: "47 Note of Secraphone Conversation between MacArthur and Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2338
 vol_id: 6
-date: 1942-09-17
+doc_date: 1942-09-17
 ---
 
 # 47 Note of Secraphone Conversation between MacArthur and Curtin

@@ -3,7 +3,7 @@ title: "359 Evatt to Burton"
 volume: "Volume 8: 1945"
 doc_id: 3390
 vol_id: 8
-date: 1945-11-01
+doc_date: 1945-11-01
 barcode: 188241
 ---
 

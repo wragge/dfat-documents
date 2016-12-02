@@ -3,7 +3,7 @@ title: "211 Submission No. 242, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9719
 vol_id: 26
-date: 1968-07-17
+doc_date: 1968-07-17
 barcode: 3068609
 ---
 

@@ -3,7 +3,7 @@ title: "32 Note of Meeting with Plowden"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5808
 vol_id: 14
-date: 1948-10-14
+doc_date: 1948-10-14
 barcode: 136859
 ---
 

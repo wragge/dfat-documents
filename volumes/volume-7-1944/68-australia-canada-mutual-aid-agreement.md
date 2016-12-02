@@ -3,7 +3,7 @@ title: "68 Australia-Canada Mutual Aid Agreement"
 volume: "Volume 7: 1944"
 doc_id: 2715
 vol_id: 7
-date: 1944-03-09
+doc_date: 1944-03-09
 ---
 
 # 68 Australia-Canada Mutual Aid Agreement

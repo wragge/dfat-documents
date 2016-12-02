@@ -3,7 +3,7 @@ title: "129 MESSAGE, MACMILLAN TO MENZIES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9993
 vol_id: 27
-date: 1961-04-15
+doc_date: 1961-04-15
 ---
 
 # 129 MESSAGE, MACMILLAN TO MENZIES

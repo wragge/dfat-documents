@@ -3,7 +3,7 @@ title: "322 Letter, Plimsoll To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9831
 vol_id: 26
-date: 1969-10-13
+doc_date: 1969-10-13
 barcode: 573552
 ---
 

@@ -3,7 +3,7 @@ title: "67 Submission No. 432, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9575
 vol_id: 26
-date: 1966-09-05
+doc_date: 1966-09-05
 barcode: 1807957
 ---
 

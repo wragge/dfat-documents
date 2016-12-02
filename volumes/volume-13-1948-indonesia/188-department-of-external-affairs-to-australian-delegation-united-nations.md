@@ -3,7 +3,7 @@ title: "188 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5455
 vol_id: 13
-date: 1948-06-22
+doc_date: 1948-06-22
 ---
 
 # 188 Department of External Affairs to Australian Delegation, United Nations

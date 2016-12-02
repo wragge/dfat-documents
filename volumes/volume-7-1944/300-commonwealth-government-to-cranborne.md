@@ -3,7 +3,7 @@ title: "300 Commonwealth Government to Cranborne"
 volume: "Volume 7: 1944"
 doc_id: 2947
 vol_id: 7
-date: 1944-09-26
+doc_date: 1944-09-26
 ---
 
 # 300 Commonwealth Government to Cranborne

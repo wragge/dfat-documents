@@ -3,7 +3,7 @@ title: "332 Minutes of Interdepartmental Meeting"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7047
 vol_id: 16
-date: 1948-04-13
+doc_date: 1948-04-13
 barcode: 271898
 ---
 

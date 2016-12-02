@@ -3,7 +3,7 @@ title: "77 Cablegram From Woolcott To Canberra - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9209
 vol_id: 25
-date: 1963-06-21
+doc_date: 1963-06-21
 barcode: 1501125
 ---
 

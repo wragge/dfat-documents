@@ -3,7 +3,7 @@ title: "54 Cabinet Submission by Scully and Makin"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3902
 vol_id: 10
-date: 1946-08-06
+doc_date: 1946-08-06
 ---
 
 # 54 Cabinet Submission by Scully and Makin

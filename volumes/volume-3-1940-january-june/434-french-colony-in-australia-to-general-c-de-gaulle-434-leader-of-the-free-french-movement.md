@@ -3,7 +3,7 @@ title: "434 French Colony in Australia to General C. de Gaulle, 434 Leader of th
 volume: "Volume 3: 1940, January-June"
 doc_id: 1200
 vol_id: 3
-date: 1940-06-25
+doc_date: 1940-06-25
 ---
 
 # 434 French Colony in Australia to General C. de Gaulle, 434 Leader of the Free French Movement

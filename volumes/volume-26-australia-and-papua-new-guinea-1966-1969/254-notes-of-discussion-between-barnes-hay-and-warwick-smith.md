@@ -3,7 +3,7 @@ title: "254 Notes Of Discussion Between Barnes, Hay And Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9762
 vol_id: 26
-date: 1969-01-28
+doc_date: 1969-01-28
 barcode: 4806074
 ---
 

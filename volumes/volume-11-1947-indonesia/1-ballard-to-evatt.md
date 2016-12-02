@@ -3,7 +3,7 @@ title: "1 Ballard to Evatt"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4185
 vol_id: 11
-date: 1947-01-06
+doc_date: 1947-01-06
 ---
 
 # 1 Ballard to Evatt

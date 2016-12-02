@@ -3,7 +3,7 @@ title: "4 Rivett to White"
 volume: "Volume 7: 1944"
 doc_id: 2651
 vol_id: 7
-date: 1944-01-05
+doc_date: 1944-01-05
 ---
 
 # 4 Rivett to White

@@ -3,7 +3,7 @@ title: "476 Department of External Affairs to Eggleston"
 volume: "Volume 8: 1945"
 doc_id: 3507
 vol_id: 8
-date: 1945-12-25
+doc_date: 1945-12-25
 ---
 
 # 476 Department of External Affairs to Eggleston

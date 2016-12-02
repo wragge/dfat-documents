@@ -3,7 +3,7 @@ title: "290 COMMENTS TO PRESS BY ANTHONY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10155
 vol_id: 27
-date: 1971-06-27
+doc_date: 1971-06-27
 ---
 
 # 290 COMMENTS TO PRESS BY ANTHONY

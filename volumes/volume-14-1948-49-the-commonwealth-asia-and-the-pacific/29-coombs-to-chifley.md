@@ -3,7 +3,7 @@ title: "29 Coombs to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5805
 vol_id: 14
-date: 1948-10-05
+doc_date: 1948-10-05
 barcode: 523994
 ---
 

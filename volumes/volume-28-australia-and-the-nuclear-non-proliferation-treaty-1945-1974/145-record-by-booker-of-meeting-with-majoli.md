@@ -3,7 +3,7 @@ title: "145 Record by Booker of Meeting with Majoli"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10519
 vol_id: 28
-date: 1968-07-11
+doc_date: 1968-07-11
 barcode: 1725940
 ---
 

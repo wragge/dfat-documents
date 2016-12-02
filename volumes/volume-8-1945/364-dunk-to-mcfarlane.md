@@ -3,7 +3,7 @@ title: "364 Dunk to McFarlane"
 volume: "Volume 8: 1945"
 doc_id: 3395
 vol_id: 8
-date: 1945-11-04
+doc_date: 1945-11-04
 barcode: 187582
 ---
 

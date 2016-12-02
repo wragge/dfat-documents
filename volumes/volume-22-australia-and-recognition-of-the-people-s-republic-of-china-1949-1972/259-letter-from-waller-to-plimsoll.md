@@ -3,7 +3,7 @@ title: "259 LETTER FROM WALLER TO PLIMSOLL"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8742
 vol_id: 22
-date: 1971-09-21
+doc_date: 1971-09-21
 ---
 
 # 259 LETTER FROM WALLER TO PLIMSOLL

@@ -3,7 +3,7 @@ title: "237 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. 
 volume: "Volume 2: 1939"
 doc_id: 574
 vol_id: 2
-date: 1939-09-20
+doc_date: 1939-09-20
 ---
 
 # 237 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office

@@ -3,7 +3,7 @@ title: "21 Minute from Booker to Tange"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10396
 vol_id: 28
-date: 1956-08-06
+doc_date: 1956-08-06
 barcode: 842824
 ---
 

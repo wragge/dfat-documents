@@ -3,7 +3,7 @@ title: "342 Makin to Marshall"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6118
 vol_id: 14
-date: 1948-09-02
+doc_date: 1948-09-02
 ---
 
 # 342 Makin to Marshall

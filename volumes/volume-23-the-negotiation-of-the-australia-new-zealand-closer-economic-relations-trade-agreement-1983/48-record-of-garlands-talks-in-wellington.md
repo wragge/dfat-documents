@@ -3,7 +3,7 @@ title: "48 Record of Garland's Talks in Wellington"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8918
 vol_id: 23
-date: 1979-09-19
+doc_date: 1979-09-19
 ---
 
 # 48 Record of Garland's Talks in Wellington

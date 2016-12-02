@@ -3,7 +3,7 @@ title: "98 Note by Bruce of Conversation with Keynes"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2389
 vol_id: 6
-date: 1943-01-12
+doc_date: 1943-01-12
 barcode: 242452
 ---
 

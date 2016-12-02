@@ -3,7 +3,7 @@ title: "101 Assessment by Defence Committee"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10475
 vol_id: 28
-date: 1967-12-07
+doc_date: 1967-12-07
 barcode: 1730506
 ---
 

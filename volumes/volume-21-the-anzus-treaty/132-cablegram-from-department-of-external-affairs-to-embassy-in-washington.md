@@ -3,7 +3,7 @@ title: "132 Cablegram From Department of External Affairs to Embassy in Washingt
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8483
 vol_id: 21
-date: 1952-04-28
+doc_date: 1952-04-28
 barcode: 271999
 ---
 

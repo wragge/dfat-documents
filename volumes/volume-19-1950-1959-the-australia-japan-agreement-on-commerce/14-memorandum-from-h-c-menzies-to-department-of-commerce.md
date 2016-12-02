@@ -3,7 +3,7 @@ title: "14 Memorandum From H.C. Menzies To Department Of Commerce &"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7619
 vol_id: 19
-date: 1952-05-08
+doc_date: 1952-05-08
 ---
 
 # 14 Memorandum From H.C. Menzies To Department Of Commerce &

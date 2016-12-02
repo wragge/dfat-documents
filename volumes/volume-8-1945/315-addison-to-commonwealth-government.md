@@ -3,7 +3,7 @@ title: "315 Addison to Commonwealth Government"
 volume: "Volume 8: 1945"
 doc_id: 3346
 vol_id: 8
-date: 1945-10-15
+doc_date: 1945-10-15
 barcode: 171294
 ---
 

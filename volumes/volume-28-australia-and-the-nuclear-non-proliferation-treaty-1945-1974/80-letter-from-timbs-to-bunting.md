@@ -3,7 +3,7 @@ title: "80 Letter from Timbs to Bunting"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10454
 vol_id: 28
-date: 1966-03-21
+doc_date: 1966-03-21
 barcode: 1342340
 ---
 

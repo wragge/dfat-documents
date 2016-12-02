@@ -3,7 +3,7 @@ title: "273 Department of External Affairs to Mr R. G. Casey, Minister to the Un
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1504
 vol_id: 4
-date: 1941-02-06
+doc_date: 1941-02-06
 ---
 
 # 273 Department of External Affairs to Mr R. G. Casey, Minister to the United States

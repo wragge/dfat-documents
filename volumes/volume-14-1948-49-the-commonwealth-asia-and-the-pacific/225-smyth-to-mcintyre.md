@@ -3,7 +3,7 @@ title: "225 Smyth to McIntyre"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6001
 vol_id: 14
-date: 1948-02-13
+doc_date: 1948-02-13
 ---
 
 # 225 Smyth to McIntyre

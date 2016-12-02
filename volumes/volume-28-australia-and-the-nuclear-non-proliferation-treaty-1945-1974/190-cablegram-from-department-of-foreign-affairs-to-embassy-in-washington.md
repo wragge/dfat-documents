@@ -3,7 +3,7 @@ title: "190 Cablegram from Department of Foreign Affairs to Embassy in Washingto
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10564
 vol_id: 28
-date: 1973-03-30
+doc_date: 1973-03-30
 barcode: 1373499
 ---
 

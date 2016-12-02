@@ -3,7 +3,7 @@ title: "240 Eaton to Department of External Affairs and Critchley"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5507
 vol_id: 13
-date: 1948-09-15
+doc_date: 1948-09-15
 ---
 
 # 240 Eaton to Department of External Affairs and Critchley

@@ -3,7 +3,7 @@ title: "29 Critchley to Kirby and Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5296
 vol_id: 13
-date: 1948-01-22
+doc_date: 1948-01-22
 barcode: 1729706
 ---
 

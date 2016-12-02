@@ -3,7 +3,7 @@ title: "126 Minutes of Meeting of Prime Ministers"
 volume: "Volume 7: 1944"
 doc_id: 2773
 vol_id: 7
-date: 1944-05-03
+doc_date: 1944-05-03
 ---
 
 # 126 Minutes of Meeting of Prime Ministers

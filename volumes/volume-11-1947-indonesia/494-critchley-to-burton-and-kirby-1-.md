@@ -3,7 +3,7 @@ title: "494 Critchley to Burton and Kirby [1]"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4678
 vol_id: 11
-date: 1947-12-30
+doc_date: 1947-12-30
 ---
 
 # 494 Critchley to Burton and Kirby [1]

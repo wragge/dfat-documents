@@ -3,7 +3,7 @@ title: "68 Memorandum to Jakarta"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7907
 vol_id: 20
-date: 1974-12-13
+doc_date: 1974-12-13
 ---
 
 # 68 Memorandum to Jakarta

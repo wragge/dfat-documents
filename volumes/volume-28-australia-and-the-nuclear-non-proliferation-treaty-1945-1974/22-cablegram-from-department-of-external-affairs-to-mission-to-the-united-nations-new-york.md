@@ -3,7 +3,7 @@ title: "22 Cablegram from Department of External Affairs to Mission to the Unite
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10397
 vol_id: 28
-date: 1957-01-14
+doc_date: 1957-01-14
 barcode: 430736
 ---
 

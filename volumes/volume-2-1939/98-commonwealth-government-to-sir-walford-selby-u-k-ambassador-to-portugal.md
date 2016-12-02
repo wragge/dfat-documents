@@ -3,7 +3,7 @@ title: "98 Commonwealth Government to Sir Walford Selby, U.K. Ambassador to Port
 volume: "Volume 2: 1939"
 doc_id: 435
 vol_id: 2
-date: 1939-06-01
+doc_date: 1939-06-01
 barcode: 206913
 ---
 

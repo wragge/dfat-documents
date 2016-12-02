@@ -3,7 +3,7 @@ title: "301 Department of External Affairs to Critchley"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5568
 vol_id: 13
-date: 1948-11-03
+doc_date: 1948-11-03
 barcode: 1729706
 ---
 

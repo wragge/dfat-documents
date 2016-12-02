@@ -3,7 +3,7 @@ title: "499 Kevin to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5766
 vol_id: 13
-date: 1948-12-30
+doc_date: 1948-12-30
 ---
 
 # 499 Kevin to Burton

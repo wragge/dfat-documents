@@ -3,7 +3,7 @@ title: "18 NOTES ON CABINET MEETING"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8502
 vol_id: 22
-date: 1950-08-25
+doc_date: 1950-08-25
 barcode: 4986020
 ---
 

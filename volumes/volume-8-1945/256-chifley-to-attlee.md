@@ -3,7 +3,7 @@ title: "256 Chifley to Attlee"
 volume: "Volume 8: 1945"
 doc_id: 3287
 vol_id: 8
-date: 1945-09-21
+doc_date: 1945-09-21
 ---
 
 # 256 Chifley to Attlee

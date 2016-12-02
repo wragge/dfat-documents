@@ -3,7 +3,7 @@ title: "189 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Me
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1420
 vol_id: 4
-date: 1940-11-02
+doc_date: 1940-11-02
 ---
 
 # 189 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Menzies, Prime Minister

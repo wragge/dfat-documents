@@ -3,7 +3,7 @@ title: "407 Mr R. G. Casey, Minister to the United States, to the Department of 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2161
 vol_id: 5
-date: 1942-03-12
+doc_date: 1942-03-12
 ---
 
 # 407 Mr R. G. Casey, Minister to the United States, to the Department of External Affairs

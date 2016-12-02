@@ -3,7 +3,7 @@ title: "425 Australian Government to Noel-Baker"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5107
 vol_id: 12
-date: 1947-11-12
+doc_date: 1947-11-12
 ---
 
 # 425 Australian Government to Noel-Baker

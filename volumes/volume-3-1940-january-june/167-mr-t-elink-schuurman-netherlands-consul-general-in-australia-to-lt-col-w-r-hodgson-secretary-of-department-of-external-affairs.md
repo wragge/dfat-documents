@@ -3,7 +3,7 @@ title: "167 Mr T. Elink Schuurman, Netherlands Consul-General in Australia, to L
 volume: "Volume 3: 1940, January-June"
 doc_id: 933
 vol_id: 3
-date: 1940-04-22
+doc_date: 1940-04-22
 ---
 
 # 167 Mr T. Elink Schuurman, Netherlands Consul-General in Australia, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs

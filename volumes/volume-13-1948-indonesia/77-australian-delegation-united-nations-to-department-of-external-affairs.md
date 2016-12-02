@@ -3,7 +3,7 @@ title: "77 Australian Delegation, United Nations, to Department of External Affa
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5344
 vol_id: 13
-date: 1948-02-18
+doc_date: 1948-02-18
 barcode: 1729706
 ---
 

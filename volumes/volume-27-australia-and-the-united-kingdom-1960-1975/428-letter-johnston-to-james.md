@@ -3,7 +3,7 @@ title: "428 LETTER JOHNSTON TO JAMES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10294
 vol_id: 27
-date: 1968-03-06
+doc_date: 1968-03-06
 ---
 
 # 428 LETTER JOHNSTON TO JAMES

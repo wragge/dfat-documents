@@ -3,7 +3,7 @@ title: "240 Chifley to Attlee"
 volume: "Volume 8: 1945"
 doc_id: 3271
 vol_id: 8
-date: 1945-09-10
+doc_date: 1945-09-10
 barcode: 171294
 ---
 

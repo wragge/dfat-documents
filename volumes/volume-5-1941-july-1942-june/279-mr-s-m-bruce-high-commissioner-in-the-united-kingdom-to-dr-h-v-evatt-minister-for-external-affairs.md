@@ -3,7 +3,7 @@ title: "279 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Dr H. V.
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2033
 vol_id: 5
-date: 1942-01-17
+doc_date: 1942-01-17
 ---
 
 # 279 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Dr H. V. Evatt, Minister for External Affairs

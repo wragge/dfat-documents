@@ -3,7 +3,7 @@ title: "27 Extract from Minute of Defence Committee Meeting - Historical Documen
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9161
 vol_id: 25
-date: 1963-02-07
+doc_date: 1963-02-07
 barcode: 705862
 ---
 

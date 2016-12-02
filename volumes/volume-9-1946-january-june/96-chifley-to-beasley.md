@@ -3,7 +3,7 @@ title: "96 Chifley to Beasley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3608
 vol_id: 9
-date: 1946-02-18
+doc_date: 1946-02-18
 ---
 
 # 96 Chifley to Beasley

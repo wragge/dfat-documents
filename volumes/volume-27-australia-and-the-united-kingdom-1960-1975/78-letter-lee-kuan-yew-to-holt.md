@@ -3,7 +3,7 @@ title: "78 LETTER, LEE KUAN YEW TO HOLT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9943
 vol_id: 27
-date: 1967-07-06
+doc_date: 1967-07-06
 ---
 
 # 78 LETTER, LEE KUAN YEW TO HOLT

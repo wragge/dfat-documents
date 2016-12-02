@@ -3,7 +3,7 @@ title: "291 Sjahrir to Brookes"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3803
 vol_id: 9
-date: 1946-06-05
+doc_date: 1946-06-05
 ---
 
 # 291 Sjahrir to Brookes

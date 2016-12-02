@@ -3,7 +3,7 @@ title: "497 Memorandum by Dr H. V. Evatt, Minister for External Affairs"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2251
 vol_id: 5
-date: 1942-05-13
+doc_date: 1942-05-13
 barcode: 235701
 ---
 

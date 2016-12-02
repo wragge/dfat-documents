@@ -3,7 +3,7 @@ title: "410 BULLETIN AUSTRALIAN HIGH COMMISSION STAFF ASSOCIATION"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10276
 vol_id: 27
-date: 1972-11-01
+doc_date: 1972-11-01
 ---
 
 # 410 BULLETIN AUSTRALIAN HIGH COMMISSION STAFF ASSOCIATION

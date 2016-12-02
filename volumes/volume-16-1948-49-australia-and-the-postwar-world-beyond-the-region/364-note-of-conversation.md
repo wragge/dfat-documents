@@ -3,7 +3,7 @@ title: "364 Note of Conversation"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7079
 vol_id: 16
-date: 1948-07-12
+doc_date: 1948-07-12
 barcode: 666860
 ---
 

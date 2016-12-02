@@ -3,7 +3,7 @@ title: "100 Mr A. T. Stirling, External Affairs Officer in London, 100 to Lt Col
 volume: "Volume 1: 1937-38"
 doc_id: 99
 vol_id: 1
-date: 1937-10-30
+doc_date: 1937-10-30
 ---
 
 # 100 Mr A. T. Stirling, External Affairs Officer in London, 100 to Lt Col W. R. Hodgson, Secretary of Department of External Affairs

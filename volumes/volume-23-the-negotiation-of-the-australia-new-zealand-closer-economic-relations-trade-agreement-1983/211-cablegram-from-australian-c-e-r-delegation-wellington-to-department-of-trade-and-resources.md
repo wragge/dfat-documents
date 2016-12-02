@@ -3,7 +3,7 @@ title: "211 Cablegram from Australian C.E.R. Delegation, Wellington, to Departme
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9080
 vol_id: 23
-date: 1982-10-08
+doc_date: 1982-10-08
 ---
 
 # 211 Cablegram from Australian C.E.R. Delegation, Wellington, to Department of Trade and Resources

@@ -3,7 +3,7 @@ title: "297 Embassy in Washington to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5564
 vol_id: 13
-date: 1948-11-01
+doc_date: 1948-11-01
 ---
 
 # 297 Embassy in Washington to Department of External Affairs

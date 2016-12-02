@@ -3,7 +3,7 @@ title: "395 Embassy in Washington to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5077
 vol_id: 12
-date: 1947-05-27
+doc_date: 1947-05-27
 barcode: 195234
 ---
 

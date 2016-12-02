@@ -3,7 +3,7 @@ title: "24 Note from Brown to Timbs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10399
 vol_id: 28
-date: 1957-06-07
+doc_date: 1957-06-07
 barcode: 504938
 ---
 

@@ -3,7 +3,7 @@ title: "300 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in 
 volume: "Volume 1: 1937-38"
 doc_id: 299
 vol_id: 1
-date: 1938-10-12
+doc_date: 1938-10-12
 ---
 
 # 300 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London

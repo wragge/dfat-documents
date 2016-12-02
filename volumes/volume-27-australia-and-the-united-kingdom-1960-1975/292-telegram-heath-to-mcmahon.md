@@ -3,7 +3,7 @@ title: "292 TELEGRAM, HEATH TO MCMAHON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10157
 vol_id: 27
-date: 1971-07-02
+doc_date: 1971-07-02
 ---
 
 # 292 TELEGRAM, HEATH TO MCMAHON

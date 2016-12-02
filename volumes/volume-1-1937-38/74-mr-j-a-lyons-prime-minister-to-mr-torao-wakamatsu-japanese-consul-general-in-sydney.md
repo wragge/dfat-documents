@@ -3,7 +3,7 @@ title: "74 Mr J. A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consu
 volume: "Volume 1: 1937-38"
 doc_id: 74
 vol_id: 1
-date: 1937-10-05
+doc_date: 1937-10-05
 ---
 
 # 74 Mr J. A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul-General in Sydney

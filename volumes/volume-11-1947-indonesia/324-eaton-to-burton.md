@@ -3,7 +3,7 @@ title: "324 Eaton to Burton"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4508
 vol_id: 11
-date: 1947-09-08
+doc_date: 1947-09-08
 ---
 
 # 324 Eaton to Burton

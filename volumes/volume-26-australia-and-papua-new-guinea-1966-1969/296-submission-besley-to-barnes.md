@@ -3,7 +3,7 @@ title: "296 Submission, Besley To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9804
 vol_id: 26
-date: 1969-07-21
+doc_date: 1969-07-21
 barcode: 3118261
 ---
 

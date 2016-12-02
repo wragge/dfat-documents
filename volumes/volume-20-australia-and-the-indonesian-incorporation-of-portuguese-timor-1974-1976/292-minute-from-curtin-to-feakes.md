@@ -3,7 +3,7 @@ title: "292 Minute from Curtin to Feakes"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8130
 vol_id: 20
-date: 1975-10-24
+doc_date: 1975-10-24
 ---
 
 # 292 Minute from Curtin to Feakes

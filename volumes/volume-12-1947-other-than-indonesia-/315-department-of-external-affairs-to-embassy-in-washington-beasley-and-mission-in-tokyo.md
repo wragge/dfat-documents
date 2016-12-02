@@ -3,7 +3,7 @@ title: "315 Department of External Affairs to Embassy in Washington, Beasley and
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4997
 vol_id: 12
-date: 1947-05-26
+doc_date: 1947-05-26
 ---
 
 # 315 Department of External Affairs to Embassy in Washington, Beasley and Mission in Tokyo

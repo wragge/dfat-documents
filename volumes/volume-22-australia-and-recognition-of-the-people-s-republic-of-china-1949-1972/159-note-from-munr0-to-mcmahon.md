@@ -3,7 +3,7 @@ title: "159 NOTE FROM MUNR0 TO McMAHON"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8642
 vol_id: 22
-date: 1971-02-23
+doc_date: 1971-02-23
 barcode: 3196097
 ---
 

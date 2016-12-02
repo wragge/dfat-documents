@@ -3,7 +3,7 @@ title: "364 Hodgson to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 3011
 vol_id: 7
-date: 1944-11-28
+doc_date: 1944-11-28
 ---
 
 # 364 Hodgson to Evatt

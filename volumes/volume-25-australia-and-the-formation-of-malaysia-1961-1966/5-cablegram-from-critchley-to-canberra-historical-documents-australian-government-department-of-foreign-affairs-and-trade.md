@@ -3,7 +3,7 @@ title: "5 Cablegram from Critchley to Canberra - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9139
 vol_id: 25
-date: 1962-05-10
+doc_date: 1962-05-10
 barcode: 550151
 ---
 

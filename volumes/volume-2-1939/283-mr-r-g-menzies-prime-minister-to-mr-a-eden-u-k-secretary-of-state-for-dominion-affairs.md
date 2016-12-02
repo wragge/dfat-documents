@@ -3,7 +3,7 @@ title: "283 Mr R.G. Menzies, Prime Minister, to Mr A. Eden, U.K. Secretary of St
 volume: "Volume 2: 1939"
 doc_id: 620
 vol_id: 2
-date: 1939-10-11
+doc_date: 1939-10-11
 ---
 
 # 283 Mr R.G. Menzies, Prime Minister, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs

@@ -3,7 +3,7 @@ title: "191 Note From Australian Delegation [1] To Japanese Embassy"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7796
 vol_id: 19
-date: 1957-02-15
+doc_date: 1957-02-15
 ---
 
 # 191 Note From Australian Delegation [1] To Japanese Embassy

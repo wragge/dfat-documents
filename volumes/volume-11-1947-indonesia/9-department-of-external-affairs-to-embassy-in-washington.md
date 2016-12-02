@@ -3,7 +3,7 @@ title: "9 Department of External Affairs to Embassy in Washington"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4193
 vol_id: 11
-date: 1947-03-10
+doc_date: 1947-03-10
 ---
 
 # 9 Department of External Affairs to Embassy in Washington

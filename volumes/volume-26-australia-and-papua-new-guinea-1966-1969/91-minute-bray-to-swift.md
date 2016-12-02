@@ -3,7 +3,7 @@ title: "91 Minute, Bray To Swift"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9599
 vol_id: 26
-date: 1967-02-16
+doc_date: 1967-02-16
 barcode: 3111874
 ---
 

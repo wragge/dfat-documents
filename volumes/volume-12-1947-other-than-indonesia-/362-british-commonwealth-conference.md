@@ -3,7 +3,7 @@ title: "362 British Commonwealth Conference"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5044
 vol_id: 12
-date: 1947-09-01
+doc_date: 1947-09-01
 ---
 
 # 362 British Commonwealth Conference

@@ -3,7 +3,7 @@ title: "251 Mr R. G. Casey, Minister to the United States, to Department of Exte
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2005
 vol_id: 5
-date: 1942-01-02
+doc_date: 1942-01-02
 ---
 
 # 251 Mr R. G. Casey, Minister to the United States, to Department of External Affairs

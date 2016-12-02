@@ -3,7 +3,7 @@ title: "369 Evatt to MacArthur"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5051
 vol_id: 12
-date: 1947-10-12
+doc_date: 1947-10-12
 ---
 
 # 369 Evatt to MacArthur

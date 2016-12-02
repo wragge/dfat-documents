@@ -3,7 +3,7 @@ title: "294 Cablegram to Kuala Lumpur and Singapore - Historical Documents - Aus
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9424
 vol_id: 25
-date: 1965-08-09
+doc_date: 1965-08-09
 barcode: 3055646
 ---
 

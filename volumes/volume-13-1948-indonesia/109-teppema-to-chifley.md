@@ -3,7 +3,7 @@ title: "109 Teppema to Chifley"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5376
 vol_id: 13
-date: 1948-04-01
+doc_date: 1948-04-01
 ---
 
 # 109 Teppema to Chifley

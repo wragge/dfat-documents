@@ -3,7 +3,7 @@ title: "198 Massey to Evatt"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5974
 vol_id: 14
-date: 1948-07-15
+doc_date: 1948-07-15
 ---
 
 # 198 Massey to Evatt

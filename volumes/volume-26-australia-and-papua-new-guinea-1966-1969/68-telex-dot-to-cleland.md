@@ -3,7 +3,7 @@ title: "68 Telex, Dot To Cleland"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9576
 vol_id: 26
-date: 1966-09-06
+doc_date: 1966-09-06
 barcode: 12030527
 ---
 

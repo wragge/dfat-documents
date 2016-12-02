@@ -3,7 +3,7 @@ title: "125 Cablegram to Canberra and Paris - Historical Documents - Australian 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9256
 vol_id: 25
-date: 1963-10-09
+doc_date: 1963-10-09
 ---
 
 # 125 Cablegram to Canberra and Paris - Historical Documents - Australian Government Department of Foreign Affairs and Trade

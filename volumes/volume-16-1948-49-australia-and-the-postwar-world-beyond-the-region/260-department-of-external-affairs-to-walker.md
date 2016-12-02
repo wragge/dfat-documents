@@ -3,7 +3,7 @@ title: "260 Department of External Affairs to Walker"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6975
 vol_id: 16
-date: 1949-09-28
+doc_date: 1949-09-28
 ---
 
 # 260 Department of External Affairs to Walker

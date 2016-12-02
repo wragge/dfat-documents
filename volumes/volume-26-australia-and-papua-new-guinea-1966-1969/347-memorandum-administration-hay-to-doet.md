@@ -3,7 +3,7 @@ title: "347 Memorandum, Administration (Hay) To Doet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9856
 vol_id: 26
-date: 1969-12-13
+doc_date: 1969-12-13
 ---
 
 # 347 Memorandum, Administration (Hay) To Doet

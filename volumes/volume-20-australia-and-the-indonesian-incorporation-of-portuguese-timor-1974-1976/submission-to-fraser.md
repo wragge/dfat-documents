@@ -3,7 +3,7 @@ title: "Submission to Fraser"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8349
 vol_id: 20
-date: 1976-08-06
+doc_date: 1976-08-06
 ---
 
 # Submission to Fraser

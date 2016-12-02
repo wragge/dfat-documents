@@ -3,7 +3,7 @@ title: "243 Beasley and Hodgson to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4925
 vol_id: 12
-date: 1947-01-25
+doc_date: 1947-01-25
 barcode: 194635
 ---
 

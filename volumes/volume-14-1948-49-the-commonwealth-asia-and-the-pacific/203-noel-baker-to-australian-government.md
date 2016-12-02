@@ -3,7 +3,7 @@ title: "203 Noel-Baker to Australian Government"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5979
 vol_id: 14
-date: 1948-08-21
+doc_date: 1948-08-21
 ---
 
 # 203 Noel-Baker to Australian Government

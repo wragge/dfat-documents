@@ -3,7 +3,7 @@ title: "295 Landale to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5562
 vol_id: 13
-date: 1948-11-01
+doc_date: 1948-11-01
 ---
 
 # 295 Landale to Burton

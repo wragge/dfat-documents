@@ -3,7 +3,7 @@ title: "299 Watt to Department of External Affairs"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7014
 vol_id: 16
-date: 1948-08-28
+doc_date: 1948-08-28
 barcode: 139807
 ---
 

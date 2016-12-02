@@ -3,7 +3,7 @@ title: "530 Notes by Eaton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6699
 vol_id: 15
-date: 1949-11-13
+doc_date: 1949-11-13
 ---
 
 # 530 Notes by Eaton

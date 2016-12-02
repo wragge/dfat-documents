@@ -3,7 +3,7 @@ title: "90 Chifley to MacArthur"
 volume: "Volume 8: 1945"
 doc_id: 3121
 vol_id: 8
-date: 1945-05-20
+doc_date: 1945-05-20
 ---
 
 # 90 Chifley to MacArthur

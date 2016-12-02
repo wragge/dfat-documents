@@ -3,7 +3,7 @@ title: "96 Cablegram To London - Historical Documents - Australian Government De
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9227
 vol_id: 25
-date: 1963-08-04
+doc_date: 1963-08-04
 barcode: 1343637
 ---
 

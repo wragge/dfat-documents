@@ -3,7 +3,7 @@ title: "333 Makin to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3364
 vol_id: 8
-date: 1945-10-23
+doc_date: 1945-10-23
 ---
 
 # 333 Makin to Chifley

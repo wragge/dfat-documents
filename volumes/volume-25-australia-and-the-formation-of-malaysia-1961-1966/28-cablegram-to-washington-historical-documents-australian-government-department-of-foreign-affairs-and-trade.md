@@ -3,7 +3,7 @@ title: "28 Cablegram to Washington - Historical Documents - Australian Governmen
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9162
 vol_id: 25
-date: 1963-02-08
+doc_date: 1963-02-08
 barcode: 1565457
 ---
 

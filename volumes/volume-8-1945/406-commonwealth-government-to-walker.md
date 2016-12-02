@@ -3,7 +3,7 @@ title: "406 Commonwealth Government to Walker"
 volume: "Volume 8: 1945"
 doc_id: 3437
 vol_id: 8
-date: 1945-11-23
+doc_date: 1945-11-23
 barcode: 188240
 ---
 

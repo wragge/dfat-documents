@@ -3,7 +3,7 @@ title: "161 Draft Full Cabinet Submission by Department of External Affairs"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1392
 vol_id: 4
-date: 1940-10-07
+doc_date: 1940-10-07
 ---
 
 # 161 Draft Full Cabinet Submission by Department of External Affairs

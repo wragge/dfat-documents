@@ -3,7 +3,7 @@ title: "186 CABLEGRAM, MENZIES TO MCEWEN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10051
 vol_id: 27
-date: 1962-06-19
+doc_date: 1962-06-19
 ---
 
 # 186 CABLEGRAM, MENZIES TO MCEWEN

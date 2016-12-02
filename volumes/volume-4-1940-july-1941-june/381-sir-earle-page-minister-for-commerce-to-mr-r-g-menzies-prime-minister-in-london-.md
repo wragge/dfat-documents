@@ -3,7 +3,7 @@ title: "381 Sir Earle Page, Minister for Commerce, to Mr R. G. Menzies, Prime Mi
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1612
 vol_id: 4
-date: 1941-04-03
+doc_date: 1941-04-03
 ---
 
 # 381 Sir Earle Page, Minister for Commerce, to Mr R. G. Menzies, Prime Minister (in London)

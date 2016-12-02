@@ -3,7 +3,7 @@ title: "319 Mr R. G. Casey, Minister to the United States, to Senator H. S. Foll
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1550
 vol_id: 4
-date: 1941-02-24
+doc_date: 1941-02-24
 barcode: 235621
 ---
 

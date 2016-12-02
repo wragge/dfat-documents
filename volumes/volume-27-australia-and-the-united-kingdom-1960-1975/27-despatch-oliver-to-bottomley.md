@@ -3,7 +3,7 @@ title: "27 DESPATCH, OLIVER TO BOTTOMLEY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9894
 vol_id: 27
-date: 1964-12-08
+doc_date: 1964-12-08
 ---
 
 # 27 DESPATCH, OLIVER TO BOTTOMLEY

@@ -3,7 +3,7 @@ title: "288 Churchill to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2935
 vol_id: 7
-date: 1944-09-18
+doc_date: 1944-09-18
 ---
 
 # 288 Churchill to Curtin

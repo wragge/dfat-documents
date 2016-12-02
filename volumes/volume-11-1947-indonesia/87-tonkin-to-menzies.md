@@ -3,7 +3,7 @@ title: "87 Tonkin to Menzies"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4271
 vol_id: 11
-date: 1947-06-17
+doc_date: 1947-06-17
 ---
 
 # 87 Tonkin to Menzies

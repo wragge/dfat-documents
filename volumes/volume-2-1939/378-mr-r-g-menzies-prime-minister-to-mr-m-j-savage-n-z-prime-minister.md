@@ -3,7 +3,7 @@ title: "378 Mr R.G. Menzies, Prime Minister, to Mr M.J. Savage, N.Z. Prime Minis
 volume: "Volume 2: 1939"
 doc_id: 715
 vol_id: 2
-date: 1939-11-21
+doc_date: 1939-11-21
 ---
 
 # 378 Mr R.G. Menzies, Prime Minister, to Mr M.J. Savage, N.Z. Prime Minister

@@ -3,7 +3,7 @@ title: "209 Plimsoll to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4891
 vol_id: 12
-date: 1947-10-20
+doc_date: 1947-10-20
 ---
 
 # 209 Plimsoll to Burton

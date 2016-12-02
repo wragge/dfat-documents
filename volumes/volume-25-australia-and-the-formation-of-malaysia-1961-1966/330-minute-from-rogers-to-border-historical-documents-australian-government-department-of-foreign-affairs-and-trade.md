@@ -3,7 +3,7 @@ title: "330 Minute from Rogers to Border - Historical Documents - Australian Gov
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9460
 vol_id: 25
-date: 1965-09-20
+doc_date: 1965-09-20
 barcode: 1500931
 ---
 

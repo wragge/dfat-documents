@@ -3,7 +3,7 @@ title: "350 Mr A.T. Stirling, External Affairs Officer in London, to Lt Col W.R.
 volume: "Volume 2: 1939"
 doc_id: 687
 vol_id: 2
-date: 1939-11-10
+doc_date: 1939-11-10
 ---
 
 # 350 Mr A.T. Stirling, External Affairs Officer in London, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs

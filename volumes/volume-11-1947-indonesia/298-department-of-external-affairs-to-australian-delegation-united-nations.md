@@ -3,7 +3,7 @@ title: "298 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4482
 vol_id: 11
-date: 1947-08-25
+doc_date: 1947-08-25
 ---
 
 # 298 Department of External Affairs to Australian Delegation, United Nations

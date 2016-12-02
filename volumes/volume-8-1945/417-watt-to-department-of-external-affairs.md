@@ -3,7 +3,7 @@ title: "417 Watt to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3448
 vol_id: 8
-date: 1945-11-26
+doc_date: 1945-11-26
 barcode: 187188
 ---
 

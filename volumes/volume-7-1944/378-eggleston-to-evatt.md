@@ -3,7 +3,7 @@ title: "378 Eggleston to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 3025
 vol_id: 7
-date: 1944-12-19
+doc_date: 1944-12-19
 barcode: 1886556
 ---
 

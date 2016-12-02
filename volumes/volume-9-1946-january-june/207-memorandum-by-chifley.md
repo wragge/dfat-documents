@@ -3,7 +3,7 @@ title: "207 Memorandum by Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3719
 vol_id: 9
-date: 1946-04-23
+doc_date: 1946-04-23
 barcode: 694890
 ---
 

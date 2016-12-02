@@ -3,7 +3,7 @@ title: "103 Cablegram From Casey to McCarthy"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8454
 vol_id: 21
-date: 1951-07-12
+doc_date: 1951-07-12
 ---
 
 # 103 Cablegram From Casey to McCarthy

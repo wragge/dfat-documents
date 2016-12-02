@@ -3,7 +3,7 @@ title: "100 Note by Bruce of Conversation with Attlee"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2391
 vol_id: 6
-date: 1943-01-13
+doc_date: 1943-01-13
 barcode: 242452
 ---
 

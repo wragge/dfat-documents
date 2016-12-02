@@ -3,7 +3,7 @@ title: "159 MINUTE, SALTER TO MENZIES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10024
 vol_id: 27
-date: 1961-10-24
+doc_date: 1961-10-24
 ---
 
 # 159 MINUTE, SALTER TO MENZIES

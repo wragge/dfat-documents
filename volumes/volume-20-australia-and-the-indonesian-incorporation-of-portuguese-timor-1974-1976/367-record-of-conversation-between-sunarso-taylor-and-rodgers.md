@@ -3,7 +3,7 @@ title: "367 Record of Conversation Between Sunarso, Taylor and Rodgers"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8205
 vol_id: 20
-date: 1975-12-09
+doc_date: 1975-12-09
 ---
 
 # 367 Record of Conversation Between Sunarso, Taylor and Rodgers

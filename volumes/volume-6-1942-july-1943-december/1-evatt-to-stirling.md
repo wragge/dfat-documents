@@ -3,7 +3,7 @@ title: "1 Evatt to Stirling"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2292
 vol_id: 6
-date: 1942-07-02
+doc_date: 1942-07-02
 ---
 
 # 1 Evatt to Stirling

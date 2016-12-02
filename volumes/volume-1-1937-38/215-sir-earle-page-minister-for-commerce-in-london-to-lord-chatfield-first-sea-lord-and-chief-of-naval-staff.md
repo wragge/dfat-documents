@@ -3,7 +3,7 @@ title: "215 Sir Earle Page, Minister for Commerce (in London), to Lord Chatfield
 volume: "Volume 1: 1937-38"
 doc_id: 214
 vol_id: 1
-date: 1938-06-07
+doc_date: 1938-06-07
 barcode: 206859
 ---
 

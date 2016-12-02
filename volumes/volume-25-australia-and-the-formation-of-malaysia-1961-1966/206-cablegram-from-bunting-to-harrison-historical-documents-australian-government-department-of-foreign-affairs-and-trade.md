@@ -3,7 +3,7 @@ title: "206 Cablegram from Bunting to Harrison - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9336
 vol_id: 25
-date: 1964-09-13
+doc_date: 1964-09-13
 barcode: 1727130
 ---
 

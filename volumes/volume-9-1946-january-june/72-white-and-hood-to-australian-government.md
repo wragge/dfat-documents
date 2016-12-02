@@ -3,7 +3,7 @@ title: "72 White and Hood to Australian Government"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3584
 vol_id: 9
-date: 1946-02-07
+doc_date: 1946-02-07
 ---
 
 # 72 White and Hood to Australian Government

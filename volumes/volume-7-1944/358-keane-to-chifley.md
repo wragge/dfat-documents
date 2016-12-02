@@ -3,7 +3,7 @@ title: "358 Keane to Chifley"
 volume: "Volume 7: 1944"
 doc_id: 3005
 vol_id: 7
-date: 1944-11-23
+doc_date: 1944-11-23
 ---
 
 # 358 Keane to Chifley

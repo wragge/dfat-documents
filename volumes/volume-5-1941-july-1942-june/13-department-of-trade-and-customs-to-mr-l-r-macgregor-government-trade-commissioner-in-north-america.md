@@ -3,7 +3,7 @@ title: "13 Department of Trade and Customs to Mr L. R. Macgregor, Government Tra
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1767
 vol_id: 5
-date: 1941-07-23
+doc_date: 1941-07-23
 ---
 
 # 13 Department of Trade and Customs to Mr L. R. Macgregor, Government Trade Commissioner in North America

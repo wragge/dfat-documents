@@ -3,7 +3,7 @@ title: "54 Johnson to Evatt Letter"
 volume: "Volume 8: 1945"
 doc_id: 3085
 vol_id: 8
-date: 1945-03-06
+doc_date: 1945-03-06
 barcode: 187995
 ---
 

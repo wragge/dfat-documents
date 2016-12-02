@@ -3,7 +3,7 @@ title: "156 Mr M. MacDonald, U.K. Secretary of State for ominion Affairs, to Com
 volume: "Volume 1: 1937-38"
 doc_id: 155
 vol_id: 1
-date: 1938-03-23
+doc_date: 1938-03-23
 ---
 
 # 156 Mr M. MacDonald, U.K. Secretary of State for ominion Affairs, to Commonwealth Government

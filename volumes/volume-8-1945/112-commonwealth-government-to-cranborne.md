@@ -3,7 +3,7 @@ title: "112 Commonwealth Government to Cranborne"
 volume: "Volume 8: 1945"
 doc_id: 3143
 vol_id: 8
-date: 1945-06-16
+doc_date: 1945-06-16
 ---
 
 # 112 Commonwealth Government to Cranborne

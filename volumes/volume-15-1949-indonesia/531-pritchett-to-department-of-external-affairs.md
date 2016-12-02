@@ -3,7 +3,7 @@ title: "531 Pritchett to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6700
 vol_id: 15
-date: 1949-11-22
+doc_date: 1949-11-22
 ---
 
 # 531 Pritchett to Department of External Affairs

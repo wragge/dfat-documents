@@ -3,7 +3,7 @@ title: "49-Letter-from-Furlonger-to-Feakes"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7888
 vol_id: 20
-date: 1974-10-16
+doc_date: 1974-10-16
 barcode: 4151641
 ---
 

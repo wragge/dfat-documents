@@ -3,7 +3,7 @@ title: "563 Makin to Vandenberg"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5245
 vol_id: 12
-date: 1947-12-30
+doc_date: 1947-12-30
 ---
 
 # 563 Makin to Vandenberg

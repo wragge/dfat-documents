@@ -3,7 +3,7 @@ title: "36 Evatt to Glasgow"
 volume: "Volume 7: 1944"
 doc_id: 2683
 vol_id: 7
-date: 1944-02-01
+doc_date: 1944-02-01
 ---
 
 # 36 Evatt to Glasgow

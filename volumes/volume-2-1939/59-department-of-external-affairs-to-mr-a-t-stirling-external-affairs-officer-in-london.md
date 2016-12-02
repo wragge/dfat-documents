@@ -3,7 +3,7 @@ title: "59 Department of External Affairs to Mr A.T. Stirling, External Affairs 
 volume: "Volume 2: 1939"
 doc_id: 396
 vol_id: 2
-date: 1939-03-29
+doc_date: 1939-03-29
 ---
 
 # 59 Department of External Affairs to Mr A.T. Stirling, External Affairs Officer in London

@@ -3,7 +3,7 @@ title: "120 Department of External Affairs to Posts"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3968
 vol_id: 10
-date: 1946-09-17
+doc_date: 1946-09-17
 ---
 
 # 120 Department of External Affairs to Posts

@@ -3,7 +3,7 @@ title: "336 High Commission in New Delhi to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6505
 vol_id: 15
-date: 1949-04-04
+doc_date: 1949-04-04
 ---
 
 # 336 High Commission in New Delhi to Department of External Affairs

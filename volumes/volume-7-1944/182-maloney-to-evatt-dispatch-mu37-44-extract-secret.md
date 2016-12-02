@@ -3,7 +3,7 @@ title: "182 Maloney to Evatt Dispatch MU37/44 (extract) SECRET"
 volume: "Volume 7: 1944"
 doc_id: 2829
 vol_id: 7
-date: 1944-06-03
+doc_date: 1944-06-03
 ---
 
 # 182 Maloney to Evatt Dispatch MU37/44 (extract) SECRET

@@ -3,7 +3,7 @@ title: "325 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr N. C
 volume: "Volume 2: 1939"
 doc_id: 662
 vol_id: 2
-date: 1939-11-03
+doc_date: 1939-11-03
 ---
 
 # 325 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr N. Chamberlain, U.K Prime Minister

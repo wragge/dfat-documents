@@ -3,7 +3,7 @@ title: "204 DIARY ENTRY BY HOLT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10069
 vol_id: 27
-date: 1962-09-02
+doc_date: 1962-09-02
 ---
 
 # 204 DIARY ENTRY BY HOLT

@@ -3,7 +3,7 @@ title: "121 Atyeo to Evatt"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6836
 vol_id: 16
-date: 1949-09-22
+doc_date: 1949-09-22
 ---
 
 # 121 Atyeo to Evatt

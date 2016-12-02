@@ -3,7 +3,7 @@ title: "107 Summarised Report of Shipping Survey"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8977
 vol_id: 23
-date: 1980-10-31
+doc_date: 1980-10-31
 ---
 
 # 107 Summarised Report of Shipping Survey

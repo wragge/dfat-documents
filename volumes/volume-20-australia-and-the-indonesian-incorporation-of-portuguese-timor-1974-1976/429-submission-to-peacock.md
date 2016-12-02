@@ -3,7 +3,7 @@ title: "429 Submission to Peacock"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8267
 vol_id: 20
-date: 1976-02-24
+doc_date: 1976-02-24
 ---
 
 # 429 Submission to Peacock

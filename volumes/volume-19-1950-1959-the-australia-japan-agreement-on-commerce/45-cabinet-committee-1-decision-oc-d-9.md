@@ -3,7 +3,7 @@ title: "45 Cabinet Committee [1] Decision Oc(D)9"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7650
 vol_id: 19
-date: 1953-10-16
+doc_date: 1953-10-16
 ---
 
 # 45 Cabinet Committee [1] Decision Oc(D)9

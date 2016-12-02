@@ -3,7 +3,7 @@ title: "152 Dixon to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2443
 vol_id: 6
-date: 1943-04-06
+doc_date: 1943-04-06
 ---
 
 # 152 Dixon to Curtin

@@ -3,7 +3,7 @@ title: "245 Cabinet Minute"
 volume: "Volume 2: 1939"
 doc_id: 582
 vol_id: 2
-date: 1939-09-26
+doc_date: 1939-09-26
 barcode: 11279893
 ---
 

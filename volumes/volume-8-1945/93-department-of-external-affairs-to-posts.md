@@ -3,7 +3,7 @@ title: "93 Department of External Affairs to Posts"
 volume: "Volume 8: 1945"
 doc_id: 3124
 vol_id: 8
-date: 1945-05-24
+doc_date: 1945-05-24
 barcode: 188012
 ---
 

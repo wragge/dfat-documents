@@ -3,7 +3,7 @@ title: "48 CABLEGRAM, MENZIES TO DOWNER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9913
 vol_id: 27
-date: 1966-01-19
+doc_date: 1966-01-19
 ---
 
 # 48 CABLEGRAM, MENZIES TO DOWNER

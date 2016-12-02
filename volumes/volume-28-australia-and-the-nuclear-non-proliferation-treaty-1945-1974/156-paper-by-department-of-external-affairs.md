@@ -3,7 +3,7 @@ title: "156 Paper by Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10530
 vol_id: 28
-date: 1969-02-26
+doc_date: 1969-02-26
 barcode: 1730536
 ---
 

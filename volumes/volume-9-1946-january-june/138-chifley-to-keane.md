@@ -3,7 +3,7 @@ title: "138 Chifley to Keane"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3650
 vol_id: 9
-date: 1946-03-21
+doc_date: 1946-03-21
 barcode: 235849
 ---
 

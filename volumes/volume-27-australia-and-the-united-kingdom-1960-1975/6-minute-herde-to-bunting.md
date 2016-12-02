@@ -3,7 +3,7 @@ title: "6 MINUTE, HERDE TO BUNTING"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9873
 vol_id: 27
-date: 1961-02-28
+doc_date: 1961-02-28
 ---
 
 # 6 MINUTE, HERDE TO BUNTING

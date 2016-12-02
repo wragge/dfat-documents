@@ -3,7 +3,7 @@ title: "121 Critchley to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5388
 vol_id: 13
-date: 1948-04-28
+doc_date: 1948-04-28
 ---
 
 # 121 Critchley to Burton

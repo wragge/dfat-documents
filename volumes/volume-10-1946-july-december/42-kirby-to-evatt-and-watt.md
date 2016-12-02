@@ -3,7 +3,7 @@ title: "42 Kirby to Evatt and Watt"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3890
 vol_id: 10
-date: 1946-07-29
+doc_date: 1946-07-29
 ---
 
 # 42 Kirby to Evatt and Watt

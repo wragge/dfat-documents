@@ -3,7 +3,7 @@ title: "362 Chifley to Attlee"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7077
 vol_id: 16
-date: 1948-06-07
+doc_date: 1948-06-07
 barcode: 507402
 ---
 

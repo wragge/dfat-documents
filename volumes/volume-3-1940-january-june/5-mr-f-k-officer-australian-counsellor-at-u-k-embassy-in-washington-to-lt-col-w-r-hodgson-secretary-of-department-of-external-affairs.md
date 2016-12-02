@@ -3,7 +3,7 @@ title: "5 Mr F. K. Officer, Australian Counsellor at U.K. Embassy in Washington,
 volume: "Volume 3: 1940, January-June"
 doc_id: 771
 vol_id: 3
-date: 1940-01-05
+doc_date: 1940-01-05
 barcode: 97701
 ---
 

@@ -3,7 +3,7 @@ title: "320 Dexter to McIntyre"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6489
 vol_id: 15
-date: 1949-03-28
+doc_date: 1949-03-28
 ---
 
 # 320 Dexter to McIntyre

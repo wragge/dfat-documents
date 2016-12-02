@@ -3,7 +3,7 @@ title: "62 Mr A. W. Fadden, Prime Minister, to Lord Cranborne, U.K. Secretary of
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1816
 vol_id: 5
-date: 1941-09-08
+doc_date: 1941-09-08
 ---
 
 # 62 Mr A. W. Fadden, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs

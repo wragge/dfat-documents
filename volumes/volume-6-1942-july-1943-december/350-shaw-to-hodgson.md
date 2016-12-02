@@ -3,7 +3,7 @@ title: "350 Shaw to Hodgson"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2641
 vol_id: 6
-date: 1943-12-15
+doc_date: 1943-12-15
 ---
 
 # 350 Shaw to Hodgson

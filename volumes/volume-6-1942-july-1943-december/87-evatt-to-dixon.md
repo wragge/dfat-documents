@@ -3,7 +3,7 @@ title: "87 Evatt to Dixon"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2378
 vol_id: 6
-date: 1942-12-08
+doc_date: 1942-12-08
 ---
 
 # 87 Evatt to Dixon

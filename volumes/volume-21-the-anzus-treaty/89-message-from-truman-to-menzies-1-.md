@@ -3,7 +3,7 @@ title: "89 Message From Truman to Menzies[1]"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8440
 vol_id: 21
-date: 1951-05-28
+doc_date: 1951-05-28
 barcode: 4185374
 ---
 

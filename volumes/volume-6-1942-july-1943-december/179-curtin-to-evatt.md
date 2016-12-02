@@ -3,7 +3,7 @@ title: "179 Curtin to Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2470
 vol_id: 6
-date: 1943-05-07
+doc_date: 1943-05-07
 ---
 
 # 179 Curtin to Evatt

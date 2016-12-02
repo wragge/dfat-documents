@@ -3,7 +3,7 @@ title: "134 Chifley to Dedman"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4816
 vol_id: 12
-date: 1947-08-14
+doc_date: 1947-08-14
 barcode: 195062
 ---
 

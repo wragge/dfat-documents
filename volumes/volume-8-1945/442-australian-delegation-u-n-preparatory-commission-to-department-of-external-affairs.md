@@ -3,7 +3,7 @@ title: "442 Australian Delegation, U.N. Preparatory Commission, to Department of
 volume: "Volume 8: 1945"
 doc_id: 3473
 vol_id: 8
-date: 1945-12-09
+doc_date: 1945-12-09
 ---
 
 # 442 Australian Delegation, U.N. Preparatory Commission, to Department of External Affairs

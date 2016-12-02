@@ -3,7 +3,7 @@ title: "93 Cablegram From Barwick To Cutts - Historical Documents - Australian G
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9224
 vol_id: 25
-date: 1963-07-29
+doc_date: 1963-07-29
 barcode: 1500832
 ---
 

@@ -3,7 +3,7 @@ title: "337 General Sir Archibald Wavell, Allied Supreme Commander of the A.B.D.
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2091
 vol_id: 5
-date: 1942-02-17
+doc_date: 1942-02-17
 ---
 
 # 337 General Sir Archibald Wavell, Allied Supreme Commander of the A.B.D.A. Area, to U.K. War Office

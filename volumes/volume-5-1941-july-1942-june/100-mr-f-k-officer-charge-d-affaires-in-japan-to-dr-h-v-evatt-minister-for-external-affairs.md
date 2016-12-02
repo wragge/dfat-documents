@@ -3,7 +3,7 @@ title: "100 Mr F. K. Officer, Charge' d'Affaires in Japan, to Dr H. V. Evatt, Mi
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1854
 vol_id: 5
-date: 1941-11-05
+doc_date: 1941-11-05
 ---
 
 # 100 Mr F. K. Officer, Charge' d'Affaires in Japan, to Dr H. V. Evatt, Minister for External Affairs

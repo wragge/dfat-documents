@@ -3,7 +3,7 @@ title: "35 Mr J.A. Lyons, Prime Minister, to Mr M.J. Savage, N.Z. Prime Minister
 volume: "Volume 2: 1939"
 doc_id: 372
 vol_id: 2
-date: 1939-03-03
+doc_date: 1939-03-03
 barcode: 169999
 ---
 

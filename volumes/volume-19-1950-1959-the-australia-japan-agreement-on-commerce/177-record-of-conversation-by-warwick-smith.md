@@ -3,7 +3,7 @@ title: "177 Record Of Conversation By Warwick Smith"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7782
 vol_id: 19
-date: 1956-12-04
+doc_date: 1956-12-04
 ---
 
 # 177 Record Of Conversation By Warwick Smith

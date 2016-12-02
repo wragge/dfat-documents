@@ -3,7 +3,7 @@ title: "251 Dixon to Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2542
 vol_id: 6
-date: 1943-07-31
+doc_date: 1943-07-31
 barcode: 235731
 ---
 

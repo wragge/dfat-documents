@@ -3,7 +3,7 @@ title: "142 Cablegram from Barwick to Shann - Historical Documents - Australian 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9272
 vol_id: 25
-date: 1963-12-30
+doc_date: 1963-12-30
 barcode: 1500838
 ---
 

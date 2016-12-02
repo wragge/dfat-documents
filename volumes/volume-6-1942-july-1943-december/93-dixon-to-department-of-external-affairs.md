@@ -3,7 +3,7 @@ title: "93 Dixon to Department of External Affairs"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2384
 vol_id: 6
-date: 1942-12-24
+doc_date: 1942-12-24
 barcode: 171392
 ---
 

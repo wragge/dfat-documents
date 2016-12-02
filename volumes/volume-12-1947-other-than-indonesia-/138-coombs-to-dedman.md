@@ -3,7 +3,7 @@ title: "138 Coombs to Dedman"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4820
 vol_id: 12
-date: 1947-09-18
+doc_date: 1947-09-18
 ---
 
 # 138 Coombs to Dedman

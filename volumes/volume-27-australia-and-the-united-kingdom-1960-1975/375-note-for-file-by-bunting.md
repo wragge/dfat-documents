@@ -3,7 +3,7 @@ title: "375 NOTE FOR FILE BY BUNTING"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10241
 vol_id: 27
-date: 1971-08-11
+doc_date: 1971-08-11
 ---
 
 # 375 NOTE FOR FILE BY BUNTING

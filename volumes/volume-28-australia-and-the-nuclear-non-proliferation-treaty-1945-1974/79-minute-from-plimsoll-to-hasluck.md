@@ -3,7 +3,7 @@ title: "79 Minute from Plimsoll to Hasluck"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10453
 vol_id: 28
-date: 1966-02-18
+doc_date: 1966-02-18
 barcode: 842033
 ---
 

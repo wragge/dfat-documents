@@ -3,7 +3,7 @@ title: "59 Cablegram From Harrison to Menzies"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8410
 vol_id: 21
-date: 1951-03-13
+doc_date: 1951-03-13
 ---
 
 # 59 Cablegram From Harrison to Menzies

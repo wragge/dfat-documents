@@ -3,7 +3,7 @@ title: "391 Throssell to Shann"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4575
 vol_id: 11
-date: 1947-10-28
+doc_date: 1947-10-28
 ---
 
 # 391 Throssell to Shann

@@ -3,7 +3,7 @@ title: "35 Hodgson to McFarlane"
 volume: "Volume 7: 1944"
 doc_id: 2682
 vol_id: 7
-date: 1944-01-28
+doc_date: 1944-01-28
 ---
 
 # 35 Hodgson to McFarlane

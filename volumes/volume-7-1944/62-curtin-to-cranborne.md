@@ -3,7 +3,7 @@ title: "62 Curtin to Cranborne"
 volume: "Volume 7: 1944"
 doc_id: 2709
 vol_id: 7
-date: 1944-03-03
+doc_date: 1944-03-03
 ---
 
 # 62 Curtin to Cranborne

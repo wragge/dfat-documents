@@ -3,7 +3,7 @@ title: "333 Australian Government to Gordon Walker"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7048
 vol_id: 16
-date: 1948-04-21
+doc_date: 1948-04-21
 ---
 
 # 333 Australian Government to Gordon Walker

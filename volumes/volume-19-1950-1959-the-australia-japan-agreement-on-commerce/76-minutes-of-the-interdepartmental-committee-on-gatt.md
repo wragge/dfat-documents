@@ -3,7 +3,7 @@ title: "76 Minutes Of The Interdepartmental Committee On Gatt"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7681
 vol_id: 19
-date: 1954-10-12
+doc_date: 1954-10-12
 ---
 
 # 76 Minutes Of The Interdepartmental Committee On Gatt

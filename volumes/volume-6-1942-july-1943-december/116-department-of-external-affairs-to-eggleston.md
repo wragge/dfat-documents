@@ -3,7 +3,7 @@ title: "116 Department of External Affairs to Eggleston"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2407
 vol_id: 6
-date: 1943-02-06
+doc_date: 1943-02-06
 ---
 
 # 116 Department of External Affairs to Eggleston

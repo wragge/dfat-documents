@@ -3,7 +3,7 @@ title: "215 Note For File By Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9723
 vol_id: 26
-date: 1968-08-06
+doc_date: 1968-08-06
 ---
 
 # 215 Note For File By Warwick Smith

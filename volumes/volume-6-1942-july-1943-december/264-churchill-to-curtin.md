@@ -3,7 +3,7 @@ title: "264 Churchill to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2555
 vol_id: 6
-date: 1943-08-25
+doc_date: 1943-08-25
 ---
 
 # 264 Churchill to Curtin

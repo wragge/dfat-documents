@@ -3,7 +3,7 @@ title: "200 Chifley to Attlee"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4882
 vol_id: 12
-date: 1947-09-06
+doc_date: 1947-09-06
 ---
 
 # 200 Chifley to Attlee

@@ -3,7 +3,7 @@ title: "214 Australian Delegation, United Nations, to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3726
 vol_id: 9
-date: 1946-04-26
+doc_date: 1946-04-26
 barcode: 187433
 ---
 

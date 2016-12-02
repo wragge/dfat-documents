@@ -3,7 +3,7 @@ title: "101 Bruce to Churchill"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2392
 vol_id: 6
-date: 1943-01-13
+doc_date: 1943-01-13
 barcode: 242452
 ---
 

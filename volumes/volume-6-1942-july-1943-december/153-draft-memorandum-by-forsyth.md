@@ -3,7 +3,7 @@ title: "153 Draft Memorandum by Forsyth"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2444
 vol_id: 6
-date: 1943-04-07
+doc_date: 1943-04-07
 barcode: 11244644
 ---
 

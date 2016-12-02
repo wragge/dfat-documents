@@ -3,7 +3,7 @@ title: "309 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Min
 volume: "Volume 1: 1937-38"
 doc_id: 308
 vol_id: 1
-date: 1938-10-28
+doc_date: 1938-10-28
 ---
 
 # 309 Mr J. A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister

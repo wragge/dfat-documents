@@ -3,7 +3,7 @@ title: "23 Evatt and Burton to Hood"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4705
 vol_id: 12
-date: 1947-03-15
+doc_date: 1947-03-15
 ---
 
 # 23 Evatt and Burton to Hood

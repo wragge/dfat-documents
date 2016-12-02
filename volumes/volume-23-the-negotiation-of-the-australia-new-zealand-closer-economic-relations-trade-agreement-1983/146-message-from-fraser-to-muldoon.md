@@ -3,7 +3,7 @@ title: "146 Message from Fraser to Muldoon"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9016
 vol_id: 23
-date: 1981-03-02
+doc_date: 1981-03-02
 ---
 
 # 146 Message from Fraser to Muldoon

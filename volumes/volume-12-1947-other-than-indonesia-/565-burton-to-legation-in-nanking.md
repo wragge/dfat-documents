@@ -3,7 +3,7 @@ title: "565 Burton to Legation in Nanking"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5247
 vol_id: 12
-date: 1947-05-26
+doc_date: 1947-05-26
 barcode: 195083
 ---
 

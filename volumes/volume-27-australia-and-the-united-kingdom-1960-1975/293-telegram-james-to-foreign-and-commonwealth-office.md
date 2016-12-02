@@ -3,7 +3,7 @@ title: "293 TELEGRAM, JAMES TO FOREIGN AND COMMONWEALTH OFFICE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10158
 vol_id: 27
-date: 1971-07-08
+doc_date: 1971-07-08
 ---
 
 # 293 TELEGRAM, JAMES TO FOREIGN AND COMMONWEALTH OFFICE

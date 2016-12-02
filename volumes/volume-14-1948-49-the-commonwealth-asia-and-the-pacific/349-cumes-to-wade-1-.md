@@ -3,7 +3,7 @@ title: "349 Cumes to Wade [1]"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6125
 vol_id: 14
-date: 1949-03-25
+doc_date: 1949-03-25
 ---
 
 # 349 Cumes to Wade [1]

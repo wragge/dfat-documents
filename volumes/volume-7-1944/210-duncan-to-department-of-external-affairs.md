@@ -3,7 +3,7 @@ title: "210 Duncan to Department of External Affairs"
 volume: "Volume 7: 1944"
 doc_id: 2857
 vol_id: 7
-date: 1944-07-02
+doc_date: 1944-07-02
 ---
 
 # 210 Duncan to Department of External Affairs

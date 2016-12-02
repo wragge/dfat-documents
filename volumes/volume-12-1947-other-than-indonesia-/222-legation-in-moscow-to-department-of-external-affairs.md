@@ -3,7 +3,7 @@ title: "222 Legation in Moscow to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4904
 vol_id: 12
-date: 1947-08-22
+doc_date: 1947-08-22
 barcode: 277022
 ---
 

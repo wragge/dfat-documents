@@ -3,7 +3,7 @@ title: "147 Australian Government to Addison"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3659
 vol_id: 9
-date: 1946-03-27
+doc_date: 1946-03-27
 barcode: 194073
 ---
 

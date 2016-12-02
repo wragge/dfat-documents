@@ -3,7 +3,7 @@ title: "68 RECORD OF CONVERSATION AT ANZUS COUNCIL MEETING"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8551
 vol_id: 22
-date: 1956-11-17
+doc_date: 1956-11-17
 ---
 
 # 68 RECORD OF CONVERSATION AT ANZUS COUNCIL MEETING

@@ -3,7 +3,7 @@ title: "166 MEMORANDUM,HARRY TO TANGE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10031
 vol_id: 27
-date: 1962-01-30
+doc_date: 1962-01-30
 ---
 
 # 166 MEMORANDUM,HARRY TO TANGE

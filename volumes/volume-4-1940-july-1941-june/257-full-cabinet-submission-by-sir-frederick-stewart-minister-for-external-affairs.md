@@ -3,7 +3,7 @@ title: "257 Full Cabinet Submission by Sir Frederick Stewart, Minister for Exter
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1488
 vol_id: 4
-date: 1941-01-25
+doc_date: 1941-01-25
 ---
 
 # 257 Full Cabinet Submission by Sir Frederick Stewart, Minister for External Affairs

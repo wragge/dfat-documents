@@ -3,7 +3,7 @@ title: "62 Curtin to Churchill"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2353
 vol_id: 6
-date: 1942-10-17
+doc_date: 1942-10-17
 ---
 
 # 62 Curtin to Churchill

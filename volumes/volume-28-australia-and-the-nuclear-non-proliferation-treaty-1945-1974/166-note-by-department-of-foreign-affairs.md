@@ -3,7 +3,7 @@ title: "166 Note by Department of Foreign Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10540
 vol_id: 28
-date: 1970-03-05
+doc_date: 1970-03-05
 barcode: 546367
 ---
 

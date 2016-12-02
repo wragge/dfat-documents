@@ -3,7 +3,7 @@ title: "504 Note by Mr S. M. Bruce, High Commissioner in the United Kingdom, of 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2258
 vol_id: 5
-date: 1942-05-28
+doc_date: 1942-05-28
 barcode: 242444
 ---
 

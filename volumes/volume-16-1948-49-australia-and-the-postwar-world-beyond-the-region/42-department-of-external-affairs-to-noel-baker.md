@@ -3,7 +3,7 @@ title: "42 Department of External Affairs to Noel-Baker"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6757
 vol_id: 16
-date: 1948-05-18
+doc_date: 1948-05-18
 ---
 
 # 42 Department of External Affairs to Noel-Baker

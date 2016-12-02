@@ -3,7 +3,7 @@ title: "219 Mr J. A. Lyons, Prime Minister, to Sir Earle Page, Minister for Comm
 volume: "Volume 1: 1937-38"
 doc_id: 218
 vol_id: 1
-date: 1938-06-22
+doc_date: 1938-06-22
 ---
 
 # 219 Mr J. A. Lyons, Prime Minister, to Sir Earle Page, Minister for Commerce

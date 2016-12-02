@@ -3,7 +3,7 @@ title: "200 Cabinet Decision No. 445 - Historical Documents - Australian Governm
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9330
 vol_id: 25
-date: 1964-09-04
+doc_date: 1964-09-04
 ---
 
 # 200 Cabinet Decision No. 445 - Historical Documents - Australian Government Department of Foreign Affairs and Trade

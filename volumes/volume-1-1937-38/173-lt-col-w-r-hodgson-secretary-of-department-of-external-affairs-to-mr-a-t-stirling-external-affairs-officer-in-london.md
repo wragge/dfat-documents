@@ -3,7 +3,7 @@ title: "173 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, t
 volume: "Volume 1: 1937-38"
 doc_id: 172
 vol_id: 1
-date: 1938-03-31
+doc_date: 1938-03-31
 ---
 
 # 173 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr A. T. Stirling, External Affairs Officer in London

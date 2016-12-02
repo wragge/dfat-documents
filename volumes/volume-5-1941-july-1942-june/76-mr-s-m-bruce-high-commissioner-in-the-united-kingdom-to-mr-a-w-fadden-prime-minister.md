@@ -3,7 +3,7 @@ title: "76 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr A. W. 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1830
 vol_id: 5
-date: 1941-10-01
+doc_date: 1941-10-01
 ---
 
 # 76 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr A. W. Fadden, Prime Minister

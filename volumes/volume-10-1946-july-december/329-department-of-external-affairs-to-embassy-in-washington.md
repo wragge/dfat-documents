@@ -3,7 +3,7 @@ title: "329 Department of External Affairs to Embassy in Washington"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4177
 vol_id: 10
-date: 1946-12-19
+doc_date: 1946-12-19
 ---
 
 # 329 Department of External Affairs to Embassy in Washington

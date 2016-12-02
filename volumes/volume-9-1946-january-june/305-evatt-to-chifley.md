@@ -3,7 +3,7 @@ title: "305 Evatt to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3817
 vol_id: 9
-date: 1946-06-12
+doc_date: 1946-06-12
 ---
 
 # 305 Evatt to Chifley

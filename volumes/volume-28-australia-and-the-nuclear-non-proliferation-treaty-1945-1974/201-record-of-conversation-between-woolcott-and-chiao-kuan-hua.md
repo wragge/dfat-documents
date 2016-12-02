@@ -3,7 +3,7 @@ title: "201 Record of Conversation between Woolcott and Ch'iao Kuan-Hua"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10575
 vol_id: 28
-date: 1974-08-16
+doc_date: 1974-08-16
 barcode: 1887758
 ---
 

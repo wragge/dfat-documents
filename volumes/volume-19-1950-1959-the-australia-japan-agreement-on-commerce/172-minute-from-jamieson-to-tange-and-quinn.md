@@ -3,7 +3,7 @@ title: "172 Minute From Jamieson To Tange And Quinn"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7777
 vol_id: 19
-date: 1956-11-23
+doc_date: 1956-11-23
 ---
 
 # 172 Minute From Jamieson To Tange And Quinn

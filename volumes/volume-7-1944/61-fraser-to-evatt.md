@@ -3,7 +3,7 @@ title: "61 Fraser to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2708
 vol_id: 7
-date: 1944-03-01
+doc_date: 1944-03-01
 ---
 
 # 61 Fraser to Evatt

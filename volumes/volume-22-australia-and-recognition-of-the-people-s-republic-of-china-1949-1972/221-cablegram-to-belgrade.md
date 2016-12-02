@@ -3,7 +3,7 @@ title: "221 CABLEGRAM TO BELGRADE"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8704
 vol_id: 22
-date: 1971-07-22
+doc_date: 1971-07-22
 ---
 
 # 221 CABLEGRAM TO BELGRADE

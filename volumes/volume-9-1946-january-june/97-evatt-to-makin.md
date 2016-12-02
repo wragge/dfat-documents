@@ -3,7 +3,7 @@ title: "97 Evatt to Makin"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3609
 vol_id: 9
-date: 1946-02-19
+doc_date: 1946-02-19
 barcode: 190867
 ---
 

@@ -3,7 +3,7 @@ title: "273 Curtin to Hankinson"
 volume: "Volume 7: 1944"
 doc_id: 2920
 vol_id: 7
-date: 1944-09-07
+doc_date: 1944-09-07
 barcode: 206252
 ---
 

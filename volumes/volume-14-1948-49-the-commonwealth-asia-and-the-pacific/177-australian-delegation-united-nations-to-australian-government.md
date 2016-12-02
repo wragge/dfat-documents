@@ -3,7 +3,7 @@ title: "177 Australian Delegation, United Nations, to Australian Government"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5953
 vol_id: 14
-date: 1949-03-18
+doc_date: 1949-03-18
 ---
 
 # 177 Australian Delegation, United Nations, to Australian Government

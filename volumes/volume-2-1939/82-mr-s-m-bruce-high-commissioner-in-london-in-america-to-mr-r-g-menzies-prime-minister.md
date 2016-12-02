@@ -3,7 +3,7 @@ title: "82 Mr S.M. Bruce, High Commissioner in London (in America), to Mr R.G. M
 volume: "Volume 2: 1939"
 doc_id: 419
 vol_id: 2
-date: 1939-05-08
+doc_date: 1939-05-08
 ---
 
 # 82 Mr S.M. Bruce, High Commissioner in London (in America), to Mr R.G. Menzies, Prime Minister

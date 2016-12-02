@@ -3,7 +3,7 @@ title: "271 Advisory War Council Minute"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1502
 vol_id: 4
-date: 1941-02-05
+doc_date: 1941-02-05
 ---
 
 # 271 Advisory War Council Minute

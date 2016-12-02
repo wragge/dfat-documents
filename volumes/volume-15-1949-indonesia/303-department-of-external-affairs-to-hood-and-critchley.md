@@ -3,7 +3,7 @@ title: "303 Department of External Affairs to Hood and Critchley"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6472
 vol_id: 15
-date: 1949-03-18
+doc_date: 1949-03-18
 barcode: 216862
 ---
 

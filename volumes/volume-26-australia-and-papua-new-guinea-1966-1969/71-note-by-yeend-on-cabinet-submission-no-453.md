@@ -3,7 +3,7 @@ title: "71 Note By Yeend On Cabinet Submission No. 453"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9579
 vol_id: 26
-date: 1966-09-20
+doc_date: 1966-09-20
 barcode: 1807983
 ---
 

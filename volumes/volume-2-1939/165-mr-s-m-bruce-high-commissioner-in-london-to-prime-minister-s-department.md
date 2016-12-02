@@ -3,7 +3,7 @@ title: "165 Mr S.M. Bruce, High Commissioner in London, to Prime Minister's Depa
 volume: "Volume 2: 1939"
 doc_id: 502
 vol_id: 2
-date: 1939-08-29
+doc_date: 1939-08-29
 ---
 
 # 165 Mr S.M. Bruce, High Commissioner in London, to Prime Minister's Department

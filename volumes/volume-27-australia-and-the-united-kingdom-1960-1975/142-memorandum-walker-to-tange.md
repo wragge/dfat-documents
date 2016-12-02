@@ -3,7 +3,7 @@ title: "142 MEMORANDUM,WALKER TO TANGE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10007
 vol_id: 27
-date: 1961-07-04
+doc_date: 1961-07-04
 ---
 
 # 142 MEMORANDUM,WALKER TO TANGE

@@ -3,7 +3,7 @@ title: "30 Memorandum from Webb to Department of Foreign Affairs"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8900
 vol_id: 23
-date: 1979-10-11
+doc_date: 1979-10-11
 ---
 
 # 30 Memorandum from Webb to Department of Foreign Affairs

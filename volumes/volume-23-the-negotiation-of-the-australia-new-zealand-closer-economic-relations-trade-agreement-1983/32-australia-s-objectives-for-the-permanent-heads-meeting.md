@@ -3,7 +3,7 @@ title: "32 Australia's Objectives for the Permanent Heads Meeting- Historical Do
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8902
 vol_id: 23
-date: 1979-10-22
+doc_date: 1979-10-22
 ---
 
 # 32 Australia's Objectives for the Permanent Heads Meeting- Historical Documents

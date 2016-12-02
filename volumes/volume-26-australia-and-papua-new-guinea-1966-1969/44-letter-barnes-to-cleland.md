@@ -3,7 +3,7 @@ title: "44 Letter, Barnes To Cleland"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9552
 vol_id: 26
-date: 1966-06-01
+doc_date: 1966-06-01
 barcode: 3125701
 ---
 

@@ -3,7 +3,7 @@ title: "25 Coombs to McFadyen"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5801
 vol_id: 14
-date: 1948-09-10
+doc_date: 1948-09-10
 barcode: 523994
 ---
 

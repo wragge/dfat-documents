@@ -3,7 +3,7 @@ title: "55 Minute from Rowland to Barwick"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10429
 vol_id: 28
-date: 1963-02-12
+doc_date: 1963-02-12
 barcode: 546490
 ---
 

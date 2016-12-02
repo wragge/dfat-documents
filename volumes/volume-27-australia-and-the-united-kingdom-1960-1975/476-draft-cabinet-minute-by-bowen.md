@@ -3,7 +3,7 @@ title: "476 DRAFT CABINET MINUTE BY BOWEN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10343
 vol_id: 27
-date: 1972-01-02
+doc_date: 1972-01-02
 ---
 
 # 476 DRAFT CABINET MINUTE BY BOWEN

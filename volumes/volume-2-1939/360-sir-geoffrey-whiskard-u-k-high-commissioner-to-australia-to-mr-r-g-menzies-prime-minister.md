@@ -3,7 +3,7 @@ title: "360 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Mr R.
 volume: "Volume 2: 1939"
 doc_id: 697
 vol_id: 2
-date: 1939-11-14
+doc_date: 1939-11-14
 barcode: 205677
 ---
 

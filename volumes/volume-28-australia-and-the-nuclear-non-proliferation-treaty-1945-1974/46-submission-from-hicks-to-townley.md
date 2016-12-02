@@ -3,7 +3,7 @@ title: "46 Submission from Hicks to Townley"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10420
 vol_id: 28
-date: 1959-10-01
+doc_date: 1959-10-01
 barcode: 699008
 ---
 

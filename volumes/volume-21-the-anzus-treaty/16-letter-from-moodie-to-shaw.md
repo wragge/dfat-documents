@@ -3,7 +3,7 @@ title: "16 Letter From Moodie to Shaw"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8367
 vol_id: 21
-date: 1950-08-04
+doc_date: 1950-08-04
 ---
 
 # 16 Letter From Moodie to Shaw

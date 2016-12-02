@@ -3,7 +3,7 @@ title: "97 DESPATCH, ROOKE TO THOMSON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9962
 vol_id: 27
-date: 1968-07-16
+doc_date: 1968-07-16
 ---
 
 # 97 DESPATCH, ROOKE TO THOMSON

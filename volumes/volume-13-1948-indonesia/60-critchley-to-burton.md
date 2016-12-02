@@ -3,7 +3,7 @@ title: "60 Critchley to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5327
 vol_id: 13
-date: 1948-02-13
+doc_date: 1948-02-13
 ---
 
 # 60 Critchley to Burton

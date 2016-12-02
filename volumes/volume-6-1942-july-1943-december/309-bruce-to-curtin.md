@@ -3,7 +3,7 @@ title: "309 Bruce to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2600
 vol_id: 6
-date: 1943-10-22
+doc_date: 1943-10-22
 barcode: 242461
 ---
 

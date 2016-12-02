@@ -3,7 +3,7 @@ title: "124 Australian Government to Addison, Fraser, Moodie"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3636
 vol_id: 9
-date: 1946-03-12
+doc_date: 1946-03-12
 barcode: 193422
 ---
 

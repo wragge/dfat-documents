@@ -3,7 +3,7 @@ title: "96 Submission, Ballard To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9604
 vol_id: 26
-date: 1967-03-14
+doc_date: 1967-03-14
 barcode: 11345517
 ---
 

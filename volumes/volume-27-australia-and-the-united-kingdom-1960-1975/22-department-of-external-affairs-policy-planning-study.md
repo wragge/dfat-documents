@@ -3,7 +3,7 @@ title: "22 DEPARTMENT OF EXTERNAL AFFAIRS POLICY PLANNING STUDY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9889
 vol_id: 27
-date: 1963-08-30
+doc_date: 1963-08-30
 ---
 
 # 22 DEPARTMENT OF EXTERNAL AFFAIRS POLICY PLANNING STUDY

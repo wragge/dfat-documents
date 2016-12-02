@@ -3,7 +3,7 @@ title: "196 NOTES ON WESTERMAN DISCUSSIONS IN WASHINGTON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10061
 vol_id: 27
-date: 1962-07-25
+doc_date: 1962-07-25
 ---
 
 # 196 NOTES ON WESTERMAN DISCUSSIONS IN WASHINGTON

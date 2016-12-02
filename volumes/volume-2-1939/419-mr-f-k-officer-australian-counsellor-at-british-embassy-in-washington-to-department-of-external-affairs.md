@@ -3,7 +3,7 @@ title: "419 Mr F.K. Officer, Australian Counsellor at British Embassy in Washing
 volume: "Volume 2: 1939"
 doc_id: 756
 vol_id: 2
-date: 1939-12-14
+doc_date: 1939-12-14
 ---
 
 # 419 Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to Department of External Affairs

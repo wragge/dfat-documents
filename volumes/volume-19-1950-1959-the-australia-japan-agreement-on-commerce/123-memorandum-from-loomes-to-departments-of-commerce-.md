@@ -3,7 +3,7 @@ title: "123 Memorandum From Loomes To Departments Of Commerce &"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7728
 vol_id: 19
-date: 1955-12-15
+doc_date: 1955-12-15
 ---
 
 # 123 Memorandum From Loomes To Departments Of Commerce &

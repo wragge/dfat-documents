@@ -3,7 +3,7 @@ title: "173 Roosevelt to Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2464
 vol_id: 6
-date: 1943-05-05
+doc_date: 1943-05-05
 ---
 
 # 173 Roosevelt to Evatt

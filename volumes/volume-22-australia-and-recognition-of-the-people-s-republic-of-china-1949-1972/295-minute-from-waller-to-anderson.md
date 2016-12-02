@@ -3,7 +3,7 @@ title: "295 MINUTE FROM WALLER TO ANDERSON"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8778
 vol_id: 22
-date: 1972-01-11
+doc_date: 1972-01-11
 barcode: 1730898
 ---
 

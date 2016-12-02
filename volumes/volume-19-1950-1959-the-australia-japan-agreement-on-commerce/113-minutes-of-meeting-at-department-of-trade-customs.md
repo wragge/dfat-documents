@@ -3,7 +3,7 @@ title: "113 Minutes Of Meeting At Department Of Trade & Customs"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7718
 vol_id: 19
-date: 1955-09-29
+doc_date: 1955-09-29
 ---
 
 # 113 Minutes Of Meeting At Department Of Trade & Customs

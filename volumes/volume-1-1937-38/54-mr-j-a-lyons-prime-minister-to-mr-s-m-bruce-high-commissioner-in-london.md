@@ -3,7 +3,7 @@ title: "54 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner 
 volume: "Volume 1: 1937-38"
 doc_id: 54
 vol_id: 1
-date: 1937-08-02
+doc_date: 1937-08-02
 barcode: 96360
 ---
 

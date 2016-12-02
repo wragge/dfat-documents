@@ -3,7 +3,7 @@ title: "95 CABINET DECISION NO. 1528"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8578
 vol_id: 22
-date: 1961-08-03
+doc_date: 1961-08-03
 barcode: 1055966
 ---
 

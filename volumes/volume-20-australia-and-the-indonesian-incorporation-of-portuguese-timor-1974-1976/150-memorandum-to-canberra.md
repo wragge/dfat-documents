@@ -3,7 +3,7 @@ title: "150 Memorandum to Canberra"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7989
 vol_id: 20
-date: 1975-06-27
+doc_date: 1975-06-27
 ---
 
 # 150 Memorandum to Canberra

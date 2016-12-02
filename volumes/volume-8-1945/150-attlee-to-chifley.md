@@ -3,7 +3,7 @@ title: "150 Attlee to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3181
 vol_id: 8
-date: 1945-07-31
+doc_date: 1945-07-31
 ---
 
 # 150 Attlee to Chifley

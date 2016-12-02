@@ -3,7 +3,7 @@ title: "348 Cablegram to Parkinson - Historical Documents - Australian Governmen
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9478
 vol_id: 25
-date: 1965-11-26
+doc_date: 1965-11-26
 ---
 
 # 348 Cablegram to Parkinson - Historical Documents - Australian Government Department of Foreign Affairs and Trade

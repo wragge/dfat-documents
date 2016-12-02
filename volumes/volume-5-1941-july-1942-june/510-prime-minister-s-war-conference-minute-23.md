@@ -3,7 +3,7 @@ title: "510 Prime Minister's War Conference Minute 23"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2264
 vol_id: 5
-date: 1942-06-01
+doc_date: 1942-06-01
 ---
 
 # 510 Prime Minister's War Conference Minute 23

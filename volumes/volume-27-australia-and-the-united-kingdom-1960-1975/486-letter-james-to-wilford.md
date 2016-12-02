@@ -3,7 +3,7 @@ title: "486 LETTER, JAMES TO WILFORD"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10353
 vol_id: 27
-date: 1974-10-18
+doc_date: 1974-10-18
 ---
 
 # 486 LETTER, JAMES TO WILFORD

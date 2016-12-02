@@ -3,7 +3,7 @@ title: "266 Curtin to Bruce"
 volume: "Volume 7: 1944"
 doc_id: 2913
 vol_id: 7
-date: 1944-09-01
+doc_date: 1944-09-01
 ---
 
 # 266 Curtin to Bruce

@@ -3,7 +3,7 @@ title: "103 Joint Statement by New Zealand Manufacturers' Federation and Confede
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8973
 vol_id: 23
-date: 1980-09-30
+doc_date: 1980-09-30
 ---
 
 # 103 Joint Statement by New Zealand Manufacturers' Federation and Confederation of Australian Industry

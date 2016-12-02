@@ -3,7 +3,7 @@ title: "6 Cablegram From Department of External Affairs to All Posts"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8357
 vol_id: 21
-date: 1950-01-09
+doc_date: 1950-01-09
 ---
 
 # 6 Cablegram From Department of External Affairs to All Posts

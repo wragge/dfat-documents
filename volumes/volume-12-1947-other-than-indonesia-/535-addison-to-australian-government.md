@@ -3,7 +3,7 @@ title: "535 Addison to Australian Government"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5217
 vol_id: 12
-date: 1947-05-14
+doc_date: 1947-05-14
 barcode: 248179
 ---
 

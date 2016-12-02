@@ -3,7 +3,7 @@ title: "40 Kirby to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5307
 vol_id: 13
-date: 1948-02-03
+doc_date: 1948-02-03
 barcode: 1729706
 ---
 

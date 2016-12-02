@@ -3,7 +3,7 @@ title: "2 Cablegram from Department of External Affairs to Posts[1]"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8353
 vol_id: 21
-date: 1949-05-18
+doc_date: 1949-05-18
 barcode: 247276
 ---
 

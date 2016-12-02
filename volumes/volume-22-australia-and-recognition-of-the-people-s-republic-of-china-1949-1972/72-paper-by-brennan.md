@@ -3,7 +3,7 @@ title: "72 PAPER BY BRENNAN"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8555
 vol_id: 22
-date: 1958-08-12
+doc_date: 1958-08-12
 ---
 
 # 72 PAPER BY BRENNAN

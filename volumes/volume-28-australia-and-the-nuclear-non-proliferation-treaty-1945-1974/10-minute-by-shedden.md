@@ -3,7 +3,7 @@ title: "10 Minute by Shedden"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10385
 vol_id: 28
-date: 1948-07-14
+doc_date: 1948-07-14
 barcode: 521500
 ---
 

@@ -3,7 +3,7 @@ title: "56 Evatt to Johnson"
 volume: "Volume 7: 1944"
 doc_id: 2703
 vol_id: 7
-date: 1944-02-24
+doc_date: 1944-02-24
 ---
 
 # 56 Evatt to Johnson

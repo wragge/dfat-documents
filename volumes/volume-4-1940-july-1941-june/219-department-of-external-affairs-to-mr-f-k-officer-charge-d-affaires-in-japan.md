@@ -3,7 +3,7 @@ title: "219 Department of External Affairs to Mr F. K. Officer, Charge d'Affaire
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1450
 vol_id: 4
-date: 1940-12-09
+doc_date: 1940-12-09
 ---
 
 # 219 Department of External Affairs to Mr F. K. Officer, Charge d'Affaires in Japan

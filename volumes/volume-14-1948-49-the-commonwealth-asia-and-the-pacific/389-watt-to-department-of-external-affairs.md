@@ -3,7 +3,7 @@ title: "389 Watt to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6165
 vol_id: 14
-date: 1948-03-14
+doc_date: 1948-03-14
 ---
 
 # 389 Watt to Department of External Affairs

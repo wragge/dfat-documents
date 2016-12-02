@@ -3,7 +3,7 @@ title: "230 Cablegram to Jakarta"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8068
 vol_id: 20
-date: 1975-09-15
+doc_date: 1975-09-15
 ---
 
 # 230 Cablegram to Jakarta

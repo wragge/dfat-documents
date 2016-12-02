@@ -3,7 +3,7 @@ title: "262 CABLEGRAM TO POSTS"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8745
 vol_id: 22
-date: 1971-09-30
+doc_date: 1971-09-30
 ---
 
 # 262 CABLEGRAM TO POSTS

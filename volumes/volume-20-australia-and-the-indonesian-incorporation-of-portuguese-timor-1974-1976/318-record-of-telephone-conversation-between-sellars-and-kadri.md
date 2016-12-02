@@ -3,7 +3,7 @@ title: "318 Record of Telephone Conversation Between Sellars and Kadri"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8156
 vol_id: 20
-date: 1975-11-03
+doc_date: 1975-11-03
 ---
 
 # 318 Record of Telephone Conversation Between Sellars and Kadri

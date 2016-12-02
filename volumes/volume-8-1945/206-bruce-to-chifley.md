@@ -3,7 +3,7 @@ title: "206 Bruce to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3237
 vol_id: 8
-date: 1945-08-20
+doc_date: 1945-08-20
 ---
 
 # 206 Bruce to Chifley

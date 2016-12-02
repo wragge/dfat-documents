@@ -3,7 +3,7 @@ title: "194 Strahan to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2841
 vol_id: 7
-date: 1944-06-14
+doc_date: 1944-06-14
 ---
 
 # 194 Strahan to Evatt

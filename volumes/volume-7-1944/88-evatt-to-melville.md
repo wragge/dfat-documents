@@ -3,7 +3,7 @@ title: "88 Evatt to Melville"
 volume: "Volume 7: 1944"
 doc_id: 2735
 vol_id: 7
-date: 1944-03-22
+doc_date: 1944-03-22
 ---
 
 # 88 Evatt to Melville

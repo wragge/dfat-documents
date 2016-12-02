@@ -3,7 +3,7 @@ title: "81 Cablegram To Eastman - Historical Documents - Australian Government D
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9212
 vol_id: 25
-date: 1963-07-05
+doc_date: 1963-07-05
 barcode: 583147
 ---
 

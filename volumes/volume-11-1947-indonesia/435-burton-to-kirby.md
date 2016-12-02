@@ -3,7 +3,7 @@ title: "435 Burton to Kirby"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4619
 vol_id: 11
-date: 1947-11-25
+doc_date: 1947-11-25
 ---
 
 # 435 Burton to Kirby

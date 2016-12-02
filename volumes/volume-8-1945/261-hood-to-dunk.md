@@ -3,7 +3,7 @@ title: "261 Hood to Dunk"
 volume: "Volume 8: 1945"
 doc_id: 3292
 vol_id: 8
-date: 1945-09-22
+doc_date: 1945-09-22
 barcode: 188247
 ---
 

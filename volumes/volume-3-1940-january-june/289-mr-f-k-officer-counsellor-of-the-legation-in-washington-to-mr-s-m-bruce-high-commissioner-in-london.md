@@ -3,7 +3,7 @@ title: "289 Mr F. K. Officer, Counsellor of the Legation in Washington, to Mr S.
 volume: "Volume 3: 1940, January-June"
 doc_id: 1055
 vol_id: 3
-date: 1940-05-27
+doc_date: 1940-05-27
 barcode: 235518
 ---
 

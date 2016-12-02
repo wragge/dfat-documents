@@ -3,7 +3,7 @@ title: "157 Department of External Affairs to Stuart [1]"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5933
 vol_id: 14
-date: 1948-05-20
+doc_date: 1948-05-20
 ---
 
 # 157 Department of External Affairs to Stuart [1]

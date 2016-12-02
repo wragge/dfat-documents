@@ -3,7 +3,7 @@ title: "164 Submission No. 11, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9672
 vol_id: 26
-date: 1968-03-12
+doc_date: 1968-03-12
 barcode: 3067611
 ---
 

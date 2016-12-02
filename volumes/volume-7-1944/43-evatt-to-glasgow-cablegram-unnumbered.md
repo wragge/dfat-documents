@@ -3,7 +3,7 @@ title: "43 Evatt to Glasgow Cablegram unnumbered"
 volume: "Volume 7: 1944"
 doc_id: 2690
 vol_id: 7
-date: 1944-02-07
+doc_date: 1944-02-07
 ---
 
 # 43 Evatt to Glasgow Cablegram unnumbered

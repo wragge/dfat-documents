@@ -3,7 +3,7 @@ title: "32 Department of External Affairs to Watt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2323
 vol_id: 6
-date: 1942-08-31
+doc_date: 1942-08-31
 barcode: 238607
 ---
 

@@ -3,7 +3,7 @@ title: "18 MINUTE, WALLER TO BARWICK"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9885
 vol_id: 27
-date: 1963-02-13
+doc_date: 1963-02-13
 ---
 
 # 18 MINUTE, WALLER TO BARWICK

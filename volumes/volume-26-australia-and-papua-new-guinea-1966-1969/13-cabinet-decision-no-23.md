@@ -3,7 +3,7 @@ title: "13 Cabinet Decision No. 23"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9522
 vol_id: 26
-date: 1966-02-15
+doc_date: 1966-02-15
 barcode: 546858
 ---
 

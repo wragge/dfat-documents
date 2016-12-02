@@ -3,7 +3,7 @@ title: "282 Mr F. K. Officer, Australian Counsellor at British Embassy in Washin
 volume: "Volume 1: 1937-38"
 doc_id: 281
 vol_id: 1
-date: 1938-09-26
+doc_date: 1938-09-26
 ---
 
 # 282 Mr F. K. Officer, Australian Counsellor at British Embassy in Washington, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs

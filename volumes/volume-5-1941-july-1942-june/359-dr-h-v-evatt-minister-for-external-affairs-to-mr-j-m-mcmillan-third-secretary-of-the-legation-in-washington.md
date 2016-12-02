@@ -3,7 +3,7 @@ title: "359 Dr H. V. Evatt, Minister for External Affairs, to Mr J. M. McMillan,
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2113
 vol_id: 5
-date: 1942-02-22
+doc_date: 1942-02-22
 ---
 
 # 359 Dr H. V. Evatt, Minister for External Affairs, to Mr J. M. McMillan, Third Secretary of the Legation in Washington

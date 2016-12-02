@@ -3,7 +3,7 @@ title: "197 Minute from Lind to Scully"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9066
 vol_id: 23
-date: 1982-08-04
+doc_date: 1982-08-04
 ---
 
 # 197 Minute from Lind to Scully

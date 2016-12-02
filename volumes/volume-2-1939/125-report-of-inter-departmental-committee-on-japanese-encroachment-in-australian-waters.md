@@ -3,7 +3,7 @@ title: "125 Report of Inter-Departmental Committee on Japanese Encroachment in A
 volume: "Volume 2: 1939"
 doc_id: 462
 vol_id: 2
-date: 1939-07-28
+doc_date: 1939-07-28
 barcode: 95103
 ---
 

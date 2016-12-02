@@ -3,7 +3,7 @@ title: "144 Cabinet Sub-Committee on Trade and Employment Conference to Australi
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4826
 vol_id: 12
-date: 1947-10-24
+doc_date: 1947-10-24
 ---
 
 # 144 Cabinet Sub-Committee on Trade and Employment Conference to Australian Delegation, Geneva

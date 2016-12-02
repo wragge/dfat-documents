@@ -3,7 +3,7 @@ title: "128 Moodie to Wiadrowski [1]"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5904
 vol_id: 14
-date: 1949-05-24
+doc_date: 1949-05-24
 ---
 
 # 128 Moodie to Wiadrowski [1]

@@ -3,7 +3,7 @@ title: "299 Chifley to Evatt"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5566
 vol_id: 13
-date: 1948-11-03
+doc_date: 1948-11-03
 ---
 
 # 299 Chifley to Evatt

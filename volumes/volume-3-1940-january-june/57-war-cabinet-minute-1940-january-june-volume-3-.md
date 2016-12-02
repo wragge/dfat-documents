@@ -3,7 +3,7 @@ title: "57 War Cabinet Minute (1940, January-June - Volume 3)"
 volume: "Volume 3: 1940, January-June"
 doc_id: 823
 vol_id: 3
-date: 1940-02-14
+doc_date: 1940-02-14
 ---
 
 # 57 War Cabinet Minute (1940, January-June - Volume 3)

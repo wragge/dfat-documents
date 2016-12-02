@@ -3,7 +3,7 @@ title: "351 Department of External Affairs to Embassy in Washington"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6127
 vol_id: 14
-date: 1949-04-29
+doc_date: 1949-04-29
 ---
 
 # 351 Department of External Affairs to Embassy in Washington

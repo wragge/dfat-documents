@@ -3,7 +3,7 @@ title: "386 Evatt to Chifley and Keane"
 volume: "Volume 8: 1945"
 doc_id: 3417
 vol_id: 8
-date: 1945-11-11
+doc_date: 1945-11-11
 barcode: 186993
 ---
 

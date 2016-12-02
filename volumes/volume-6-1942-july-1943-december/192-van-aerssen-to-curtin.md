@@ -3,7 +3,7 @@ title: "192 Van Aerssen to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2483
 vol_id: 6
-date: 1943-05-14
+doc_date: 1943-05-14
 ---
 
 # 192 Van Aerssen to Curtin

@@ -3,7 +3,7 @@ title: "120 Cablegram from Mission to the United Nations to Department of Extern
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10494
 vol_id: 28
-date: 1968-04-19
+doc_date: 1968-04-19
 barcode: 1725938
 ---
 

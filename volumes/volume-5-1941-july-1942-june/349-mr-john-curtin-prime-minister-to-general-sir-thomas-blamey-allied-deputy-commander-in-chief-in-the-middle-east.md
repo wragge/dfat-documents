@@ -3,7 +3,7 @@ title: "349 Mr John Curtin, Prime Minister, to General Sir Thomas Blamey, Allied
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2103
 vol_id: 5
-date: 1942-02-20
+doc_date: 1942-02-20
 ---
 
 # 349 Mr John Curtin, Prime Minister, to General Sir Thomas Blamey, Allied Deputy Commander-in-Chief in the Middle East

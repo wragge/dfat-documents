@@ -3,7 +3,7 @@ title: "216 Cablegram to Tokyo - Historical Documents - Australian Government De
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9346
 vol_id: 25
-date: 1964-09-30
+doc_date: 1964-09-30
 barcode: 1500916
 ---
 

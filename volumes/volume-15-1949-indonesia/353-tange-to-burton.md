@@ -3,7 +3,7 @@ title: "353 Tange to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6522
 vol_id: 15
-date: 1949-04-12
+doc_date: 1949-04-12
 ---
 
 # 353 Tange to Burton

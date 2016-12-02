@@ -3,7 +3,7 @@ title: "131 SUBMISSION NO.l108, MCEWEN TO CABINET"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9996
 vol_id: 27
-date: 1961-05-05
+doc_date: 1961-05-05
 ---
 
 # 131 SUBMISSION NO.l108, MCEWEN TO CABINET

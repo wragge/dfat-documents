@@ -3,7 +3,7 @@ title: "388 Memorandum by Mr R. G. Menzies, Prime Minister"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1619
 vol_id: 4
-date: 1941-04-10
+doc_date: 1941-04-10
 ---
 
 # 388 Memorandum by Mr R. G. Menzies, Prime Minister

@@ -3,7 +3,7 @@ title: "271 Burton to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3302
 vol_id: 8
-date: 1945-09-28
+doc_date: 1945-09-28
 ---
 
 # 271 Burton to Evatt

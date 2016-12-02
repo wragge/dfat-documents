@@ -3,7 +3,7 @@ title: "356 Mr S. M. Bruce, High Commissioner in London, to Mr A. W. Fadden, Act
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1587
 vol_id: 4
-date: 1941-03-15
+doc_date: 1941-03-15
 ---
 
 # 356 Mr S. M. Bruce, High Commissioner in London, to Mr A. W. Fadden, Acting Prime Minister

@@ -3,7 +3,7 @@ title: "341 Mr R. G. Casey, Minister to the United States, to Sir Frederick Stew
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1572
 vol_id: 4
-date: 1941-03-07
+doc_date: 1941-03-07
 ---
 
 # 341 Mr R. G. Casey, Minister to the United States, to Sir Frederick Stewart, Minister for External Affairs, and to Mr A. W. Fadden, Acting Prime Minister

@@ -3,7 +3,7 @@ title: "297 Burton to Hodgson"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2588
 vol_id: 6
-date: 1943-10-13
+doc_date: 1943-10-13
 ---
 
 # 297 Burton to Hodgson

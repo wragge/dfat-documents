@@ -3,7 +3,7 @@ title: "527 Draft Cabinet Submission by Evatt [1]"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6696
 vol_id: 15
-date: 1949-11-04
+doc_date: 1949-11-04
 ---
 
 # 527 Draft Cabinet Submission by Evatt [1]

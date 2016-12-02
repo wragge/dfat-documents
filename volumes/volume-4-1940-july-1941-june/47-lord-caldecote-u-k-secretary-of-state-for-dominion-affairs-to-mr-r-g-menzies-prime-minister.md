@@ -3,7 +3,7 @@ title: "47 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1278
 vol_id: 4
-date: 1940-08-02
+doc_date: 1940-08-02
 ---
 
 # 47 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister

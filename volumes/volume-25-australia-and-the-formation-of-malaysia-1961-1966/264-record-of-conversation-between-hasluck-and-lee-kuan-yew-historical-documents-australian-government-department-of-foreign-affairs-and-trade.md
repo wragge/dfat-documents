@@ -3,7 +3,7 @@ title: "264 Record of Conversation Between Hasluck and Lee Kuan Yew - Historical
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9394
 vol_id: 25
-date: 1965-03-16
+doc_date: 1965-03-16
 barcode: 1500925
 ---
 

@@ -3,7 +3,7 @@ title: "227 Record of Conversation Between Whitlam and Tang"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8065
 vol_id: 20
-date: 1975-09-12
+doc_date: 1975-09-12
 ---
 
 # 227 Record of Conversation Between Whitlam and Tang

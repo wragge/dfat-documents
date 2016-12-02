@@ -3,7 +3,7 @@ title: "249 Arnold to Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2540
 vol_id: 6
-date: 1943-07-22
+doc_date: 1943-07-22
 ---
 
 # 249 Arnold to Evatt

@@ -3,7 +3,7 @@ title: "268 Critchley to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6437
 vol_id: 15
-date: 1949-03-02
+doc_date: 1949-03-02
 ---
 
 # 268 Critchley to Burton

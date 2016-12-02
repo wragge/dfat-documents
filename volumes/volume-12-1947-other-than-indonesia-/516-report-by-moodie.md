@@ -3,7 +3,7 @@ title: "516 Report by Moodie"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5198
 vol_id: 12
-date: 1947-04-11
+doc_date: 1947-04-11
 ---
 
 # 516 Report by Moodie

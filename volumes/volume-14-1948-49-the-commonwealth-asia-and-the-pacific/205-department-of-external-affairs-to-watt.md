@@ -3,7 +3,7 @@ title: "205 Department of External Affairs to Watt"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5981
 vol_id: 14
-date: 1948-08-27
+doc_date: 1948-08-27
 ---
 
 # 205 Department of External Affairs to Watt

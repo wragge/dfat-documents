@@ -3,7 +3,7 @@ title: "207 Mr H. Fitzmaurice, U.K. Consul-General in Batavia, to Mr W. M. Hughe
 volume: "Volume 1: 1937-38"
 doc_id: 206
 vol_id: 1
-date: 1938-04-29
+doc_date: 1938-04-29
 ---
 
 # 207 Mr H. Fitzmaurice, U.K. Consul-General in Batavia, to Mr W. M. Hughes, Minister for External Affairs

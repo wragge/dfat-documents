@@ -3,7 +3,7 @@ title: "263 Evatt to Officer"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2554
 vol_id: 6
-date: 1943-08-25
+doc_date: 1943-08-25
 ---
 
 # 263 Evatt to Officer

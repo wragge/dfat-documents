@@ -3,7 +3,7 @@ title: "250 Memorandum, Administration (Henderson) To Doet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9758
 vol_id: 26
-date: 1969-01-04
+doc_date: 1969-01-04
 barcode: 11340886
 ---
 

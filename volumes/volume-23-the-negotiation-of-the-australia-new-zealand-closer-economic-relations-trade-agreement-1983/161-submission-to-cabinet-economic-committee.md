@@ -3,7 +3,7 @@ title: "161 Submission to Cabinet Economic Committee"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9030
 vol_id: 23
-date: 1981-02-20
+doc_date: 1981-02-20
 ---
 
 # 161 Submission to Cabinet Economic Committee

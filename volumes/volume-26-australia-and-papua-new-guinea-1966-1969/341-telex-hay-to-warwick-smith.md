@@ -3,7 +3,7 @@ title: "341 Telex, Hay To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9850
 vol_id: 26
-date: 1969-12-09
+doc_date: 1969-12-09
 barcode: 3118301
 ---
 

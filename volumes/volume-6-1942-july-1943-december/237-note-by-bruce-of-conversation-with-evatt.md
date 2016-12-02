@@ -3,7 +3,7 @@ title: "237 Note by Bruce of Conversation with Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2528
 vol_id: 6
-date: 1943-07-06
+doc_date: 1943-07-06
 barcode: 242458
 ---
 

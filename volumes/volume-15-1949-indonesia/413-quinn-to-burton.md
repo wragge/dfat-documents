@@ -3,7 +3,7 @@ title: "413 Quinn to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6582
 vol_id: 15
-date: 1949-05-20
+doc_date: 1949-05-20
 ---
 
 # 413 Quinn to Burton

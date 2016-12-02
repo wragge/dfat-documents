@@ -3,7 +3,7 @@ title: "109 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Mr J.
 volume: "Volume 2: 1939"
 doc_id: 446
 vol_id: 2
-date: 1939-06-23
+doc_date: 1939-06-23
 ---
 
 # 109 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Mr J.E. Stephenson, Assistant Secretary, U.K. Dominions Office

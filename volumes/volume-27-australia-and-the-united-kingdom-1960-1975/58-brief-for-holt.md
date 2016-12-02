@@ -3,7 +3,7 @@ title: "58 BRIEF FOR HOLT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9923
 vol_id: 27
-date: 1966-06-27
+doc_date: 1966-06-27
 ---
 
 # 58 BRIEF FOR HOLT

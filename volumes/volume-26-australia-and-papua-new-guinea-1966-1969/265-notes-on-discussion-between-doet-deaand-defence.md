@@ -3,7 +3,7 @@ title: "265 Notes On Discussion Between Doet, Deaand Defence"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9773
 vol_id: 26
-date: 1969-04-30
+doc_date: 1969-04-30
 ---
 
 # 265 Notes On Discussion Between Doet, Deaand Defence

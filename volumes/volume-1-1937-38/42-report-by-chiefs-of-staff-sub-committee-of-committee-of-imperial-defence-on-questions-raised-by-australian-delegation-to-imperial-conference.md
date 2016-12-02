@@ -3,7 +3,7 @@ title: "42 Report by Chiefs of Staff Sub-committee of Committee of Imperial Defe
 volume: "Volume 1: 1937-38"
 doc_id: 42
 vol_id: 1
-date: 1937-06-09
+doc_date: 1937-06-09
 ---
 
 # 42 Report by Chiefs of Staff Sub-committee of Committee of Imperial Defence on Questions raised by Australian Delegation to Imperial Conference

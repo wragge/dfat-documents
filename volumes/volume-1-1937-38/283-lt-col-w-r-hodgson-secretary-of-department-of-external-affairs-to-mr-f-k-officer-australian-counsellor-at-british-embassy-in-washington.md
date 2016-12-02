@@ -3,7 +3,7 @@ title: "283 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, t
 volume: "Volume 1: 1937-38"
 doc_id: 282
 vol_id: 1
-date: 1938-09-27
+doc_date: 1938-09-27
 ---
 
 # 283 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr F. K. Officer, Australian Counsellor at British Embassy in Washington

@@ -3,7 +3,7 @@ title: "422 Evatt and Lavarack to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3453
 vol_id: 8
-date: 1945-11-30
+doc_date: 1945-11-30
 barcode: 171294
 ---
 

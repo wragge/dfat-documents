@@ -3,7 +3,7 @@ title: "288 Cranborne to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2579
 vol_id: 6
-date: 1943-09-29
+doc_date: 1943-09-29
 ---
 
 # 288 Cranborne to Curtin

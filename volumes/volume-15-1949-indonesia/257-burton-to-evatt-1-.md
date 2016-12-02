@@ -3,7 +3,7 @@ title: "257 Burton to Evatt [1]"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6426
 vol_id: 15
-date: 1949-03-01
+doc_date: 1949-03-01
 ---
 
 # 257 Burton to Evatt [1]

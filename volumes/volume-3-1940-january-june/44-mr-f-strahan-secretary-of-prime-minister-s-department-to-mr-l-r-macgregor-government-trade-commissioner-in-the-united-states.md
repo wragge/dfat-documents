@@ -3,7 +3,7 @@ title: "44 Mr F. Strahan, Secretary of Prime Minister's Department, to Mr L. R. 
 volume: "Volume 3: 1940, January-June"
 doc_id: 810
 vol_id: 3
-date: 1940-02-06
+doc_date: 1940-02-06
 ---
 
 # 44 Mr F. Strahan, Secretary of Prime Minister's Department, to Mr L. R. Macgregor, Government Trade Commissioner in the United States

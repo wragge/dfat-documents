@@ -3,7 +3,7 @@ title: "40 Letter from Lavett to Renouf"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7879
 vol_id: 20
-date: 1974-09-28
+doc_date: 1974-09-28
 ---
 
 # 40 Letter from Lavett to Renouf

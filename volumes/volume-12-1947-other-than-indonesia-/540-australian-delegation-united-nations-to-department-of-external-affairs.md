@@ -3,7 +3,7 @@ title: "540 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5222
 vol_id: 12
-date: 1947-11-05
+doc_date: 1947-11-05
 barcode: 140887
 ---
 

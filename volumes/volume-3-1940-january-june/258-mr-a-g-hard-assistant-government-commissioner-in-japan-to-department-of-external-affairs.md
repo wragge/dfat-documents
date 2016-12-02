@@ -3,7 +3,7 @@ title: "258 Mr A. G. Hard, Assistant Government Commissioner in Japan, to Depart
 volume: "Volume 3: 1940, January-June"
 doc_id: 1024
 vol_id: 3
-date: 1940-05-21
+doc_date: 1940-05-21
 ---
 
 # 258 Mr A. G. Hard, Assistant Government Commissioner in Japan, to Department of External Affairs

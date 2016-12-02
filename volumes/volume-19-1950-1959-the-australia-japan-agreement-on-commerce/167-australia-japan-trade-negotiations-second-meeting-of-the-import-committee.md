@@ -3,7 +3,7 @@ title: "167 Australia-Japan Trade Negotiations: Second Meeting Of The Import Com
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7772
 vol_id: 19
-date: 1956-11-06
+doc_date: 1956-11-06
 ---
 
 # 167 Australia-Japan Trade Negotiations: Second Meeting Of The Import Committee

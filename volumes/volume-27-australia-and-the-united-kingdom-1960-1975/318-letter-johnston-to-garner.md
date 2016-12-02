@@ -3,7 +3,7 @@ title: "318 LETTER, JOHNSTON TO GARNER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10184
 vol_id: 27
-date: 1966-11-30
+doc_date: 1966-11-30
 ---
 
 # 318 LETTER, JOHNSTON TO GARNER

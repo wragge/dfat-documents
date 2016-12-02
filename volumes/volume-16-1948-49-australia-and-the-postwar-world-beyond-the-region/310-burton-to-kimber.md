@@ -3,7 +3,7 @@ title: "310 Burton to Kimber"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7025
 vol_id: 16
-date: 1949-09-05
+doc_date: 1949-09-05
 barcode: 471018
 ---
 

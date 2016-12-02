@@ -3,7 +3,7 @@ title: "281 Evatt to Stirling"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2572
 vol_id: 6
-date: 1943-09-18
+doc_date: 1943-09-18
 barcode: 242460
 ---
 

@@ -3,7 +3,7 @@ title: "427 Note for File by Pritchett"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6596
 vol_id: 15
-date: 1949-06-01
+doc_date: 1949-06-01
 ---
 
 # 427 Note for File by Pritchett

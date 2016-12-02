@@ -3,7 +3,7 @@ title: "25 Letter from Godfrey to Scully and Flood"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8895
 vol_id: 23
-date: 1979-08-27
+doc_date: 1979-08-27
 ---
 
 # 25 Letter from Godfrey to Scully and Flood

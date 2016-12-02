@@ -3,7 +3,7 @@ title: "354 Evatt to Marshall"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5036
 vol_id: 12
-date: 1947-08-26
+doc_date: 1947-08-26
 ---
 
 # 354 Evatt to Marshall

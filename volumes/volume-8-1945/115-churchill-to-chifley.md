@@ -3,7 +3,7 @@ title: "115 Churchill to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3146
 vol_id: 8
-date: 1945-06-16
+doc_date: 1945-06-16
 barcode: 188245
 ---
 

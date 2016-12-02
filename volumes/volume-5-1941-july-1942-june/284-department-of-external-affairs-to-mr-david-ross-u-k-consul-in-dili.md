@@ -3,7 +3,7 @@ title: "284 Department of External Affairs to Mr David Ross, U.K. Consul in Dili
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2038
 vol_id: 5
-date: 1942-01-20
+doc_date: 1942-01-20
 ---
 
 # 284 Department of External Affairs to Mr David Ross, U.K. Consul in Dili

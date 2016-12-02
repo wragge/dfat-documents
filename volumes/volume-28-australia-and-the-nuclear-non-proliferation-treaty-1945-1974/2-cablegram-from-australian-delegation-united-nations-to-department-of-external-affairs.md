@@ -3,7 +3,7 @@ title: "2 Cablegram from Australian Delegation, United Nations, to Department of
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10378
 vol_id: 28
-date: 1946-01-28
+doc_date: 1946-01-28
 barcode: 587494
 ---
 

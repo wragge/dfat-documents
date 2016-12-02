@@ -3,7 +3,7 @@ title: "126 Cablegram, Shaw To Dea"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9634
 vol_id: 26
-date: 1967-06-24
+doc_date: 1967-06-24
 barcode: 546811
 ---
 

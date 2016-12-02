@@ -3,7 +3,7 @@ title: "126 Notes by Coleman for Defence Committee"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5902
 vol_id: 14
-date: 1949-02-14
+doc_date: 1949-02-14
 ---
 
 # 126 Notes by Coleman for Defence Committee

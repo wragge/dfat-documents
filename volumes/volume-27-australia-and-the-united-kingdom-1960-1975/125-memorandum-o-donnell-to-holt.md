@@ -3,7 +3,7 @@ title: "125 MEMORANDUM, O'DONNELL TO HOLT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9990
 vol_id: 27
-date: 1961-02-13
+doc_date: 1961-02-13
 ---
 
 # 125 MEMORANDUM, O'DONNELL TO HOLT

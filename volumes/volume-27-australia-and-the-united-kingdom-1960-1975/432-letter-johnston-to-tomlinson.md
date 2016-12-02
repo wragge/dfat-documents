@@ -3,7 +3,7 @@ title: "432 LETTER JOHNSTON TO TOMLINSON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10299
 vol_id: 27
-date: 1971-02-09
+doc_date: 1971-02-09
 ---
 
 # 432 LETTER JOHNSTON TO TOMLINSON

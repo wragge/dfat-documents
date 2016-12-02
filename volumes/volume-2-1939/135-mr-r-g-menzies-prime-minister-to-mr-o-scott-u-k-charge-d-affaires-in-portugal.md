@@ -3,7 +3,7 @@ title: "135 Mr R.G. Menzies, Prime Minister, to Mr O. Scott, U.K. Charge d'Affai
 volume: "Volume 2: 1939"
 doc_id: 472
 vol_id: 2
-date: 1939-08-18
+doc_date: 1939-08-18
 ---
 
 # 135 Mr R.G. Menzies, Prime Minister, to Mr O. Scott, U.K. Charge d'Affaires in Portugal

@@ -3,7 +3,7 @@ title: "99 Department of External Affairs to Ballard and Officer"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4283
 vol_id: 11
-date: 1947-06-26
+doc_date: 1947-06-26
 ---
 
 # 99 Department of External Affairs to Ballard and Officer

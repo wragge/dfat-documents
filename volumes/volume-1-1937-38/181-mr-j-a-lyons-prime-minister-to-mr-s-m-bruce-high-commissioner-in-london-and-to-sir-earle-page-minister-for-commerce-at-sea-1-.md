@@ -3,7 +3,7 @@ title: "181 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner
 volume: "Volume 1: 1937-38"
 doc_id: 180
 vol_id: 1
-date: 1938-04-07
+doc_date: 1938-04-07
 ---
 
 # 181 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London, and to Sir Earle Page, Minister for Commerce (at Sea [1])

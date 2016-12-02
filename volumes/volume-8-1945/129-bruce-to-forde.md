@@ -3,7 +3,7 @@ title: "129 Bruce to Forde"
 volume: "Volume 8: 1945"
 doc_id: 3160
 vol_id: 8
-date: 1945-07-06
+doc_date: 1945-07-06
 ---
 
 # 129 Bruce to Forde

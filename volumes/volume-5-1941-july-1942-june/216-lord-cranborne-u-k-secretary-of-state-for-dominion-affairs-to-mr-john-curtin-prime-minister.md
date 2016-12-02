@@ -3,7 +3,7 @@ title: "216 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1970
 vol_id: 5
-date: 1941-12-23
+doc_date: 1941-12-23
 ---
 
 # 216 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister

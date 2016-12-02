@@ -3,7 +3,7 @@ title: "53 Cablegram From Watt to Officer And Stirling"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8404
 vol_id: 21
-date: 1951-02-23
+doc_date: 1951-02-23
 barcode: 271757
 ---
 

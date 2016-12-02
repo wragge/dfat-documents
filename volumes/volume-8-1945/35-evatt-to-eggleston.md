@@ -3,7 +3,7 @@ title: "35 Evatt to Eggleston"
 volume: "Volume 8: 1945"
 doc_id: 3066
 vol_id: 8
-date: 1945-02-13
+doc_date: 1945-02-13
 barcode: 187021
 ---
 

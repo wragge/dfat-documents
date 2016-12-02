@@ -3,7 +3,7 @@ title: "38 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Comm
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1269
 vol_id: 4
-date: 1940-07-27
+doc_date: 1940-07-27
 ---
 
 # 38 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

@@ -3,7 +3,7 @@ title: "25 Statement by Kirby"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5292
 vol_id: 13
-date: 1948-01-17
+doc_date: 1948-01-17
 ---
 
 # 25 Statement by Kirby

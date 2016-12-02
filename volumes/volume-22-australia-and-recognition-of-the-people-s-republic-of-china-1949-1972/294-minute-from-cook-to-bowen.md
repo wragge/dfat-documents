@@ -3,7 +3,7 @@ title: "294 MINUTE FROM COOK TO BOWEN"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8777
 vol_id: 22
-date: 1972-01-07
+doc_date: 1972-01-07
 barcode: 1730898
 ---
 

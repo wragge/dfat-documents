@@ -3,7 +3,7 @@ title: "51 Mr H. Fitzmaurice, U.K. Consul-General in Batavia, to Mr A. Eden, U.K
 volume: "Volume 1: 1937-38"
 doc_id: 51
 vol_id: 1
-date: 1937-06-17
+doc_date: 1937-06-17
 ---
 
 # 51 Mr H. Fitzmaurice, U.K. Consul-General in Batavia, to Mr A. Eden, U.K. Secretary of State for Foreign Affairs

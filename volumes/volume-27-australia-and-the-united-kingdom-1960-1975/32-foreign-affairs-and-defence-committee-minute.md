@@ -3,7 +3,7 @@ title: "32 FOREIGN AFFAIRS AND DEFENCE COMMITTEE MINUTE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9898
 vol_id: 27
-date: 1965-08-26
+doc_date: 1965-08-26
 ---
 
 # 32 FOREIGN AFFAIRS AND DEFENCE COMMITTEE MINUTE

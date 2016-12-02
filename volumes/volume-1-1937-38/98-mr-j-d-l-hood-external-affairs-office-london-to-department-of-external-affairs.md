@@ -3,7 +3,7 @@ title: "98 Mr J. D. L. Hood, External Affairs Office, London, to Department of E
 volume: "Volume 1: 1937-38"
 doc_id: 97
 vol_id: 1
-date: 1937-11-08
+doc_date: 1937-11-08
 ---
 
 # 98 Mr J. D. L. Hood, External Affairs Office, London, to Department of External Affairs

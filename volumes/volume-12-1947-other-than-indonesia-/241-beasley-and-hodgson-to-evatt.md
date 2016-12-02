@@ -3,7 +3,7 @@ title: "241 Beasley and Hodgson to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4923
 vol_id: 12
-date: 1947-01-20
+doc_date: 1947-01-20
 ---
 
 # 241 Beasley and Hodgson to Evatt

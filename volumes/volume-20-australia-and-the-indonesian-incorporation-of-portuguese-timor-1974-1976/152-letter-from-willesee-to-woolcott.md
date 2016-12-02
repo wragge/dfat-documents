@@ -3,7 +3,7 @@ title: "152 Letter from Willesee to Woolcott"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7991
 vol_id: 20
-date: 1975-07-07
+doc_date: 1975-07-07
 ---
 
 # 152 Letter from Willesee to Woolcott

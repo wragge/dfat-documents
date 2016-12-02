@@ -3,7 +3,7 @@ title: "97 Addison to Beasley"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4281
 vol_id: 11
-date: 1947-06-24
+doc_date: 1947-06-24
 ---
 
 # 97 Addison to Beasley

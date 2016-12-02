@@ -3,7 +3,7 @@ title: "35 Mr F. Strahan, Secretary of Prime Minister's Department, to Mr R. R. 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1266
 vol_id: 4
-date: 1940-07-26
+doc_date: 1940-07-26
 ---
 
 # 35 Mr F. Strahan, Secretary of Prime Minister's Department, to Mr R. R. Sedgwick, Official Secretary of the U.K. High Commission in Australia

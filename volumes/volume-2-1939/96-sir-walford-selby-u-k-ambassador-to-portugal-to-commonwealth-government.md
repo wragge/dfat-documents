@@ -3,7 +3,7 @@ title: "96 Sir Walford Selby, U.K. Ambassador to Portugal, to Commonwealth Gover
 volume: "Volume 2: 1939"
 doc_id: 433
 vol_id: 2
-date: 1939-05-31
+doc_date: 1939-05-31
 barcode: 206913
 ---
 

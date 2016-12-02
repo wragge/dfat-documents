@@ -3,7 +3,7 @@ title: "125 Cranborne to Commonwealth Government"
 volume: "Volume 8: 1945"
 doc_id: 3156
 vol_id: 8
-date: 1945-06-30
+doc_date: 1945-06-30
 barcode: 187369
 ---
 

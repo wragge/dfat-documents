@@ -3,7 +3,7 @@ title: "62 Minute From Shaw To Tange"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7667
 vol_id: 19
-date: 1954-07-16
+doc_date: 1954-07-16
 ---
 
 # 62 Minute From Shaw To Tange

@@ -3,7 +3,7 @@ title: "70 Critchley to Kirby"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5337
 vol_id: 13
-date: 1948-02-16
+doc_date: 1948-02-16
 barcode: 216938
 ---
 

@@ -3,7 +3,7 @@ title: "195 MESSAGE, MENZIES TO SANDYS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10060
 vol_id: 27
-date: 1962-07-28
+doc_date: 1962-07-28
 ---
 
 # 195 MESSAGE, MENZIES TO SANDYS

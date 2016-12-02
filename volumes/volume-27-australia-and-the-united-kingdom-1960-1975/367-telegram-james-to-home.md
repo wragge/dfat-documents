@@ -3,7 +3,7 @@ title: "367 TELEGRAM, JAMES TO HOME"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10233
 vol_id: 27
-date: 1972-12-20
+doc_date: 1972-12-20
 ---
 
 # 367 TELEGRAM, JAMES TO HOME

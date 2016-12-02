@@ -3,7 +3,7 @@ title: "511 Mr J. B. Brigden, Financial Counsellor at the Legation in Washington
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2265
 vol_id: 5
-date: 1942-06-01
+doc_date: 1942-06-01
 ---
 
 # 511 Mr J. B. Brigden, Financial Counsellor at the Legation in Washington, to Department of External Affairs

@@ -3,7 +3,7 @@ title: "179 Cablegram from Embassy in the Hague to Department of Foreign Affairs
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10553
 vol_id: 28
-date: 1971-10-15
+doc_date: 1971-10-15
 barcode: 1373495
 ---
 

@@ -3,7 +3,7 @@ title: "44 Notes of Discussion"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5820
 vol_id: 14
-date: 1949-07-18
+doc_date: 1949-07-18
 ---
 
 # 44 Notes of Discussion

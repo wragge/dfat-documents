@@ -3,7 +3,7 @@ title: "332 Noel-Baker to Fraser and Chifley [1]"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5599
 vol_id: 13
-date: 1948-11-27
+doc_date: 1948-11-27
 barcode: 550454
 ---
 

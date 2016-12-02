@@ -3,7 +3,7 @@ title: "226 Officer to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6002
 vol_id: 14
-date: 1948-11-16
+doc_date: 1948-11-16
 ---
 
 # 226 Officer to Department of External Affairs

@@ -3,7 +3,7 @@ title: "222 Sir Robert Craigie, U.K. Ambassador to Japan, to U.K. Foreign Office
 volume: "Volume 1: 1937-38"
 doc_id: 221
 vol_id: 1
-date: 1938-06-24
+doc_date: 1938-06-24
 ---
 
 # 222 Sir Robert Craigie, U.K. Ambassador to Japan, to U.K. Foreign Office

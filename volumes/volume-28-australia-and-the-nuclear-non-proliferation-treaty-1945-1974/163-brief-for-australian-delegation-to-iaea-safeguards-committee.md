@@ -3,7 +3,7 @@ title: "163 Brief for Australian Delegation to IAEA Safeguards Committee"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10537
 vol_id: 28
-date: 1970-06-11
+doc_date: 1970-06-11
 barcode: 555695
 ---
 

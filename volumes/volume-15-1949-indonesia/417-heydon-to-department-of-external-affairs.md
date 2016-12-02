@@ -3,7 +3,7 @@ title: "417 Heydon to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6586
 vol_id: 15
-date: 1949-05-24
+doc_date: 1949-05-24
 ---
 
 # 417 Heydon to Department of External Affairs

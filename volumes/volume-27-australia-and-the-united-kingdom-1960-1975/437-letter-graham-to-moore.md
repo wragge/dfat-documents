@@ -3,7 +3,7 @@ title: "437 LETTER GRAHAM TO MOORE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10304
 vol_id: 27
-date: 1972-07-24
+doc_date: 1972-07-24
 ---
 
 # 437 LETTER GRAHAM TO MOORE

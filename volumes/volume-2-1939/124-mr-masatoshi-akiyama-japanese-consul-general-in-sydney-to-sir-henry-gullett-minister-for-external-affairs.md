@@ -3,7 +3,7 @@ title: "124 Mr Masatoshi Akiyama, Japanese Consul-General in Sydney, to Sir Henr
 volume: "Volume 2: 1939"
 doc_id: 461
 vol_id: 2
-date: 1939-07-27
+doc_date: 1939-07-27
 ---
 
 # 124 Mr Masatoshi Akiyama, Japanese Consul-General in Sydney, to Sir Henry Gullett, Minister for External Affairs

@@ -3,7 +3,7 @@ title: "326 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1557
 vol_id: 4
-date: 1941-03-01
+doc_date: 1941-03-01
 ---
 
 # 326 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London

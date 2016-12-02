@@ -3,7 +3,7 @@ title: "39 Background Note by Prime Minister's Department to Cabinet Decision No
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10414
 vol_id: 28
-date: 1959-03-23
+doc_date: 1959-03-23
 barcode: 841958
 ---
 

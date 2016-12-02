@@ -3,7 +3,7 @@ title: "346 Prime Minister's Department to High Commissioner's Office, London"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1577
 vol_id: 4
-date: 1941-03-11
+doc_date: 1941-03-11
 ---
 
 # 346 Prime Minister's Department to High Commissioner's Office, London

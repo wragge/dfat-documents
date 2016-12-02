@@ -3,7 +3,7 @@ title: "23 Sir John Latham, Minister to Japan, to Sir Frederick Stewart, Ministe
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1777
 vol_id: 5
-date: 1941-07-29
+doc_date: 1941-07-29
 ---
 
 # 23 Sir John Latham, Minister to Japan, to Sir Frederick Stewart, Minister for External Affairs

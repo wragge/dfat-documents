@@ -3,7 +3,7 @@ title: "110 Minute from Lang to Evans"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8980
 vol_id: 23
-date: 1980-11-27
+doc_date: 1980-11-27
 ---
 
 # 110 Minute from Lang to Evans

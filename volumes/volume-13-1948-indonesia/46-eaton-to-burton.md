@@ -3,7 +3,7 @@ title: "46 Eaton to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5313
 vol_id: 13
-date: 1948-02-06
+doc_date: 1948-02-06
 ---
 
 # 46 Eaton to Burton

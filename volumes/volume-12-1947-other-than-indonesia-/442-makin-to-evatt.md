@@ -3,7 +3,7 @@ title: "442 Makin to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5124
 vol_id: 12
-date: 1947-06-23
+doc_date: 1947-06-23
 ---
 
 # 442 Makin to Evatt

@@ -3,7 +3,7 @@ title: "502 MESSAGE, WILSON TO WHlTLAM"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10369
 vol_id: 27
-date: 1975-01-26
+doc_date: 1975-01-26
 ---
 
 # 502 MESSAGE, WILSON TO WHlTLAM

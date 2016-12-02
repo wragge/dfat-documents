@@ -3,7 +3,7 @@ title: "244 Officer to Department of External Affairs"
 volume: "Volume 7: 1944"
 doc_id: 2891
 vol_id: 7
-date: 1944-08-01
+doc_date: 1944-08-01
 ---
 
 # 244 Officer to Department of External Affairs

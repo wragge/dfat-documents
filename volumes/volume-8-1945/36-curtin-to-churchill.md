@@ -3,7 +3,7 @@ title: "36 Curtin to Churchill"
 volume: "Volume 8: 1945"
 doc_id: 3067
 vol_id: 8
-date: 1945-02-14
+doc_date: 1945-02-14
 ---
 
 # 36 Curtin to Churchill

@@ -3,7 +3,7 @@ title: "332 Mr John Curtin, Prime Minister, to Sir Earle Page, Special Represent
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2086
 vol_id: 5
-date: 1942-02-13
+doc_date: 1942-02-13
 ---
 
 # 332 Mr John Curtin, Prime Minister, to Sir Earle Page, Special Representative in the United Kingdom

@@ -3,7 +3,7 @@ title: "304 Department of External Affairs to Consulate-General in Batavia [1]"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4488
 vol_id: 11
-date: 1947-08-28
+doc_date: 1947-08-28
 ---
 
 # 304 Department of External Affairs to Consulate-General in Batavia [1]

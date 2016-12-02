@@ -3,7 +3,7 @@ title: "117 Cablegram From Embassy in Washington to Department of External Affai
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8468
 vol_id: 21
-date: 1951-09-28
+doc_date: 1951-09-28
 ---
 
 # 117 Cablegram From Embassy in Washington to Department of External Affairs

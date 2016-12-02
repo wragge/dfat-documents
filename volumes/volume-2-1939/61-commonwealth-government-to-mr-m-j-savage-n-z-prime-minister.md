@@ -3,7 +3,7 @@ title: "61 Commonwealth Government to Mr M.J. Savage, N.Z. Prime Minister"
 volume: "Volume 2: 1939"
 doc_id: 398
 vol_id: 2
-date: 1939-03-29
+doc_date: 1939-03-29
 ---
 
 # 61 Commonwealth Government to Mr M.J. Savage, N.Z. Prime Minister

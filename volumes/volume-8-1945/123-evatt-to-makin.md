@@ -3,7 +3,7 @@ title: "123 Evatt to Makin"
 volume: "Volume 8: 1945"
 doc_id: 3154
 vol_id: 8
-date: 1945-06-23
+doc_date: 1945-06-23
 barcode: 188012
 ---
 

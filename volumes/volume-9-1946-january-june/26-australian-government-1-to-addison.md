@@ -3,7 +3,7 @@ title: "26 Australian Government [1] to Addison"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3538
 vol_id: 9
-date: 1946-01-12
+doc_date: 1946-01-12
 ---
 
 # 26 Australian Government [1] to Addison

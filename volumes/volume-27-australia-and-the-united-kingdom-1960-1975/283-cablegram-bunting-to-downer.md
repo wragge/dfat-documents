@@ -3,7 +3,7 @@ title: "283 CABLEGRAM, BUNTING TO DOWNER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10148
 vol_id: 27
-date: 1971-06-15
+doc_date: 1971-06-15
 ---
 
 # 283 CABLEGRAM, BUNTING TO DOWNER

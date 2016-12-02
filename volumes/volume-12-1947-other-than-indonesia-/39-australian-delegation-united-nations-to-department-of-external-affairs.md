@@ -3,7 +3,7 @@ title: "39 Australian Delegation, United Nations, to Department of External Affa
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4721
 vol_id: 12
-date: 1947-11-12
+doc_date: 1947-11-12
 barcode: 194827
 ---
 

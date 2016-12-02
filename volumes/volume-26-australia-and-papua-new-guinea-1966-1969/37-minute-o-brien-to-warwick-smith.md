@@ -3,7 +3,7 @@ title: "37 MINUTE, O’BRIEN TO WARWICK SMITH"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9545
 vol_id: 26
-date: 1966-04-18
+doc_date: 1966-04-18
 ---
 
 # 37 MINUTE, O’BRIEN TO WARWICK SMITH

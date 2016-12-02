@@ -3,7 +3,7 @@ title: "148 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1902
 vol_id: 5
-date: 1941-12-01
+doc_date: 1941-12-01
 ---
 
 # 148 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John Curtin, Prime Minister

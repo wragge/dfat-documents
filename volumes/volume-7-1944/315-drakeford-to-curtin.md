@@ -3,7 +3,7 @@ title: "315 Drakeford to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2962
 vol_id: 7
-date: 1944-10-12
+doc_date: 1944-10-12
 ---
 
 # 315 Drakeford to Curtin

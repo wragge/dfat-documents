@@ -3,7 +3,7 @@ title: "36 Extract From Cablegram From Embassy in Washington to Department of Ex
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8387
 vol_id: 21
-date: 1951-01-18
+doc_date: 1951-01-18
 ---
 
 # 36 Extract From Cablegram From Embassy in Washington to Department of External Affairs

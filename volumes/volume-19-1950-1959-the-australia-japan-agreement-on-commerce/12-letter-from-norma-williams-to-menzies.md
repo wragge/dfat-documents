@@ -3,7 +3,7 @@ title: "12 Letter From Norma Williams To Menzies"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7617
 vol_id: 19
-date: 1951-11-03
+doc_date: 1951-11-03
 ---
 
 # 12 Letter From Norma Williams To Menzies

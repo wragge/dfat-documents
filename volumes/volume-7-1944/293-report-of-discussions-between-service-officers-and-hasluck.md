@@ -3,7 +3,7 @@ title: "293 Report of Discussions between Service Officers and Hasluck"
 volume: "Volume 7: 1944"
 doc_id: 2940
 vol_id: 7
-date: 1944-09-20
+doc_date: 1944-09-20
 ---
 
 # 293 Report of Discussions between Service Officers and Hasluck

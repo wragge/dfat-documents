@@ -3,7 +3,7 @@ title: "40 Brief by Ashwin for Henderson"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8910
 vol_id: 23
-date: 1979-10-29
+doc_date: 1979-10-29
 ---
 
 # 40 Brief by Ashwin for Henderson

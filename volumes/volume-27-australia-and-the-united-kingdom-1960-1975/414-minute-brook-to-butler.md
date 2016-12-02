@@ -3,7 +3,7 @@ title: "414 MINUTE BROOK TO BUTLER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10280
 vol_id: 27
-date: 1961-03-27
+doc_date: 1961-03-27
 ---
 
 # 414 MINUTE BROOK TO BUTLER

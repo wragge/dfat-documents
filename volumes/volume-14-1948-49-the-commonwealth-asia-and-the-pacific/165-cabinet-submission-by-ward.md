@@ -3,7 +3,7 @@ title: "165 Cabinet Submission by Ward"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5941
 vol_id: 14
-date: 1948-06-24
+doc_date: 1948-06-24
 ---
 
 # 165 Cabinet Submission by Ward

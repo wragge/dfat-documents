@@ -3,7 +3,7 @@ title: "97 File Note in Department of the Prime Minister and Cabinet"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7936
 vol_id: 20
-date: 1975-02-25
+doc_date: 1975-02-25
 ---
 
 # 97 File Note in Department of the Prime Minister and Cabinet

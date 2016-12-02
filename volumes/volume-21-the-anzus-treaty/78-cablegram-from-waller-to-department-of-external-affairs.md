@@ -3,7 +3,7 @@ title: "78 Cablegram From Waller to Department of External Affairs"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8429
 vol_id: 21
-date: 1951-04-04
+doc_date: 1951-04-04
 ---
 
 # 78 Cablegram From Waller to Department of External Affairs

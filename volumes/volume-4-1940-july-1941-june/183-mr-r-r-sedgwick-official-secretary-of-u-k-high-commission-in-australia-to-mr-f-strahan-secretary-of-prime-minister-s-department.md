@@ -3,7 +3,7 @@ title: "183 Mr R. R. Sedgwick, Official Secretary of U.K. High Commission in Aus
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1414
 vol_id: 4
-date: 1940-10-30
+doc_date: 1940-10-30
 barcode: 97698
 ---
 

@@ -3,7 +3,7 @@ title: "81 SAVINGRAM TO ALL POSTS"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8564
 vol_id: 22
-date: 1960-07-25
+doc_date: 1960-07-25
 ---
 
 # 81 SAVINGRAM TO ALL POSTS

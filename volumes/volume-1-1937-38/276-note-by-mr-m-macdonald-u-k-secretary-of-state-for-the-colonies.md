@@ -3,7 +3,7 @@ title: "276 Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies"
 volume: "Volume 1: 1937-38"
 doc_id: 275
 vol_id: 1
-date: 1938-09-25
+doc_date: 1938-09-25
 ---
 
 # 276 Note by Mr M. MacDonald, U.K. Secretary of State for the Colonies

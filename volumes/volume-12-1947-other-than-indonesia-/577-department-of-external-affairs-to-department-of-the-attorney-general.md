@@ -3,7 +3,7 @@ title: "577 Department of External Affairs to Department of the Attorney- Genera
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5259
 vol_id: 12
-date: 1947-09-09
+doc_date: 1947-09-09
 ---
 
 # 577 Department of External Affairs to Department of the Attorney- General

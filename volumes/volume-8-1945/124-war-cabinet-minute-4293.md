@@ -3,7 +3,7 @@ title: "124 War Cabinet Minute 4293"
 volume: "Volume 8: 1945"
 doc_id: 3155
 vol_id: 8
-date: 1945-06-28
+doc_date: 1945-06-28
 ---
 
 # 124 War Cabinet Minute 4293

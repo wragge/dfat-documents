@@ -3,7 +3,7 @@ title: "83 Ministry of Foreign Affairs Draft Discussion Paper for Officials' Wor
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8953
 vol_id: 23
-date: 1980-02-12
+doc_date: 1980-02-12
 ---
 
 # 83 Ministry of Foreign Affairs Draft Discussion Paper for Officials' Working Group

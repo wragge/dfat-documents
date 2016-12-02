@@ -3,7 +3,7 @@ title: "170 Attlee to Chifley"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4354
 vol_id: 11
-date: 1947-07-27
+doc_date: 1947-07-27
 ---
 
 # 170 Attlee to Chifley

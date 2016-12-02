@@ -3,7 +3,7 @@ title: "277 CABLEGRAM, O’NEILL TO FOREIGN AND COMMONWEALTH OFFICE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10142
 vol_id: 27
-date: 1971-04-22
+doc_date: 1971-04-22
 ---
 
 # 277 CABLEGRAM, O’NEILL TO FOREIGN AND COMMONWEALTH OFFICE

@@ -3,7 +3,7 @@ title: "488 Advisory War Council Minute"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1719
 vol_id: 4
-date: 1941-06-05
+doc_date: 1941-06-05
 ---
 
 # 488 Advisory War Council Minute

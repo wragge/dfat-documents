@@ -3,7 +3,7 @@ title: "31 Letter, Hasluck To Gorton"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9539
 vol_id: 26
-date: 1966-03-18
+doc_date: 1966-03-18
 barcode: 1730563
 ---
 

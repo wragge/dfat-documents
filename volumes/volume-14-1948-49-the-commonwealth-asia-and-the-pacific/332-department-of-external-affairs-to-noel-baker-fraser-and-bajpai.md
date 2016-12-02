@@ -3,7 +3,7 @@ title: "332 Department of External Affairs to Noel-Baker, Fraser and Bajpai"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6108
 vol_id: 14
-date: 1948-08-11
+doc_date: 1948-08-11
 ---
 
 # 332 Department of External Affairs to Noel-Baker, Fraser and Bajpai

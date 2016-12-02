@@ -3,7 +3,7 @@ title: "81 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in L
 volume: "Volume 1: 1937-38"
 doc_id: 80
 vol_id: 1
-date: 1937-10-18
+doc_date: 1937-10-18
 ---
 
 # 81 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London

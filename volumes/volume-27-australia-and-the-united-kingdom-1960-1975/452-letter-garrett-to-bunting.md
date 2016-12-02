@@ -3,7 +3,7 @@ title: "452 LETTER GARRETT TO BUNTING"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10319
 vol_id: 27
-date: 1973-04-12
+doc_date: 1973-04-12
 ---
 
 # 452 LETTER GARRETT TO BUNTING

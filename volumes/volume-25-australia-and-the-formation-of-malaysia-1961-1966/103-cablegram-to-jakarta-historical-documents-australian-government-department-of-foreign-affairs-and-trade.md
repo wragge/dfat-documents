@@ -3,7 +3,7 @@ title: "103 Cablegram to Jakarta - Historical Documents - Australian Government 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9234
 vol_id: 25
-date: 1963-08-23
+doc_date: 1963-08-23
 barcode: 1500824
 ---
 

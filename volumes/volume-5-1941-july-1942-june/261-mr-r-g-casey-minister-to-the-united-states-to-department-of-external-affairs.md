@@ -3,7 +3,7 @@ title: "261 Mr R. G. Casey, Minister to the United States, to Department of Exte
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2015
 vol_id: 5
-date: 1942-01-08
+doc_date: 1942-01-08
 barcode: 1158601
 ---
 

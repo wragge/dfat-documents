@@ -3,7 +3,7 @@ title: "317 Noel-Baker to Australian Government"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5584
 vol_id: 13
-date: 1948-11-18
+doc_date: 1948-11-18
 ---
 
 # 317 Noel-Baker to Australian Government

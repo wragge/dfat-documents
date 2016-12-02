@@ -3,7 +3,7 @@ title: "273 Makin to Evatt"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4121
 vol_id: 10
-date: 1946-12-02
+doc_date: 1946-12-02
 ---
 
 # 273 Makin to Evatt

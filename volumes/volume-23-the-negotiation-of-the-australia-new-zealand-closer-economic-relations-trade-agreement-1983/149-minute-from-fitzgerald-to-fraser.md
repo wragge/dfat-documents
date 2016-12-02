@@ -3,7 +3,7 @@ title: "149 Minute from Fitzgerald to Fraser"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9018
 vol_id: 23
-date: 1981-03-18
+doc_date: 1981-03-18
 ---
 
 # 149 Minute from Fitzgerald to Fraser

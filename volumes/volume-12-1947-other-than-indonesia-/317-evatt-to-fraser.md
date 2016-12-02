@@ -3,7 +3,7 @@ title: "317 Evatt to Fraser"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4999
 vol_id: 12
-date: 1947-05-27
+doc_date: 1947-05-27
 ---
 
 # 317 Evatt to Fraser

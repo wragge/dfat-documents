@@ -3,7 +3,7 @@ title: "30 CABLEGRAM TO LONDON"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8513
 vol_id: 22
-date: 1951-01-07
+doc_date: 1951-01-07
 ---
 
 # 30 CABLEGRAM TO LONDON

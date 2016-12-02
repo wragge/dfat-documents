@@ -3,7 +3,7 @@ title: "96 Beasley to Evatt"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4280
 vol_id: 11
-date: 1947-06-23
+doc_date: 1947-06-23
 ---
 
 # 96 Beasley to Evatt

@@ -3,7 +3,7 @@ title: "59 Watt to Hood"
 volume: "Volume 7: 1944"
 doc_id: 2706
 vol_id: 7
-date: 1944-02-29
+doc_date: 1944-02-29
 ---
 
 # 59 Watt to Hood

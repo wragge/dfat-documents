@@ -3,7 +3,7 @@ title: "365 Eggleston to Watt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5047
 vol_id: 12
-date: 1947-09-03
+doc_date: 1947-09-03
 ---
 
 # 365 Eggleston to Watt

@@ -3,7 +3,7 @@ title: "221 Officer to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5488
 vol_id: 13
-date: 1948-08-05
+doc_date: 1948-08-05
 ---
 
 # 221 Officer to Department of External Affairs

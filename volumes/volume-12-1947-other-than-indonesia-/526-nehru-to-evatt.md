@@ -3,7 +3,7 @@ title: "526 Nehru to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5208
 vol_id: 12
-date: 1947-03-13
+doc_date: 1947-03-13
 barcode: 197024
 ---
 

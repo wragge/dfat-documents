@@ -3,7 +3,7 @@ title: "26 Memorandum from Tange to Chilton"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10401
 vol_id: 28
-date: 1957-06-28
+doc_date: 1957-06-28
 barcode: 842824
 ---
 

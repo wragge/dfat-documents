@@ -3,7 +3,7 @@ title: "202 Brophy to Wilson"
 volume: "Volume 7: 1944"
 doc_id: 2849
 vol_id: 7
-date: 1944-06-22
+doc_date: 1944-06-22
 ---
 
 # 202 Brophy to Wilson

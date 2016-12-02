@@ -3,7 +3,7 @@ title: "100 Glasheen to Department of External Affairs"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6815
 vol_id: 16
-date: 1948-07-24
+doc_date: 1948-07-24
 ---
 
 # 100 Glasheen to Department of External Affairs

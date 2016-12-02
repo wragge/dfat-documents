@@ -3,7 +3,7 @@ title: "93 CABINET DECISION NO. 12 (FAD)"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9958
 vol_id: 27
-date: 1968-01-25
+doc_date: 1968-01-25
 ---
 
 # 93 CABINET DECISION NO. 12 (FAD)

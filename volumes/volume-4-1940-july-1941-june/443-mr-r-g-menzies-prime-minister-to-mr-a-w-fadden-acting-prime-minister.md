@@ -3,7 +3,7 @@ title: "443 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime M
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1674
 vol_id: 4
-date: 1941-05-02
+doc_date: 1941-05-02
 ---
 
 # 443 Mr R. G. Menzies, Prime Minister, to Mr A. W. Fadden, Acting Prime Minister

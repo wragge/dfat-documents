@@ -3,7 +3,7 @@ title: "162 Note by Eklund"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10536
 vol_id: 28
-date: 1970-05-15
+doc_date: 1970-05-15
 barcode: 555695
 ---
 

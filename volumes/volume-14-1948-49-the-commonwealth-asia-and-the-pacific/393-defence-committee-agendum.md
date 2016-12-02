@@ -3,7 +3,7 @@ title: "393 Defence Committee Agendum"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6169
 vol_id: 14
-date: 1949-10-13
+doc_date: 1949-10-13
 barcode: 240000
 ---
 

@@ -3,7 +3,7 @@ title: "62 CABINET DECISION NO. 118"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8545
 vol_id: 22
-date: 1956-04-13
+doc_date: 1956-04-13
 ---
 
 # 62 CABINET DECISION NO. 118

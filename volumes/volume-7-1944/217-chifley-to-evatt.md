@@ -3,7 +3,7 @@ title: "217 Chifley to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2864
 vol_id: 7
-date: 1944-07-10
+doc_date: 1944-07-10
 barcode: 11210693
 ---
 

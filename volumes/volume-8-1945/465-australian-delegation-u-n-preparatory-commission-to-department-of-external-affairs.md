@@ -3,7 +3,7 @@ title: "465 Australian Delegation, U.N. Preparatory Commission, to Department of
 volume: "Volume 8: 1945"
 doc_id: 3496
 vol_id: 8
-date: 1945-12-19
+doc_date: 1945-12-19
 barcode: 188014
 ---
 

@@ -3,7 +3,7 @@ title: "21 Memorandum From Department Of External Affairs To Department Of"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7626
 vol_id: 19
-date: 1953-02-25
+doc_date: 1953-02-25
 ---
 
 # 21 Memorandum From Department Of External Affairs To Department Of

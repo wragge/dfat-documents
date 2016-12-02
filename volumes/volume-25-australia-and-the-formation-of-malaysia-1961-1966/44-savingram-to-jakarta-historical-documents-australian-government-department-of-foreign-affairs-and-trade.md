@@ -3,7 +3,7 @@ title: "44 Savingram to Jakarta - Historical Documents - Australian Government D
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9176
 vol_id: 25
-date: 1963-03-05
+doc_date: 1963-03-05
 barcode: 943617
 ---
 

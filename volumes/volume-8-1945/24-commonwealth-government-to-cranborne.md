@@ -3,7 +3,7 @@ title: "24 Commonwealth Government to Cranborne"
 volume: "Volume 8: 1945"
 doc_id: 3055
 vol_id: 8
-date: 1945-02-05
+doc_date: 1945-02-05
 ---
 
 # 24 Commonwealth Government to Cranborne

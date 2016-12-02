@@ -3,7 +3,7 @@ title: "239 Moore to Department of Trade and Customs"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4087
 vol_id: 10
-date: 1946-11-22
+doc_date: 1946-11-22
 barcode: 193755
 ---
 

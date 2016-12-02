@@ -3,7 +3,7 @@ title: "66 CABLEGRAM, DOWNER TO HOLT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9931
 vol_id: 27
-date: 1967-05-03
+doc_date: 1967-05-03
 ---
 
 # 66 CABLEGRAM, DOWNER TO HOLT

@@ -3,7 +3,7 @@ title: "84 PAPER BY PACIFIC & AMERICAS BRANCH"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8567
 vol_id: 22
-date: 1961-01-10
+doc_date: 1961-01-10
 ---
 
 # 84 PAPER BY PACIFIC & AMERICAS BRANCH

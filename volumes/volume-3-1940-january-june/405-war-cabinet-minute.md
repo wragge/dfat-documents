@@ -3,7 +3,7 @@ title: "405 War Cabinet Minute"
 volume: "Volume 3: 1940, January-June"
 doc_id: 1171
 vol_id: 3
-date: 1940-06-19
+doc_date: 1940-06-19
 ---
 
 # 405 War Cabinet Minute

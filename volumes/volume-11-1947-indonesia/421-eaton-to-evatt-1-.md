@@ -3,7 +3,7 @@ title: "421 Eaton to Evatt [1]"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4605
 vol_id: 11
-date: 1947-11-14
+doc_date: 1947-11-14
 ---
 
 # 421 Eaton to Evatt [1]

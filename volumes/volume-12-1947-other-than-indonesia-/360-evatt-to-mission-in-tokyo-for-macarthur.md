@@ -3,7 +3,7 @@ title: "360 Evatt to Mission in Tokyo for MacArthur"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5042
 vol_id: 12
-date: 1947-08-31
+doc_date: 1947-08-31
 barcode: 140405
 ---
 

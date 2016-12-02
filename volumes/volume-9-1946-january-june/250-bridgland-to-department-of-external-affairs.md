@@ -3,7 +3,7 @@ title: "250 Bridgland to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3762
 vol_id: 9
-date: 1946-05-17
+doc_date: 1946-05-17
 ---
 
 # 250 Bridgland to Department of External Affairs

@@ -3,7 +3,7 @@ title: "239 Mr Winston Churchill, U.K. Prime Minister (in the United States), to
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1993
 vol_id: 5
-date: 1941-12-29
+doc_date: 1941-12-29
 barcode: 1158601
 ---
 

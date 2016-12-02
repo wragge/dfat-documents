@@ -3,7 +3,7 @@ title: "257 Chifley to MacArthur"
 volume: "Volume 8: 1945"
 doc_id: 3288
 vol_id: 8
-date: 1945-09-21
+doc_date: 1945-09-21
 barcode: 171294
 ---
 

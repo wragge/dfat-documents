@@ -3,7 +3,7 @@ title: "50 Cablegram to Barwick in Manila - Historical Documents - Australian Go
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9182
 vol_id: 25
-date: 1963-03-13
+doc_date: 1963-03-13
 barcode: 943617
 ---
 

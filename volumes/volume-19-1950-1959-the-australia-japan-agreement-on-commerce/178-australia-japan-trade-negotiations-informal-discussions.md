@@ -3,7 +3,7 @@ title: "178 Australia-Japan Trade Negotiations: Informal Discussions"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7783
 vol_id: 19
-date: 1956-12-05
+doc_date: 1956-12-05
 ---
 
 # 178 Australia-Japan Trade Negotiations: Informal Discussions

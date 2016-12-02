@@ -3,7 +3,7 @@ title: "510 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Me
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1741
 vol_id: 4
-date: 1941-06-20
+doc_date: 1941-06-20
 ---
 
 # 510 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Menzies, Prime Minister

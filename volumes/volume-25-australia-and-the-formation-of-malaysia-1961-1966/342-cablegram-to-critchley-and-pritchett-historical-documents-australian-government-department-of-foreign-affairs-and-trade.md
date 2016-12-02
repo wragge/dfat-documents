@@ -3,7 +3,7 @@ title: "342 Cablegram to Critchley and Pritchett - Historical Documents - Austra
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9472
 vol_id: 25
-date: 1965-11-11
+doc_date: 1965-11-11
 barcode: 1829395
 ---
 

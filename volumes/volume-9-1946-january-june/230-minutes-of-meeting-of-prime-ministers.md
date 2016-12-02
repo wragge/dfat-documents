@@ -3,7 +3,7 @@ title: "230 Minutes of Meeting of Prime Ministers"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3742
 vol_id: 9
-date: 1946-05-03
+doc_date: 1946-05-03
 ---
 
 # 230 Minutes of Meeting of Prime Ministers

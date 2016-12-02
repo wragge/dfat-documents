@@ -3,7 +3,7 @@ title: "264 Telegram from Francis to Ministry of Foreign Affairs"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9133
 vol_id: 23
-date: 1983-02-28
+doc_date: 1983-02-28
 ---
 
 # 264 Telegram from Francis to Ministry of Foreign Affairs

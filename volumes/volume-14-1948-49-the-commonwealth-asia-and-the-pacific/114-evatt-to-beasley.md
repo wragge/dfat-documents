@@ -3,7 +3,7 @@ title: "114 Evatt to Beasley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5890
 vol_id: 14
-date: 1948-01-15
+doc_date: 1948-01-15
 ---
 
 # 114 Evatt to Beasley

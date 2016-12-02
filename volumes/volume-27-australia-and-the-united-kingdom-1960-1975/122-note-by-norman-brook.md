@@ -3,7 +3,7 @@ title: "122 NOTE BY NORMAN BROOK"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9987
 vol_id: 27
-date: 1960-07-06
+doc_date: 1960-07-06
 ---
 
 # 122 NOTE BY NORMAN BROOK

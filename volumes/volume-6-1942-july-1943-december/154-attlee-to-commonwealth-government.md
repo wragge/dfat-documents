@@ -3,7 +3,7 @@ title: "154 Attlee to Commonwealth Government"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2445
 vol_id: 6
-date: 1943-04-07
+doc_date: 1943-04-07
 ---
 
 # 154 Attlee to Commonwealth Government

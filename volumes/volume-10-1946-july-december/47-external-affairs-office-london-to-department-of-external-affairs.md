@@ -3,7 +3,7 @@ title: "47 External Affairs Office, London, to Department of External Affairs"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3895
 vol_id: 10
-date: 1946-07-31
+doc_date: 1946-07-31
 barcode: 191548
 ---
 

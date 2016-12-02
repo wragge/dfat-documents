@@ -3,7 +3,7 @@ title: "83 Ball to Department of External Affairs"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3931
 vol_id: 10
-date: 1946-08-22
+doc_date: 1946-08-22
 barcode: 193423
 ---
 

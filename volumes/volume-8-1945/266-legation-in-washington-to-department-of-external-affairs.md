@@ -3,7 +3,7 @@ title: "266 Legation in Washington to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3297
 vol_id: 8
-date: 1945-09-24
+doc_date: 1945-09-24
 barcode: 190058
 ---
 

@@ -3,7 +3,7 @@ title: "113 Submission, Jockel To Hasluck"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9621
 vol_id: 26
-date: 1967-05-30
+doc_date: 1967-05-30
 ---
 
 # 113 Submission, Jockel To Hasluck

@@ -3,7 +3,7 @@ title: "333 Ismay to Shedden"
 volume: "Volume 7: 1944"
 doc_id: 2980
 vol_id: 7
-date: 1944-11-01
+doc_date: 1944-11-01
 ---
 
 # 333 Ismay to Shedden

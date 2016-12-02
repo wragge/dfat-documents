@@ -3,7 +3,7 @@ title: "60 Mr R. G. Casey, Minister to the United States, to Mr J. McEwen, Minis
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1291
 vol_id: 4
-date: 1940-08-10
+doc_date: 1940-08-10
 ---
 
 # 60 Mr R. G. Casey, Minister to the United States, to Mr J. McEwen, Minister for External Affairs, and to Mr R. G. Menzies, Prime Minister

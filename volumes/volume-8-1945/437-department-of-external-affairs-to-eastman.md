@@ -3,7 +3,7 @@ title: "437 Department of External Affairs to Eastman"
 volume: "Volume 8: 1945"
 doc_id: 3468
 vol_id: 8
-date: 1945-12-08
+doc_date: 1945-12-08
 ---
 
 # 437 Department of External Affairs to Eastman

@@ -3,7 +3,7 @@ title: "26 War Cabinet Minute"
 volume: "Volume 3: 1940, January-June"
 doc_id: 792
 vol_id: 3
-date: 1940-01-25
+doc_date: 1940-01-25
 ---
 
 # 26 War Cabinet Minute

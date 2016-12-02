@@ -3,7 +3,7 @@ title: "247 Australian Delegation, United Nations, to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3759
 vol_id: 9
-date: 1946-06-19
+doc_date: 1946-06-19
 barcode: 191277
 ---
 

@@ -3,7 +3,7 @@ title: "286 Chifley to Fraser"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6062
 vol_id: 14
-date: 1949-06-14
+doc_date: 1949-06-14
 ---
 
 # 286 Chifley to Fraser

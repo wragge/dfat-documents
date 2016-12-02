@@ -3,7 +3,7 @@ title: "40 Minutes of Thirteenth Meeting of Principal Delegates to Imperial Conf
 volume: "Volume 1: 1937-38"
 doc_id: 40
 vol_id: 1
-date: 1937-06-04
+doc_date: 1937-06-04
 ---
 
 # 40 Minutes of Thirteenth Meeting of Principal Delegates to Imperial Conference

@@ -3,7 +3,7 @@ title: "342 Brookes to Burton"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4526
 vol_id: 11
-date: 1947-09-22
+doc_date: 1947-09-22
 ---
 
 # 342 Brookes to Burton

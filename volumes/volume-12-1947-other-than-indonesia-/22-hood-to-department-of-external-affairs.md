@@ -3,7 +3,7 @@ title: "22 Hood to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4704
 vol_id: 12
-date: 1947-03-13
+doc_date: 1947-03-13
 ---
 
 # 22 Hood to Department of External Affairs

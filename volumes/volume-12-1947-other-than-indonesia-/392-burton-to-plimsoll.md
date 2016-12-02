@@ -3,7 +3,7 @@ title: "392 Burton to Plimsoll"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5074
 vol_id: 12
-date: 1947-11-12
+doc_date: 1947-11-12
 barcode: 11210094
 ---
 

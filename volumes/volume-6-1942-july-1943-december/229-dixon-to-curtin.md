@@ -3,7 +3,7 @@ title: "229 Dixon to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2520
 vol_id: 6
-date: 1943-06-24
+doc_date: 1943-06-24
 barcode: 235730
 ---
 

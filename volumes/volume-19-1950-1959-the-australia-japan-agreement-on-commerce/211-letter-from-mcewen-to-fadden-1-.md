@@ -3,7 +3,7 @@ title: "211 Letter From Mcewen To Fadden [1]"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7816
 vol_id: 19
-date: 1957-06-14
+doc_date: 1957-06-14
 ---
 
 # 211 Letter From Mcewen To Fadden [1]

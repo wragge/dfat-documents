@@ -3,7 +3,7 @@ title: "72 Australian Supply Council in the United States to Department of Trade
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1826
 vol_id: 5
-date: 1941-09-27
+doc_date: 1941-09-27
 ---
 
 # 72 Australian Supply Council in the United States to Department of Trade and Customs

@@ -3,7 +3,7 @@ title: "27 Note By Bailey On Cabinet Submission No. 71"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9536
 vol_id: 26
-date: 1966-03-11
+doc_date: 1966-03-11
 ---
 
 # 27 Note By Bailey On Cabinet Submission No. 71

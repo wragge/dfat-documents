@@ -3,7 +3,7 @@ title: "123 Cablegram to Loomes - Historical Documents - Australian Government D
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9254
 vol_id: 25
-date: 1963-10-04
+doc_date: 1963-10-04
 barcode: 1517608
 ---
 

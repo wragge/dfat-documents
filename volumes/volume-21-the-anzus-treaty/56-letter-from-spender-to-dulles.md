@@ -3,7 +3,7 @@ title: "56 Letter From Spender to Dulles"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8407
 vol_id: 21
-date: 1951-03-08
+doc_date: 1951-03-08
 ---
 
 # 56 Letter From Spender to Dulles

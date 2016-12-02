@@ -3,7 +3,7 @@ title: "194 Cablegram from Department of Foreign Affairs to High Commission in K
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10568
 vol_id: 28
-date: 1974-01-28
+doc_date: 1974-01-28
 barcode: 1373495
 ---
 

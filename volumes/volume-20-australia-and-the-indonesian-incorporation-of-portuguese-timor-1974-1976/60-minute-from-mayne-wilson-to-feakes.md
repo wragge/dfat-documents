@@ -3,7 +3,7 @@ title: "60 Minute from Mayne-Wilson to Feakes"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7899
 vol_id: 20
-date: 1974-11-27
+doc_date: 1974-11-27
 ---
 
 # 60 Minute from Mayne-Wilson to Feakes

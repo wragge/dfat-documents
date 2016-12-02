@@ -3,7 +3,7 @@ title: "141 Beasley to Department of External Affairs"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4325
 vol_id: 11
-date: 1947-07-23
+doc_date: 1947-07-23
 ---
 
 # 141 Beasley to Department of External Affairs

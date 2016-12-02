@@ -3,7 +3,7 @@ title: "225 Note by Bruce of Conversation with Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2516
 vol_id: 6
-date: 1943-06-16
+doc_date: 1943-06-16
 barcode: 242457
 ---
 

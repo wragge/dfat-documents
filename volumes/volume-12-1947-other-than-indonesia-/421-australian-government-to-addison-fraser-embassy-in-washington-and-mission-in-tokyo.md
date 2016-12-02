@@ -3,7 +3,7 @@ title: "421 Australian Government to Addison, Fraser, Embassy in Washington and 
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5103
 vol_id: 12
-date: 1947-07-16
+doc_date: 1947-07-16
 ---
 
 # 421 Australian Government to Addison, Fraser, Embassy in Washington and Mission in Tokyo

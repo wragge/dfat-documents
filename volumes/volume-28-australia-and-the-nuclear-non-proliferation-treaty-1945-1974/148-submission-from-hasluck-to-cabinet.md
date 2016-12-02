@@ -3,7 +3,7 @@ title: "148 Submission from Hasluck to Cabinet"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10522
 vol_id: 28
-date: 1968-08-13
+doc_date: 1968-08-13
 barcode: 3159956
 ---
 

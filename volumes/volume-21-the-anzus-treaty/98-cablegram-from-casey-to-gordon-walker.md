@@ -3,7 +3,7 @@ title: "98 Cablegram From Casey to Gordon Walker"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8449
 vol_id: 21
-date: 1951-06-27
+doc_date: 1951-06-27
 ---
 
 # 98 Cablegram From Casey to Gordon Walker

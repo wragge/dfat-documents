@@ -3,7 +3,7 @@ title: "458 Note for File by Brookes"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4642
 vol_id: 11
-date: 1947-12-07
+doc_date: 1947-12-07
 ---
 
 # 458 Note for File by Brookes

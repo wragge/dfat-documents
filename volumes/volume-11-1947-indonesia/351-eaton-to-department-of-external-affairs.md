@@ -3,7 +3,7 @@ title: "351 Eaton to Department of External Affairs"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4535
 vol_id: 11
-date: 1947-09-25
+doc_date: 1947-09-25
 ---
 
 # 351 Eaton to Department of External Affairs

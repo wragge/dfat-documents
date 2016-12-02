@@ -3,7 +3,7 @@ title: "395 LETTER, MCMAHON TO BOWEN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10261
 vol_id: 27
-date: 1972-08-15
+doc_date: 1972-08-15
 ---
 
 # 395 LETTER, MCMAHON TO BOWEN

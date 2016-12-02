@@ -3,7 +3,7 @@ title: "145 Evatt to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4827
 vol_id: 12
-date: 1947-11-13
+doc_date: 1947-11-13
 barcode: 195065
 ---
 

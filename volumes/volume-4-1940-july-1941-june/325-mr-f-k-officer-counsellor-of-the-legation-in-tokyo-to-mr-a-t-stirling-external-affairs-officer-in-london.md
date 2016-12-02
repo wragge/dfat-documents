@@ -3,7 +3,7 @@ title: "325 Mr F. K. Officer, Counsellor of the Legation in Tokyo, to Mr A. T. S
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1556
 vol_id: 4
-date: 1941-02-27
+doc_date: 1941-02-27
 ---
 
 # 325 Mr F. K. Officer, Counsellor of the Legation in Tokyo, to Mr A. T. Stirling, External Affairs Officer in London

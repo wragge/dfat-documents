@@ -3,7 +3,7 @@ title: "86 Commonwealth Government to Lord Cranborne, U.K. Secretary of State fo
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1840
 vol_id: 5
-date: 1941-10-16
+doc_date: 1941-10-16
 ---
 
 # 86 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs

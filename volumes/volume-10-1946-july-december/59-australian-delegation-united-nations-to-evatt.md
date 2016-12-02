@@ -3,7 +3,7 @@ title: "59 Australian Delegation, United Nations, to Evatt"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3907
 vol_id: 10
-date: 1946-08-09
+doc_date: 1946-08-09
 barcode: 190985
 ---
 

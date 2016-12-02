@@ -3,7 +3,7 @@ title: "183 Australian Government to Fraser"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5959
 vol_id: 14
-date: 1948-03-19
+doc_date: 1948-03-19
 ---
 
 # 183 Australian Government to Fraser

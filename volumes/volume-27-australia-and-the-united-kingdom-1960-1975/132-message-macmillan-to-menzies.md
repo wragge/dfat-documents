@@ -3,7 +3,7 @@ title: "132 MESSAGE, MACMILLAN TO MENZIES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9997
 vol_id: 27
-date: 1961-05-17
+doc_date: 1961-05-17
 ---
 
 # 132 MESSAGE, MACMILLAN TO MENZIES

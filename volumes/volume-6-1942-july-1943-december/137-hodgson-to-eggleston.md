@@ -3,7 +3,7 @@ title: "137 Hodgson to Eggleston"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2428
 vol_id: 6
-date: 1943-03-16
+doc_date: 1943-03-16
 ---
 
 # 137 Hodgson to Eggleston

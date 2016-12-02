@@ -3,7 +3,7 @@ title: "120 Melville to Evatt and Chifley"
 volume: "Volume 7: 1944"
 doc_id: 2767
 vol_id: 7
-date: 1944-04-27
+doc_date: 1944-04-27
 ---
 
 # 120 Melville to Evatt and Chifley

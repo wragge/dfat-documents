@@ -3,7 +3,7 @@ title: "370 Shedden to Chifley and Dedman"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7085
 vol_id: 16
-date: 1949-04-29
+doc_date: 1949-04-29
 barcode: 332049
 ---
 

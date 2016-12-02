@@ -3,7 +3,7 @@ title: "224 TELEGRAM, HOLT TO BOWDEN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10089
 vol_id: 27
-date: 1967-03-03
+doc_date: 1967-03-03
 ---
 
 # 224 TELEGRAM, HOLT TO BOWDEN

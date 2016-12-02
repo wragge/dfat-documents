@@ -3,7 +3,7 @@ title: "199 McDougall to Hodgson"
 volume: "Volume 7: 1944"
 doc_id: 2846
 vol_id: 7
-date: 1944-06-19
+doc_date: 1944-06-19
 ---
 
 # 199 McDougall to Hodgson

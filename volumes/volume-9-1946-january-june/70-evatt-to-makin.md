@@ -3,7 +3,7 @@ title: "70 Evatt to Makin"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3582
 vol_id: 9
-date: 1946-02-05
+doc_date: 1946-02-05
 ---
 
 # 70 Evatt to Makin

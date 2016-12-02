@@ -3,7 +3,7 @@ title: "106 Cablegram From Spender to Department of External Affairs"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8457
 vol_id: 21
-date: 1951-07-12
+doc_date: 1951-07-12
 ---
 
 # 106 Cablegram From Spender to Department of External Affairs

@@ -3,7 +3,7 @@ title: "33 Notes Of Discussions Between CRA And Government Officials"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9541
 vol_id: 26
-date: 1966-03-25
+doc_date: 1966-03-25
 ---
 
 # 33 Notes Of Discussions Between CRA And Government Officials

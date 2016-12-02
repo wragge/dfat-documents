@@ -3,7 +3,7 @@ title: "289 Minute, Warwick Smith To Besley And Ballard"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9797
 vol_id: 26
-date: 1969-06-27
+doc_date: 1969-06-27
 barcode: 11340888
 ---
 

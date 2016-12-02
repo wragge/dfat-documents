@@ -3,7 +3,7 @@ title: "385 Ball to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3416
 vol_id: 8
-date: 1945-11-11
+doc_date: 1945-11-11
 ---
 
 # 385 Ball to Department of External Affairs

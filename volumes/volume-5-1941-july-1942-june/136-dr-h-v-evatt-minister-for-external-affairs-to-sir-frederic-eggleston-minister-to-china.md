@@ -3,7 +3,7 @@ title: "136 Dr H. V. Evatt, Minister for External Affairs, to Sir Frederic Eggle
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1890
 vol_id: 5
-date: 1941-11-29
+doc_date: 1941-11-29
 ---
 
 # 136 Dr H. V. Evatt, Minister for External Affairs, to Sir Frederic Eggleston, Minister to China

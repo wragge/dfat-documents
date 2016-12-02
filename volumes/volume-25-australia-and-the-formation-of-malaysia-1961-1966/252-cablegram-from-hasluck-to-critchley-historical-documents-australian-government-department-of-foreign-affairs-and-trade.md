@@ -3,7 +3,7 @@ title: "252 Cablegram from Hasluck to Critchley - Historical Documents - Austral
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9382
 vol_id: 25
-date: 1965-02-25
+doc_date: 1965-02-25
 barcode: 1141239
 ---
 

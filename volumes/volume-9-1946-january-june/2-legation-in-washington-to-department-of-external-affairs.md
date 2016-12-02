@@ -3,7 +3,7 @@ title: "2 Legation in Washington to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3514
 vol_id: 9
-date: 1945-12-31
+doc_date: 1945-12-31
 barcode: 194102
 ---
 

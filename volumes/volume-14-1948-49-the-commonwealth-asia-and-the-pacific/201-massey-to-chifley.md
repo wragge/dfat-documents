@@ -3,7 +3,7 @@ title: "201 Massey to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5977
 vol_id: 14
-date: 1948-07-30
+doc_date: 1948-07-30
 barcode: 396900
 ---
 

@@ -3,7 +3,7 @@ title: "3 Burton to Doig"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6718
 vol_id: 16
-date: 1948-07-07
+doc_date: 1948-07-07
 ---
 
 # 3 Burton to Doig

@@ -3,7 +3,7 @@ title: "579 Cabinet Submission"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5261
 vol_id: 12
-date: 1947-11-11
+doc_date: 1947-11-11
 ---
 
 # 579 Cabinet Submission

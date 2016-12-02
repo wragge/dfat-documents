@@ -3,7 +3,7 @@ title: "313 Curtin to Bruce"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2604
 vol_id: 6
-date: 1943-10-25
+doc_date: 1943-10-25
 ---
 
 # 313 Curtin to Bruce

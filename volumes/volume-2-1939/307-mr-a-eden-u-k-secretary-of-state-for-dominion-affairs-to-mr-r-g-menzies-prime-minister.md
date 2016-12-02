@@ -3,7 +3,7 @@ title: "307 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G.
 volume: "Volume 2: 1939"
 doc_id: 644
 vol_id: 2
-date: 1939-10-24
+doc_date: 1939-10-24
 ---
 
 # 307 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R.G. Menzies, Prime Minister

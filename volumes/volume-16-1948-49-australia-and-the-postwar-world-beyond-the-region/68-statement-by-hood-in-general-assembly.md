@@ -3,7 +3,7 @@ title: "68 Statement by Hood in General Assembly"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6783
 vol_id: 16
-date: 1948-12-11
+doc_date: 1948-12-11
 barcode: 140002
 ---
 

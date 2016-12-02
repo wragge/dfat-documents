@@ -3,7 +3,7 @@ title: "295 Advisory War Council Minute 1424"
 volume: "Volume 7: 1944"
 doc_id: 2942
 vol_id: 7
-date: 1944-09-21
+doc_date: 1944-09-21
 ---
 
 # 295 Advisory War Council Minute 1424

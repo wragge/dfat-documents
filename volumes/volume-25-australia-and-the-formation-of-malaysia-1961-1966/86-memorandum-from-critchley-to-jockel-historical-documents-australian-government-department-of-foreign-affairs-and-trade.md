@@ -3,7 +3,7 @@ title: "86 Memorandum From Critchley To Jockel - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9217
 vol_id: 25
-date: 1963-07-17
+doc_date: 1963-07-17
 ---
 
 # 86 Memorandum From Critchley To Jockel - Historical Documents - Australian Government Department of Foreign Affairs and Trade

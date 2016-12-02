@@ -3,7 +3,7 @@ title: "117 Curtin to MacArthur"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2408
 vol_id: 6
-date: 1943-02-08
+doc_date: 1943-02-08
 ---
 
 # 117 Curtin to MacArthur

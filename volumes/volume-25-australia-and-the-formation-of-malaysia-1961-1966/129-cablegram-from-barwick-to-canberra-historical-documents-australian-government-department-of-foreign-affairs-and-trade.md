@@ -3,7 +3,7 @@ title: "129 Cablegram from Barwick to Canberra - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9260
 vol_id: 25
-date: 1963-10-17
+doc_date: 1963-10-17
 barcode: 1335474
 ---
 

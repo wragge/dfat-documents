@@ -3,7 +3,7 @@ title: "205 Letter, Hay To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9713
 vol_id: 26
-date: 1968-07-01
+doc_date: 1968-07-01
 ---
 
 # 205 Letter, Hay To Warwick Smith

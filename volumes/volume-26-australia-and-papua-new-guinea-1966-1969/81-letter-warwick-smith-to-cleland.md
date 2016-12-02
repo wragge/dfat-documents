@@ -3,7 +3,7 @@ title: "81 Letter, Warwick Smith To Cleland"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9589
 vol_id: 26
-date: 1966-12-15
+doc_date: 1966-12-15
 barcode: 12030526
 ---
 

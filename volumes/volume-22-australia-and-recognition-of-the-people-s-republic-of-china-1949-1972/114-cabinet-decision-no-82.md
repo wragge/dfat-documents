@@ -3,7 +3,7 @@ title: "114 CABINET DECISION NO. 82"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8597
 vol_id: 22
-date: 1966-03-15
+doc_date: 1966-03-15
 barcode: 1055966
 ---
 

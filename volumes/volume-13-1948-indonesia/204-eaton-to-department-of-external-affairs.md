@@ -3,7 +3,7 @@ title: "204 Eaton to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5471
 vol_id: 13
-date: 1948-07-05
+doc_date: 1948-07-05
 ---
 
 # 204 Eaton to Department of External Affairs

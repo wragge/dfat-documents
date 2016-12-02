@@ -3,7 +3,7 @@ title: "88 RECORD OF MEETING BETWEEN BROWN, JENKINS, HEALEY AND THOMSON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9953
 vol_id: 27
-date: 1967-12-20
+doc_date: 1967-12-20
 ---
 
 # 88 RECORD OF MEETING BETWEEN BROWN, JENKINS, HEALEY AND THOMSON

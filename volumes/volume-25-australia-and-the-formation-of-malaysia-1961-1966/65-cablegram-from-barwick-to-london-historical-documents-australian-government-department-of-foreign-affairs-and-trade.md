@@ -3,7 +3,7 @@ title: "65 Cablegram From Barwick To London - Historical Documents - Australian 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9197
 vol_id: 25
-date: 1963-05-02
+doc_date: 1963-05-02
 barcode: 583143
 ---
 

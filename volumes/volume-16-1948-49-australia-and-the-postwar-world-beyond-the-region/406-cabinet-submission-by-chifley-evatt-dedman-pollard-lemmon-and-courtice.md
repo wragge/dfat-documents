@@ -3,7 +3,7 @@ title: "406 Cabinet Submission by Chifley, Evatt, Dedman, Pollard, Lemmon and Co
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7121
 vol_id: 16
-date: 1948-05-04
+doc_date: 1948-05-04
 ---
 
 # 406 Cabinet Submission by Chifley, Evatt, Dedman, Pollard, Lemmon and Courtice

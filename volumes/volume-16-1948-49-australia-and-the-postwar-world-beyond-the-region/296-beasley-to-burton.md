@@ -3,7 +3,7 @@ title: "296 Beasley to Burton"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7011
 vol_id: 16
-date: 1948-08-09
+doc_date: 1948-08-09
 barcode: 139807
 ---
 

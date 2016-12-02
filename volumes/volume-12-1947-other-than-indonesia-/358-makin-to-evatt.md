@@ -3,7 +3,7 @@ title: "358 Makin to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5040
 vol_id: 12
-date: 1947-08-29
+doc_date: 1947-08-29
 barcode: 195238
 ---
 

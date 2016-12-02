@@ -3,7 +3,7 @@ title: "65 Evatt to Pollard, Courtice and McKenna"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4747
 vol_id: 12
-date: 1947-12-18
+doc_date: 1947-12-18
 ---
 
 # 65 Evatt to Pollard, Courtice and McKenna

@@ -3,7 +3,7 @@ title: "79 Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, t
 volume: "Volume 2: 1939"
 doc_id: 416
 vol_id: 2
-date: 1939-05-05
+doc_date: 1939-05-05
 ---
 
 # 79 Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs

@@ -3,7 +3,7 @@ title: "87 Evatt to Mulrooney [1]"
 volume: "Volume 8: 1945"
 doc_id: 3118
 vol_id: 8
-date: 1945-05-11
+doc_date: 1945-05-11
 ---
 
 # 87 Evatt to Mulrooney [1]

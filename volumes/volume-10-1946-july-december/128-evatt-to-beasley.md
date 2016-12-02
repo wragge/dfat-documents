@@ -3,7 +3,7 @@ title: "128 Evatt to Beasley"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3976
 vol_id: 10
-date: 1946-09-20
+doc_date: 1946-09-20
 ---
 
 # 128 Evatt to Beasley

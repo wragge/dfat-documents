@@ -3,7 +3,7 @@ title: "393 Pritchett to De Ranitz"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6562
 vol_id: 15
-date: 1949-05-10
+doc_date: 1949-05-10
 ---
 
 # 393 Pritchett to De Ranitz

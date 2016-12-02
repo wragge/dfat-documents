@@ -3,7 +3,7 @@ title: "261 Department of External Affairs to Deschamps"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4943
 vol_id: 12
-date: 1947-03-17
+doc_date: 1947-03-17
 barcode: 194631
 ---
 

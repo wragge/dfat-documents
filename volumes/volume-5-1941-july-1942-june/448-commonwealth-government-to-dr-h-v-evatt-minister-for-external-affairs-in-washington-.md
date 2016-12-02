@@ -3,7 +3,7 @@ title: "448 Commonwealth Government to Dr H. V. Evatt, Minister for External Aff
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2202
 vol_id: 5
-date: 1942-03-31
+doc_date: 1942-03-31
 ---
 
 # 448 Commonwealth Government to Dr H. V. Evatt, Minister for External Affairs (in Washington)

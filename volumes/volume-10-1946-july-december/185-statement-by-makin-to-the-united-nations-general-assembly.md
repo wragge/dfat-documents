@@ -3,7 +3,7 @@ title: "185 Statement by Makin to the United Nations General Assembly"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4033
 vol_id: 10
-date: 1946-10-30
+doc_date: 1946-10-30
 ---
 
 # 185 Statement by Makin to the United Nations General Assembly

@@ -3,7 +3,7 @@ title: "184 Fraser to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3215
 vol_id: 8
-date: 1945-08-13
+doc_date: 1945-08-13
 ---
 
 # 184 Fraser to Evatt

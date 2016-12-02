@@ -3,7 +3,7 @@ title: "351 Commonwealth Government to Legation in Washington"
 volume: "Volume 7: 1944"
 doc_id: 2998
 vol_id: 7
-date: 1944-11-18
+doc_date: 1944-11-18
 ---
 
 # 351 Commonwealth Government to Legation in Washington

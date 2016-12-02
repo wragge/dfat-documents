@@ -3,7 +3,7 @@ title: "209 Minute By Defence Committee"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9717
 vol_id: 26
-date: 1968-07-11
+doc_date: 1968-07-11
 barcode: 3054150
 ---
 

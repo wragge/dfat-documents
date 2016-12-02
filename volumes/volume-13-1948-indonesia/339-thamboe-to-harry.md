@@ -3,7 +3,7 @@ title: "339 Thamboe to Harry"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5606
 vol_id: 13
-date: 1948-12-02
+doc_date: 1948-12-02
 ---
 
 # 339 Thamboe to Harry

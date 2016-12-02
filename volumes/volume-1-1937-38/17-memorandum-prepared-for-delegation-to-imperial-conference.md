@@ -3,7 +3,7 @@ title: "17 Memorandum prepared for Delegation to Imperial Conference"
 volume: "Volume 1: 1937-38"
 doc_id: 17
 vol_id: 1
-date: 1937-03-10
+doc_date: 1937-03-10
 ---
 
 # 17 Memorandum prepared for Delegation to Imperial Conference

@@ -3,7 +3,7 @@ title: "332 McDougall to Bruce"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2623
 vol_id: 6
-date: 1943-11-21
+doc_date: 1943-11-21
 ---
 
 # 332 McDougall to Bruce

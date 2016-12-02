@@ -3,7 +3,7 @@ title: "213 Attlee to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3244
 vol_id: 8
-date: 1945-08-24
+doc_date: 1945-08-24
 ---
 
 # 213 Attlee to Chifley

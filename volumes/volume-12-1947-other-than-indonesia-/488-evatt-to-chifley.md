@@ -3,7 +3,7 @@ title: "488 Evatt to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5170
 vol_id: 12
-date: 1947-08-01
+doc_date: 1947-08-01
 ---
 
 # 488 Evatt to Chifley

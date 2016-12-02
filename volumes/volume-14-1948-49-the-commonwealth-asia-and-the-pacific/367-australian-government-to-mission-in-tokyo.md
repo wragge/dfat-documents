@@ -3,7 +3,7 @@ title: "367 Australian Government to Mission in Tokyo"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6143
 vol_id: 14
-date: 1948-01-23
+doc_date: 1948-01-23
 ---
 
 # 367 Australian Government to Mission in Tokyo

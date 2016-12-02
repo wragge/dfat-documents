@@ -3,7 +3,7 @@ title: "381 MINUTE, JAMES TO HOME"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10247
 vol_id: 27
-date: 1972-04-28
+doc_date: 1972-04-28
 ---
 
 # 381 MINUTE, JAMES TO HOME

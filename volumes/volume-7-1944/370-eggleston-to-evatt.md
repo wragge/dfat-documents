@@ -3,7 +3,7 @@ title: "370 Eggleston to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 3017
 vol_id: 7
-date: 1944-12-11
+doc_date: 1944-12-11
 ---
 
 # 370 Eggleston to Evatt

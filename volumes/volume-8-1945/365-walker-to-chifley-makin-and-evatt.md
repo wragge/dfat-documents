@@ -3,7 +3,7 @@ title: "365 Walker to Chifley, Makin and Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3396
 vol_id: 8
-date: 1945-11-05
+doc_date: 1945-11-05
 barcode: 188944
 ---
 

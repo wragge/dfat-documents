@@ -3,7 +3,7 @@ title: "337 Embassy in Washington to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5604
 vol_id: 13
-date: 1948-12-01
+doc_date: 1948-12-01
 ---
 
 # 337 Embassy in Washington to Department of External Affairs

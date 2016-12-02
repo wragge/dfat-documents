@@ -3,7 +3,7 @@ title: "36 MINUTE, MCINTYRE TO HASLUCK"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9902
 vol_id: 27
-date: 1965-09-15
+doc_date: 1965-09-15
 ---
 
 # 36 MINUTE, MCINTYRE TO HASLUCK

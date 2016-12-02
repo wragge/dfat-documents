@@ -3,7 +3,7 @@ title: "311 Dumbarton Oaks Proposals"
 volume: "Volume 7: 1944"
 doc_id: 2958
 vol_id: 7
-date: 1944-10-07
+doc_date: 1944-10-07
 barcode: 12082260
 ---
 

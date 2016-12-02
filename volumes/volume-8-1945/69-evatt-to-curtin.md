@@ -3,7 +3,7 @@ title: "69 Evatt to Curtin"
 volume: "Volume 8: 1945"
 doc_id: 3100
 vol_id: 8
-date: 1945-04-09
+doc_date: 1945-04-09
 barcode: 188022
 ---
 

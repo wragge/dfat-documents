@@ -3,7 +3,7 @@ title: "66 Noel-Baker to Evatt"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5842
 vol_id: 14
-date: 1948-11-26
+doc_date: 1948-11-26
 ---
 
 # 66 Noel-Baker to Evatt

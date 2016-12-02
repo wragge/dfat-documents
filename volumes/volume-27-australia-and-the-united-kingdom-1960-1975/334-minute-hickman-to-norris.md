@@ -3,7 +3,7 @@ title: "334 MINUTE, HICKMAN TO NORRIS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10200
 vol_id: 27
-date: 1972-08-22
+doc_date: 1972-08-22
 ---
 
 # 334 MINUTE, HICKMAN TO NORRIS

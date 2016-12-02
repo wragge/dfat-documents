@@ -3,7 +3,7 @@ title: "237 Memorandum, Dea (Jockel) To Australian Embassy, Djakarta"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9745
 vol_id: 26
-date: 1968-10-22
+doc_date: 1968-10-22
 ---
 
 # 237 Memorandum, Dea (Jockel) To Australian Embassy, Djakarta

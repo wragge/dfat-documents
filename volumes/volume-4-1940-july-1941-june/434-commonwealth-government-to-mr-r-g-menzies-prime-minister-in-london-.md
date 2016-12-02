@@ -3,7 +3,7 @@ title: "434 Commonwealth Government to Mr R. G. Menzies, Prime Minister (in Lond
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1665
 vol_id: 4
-date: 1941-04-27
+doc_date: 1941-04-27
 ---
 
 # 434 Commonwealth Government to Mr R. G. Menzies, Prime Minister (in London)

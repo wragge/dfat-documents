@@ -3,7 +3,7 @@ title: "125 Evatt to Curtin (in London)"
 volume: "Volume 7: 1944"
 doc_id: 2772
 vol_id: 7
-date: 1944-05-03
+doc_date: 1944-05-03
 barcode: 11244644
 ---
 

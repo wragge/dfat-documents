@@ -3,7 +3,7 @@ title: "142 Cablegram from Australian High Commission in Wellington to Departmen
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9012
 vol_id: 23
-date: 1981-02-05
+doc_date: 1981-02-05
 ---
 
 # 142 Cablegram from Australian High Commission in Wellington to Department of Foreign Affairs

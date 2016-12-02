@@ -3,7 +3,7 @@ title: "147 Australian Government to Noel-Baker"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5414
 vol_id: 13
-date: 1948-05-25
+doc_date: 1948-05-25
 ---
 
 # 147 Australian Government to Noel-Baker

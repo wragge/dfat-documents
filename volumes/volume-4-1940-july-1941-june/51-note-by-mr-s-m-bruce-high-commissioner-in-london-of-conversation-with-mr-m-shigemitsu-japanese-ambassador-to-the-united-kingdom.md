@@ -3,7 +3,7 @@ title: "51 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1282
 vol_id: 4
-date: 1940-08-06
+doc_date: 1940-08-06
 barcode: 242423
 ---
 

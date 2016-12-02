@@ -3,7 +3,7 @@ title: "295 Makin to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3326
 vol_id: 8
-date: 1945-10-06
+doc_date: 1945-10-06
 ---
 
 # 295 Makin to Evatt

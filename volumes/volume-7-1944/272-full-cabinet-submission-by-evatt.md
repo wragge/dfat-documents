@@ -3,7 +3,7 @@ title: "272 Full Cabinet Submission by Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2919
 vol_id: 7
-date: 1944-09-06
+doc_date: 1944-09-06
 ---
 
 # 272 Full Cabinet Submission by Evatt

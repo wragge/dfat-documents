@@ -3,7 +3,7 @@ title: "120 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Co
 volume: "Volume 1: 1937-38"
 doc_id: 119
 vol_id: 1
-date: 1938-01-24
+doc_date: 1938-01-24
 barcode: 170175
 ---
 

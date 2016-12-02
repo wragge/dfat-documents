@@ -3,7 +3,7 @@ title: "93 Note by Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10467
 vol_id: 28
-date: 1967-06-30
+doc_date: 1967-06-30
 barcode: 842041
 ---
 

@@ -3,7 +3,7 @@ title: "420 Lord Lothian, U.K. Ambassador to the United States, to U.K. Foreign 
 volume: "Volume 2: 1939"
 doc_id: 757
 vol_id: 2
-date: 1939-12-15
+doc_date: 1939-12-15
 ---
 
 # 420 Lord Lothian, U.K. Ambassador to the United States, to U.K. Foreign Office and to Department of External Affairs

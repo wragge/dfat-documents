@@ -3,7 +3,7 @@ title: "100 Department of External Affairs to Evatt"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3948
 vol_id: 10
-date: 1946-09-03
+doc_date: 1946-09-03
 barcode: 191275
 ---
 

@@ -3,7 +3,7 @@ title: "281 MINUTE FROM SHANN TO BOWEN"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8764
 vol_id: 22
-date: 1971-10-27
+doc_date: 1971-10-27
 barcode: 1730898
 ---
 

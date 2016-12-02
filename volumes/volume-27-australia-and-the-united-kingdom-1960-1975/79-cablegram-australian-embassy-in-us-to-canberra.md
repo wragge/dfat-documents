@@ -3,7 +3,7 @@ title: "79 CABLEGRAM, AUSTRALIAN EMBASSY IN US TO CANBERRA"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9944
 vol_id: 27
-date: 1967-07-08
+doc_date: 1967-07-08
 ---
 
 # 79 CABLEGRAM, AUSTRALIAN EMBASSY IN US TO CANBERRA

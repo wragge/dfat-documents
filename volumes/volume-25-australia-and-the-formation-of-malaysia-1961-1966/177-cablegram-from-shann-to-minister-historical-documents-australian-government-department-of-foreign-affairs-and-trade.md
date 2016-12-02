@@ -3,7 +3,7 @@ title: "177 Cablegram from Shann to Minister - Historical Documents - Australian
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9307
 vol_id: 25
-date: 1964-03-25
+doc_date: 1964-03-25
 barcode: 1500907
 ---
 

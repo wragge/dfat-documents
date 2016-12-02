@@ -3,7 +3,7 @@ title: "11 Department of External Affairs to Posts"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3523
 vol_id: 9
-date: 1946-01-07
+doc_date: 1946-01-07
 barcode: 739100
 ---
 

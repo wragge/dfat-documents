@@ -3,7 +3,7 @@ title: "163 Telegram from New Zealand High Commission in Canberra to Ministry of
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9032
 vol_id: 23
-date: 1981-03-04
+doc_date: 1981-03-04
 ---
 
 # 163 Telegram from New Zealand High Commission in Canberra to Ministry of Foreign Affairs

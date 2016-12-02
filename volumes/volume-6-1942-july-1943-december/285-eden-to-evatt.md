@@ -3,7 +3,7 @@ title: "285 Eden to Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2576
 vol_id: 6
-date: 1943-09-27
+doc_date: 1943-09-27
 barcode: 242460
 ---
 

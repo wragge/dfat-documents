@@ -3,7 +3,7 @@ title: "156 Press Statement by Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5932
 vol_id: 14
-date: 1948-05-16
+doc_date: 1948-05-16
 ---
 
 # 156 Press Statement by Department of External Affairs

@@ -3,7 +3,7 @@ title: "28 Note By Yeend On Cabinet Submission No. 71"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9537
 vol_id: 26
-date: 1966-03-11
+doc_date: 1966-03-11
 barcode: 1340593
 ---
 

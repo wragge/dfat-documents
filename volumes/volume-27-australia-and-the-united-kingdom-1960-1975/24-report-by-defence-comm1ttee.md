@@ -3,7 +3,7 @@ title: "24 REPORT BY DEFENCE COMM1TTEE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9891
 vol_id: 27
-date: 1964-07-14
+doc_date: 1964-07-14
 ---
 
 # 24 REPORT BY DEFENCE COMM1TTEE

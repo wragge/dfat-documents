@@ -3,7 +3,7 @@ title: "460 Pyman to McIntyre"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6629
 vol_id: 15
-date: 1949-07-28
+doc_date: 1949-07-28
 ---
 
 # 460 Pyman to McIntyre

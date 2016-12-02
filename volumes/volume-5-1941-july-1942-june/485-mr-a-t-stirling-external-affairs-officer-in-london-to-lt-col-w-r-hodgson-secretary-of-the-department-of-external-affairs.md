@@ -3,7 +3,7 @@ title: "485 Mr A. T. Stirling, External Affairs Officer in London, to Lt Col W. 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2239
 vol_id: 5
-date: 1942-05-08
+doc_date: 1942-05-08
 ---
 
 # 485 Mr A. T. Stirling, External Affairs Officer in London, to Lt Col W. R. Hodgson, Secretary of the Department of External Affairs

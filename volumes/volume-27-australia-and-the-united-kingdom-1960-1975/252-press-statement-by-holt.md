@@ -3,7 +3,7 @@ title: "252 PRESS STATEMENT BY HOLT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10117
 vol_id: 27
-date: 1967-12-12
+doc_date: 1967-12-12
 ---
 
 # 252 PRESS STATEMENT BY HOLT

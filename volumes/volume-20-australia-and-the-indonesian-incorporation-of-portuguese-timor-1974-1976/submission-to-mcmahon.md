@@ -3,7 +3,7 @@ title: "Submission to Mcmahon"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8342
 vol_id: 20
-date: 1970-12-01
+doc_date: 1970-12-01
 ---
 
 # Submission to Mcmahon

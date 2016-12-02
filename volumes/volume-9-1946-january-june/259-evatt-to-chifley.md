@@ -3,7 +3,7 @@ title: "259 Evatt to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3771
 vol_id: 9
-date: 1946-05-20
+doc_date: 1946-05-20
 barcode: 191204
 ---
 

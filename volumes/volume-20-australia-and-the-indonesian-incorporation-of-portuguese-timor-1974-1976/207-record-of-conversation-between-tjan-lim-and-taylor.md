@@ -3,7 +3,7 @@ title: "207 Record of Conversation Between Tjan, Lim and Taylor"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8045
 vol_id: 20
-date: 1975-09-02
+doc_date: 1975-09-02
 ---
 
 # 207 Record of Conversation Between Tjan, Lim and Taylor

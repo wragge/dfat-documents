@@ -3,7 +3,7 @@ title: "553 Burton to Mills"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5235
 vol_id: 12
-date: 1947-07-01
+doc_date: 1947-07-01
 barcode: 560869
 ---
 

@@ -3,7 +3,7 @@ title: "454 Eggleston to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3485
 vol_id: 8
-date: 1945-12-15
+doc_date: 1945-12-15
 barcode: 190058
 ---
 

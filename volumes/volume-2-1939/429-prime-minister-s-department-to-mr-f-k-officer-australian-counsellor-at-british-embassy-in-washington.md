@@ -3,7 +3,7 @@ title: "429 Prime Minister's Department to Mr F.K. Officer, Australian Counsello
 volume: "Volume 2: 1939"
 doc_id: 766
 vol_id: 2
-date: 1939-12-27
+doc_date: 1939-12-27
 barcode: 97698
 ---
 

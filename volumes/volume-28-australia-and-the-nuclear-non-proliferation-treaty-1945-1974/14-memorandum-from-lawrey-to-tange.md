@@ -3,7 +3,7 @@ title: "14 Memorandum from Lawrey to Tange"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10389
 vol_id: 28
-date: 1954-09-22
+doc_date: 1954-09-22
 barcode: 466463
 ---
 

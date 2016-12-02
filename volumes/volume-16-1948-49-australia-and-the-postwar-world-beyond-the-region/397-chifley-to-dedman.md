@@ -3,7 +3,7 @@ title: "397 Chifley to Dedman"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7112
 vol_id: 16
-date: 1948-01-12
+doc_date: 1948-01-12
 barcode: 195067
 ---
 

@@ -3,7 +3,7 @@ title: "413 Press Statement by Chifley"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5680
 vol_id: 13
-date: 1948-12-21
+doc_date: 1948-12-21
 ---
 
 # 413 Press Statement by Chifley

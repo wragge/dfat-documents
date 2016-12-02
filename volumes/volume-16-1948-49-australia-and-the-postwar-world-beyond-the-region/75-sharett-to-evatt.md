@@ -3,7 +3,7 @@ title: "75 Sharett to Evatt"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6790
 vol_id: 16
-date: 1949-11-23
+doc_date: 1949-11-23
 ---
 
 # 75 Sharett to Evatt

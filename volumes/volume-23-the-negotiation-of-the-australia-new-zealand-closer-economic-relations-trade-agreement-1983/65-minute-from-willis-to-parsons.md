@@ -3,7 +3,7 @@ title: "65 Minute from Willis to Parsons"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8935
 vol_id: 23
-date: 1980-02-22
+doc_date: 1980-02-22
 ---
 
 # 65 Minute from Willis to Parsons

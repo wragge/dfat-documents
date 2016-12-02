@@ -3,7 +3,7 @@ title: "43 Letter From Williams to Fadden"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8394
 vol_id: 21
-date: 1951-02-08
+doc_date: 1951-02-08
 ---
 
 # 43 Letter From Williams to Fadden

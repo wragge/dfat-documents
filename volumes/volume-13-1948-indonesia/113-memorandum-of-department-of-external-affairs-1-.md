@@ -3,7 +3,7 @@ title: "113 Memorandum of Department of External Affairs [1]"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5380
 vol_id: 13
-date: 1948-04-15
+doc_date: 1948-04-15
 ---
 
 # 113 Memorandum of Department of External Affairs [1]

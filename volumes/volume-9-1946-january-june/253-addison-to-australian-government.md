@@ -3,7 +3,7 @@ title: "253 Addison to Australian Government"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3765
 vol_id: 9
-date: 1946-05-18
+doc_date: 1946-05-18
 ---
 
 # 253 Addison to Australian Government

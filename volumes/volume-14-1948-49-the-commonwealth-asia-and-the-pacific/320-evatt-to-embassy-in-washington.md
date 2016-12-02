@@ -3,7 +3,7 @@ title: "320 Evatt to Embassy in Washington"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6096
 vol_id: 14
-date: 1949-07-25
+doc_date: 1949-07-25
 ---
 
 # 320 Evatt to Embassy in Washington

@@ -3,7 +3,7 @@ title: "95 Cabinet Submission by Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4777
 vol_id: 12
-date: 1947-04-14
+doc_date: 1947-04-14
 ---
 
 # 95 Cabinet Submission by Chifley

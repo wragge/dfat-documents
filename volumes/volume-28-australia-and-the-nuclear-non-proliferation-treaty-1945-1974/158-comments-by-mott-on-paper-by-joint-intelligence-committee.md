@@ -3,7 +3,7 @@ title: "158 Comments by Mott on Paper by Joint Intelligence Committee"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10532
 vol_id: 28
-date: 1969-05-27
+doc_date: 1969-05-27
 barcode: 1730537
 ---
 

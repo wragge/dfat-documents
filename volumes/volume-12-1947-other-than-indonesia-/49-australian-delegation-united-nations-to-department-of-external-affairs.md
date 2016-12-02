@@ -3,7 +3,7 @@ title: "49 Australian Delegation, United Nations, to Department of External Affa
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4731
 vol_id: 12
-date: 1947-01-09
+doc_date: 1947-01-09
 ---
 
 # 49 Australian Delegation, United Nations, to Department of External Affairs

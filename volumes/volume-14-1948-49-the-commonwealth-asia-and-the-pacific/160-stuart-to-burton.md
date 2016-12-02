@@ -3,7 +3,7 @@ title: "160 Stuart to Burton"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5936
 vol_id: 14
-date: 1948-06-11
+doc_date: 1948-06-11
 ---
 
 # 160 Stuart to Burton

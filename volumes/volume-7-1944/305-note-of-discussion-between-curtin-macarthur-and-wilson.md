@@ -3,7 +3,7 @@ title: "305 Note of Discussion between Curtin, MacArthur and Wilson"
 volume: "Volume 7: 1944"
 doc_id: 2952
 vol_id: 7
-date: 1944-09-30
+doc_date: 1944-09-30
 ---
 
 # 305 Note of Discussion between Curtin, MacArthur and Wilson

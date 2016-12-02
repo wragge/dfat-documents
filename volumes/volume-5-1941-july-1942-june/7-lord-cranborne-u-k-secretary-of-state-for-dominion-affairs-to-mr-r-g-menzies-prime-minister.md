@@ -3,7 +3,7 @@ title: "7 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R.
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1760
 vol_id: 5
-date: 1941-07-12
+doc_date: 1941-07-12
 ---
 
 # 7 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister

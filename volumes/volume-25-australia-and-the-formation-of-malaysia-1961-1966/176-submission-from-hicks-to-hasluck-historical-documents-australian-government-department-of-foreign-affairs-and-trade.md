@@ -3,7 +3,7 @@ title: "176 Submission from Hicks to Hasluck - Historical Documents - Australian
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9306
 vol_id: 25
-date: 1964-03-13
+doc_date: 1964-03-13
 barcode: 1363553
 ---
 

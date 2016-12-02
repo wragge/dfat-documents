@@ -3,7 +3,7 @@ title: "329 Commonwealth Government to Mr H. L. Anthony, Minister without portfo
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1560
 vol_id: 4
-date: 1941-03-04
+doc_date: 1941-03-04
 ---
 
 # 329 Commonwealth Government to Mr H. L. Anthony, Minister without portfolio assisting the Treasurer and the Minister for Commerce (in Wellington)

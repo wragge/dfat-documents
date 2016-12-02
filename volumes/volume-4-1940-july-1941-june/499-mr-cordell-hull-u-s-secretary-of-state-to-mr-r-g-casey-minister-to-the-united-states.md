@@ -3,7 +3,7 @@ title: "499 Mr Cordell Hull, U.S. Secretary of State, to Mr R. G. Casey, Ministe
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1730
 vol_id: 4
-date: 1941-06-11
+doc_date: 1941-06-11
 barcode: 235658
 ---
 

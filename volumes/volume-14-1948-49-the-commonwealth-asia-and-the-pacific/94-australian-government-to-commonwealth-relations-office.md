@@ -3,7 +3,7 @@ title: "94 Australian Government to Commonwealth Relations Office"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5870
 vol_id: 14
-date: 1948-12-23
+doc_date: 1948-12-23
 barcode: 394284
 ---
 

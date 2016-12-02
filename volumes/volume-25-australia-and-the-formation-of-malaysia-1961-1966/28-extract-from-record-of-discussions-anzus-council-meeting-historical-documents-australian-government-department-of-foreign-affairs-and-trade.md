@@ -3,7 +3,7 @@ title: "28 Extract from Record of Discussions Anzus Council Meeting - Historical
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9410
 vol_id: 25
-date: 1965-06-28
+doc_date: 1965-06-28
 barcode: 1743552
 ---
 

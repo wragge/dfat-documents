@@ -3,7 +3,7 @@ title: "159 Evatt to MacDonald"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5935
 vol_id: 14
-date: 1948-06-11
+doc_date: 1948-06-11
 ---
 
 # 159 Evatt to MacDonald

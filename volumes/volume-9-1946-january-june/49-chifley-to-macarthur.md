@@ -3,7 +3,7 @@ title: "49 Chifley to MacArthur"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3561
 vol_id: 9
-date: 1946-01-24
+doc_date: 1946-01-24
 ---
 
 # 49 Chifley to MacArthur

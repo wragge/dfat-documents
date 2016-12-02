@@ -3,7 +3,7 @@ title: "93 Mr R. G. Menzies, Prime Minister, to Sir Harry Luke, U.K. High Commis
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1324
 vol_id: 4
-date: 1940-09-02
+doc_date: 1940-09-02
 ---
 
 # 93 Mr R. G. Menzies, Prime Minister, to Sir Harry Luke, U.K. High Commissioner for the Western Pacific (at Vila)

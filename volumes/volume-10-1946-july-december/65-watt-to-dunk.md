@@ -3,7 +3,7 @@ title: "65 Watt to Dunk"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3913
 vol_id: 10
-date: 1946-08-13
+doc_date: 1946-08-13
 barcode: 191304
 ---
 

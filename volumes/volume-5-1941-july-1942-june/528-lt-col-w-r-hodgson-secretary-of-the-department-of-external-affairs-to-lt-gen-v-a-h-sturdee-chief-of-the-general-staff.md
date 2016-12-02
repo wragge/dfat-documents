@@ -3,7 +3,7 @@ title: "528 Lt Col W. R. Hodgson, Secretary of the Department of External Affair
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2282
 vol_id: 5
-date: 1942-06-23
+doc_date: 1942-06-23
 barcode: 182759
 ---
 

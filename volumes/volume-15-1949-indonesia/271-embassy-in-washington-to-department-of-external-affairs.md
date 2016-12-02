@@ -3,7 +3,7 @@ title: "271 Embassy in Washington to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6440
 vol_id: 15
-date: 1949-03-03
+doc_date: 1949-03-03
 ---
 
 # 271 Embassy in Washington to Department of External Affairs

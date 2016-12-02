@@ -3,7 +3,7 @@ title: "347 CABLEGRAM, PRITCHETT TO WALLER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10213
 vol_id: 27
-date: 1972-11-21
+doc_date: 1972-11-21
 ---
 
 # 347 CABLEGRAM, PRITCHETT TO WALLER

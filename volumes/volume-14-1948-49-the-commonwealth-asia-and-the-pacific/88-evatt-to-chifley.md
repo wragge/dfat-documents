@@ -3,7 +3,7 @@ title: "88 Evatt to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5864
 vol_id: 14
-date: 1948-10-24
+doc_date: 1948-10-24
 ---
 
 # 88 Evatt to Chifley

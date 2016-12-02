@@ -3,7 +3,7 @@ title: "409 Makin to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5091
 vol_id: 12
-date: 1947-06-12
+doc_date: 1947-06-12
 barcode: 471013
 ---
 

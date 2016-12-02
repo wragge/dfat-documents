@@ -3,7 +3,7 @@ title: "151 Letter, Warwick Smith To Hay"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9659
 vol_id: 26
-date: 1967-12-18
+doc_date: 1967-12-18
 barcode: 3125687
 ---
 

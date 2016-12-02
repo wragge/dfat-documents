@@ -3,7 +3,7 @@ title: "54 Mr F. K. Officer, Australian Counsellor at U.K. Embassy in Washington
 volume: "Volume 3: 1940, January-June"
 doc_id: 820
 vol_id: 3
-date: 1940-02-10
+doc_date: 1940-02-10
 ---
 
 # 54 Mr F. K. Officer, Australian Counsellor at U.K. Embassy in Washington, to Department of External Affairs

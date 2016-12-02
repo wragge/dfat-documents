@@ -3,7 +3,7 @@ title: "306 Mr S.M. Bruce, High Commissioner in London, to Prime Minister's Depa
 volume: "Volume 2: 1939"
 doc_id: 643
 vol_id: 2
-date: 1939-10-24
+doc_date: 1939-10-24
 barcode: 205845
 ---
 

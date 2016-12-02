@@ -3,7 +3,7 @@ title: "159 Evatt to King and Smuts"
 volume: "Volume 8: 1945"
 doc_id: 3190
 vol_id: 8
-date: 1945-08-06
+doc_date: 1945-08-06
 barcode: 188247
 ---
 

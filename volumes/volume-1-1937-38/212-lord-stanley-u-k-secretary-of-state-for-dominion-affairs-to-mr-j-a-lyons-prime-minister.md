@@ -3,7 +3,7 @@ title: "212 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Mr J.
 volume: "Volume 1: 1937-38"
 doc_id: 211
 vol_id: 1
-date: 1938-05-18
+doc_date: 1938-05-18
 ---
 
 # 212 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister

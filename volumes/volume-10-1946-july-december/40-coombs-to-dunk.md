@@ -3,7 +3,7 @@ title: "40 Coombs to Dunk"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3888
 vol_id: 10
-date: 1946-07-29
+doc_date: 1946-07-29
 barcode: 191548
 ---
 

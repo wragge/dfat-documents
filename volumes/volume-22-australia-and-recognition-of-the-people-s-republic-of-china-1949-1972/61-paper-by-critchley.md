@@ -3,7 +3,7 @@ title: "61 PAPER BY CRITCHLEY"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8544
 vol_id: 22
-date: 1955-01-28
+doc_date: 1955-01-28
 ---
 
 # 61 PAPER BY CRITCHLEY

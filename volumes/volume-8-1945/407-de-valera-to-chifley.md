@@ -3,7 +3,7 @@ title: "407 de Valera to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3438
 vol_id: 8
-date: 1945-11-22
+doc_date: 1945-11-22
 barcode: 187244
 ---
 

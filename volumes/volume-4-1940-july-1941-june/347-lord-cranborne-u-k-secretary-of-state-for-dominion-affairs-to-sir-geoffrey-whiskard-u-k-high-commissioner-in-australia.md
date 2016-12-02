@@ -3,7 +3,7 @@ title: "347 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1578
 vol_id: 4
-date: 1941-03-11
+doc_date: 1941-03-11
 barcode: 206127
 ---
 

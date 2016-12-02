@@ -3,7 +3,7 @@ title: "40 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1794
 vol_id: 5
-date: 1941-08-12
+doc_date: 1941-08-12
 ---
 
 # 40 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Ronald Cross, U.K. High Commissioner in Australia

@@ -3,7 +3,7 @@ title: "29 Aide-Memoire From Embassy in Washington to Department of State"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8380
 vol_id: 21
-date: 1951-01-11
+doc_date: 1951-01-11
 ---
 
 # 29 Aide-Memoire From Embassy in Washington to Department of State

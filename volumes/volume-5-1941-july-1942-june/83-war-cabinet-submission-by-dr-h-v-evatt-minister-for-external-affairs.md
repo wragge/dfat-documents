@@ -3,7 +3,7 @@ title: "83 War Cabinet Submission by Dr H. V. Evatt, Minister for External Affai
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1837
 vol_id: 5
-date: 1941-10-14
+doc_date: 1941-10-14
 barcode: 11203707
 ---
 

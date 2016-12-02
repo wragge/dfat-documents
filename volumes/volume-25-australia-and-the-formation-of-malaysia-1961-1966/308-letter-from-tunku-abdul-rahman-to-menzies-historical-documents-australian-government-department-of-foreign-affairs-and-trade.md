@@ -3,7 +3,7 @@ title: "308 Letter from Tunku Abdul Rahman to Menzies - Historical Documents - A
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9439
 vol_id: 25
-date: 1965-08-12
+doc_date: 1965-08-12
 barcode: 1345848
 ---
 

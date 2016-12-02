@@ -3,7 +3,7 @@ title: "119 Brief for Whitlam"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7958
 vol_id: 20
-date: 1975-03-31
+doc_date: 1975-03-31
 ---
 
 # 119 Brief for Whitlam

@@ -3,7 +3,7 @@ title: "326 Department of External Affairs to Embassy in Washington"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4174
 vol_id: 10
-date: 1946-12-16
+doc_date: 1946-12-16
 barcode: 193774
 ---
 

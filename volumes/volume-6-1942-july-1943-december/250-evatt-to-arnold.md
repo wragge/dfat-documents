@@ -3,7 +3,7 @@ title: "250 Evatt to Arnold"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2541
 vol_id: 6
-date: 1943-07-25
+doc_date: 1943-07-25
 ---
 
 # 250 Evatt to Arnold

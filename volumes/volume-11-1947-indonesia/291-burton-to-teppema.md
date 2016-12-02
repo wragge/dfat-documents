@@ -3,7 +3,7 @@ title: "291 Burton to Teppema"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4475
 vol_id: 11
-date: 1947-08-19
+doc_date: 1947-08-19
 ---
 
 # 291 Burton to Teppema

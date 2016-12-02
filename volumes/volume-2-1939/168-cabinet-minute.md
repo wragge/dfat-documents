@@ -3,7 +3,7 @@ title: "168 Cabinet Minute"
 volume: "Volume 2: 1939"
 doc_id: 505
 vol_id: 2
-date: 1939-08-30
+doc_date: 1939-08-30
 ---
 
 # 168 Cabinet Minute

@@ -3,7 +3,7 @@ title: "544 Pyman to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5226
 vol_id: 12
-date: 1947-08-25
+doc_date: 1947-08-25
 ---
 
 # 544 Pyman to Burton

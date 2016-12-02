@@ -3,7 +3,7 @@ title: "155 Mr A. T. Stirling, External Affairs Officer in London, to Department
 volume: "Volume 1: 1937-38"
 doc_id: 154
 vol_id: 1
-date: 1938-03-24
+doc_date: 1938-03-24
 ---
 
 # 155 Mr A. T. Stirling, External Affairs Officer in London, to Department of External Affairs

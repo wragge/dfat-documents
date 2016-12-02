@@ -3,7 +3,7 @@ title: "355 Cabinet Minute"
 volume: "Volume 2: 1939"
 doc_id: 692
 vol_id: 2
-date: 1939-11-13
+doc_date: 1939-11-13
 ---
 
 # 355 Cabinet Minute

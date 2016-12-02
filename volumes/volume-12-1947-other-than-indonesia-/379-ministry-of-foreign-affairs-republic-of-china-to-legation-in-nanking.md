@@ -3,7 +3,7 @@ title: "379 Ministry of Foreign Affairs, Republic of China, to Legation in Nanki
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5061
 vol_id: 12
-date: 1947-12-05
+doc_date: 1947-12-05
 ---
 
 # 379 Ministry of Foreign Affairs, Republic of China, to Legation in Nanking

@@ -3,7 +3,7 @@ title: "79 Submission, Gutman To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9587
 vol_id: 26
-date: 1966-10-13
+doc_date: 1966-10-13
 barcode: 12030517
 ---
 

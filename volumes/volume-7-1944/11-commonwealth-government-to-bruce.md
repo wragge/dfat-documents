@@ -3,7 +3,7 @@ title: "11 Commonwealth Government to Bruce"
 volume: "Volume 7: 1944"
 doc_id: 2658
 vol_id: 7
-date: 1944-01-13
+doc_date: 1944-01-13
 ---
 
 # 11 Commonwealth Government to Bruce

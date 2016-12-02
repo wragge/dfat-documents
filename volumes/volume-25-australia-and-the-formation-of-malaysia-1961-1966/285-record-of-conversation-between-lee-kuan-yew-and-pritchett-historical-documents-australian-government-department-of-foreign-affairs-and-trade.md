@@ -3,7 +3,7 @@ title: "285 Record of Conversation Between Lee Kuan Yew and Pritchett - Historic
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9415
 vol_id: 25
-date: 1965-07-21
+doc_date: 1965-07-21
 barcode: 583171
 ---
 

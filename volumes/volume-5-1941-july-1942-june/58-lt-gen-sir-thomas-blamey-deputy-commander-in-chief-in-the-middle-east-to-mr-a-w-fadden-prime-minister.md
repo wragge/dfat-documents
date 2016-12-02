@@ -3,7 +3,7 @@ title: "58 Lt Gen Sir Thomas Blamey, Deputy Commander-in-Chief in the Middle Eas
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1812
 vol_id: 5
-date: 1941-09-04
+doc_date: 1941-09-04
 barcode: 206516
 ---
 

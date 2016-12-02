@@ -3,7 +3,7 @@ title: "455 Department of External Affairs to Hodgson"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5722
 vol_id: 13
-date: 1948-12-24
+doc_date: 1948-12-24
 ---
 
 # 455 Department of External Affairs to Hodgson

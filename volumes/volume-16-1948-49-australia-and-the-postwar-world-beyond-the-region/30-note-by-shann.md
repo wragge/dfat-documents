@@ -3,7 +3,7 @@ title: "30 Note by Shann"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6745
 vol_id: 16
-date: 1948-04-19
+doc_date: 1948-04-19
 ---
 
 # 30 Note by Shann

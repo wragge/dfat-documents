@@ -3,7 +3,7 @@ title: "303 Broadcast Message by Mr W. M. Hughes, Attorney-General and Minister 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1534
 vol_id: 4
-date: 1941-02-16
+doc_date: 1941-02-16
 ---
 
 # 303 Broadcast Message by Mr W. M. Hughes, Attorney-General and Minister for the Navy

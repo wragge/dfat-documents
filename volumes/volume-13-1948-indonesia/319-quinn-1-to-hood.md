@@ -3,7 +3,7 @@ title: "319 [Quinn] [1] to Hood"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5586
 vol_id: 13
-date: 1948-11-18
+doc_date: 1948-11-18
 ---
 
 # 319 [Quinn] [1] to Hood

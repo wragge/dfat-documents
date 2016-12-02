@@ -3,7 +3,7 @@ title: "180 Australian Government to Addison and Fraser"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4028
 vol_id: 10
-date: 1946-10-26
+doc_date: 1946-10-26
 barcode: 191460
 ---
 

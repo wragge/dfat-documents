@@ -3,7 +3,7 @@ title: "317 High Commission in New Delhi to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6486
 vol_id: 15
-date: 1949-03-26
+doc_date: 1949-03-26
 ---
 
 # 317 High Commission in New Delhi to Department of External Affairs

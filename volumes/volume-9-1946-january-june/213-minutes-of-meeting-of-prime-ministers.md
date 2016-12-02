@@ -3,7 +3,7 @@ title: "213 Minutes of Meeting of Prime Ministers"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3725
 vol_id: 9
-date: 1946-04-26
+doc_date: 1946-04-26
 barcode: 694890
 ---
 

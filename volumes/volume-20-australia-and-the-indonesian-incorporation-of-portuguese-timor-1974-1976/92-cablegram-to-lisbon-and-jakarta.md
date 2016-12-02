@@ -3,7 +3,7 @@ title: "92 Cablegram to Lisbon and Jakarta"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7931
 vol_id: 20
-date: 1975-02-21
+doc_date: 1975-02-21
 ---
 
 # 92 Cablegram to Lisbon and Jakarta

@@ -3,7 +3,7 @@ title: "2 Australian Government to Noel-Baker"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5778
 vol_id: 14
-date: 1948-02-04
+doc_date: 1948-02-04
 barcode: 139969
 ---
 

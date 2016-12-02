@@ -3,7 +3,7 @@ title: "152 Department of External Affairs to Mr A. T. Stirling, External Affair
 volume: "Volume 1: 1937-38"
 doc_id: 151
 vol_id: 1
-date: 1938-03-24
+doc_date: 1938-03-24
 ---
 
 # 152 Department of External Affairs to Mr A. T. Stirling, External Affairs Officer in London

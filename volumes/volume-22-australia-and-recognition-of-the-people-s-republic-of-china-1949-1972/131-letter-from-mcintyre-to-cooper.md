@@ -3,7 +3,7 @@ title: "131 LETTER FROM McINTYRE TO COOPER"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8614
 vol_id: 22
-date: 1969-06-12
+doc_date: 1969-06-12
 ---
 
 # 131 LETTER FROM McINTYRE TO COOPER

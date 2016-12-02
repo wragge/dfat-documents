@@ -3,7 +3,7 @@ title: "377 Department of External Affairs to Legation in Moscow, Legation in Na
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5059
 vol_id: 12
-date: 1947-12-04
+doc_date: 1947-12-04
 ---
 
 # 377 Department of External Affairs to Legation in Moscow, Legation in Nanking and Embassy in Washington

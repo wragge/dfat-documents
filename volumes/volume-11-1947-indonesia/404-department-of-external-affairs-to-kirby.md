@@ -3,7 +3,7 @@ title: "404 Department of External Affairs to Kirby"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4588
 vol_id: 11
-date: 1947-11-06
+doc_date: 1947-11-06
 ---
 
 # 404 Department of External Affairs to Kirby

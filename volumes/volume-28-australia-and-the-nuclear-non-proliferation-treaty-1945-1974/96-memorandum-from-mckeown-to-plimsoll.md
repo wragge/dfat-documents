@@ -3,7 +3,7 @@ title: "96 Memorandum from McKeown to Plimsoll"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10470
 vol_id: 28
-date: 1967-10-02
+doc_date: 1967-10-02
 barcode: 1725934
 ---
 

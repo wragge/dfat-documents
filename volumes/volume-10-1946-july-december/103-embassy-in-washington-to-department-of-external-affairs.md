@@ -3,7 +3,7 @@ title: "103 Embassy in Washington to Department of External Affairs"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3951
 vol_id: 10
-date: 1946-09-04
+doc_date: 1946-09-04
 ---
 
 # 103 Embassy in Washington to Department of External Affairs

@@ -3,7 +3,7 @@ title: "21 FOREIGN OFFICE MINUTES BY WATERFIELD, WARNER, CABLE AND PECK"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9888
 vol_id: 27
-date: 1963-07-08
+doc_date: 1963-07-08
 ---
 
 # 21 FOREIGN OFFICE MINUTES BY WATERFIELD, WARNER, CABLE AND PECK

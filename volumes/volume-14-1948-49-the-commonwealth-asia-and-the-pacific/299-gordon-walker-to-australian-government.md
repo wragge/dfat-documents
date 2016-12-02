@@ -3,7 +3,7 @@ title: "299 Gordon Walker to Australian Government"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6075
 vol_id: 14
-date: 1948-04-02
+doc_date: 1948-04-02
 barcode: 414193
 ---
 

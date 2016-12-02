@@ -3,7 +3,7 @@ title: "411 Australian Government to Embassy in Washington, Fraser and Addison"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5093
 vol_id: 12
-date: 1947-03-27
+doc_date: 1947-03-27
 barcode: 140222
 ---
 

@@ -3,7 +3,7 @@ title: "163 Council of Defence [1] Minute"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4845
 vol_id: 12
-date: 1947-03-12
+doc_date: 1947-03-12
 ---
 
 # 163 Council of Defence [1] Minute

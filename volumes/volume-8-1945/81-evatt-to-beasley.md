@@ -3,7 +3,7 @@ title: "81 Evatt to Beasley"
 volume: "Volume 8: 1945"
 doc_id: 3112
 vol_id: 8
-date: 1945-05-01
+doc_date: 1945-05-01
 ---
 
 # 81 Evatt to Beasley

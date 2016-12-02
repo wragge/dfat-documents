@@ -3,7 +3,7 @@ title: "240 Minute from Templeton to Ministerial Colleagues"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9109
 vol_id: 23
-date: 1982-05-07
+doc_date: 1982-05-07
 ---
 
 # 240 Minute from Templeton to Ministerial Colleagues

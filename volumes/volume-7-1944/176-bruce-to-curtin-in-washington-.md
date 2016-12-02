@@ -3,7 +3,7 @@ title: "176 Bruce to Curtin (in Washington)"
 volume: "Volume 7: 1944"
 doc_id: 2823
 vol_id: 7
-date: 1944-05-31
+doc_date: 1944-05-31
 barcode: 242468
 ---
 

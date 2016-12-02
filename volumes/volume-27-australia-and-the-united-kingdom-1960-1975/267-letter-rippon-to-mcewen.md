@@ -3,7 +3,7 @@ title: "267 LETTER, RIPPON TO MCEWEN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10132
 vol_id: 27
-date: 1970-08-12
+doc_date: 1970-08-12
 ---
 
 # 267 LETTER, RIPPON TO MCEWEN

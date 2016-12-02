@@ -3,7 +3,7 @@ title: "41 Admiral Sir Roger Backhouse, U.K. First Sea Lord, to Admiral Sir Ragn
 volume: "Volume 2: 1939"
 doc_id: 378
 vol_id: 2
-date: 1939-03-17
+doc_date: 1939-03-17
 ---
 
 # 41 Admiral Sir Roger Backhouse, U.K. First Sea Lord, to Admiral Sir Ragnar Colvin, First Naval Member, Naval Board

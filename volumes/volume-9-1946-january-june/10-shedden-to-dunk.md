@@ -3,7 +3,7 @@ title: "10 Shedden to Dunk"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3522
 vol_id: 9
-date: 1946-01-07
+doc_date: 1946-01-07
 barcode: 190187
 ---
 

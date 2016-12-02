@@ -3,7 +3,7 @@ title: "38 Unsigned Notes By Department Of Commerce & Agriculture"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7643
 vol_id: 19
-date: 1953-08-04
+doc_date: 1953-08-04
 ---
 
 # 38 Unsigned Notes By Department Of Commerce & Agriculture

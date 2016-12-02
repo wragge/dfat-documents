@@ -3,7 +3,7 @@ title: "503 Mr A. S. V. Smith, Secretary of the Department of Supply and Develop
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2257
 vol_id: 5
-date: 1942-05-28
+doc_date: 1942-05-28
 barcode: 235707
 ---
 

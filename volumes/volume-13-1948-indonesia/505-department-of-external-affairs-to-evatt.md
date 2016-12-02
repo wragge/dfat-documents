@@ -3,7 +3,7 @@ title: "505 Department of External Affairs to Evatt"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5772
 vol_id: 13
-date: 1948-12-31
+doc_date: 1948-12-31
 ---
 
 # 505 Department of External Affairs to Evatt

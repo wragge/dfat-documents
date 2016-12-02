@@ -3,7 +3,7 @@ title: "487 MINUTE, WILFORD TO BRIMELOW"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10354
 vol_id: 27
-date: 1974-10-22
+doc_date: 1974-10-22
 ---
 
 # 487 MINUTE, WILFORD TO BRIMELOW

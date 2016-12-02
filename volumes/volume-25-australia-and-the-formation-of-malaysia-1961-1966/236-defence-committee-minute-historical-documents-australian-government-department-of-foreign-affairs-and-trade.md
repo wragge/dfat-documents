@@ -3,7 +3,7 @@ title: "236 Defence Committee Minute - Historical Documents - Australian Governm
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9366
 vol_id: 25
-date: 1965-01-17
+doc_date: 1965-01-17
 barcode: 1160373
 ---
 

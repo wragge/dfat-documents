@@ -3,7 +3,7 @@ title: "212 Australia-Japan Trade Negotiations: Sixth Plenary Meeting [1]"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7817
 vol_id: 19
-date: 1957-06-14
+doc_date: 1957-06-14
 ---
 
 # 212 Australia-Japan Trade Negotiations: Sixth Plenary Meeting [1]

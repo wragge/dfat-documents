@@ -3,7 +3,7 @@ title: "132 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prim
 volume: "Volume 2: 1939"
 doc_id: 469
 vol_id: 2
-date: 1939-08-16
+doc_date: 1939-08-16
 ---
 
 # 132 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prime Minister

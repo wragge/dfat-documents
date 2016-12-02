@@ -3,7 +3,7 @@ title: "250 McIntyre to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6419
 vol_id: 15
-date: 1949-02-28
+doc_date: 1949-02-28
 ---
 
 # 250 McIntyre to Burton

@@ -3,7 +3,7 @@ title: "136 Attlee to Commonwealth Government"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2427
 vol_id: 6
-date: 1943-03-13
+doc_date: 1943-03-13
 ---
 
 # 136 Attlee to Commonwealth Government

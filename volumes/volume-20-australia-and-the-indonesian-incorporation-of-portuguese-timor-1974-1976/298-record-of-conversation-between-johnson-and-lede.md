@@ -3,7 +3,7 @@ title: "298 Record of Conversation Between Johnson and Lede"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8136
 vol_id: 20
-date: 1975-10-25
+doc_date: 1975-10-25
 ---
 
 # 298 Record of Conversation Between Johnson and Lede

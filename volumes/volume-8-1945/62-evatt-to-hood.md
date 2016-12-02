@@ -3,7 +3,7 @@ title: "62 Evatt to Hood"
 volume: "Volume 8: 1945"
 doc_id: 3093
 vol_id: 8
-date: 1945-03-21
+doc_date: 1945-03-21
 ---
 
 # 62 Evatt to Hood

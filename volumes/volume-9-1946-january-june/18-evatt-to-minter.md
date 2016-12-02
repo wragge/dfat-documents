@@ -3,7 +3,7 @@ title: "18 Evatt to Minter"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3530
 vol_id: 9
-date: 1946-01-10
+doc_date: 1946-01-10
 ---
 
 # 18 Evatt to Minter

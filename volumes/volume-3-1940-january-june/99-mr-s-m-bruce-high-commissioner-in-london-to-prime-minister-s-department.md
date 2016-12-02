@@ -3,7 +3,7 @@ title: "99 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Depa
 volume: "Volume 3: 1940, January-June"
 doc_id: 865
 vol_id: 3
-date: 1940-03-13
+doc_date: 1940-03-13
 ---
 
 # 99 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department

@@ -3,7 +3,7 @@ title: "294 Letter, Lynch To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9802
 vol_id: 26
-date: 1969-07-14
+doc_date: 1969-07-14
 barcode: 3125761
 ---
 

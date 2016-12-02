@@ -3,7 +3,7 @@ title: "239 Submission No. 599 from McEwen to Cabinet - Historical Documents - A
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9369
 vol_id: 25
-date: 1965-01-26
+doc_date: 1965-01-26
 ---
 
 # 239 Submission No. 599 from McEwen to Cabinet - Historical Documents - Australian Government Department of Foreign Affairs and Trade

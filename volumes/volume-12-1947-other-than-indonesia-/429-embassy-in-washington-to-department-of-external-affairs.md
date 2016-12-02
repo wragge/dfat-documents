@@ -3,7 +3,7 @@ title: "429 Embassy in Washington to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5111
 vol_id: 12
-date: 1947-01-02
+doc_date: 1947-01-02
 ---
 
 # 429 Embassy in Washington to Department of External Affairs

@@ -3,7 +3,7 @@ title: "419 Mr A. S. Watt, First Secretary of the Legation in Washington, to Dep
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2173
 vol_id: 5
-date: 1942-03-18
+doc_date: 1942-03-18
 ---
 
 # 419 Mr A. S. Watt, First Secretary of the Legation in Washington, to Department of External Affairs

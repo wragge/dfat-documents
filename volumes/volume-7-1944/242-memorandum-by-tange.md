@@ -3,7 +3,7 @@ title: "242 Memorandum by Tange"
 volume: "Volume 7: 1944"
 doc_id: 2889
 vol_id: 7
-date: 1944-08-01
+doc_date: 1944-08-01
 ---
 
 # 242 Memorandum by Tange

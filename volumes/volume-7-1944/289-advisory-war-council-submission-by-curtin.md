@@ -3,7 +3,7 @@ title: "289 Advisory War Council Submission by Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2936
 vol_id: 7
-date: 1944-09-20
+doc_date: 1944-09-20
 barcode: 31204399
 ---
 

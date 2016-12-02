@@ -3,7 +3,7 @@ title: "115 Department of External Affairs to Officer"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4299
 vol_id: 11
-date: 1947-07-15
+doc_date: 1947-07-15
 ---
 
 # 115 Department of External Affairs to Officer

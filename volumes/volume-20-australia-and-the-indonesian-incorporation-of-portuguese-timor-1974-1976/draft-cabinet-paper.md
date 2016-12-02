@@ -3,7 +3,7 @@ title: "Draft Cabinet Paper"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8328
 vol_id: 20
-date: 1965-07-01
+doc_date: 1965-07-01
 ---
 
 # Draft Cabinet Paper

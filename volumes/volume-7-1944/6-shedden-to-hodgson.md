@@ -3,7 +3,7 @@ title: "6 Shedden to Hodgson"
 volume: "Volume 7: 1944"
 doc_id: 2653
 vol_id: 7
-date: 1944-01-07
+doc_date: 1944-01-07
 ---
 
 # 6 Shedden to Hodgson

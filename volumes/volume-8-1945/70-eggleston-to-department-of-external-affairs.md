@@ -3,7 +3,7 @@ title: "70 Eggleston to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3101
 vol_id: 8
-date: 1945-04-11
+doc_date: 1945-04-11
 barcode: 187021
 ---
 

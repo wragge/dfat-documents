@@ -3,7 +3,7 @@ title: "283 Mr A. S. Watt, First Secretary of the Legation in Washington, to Lt 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1514
 vol_id: 4
-date: 1941-02-11
+doc_date: 1941-02-11
 barcode: 235595
 ---
 

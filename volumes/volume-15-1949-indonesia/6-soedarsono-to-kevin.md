@@ -3,7 +3,7 @@ title: "6 Soedarsono to Kevin"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6175
 vol_id: 15
-date: 1949-01-03
+doc_date: 1949-01-03
 ---
 
 # 6 Soedarsono to Kevin

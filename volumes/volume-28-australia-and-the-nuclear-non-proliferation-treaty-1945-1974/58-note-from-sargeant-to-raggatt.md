@@ -3,7 +3,7 @@ title: "58 Note from Sargeant to Raggatt"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10432
 vol_id: 28
-date: 1964-07-08
+doc_date: 1964-07-08
 barcode: 1381319
 ---
 

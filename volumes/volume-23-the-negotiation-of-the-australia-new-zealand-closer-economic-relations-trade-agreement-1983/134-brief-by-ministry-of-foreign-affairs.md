@@ -3,7 +3,7 @@ title: "134 Brief by Ministry of Foreign Affairs"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9004
 vol_id: 23
-date: 1980-12-02
+doc_date: 1980-12-02
 ---
 
 # 134 Brief by Ministry of Foreign Affairs

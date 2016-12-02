@@ -3,7 +3,7 @@ title: "191 Mr R. G. Menzies, Prime Minister, to Mr A. Eden, U.K. Secretary of S
 volume: "Volume 3: 1940, January-June"
 doc_id: 957
 vol_id: 3
-date: 1940-05-01
+doc_date: 1940-05-01
 ---
 
 # 191 Mr R. G. Menzies, Prime Minister, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs

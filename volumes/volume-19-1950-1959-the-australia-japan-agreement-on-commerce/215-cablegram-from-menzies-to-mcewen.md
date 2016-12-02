@@ -3,7 +3,7 @@ title: "215 Cablegram From Menzies To Mcewen"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7820
 vol_id: 19
-date: 1957-06-24
+doc_date: 1957-06-24
 ---
 
 # 215 Cablegram From Menzies To Mcewen

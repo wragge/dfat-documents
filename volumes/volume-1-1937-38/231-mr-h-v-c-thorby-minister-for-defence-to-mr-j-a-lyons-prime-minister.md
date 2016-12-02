@@ -3,7 +3,7 @@ title: "231 Mr H. V. C. Thorby, Minister for Defence, to Mr J. A. Lyons, Prime M
 volume: "Volume 1: 1937-38"
 doc_id: 230
 vol_id: 1
-date: 1938-07-20
+doc_date: 1938-07-20
 barcode: 206889
 ---
 

@@ -3,7 +3,7 @@ title: "244 LETTER, SNELLING TO JOHNSTON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10109
 vol_id: 27
-date: 1967-11-16
+doc_date: 1967-11-16
 ---
 
 # 244 LETTER, SNELLING TO JOHNSTON

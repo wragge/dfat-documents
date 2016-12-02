@@ -3,7 +3,7 @@ title: "317 Cablegram from Pritchett to Hasluck - Historical Documents - Austral
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9447
 vol_id: 25
-date: 1965-08-17
+doc_date: 1965-08-17
 ---
 
 # 317 Cablegram from Pritchett to Hasluck - Historical Documents - Australian Government Department of Foreign Affairs and Trade

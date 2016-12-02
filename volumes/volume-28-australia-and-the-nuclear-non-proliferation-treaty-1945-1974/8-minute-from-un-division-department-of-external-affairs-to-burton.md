@@ -3,7 +3,7 @@ title: "8 Minute from UN Division , Department of External Affairs, to Burton"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10383
 vol_id: 28
-date: 1947-06-19
+doc_date: 1947-06-19
 barcode: 427508
 ---
 

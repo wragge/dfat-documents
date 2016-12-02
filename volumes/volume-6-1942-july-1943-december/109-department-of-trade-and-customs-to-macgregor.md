@@ -3,7 +3,7 @@ title: "109 Department of Trade and Customs to Macgregor"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2400
 vol_id: 6
-date: 1943-01-23
+doc_date: 1943-01-23
 barcode: 31425972
 ---
 

@@ -3,7 +3,7 @@ title: "13 Cablegram From Spender to Menzies and Australian Delegation, United N
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8364
 vol_id: 21
-date: 1950-07-26
+doc_date: 1950-07-26
 ---
 
 # 13 Cablegram From Spender to Menzies and Australian Delegation, United Nations

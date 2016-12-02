@@ -3,7 +3,7 @@ title: "291 Truelove to Eggleston"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6067
 vol_id: 14
-date: 1948-02-03
+doc_date: 1948-02-03
 ---
 
 # 291 Truelove to Eggleston

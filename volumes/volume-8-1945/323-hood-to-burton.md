@@ -3,7 +3,7 @@ title: "323 Hood to Burton"
 volume: "Volume 8: 1945"
 doc_id: 3354
 vol_id: 8
-date: 1945-10-17
+doc_date: 1945-10-17
 ---
 
 # 323 Hood to Burton

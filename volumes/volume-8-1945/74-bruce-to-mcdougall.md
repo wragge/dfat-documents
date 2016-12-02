@@ -3,7 +3,7 @@ title: "74 Bruce to McDougall"
 volume: "Volume 8: 1945"
 doc_id: 3105
 vol_id: 8
-date: 1945-04-20
+doc_date: 1945-04-20
 ---
 
 # 74 Bruce to McDougall

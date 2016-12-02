@@ -3,7 +3,7 @@ title: "412 Evatt to Commonwealth Government"
 volume: "Volume 8: 1945"
 doc_id: 3443
 vol_id: 8
-date: 1945-11-23
+doc_date: 1945-11-23
 barcode: 190060
 ---
 

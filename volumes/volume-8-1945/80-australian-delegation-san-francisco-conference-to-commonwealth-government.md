@@ -3,7 +3,7 @@ title: "80 Australian Delegation, San Francisco Conference, to Commonwealth Gove
 volume: "Volume 8: 1945"
 doc_id: 3111
 vol_id: 8
-date: 1945-04-29
+doc_date: 1945-04-29
 barcode: 188012
 ---
 

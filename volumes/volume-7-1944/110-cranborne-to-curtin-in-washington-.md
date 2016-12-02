@@ -3,7 +3,7 @@ title: "110 Cranborne to Curtin (in Washington)"
 volume: "Volume 7: 1944"
 doc_id: 2757
 vol_id: 7
-date: 1944-04-18
+doc_date: 1944-04-18
 barcode: 169971
 ---
 

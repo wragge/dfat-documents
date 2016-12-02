@@ -3,7 +3,7 @@ title: "176 Memorandum by Brigden [1]"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3688
 vol_id: 9
-date: 1946-04-08
+doc_date: 1946-04-08
 ---
 
 # 176 Memorandum by Brigden [1]

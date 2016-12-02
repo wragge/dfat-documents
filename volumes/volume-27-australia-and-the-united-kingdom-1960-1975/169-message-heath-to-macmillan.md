@@ -3,7 +3,7 @@ title: "169 MESSAGE, HEATH TO MACMILLAN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10034
 vol_id: 27
-date: 1962-03-19
+doc_date: 1962-03-19
 ---
 
 # 169 MESSAGE, HEATH TO MACMILLAN

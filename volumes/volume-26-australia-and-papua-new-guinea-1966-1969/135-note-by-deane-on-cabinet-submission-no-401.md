@@ -3,7 +3,7 @@ title: "135 Note By Deane On Cabinet Submission No. 401"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9643
 vol_id: 26
-date: 1967-07-17
+doc_date: 1967-07-17
 barcode: 1862742
 ---
 

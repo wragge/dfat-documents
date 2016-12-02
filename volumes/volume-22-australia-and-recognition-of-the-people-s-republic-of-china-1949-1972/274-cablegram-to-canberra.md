@@ -3,7 +3,7 @@ title: "274 CABLEGRAM TO CANBERRA"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8757
 vol_id: 22
-date: 1971-10-14
+doc_date: 1971-10-14
 ---
 
 # 274 CABLEGRAM TO CANBERRA

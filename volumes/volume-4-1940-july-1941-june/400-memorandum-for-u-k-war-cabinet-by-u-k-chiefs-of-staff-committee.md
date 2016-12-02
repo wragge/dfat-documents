@@ -3,7 +3,7 @@ title: "400 Memorandum for U.K.War Cabinet by U.K. Chiefs of Staff Committee"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1631
 vol_id: 4
-date: 1941-04-11
+doc_date: 1941-04-11
 ---
 
 # 400 Memorandum for U.K.War Cabinet by U.K. Chiefs of Staff Committee

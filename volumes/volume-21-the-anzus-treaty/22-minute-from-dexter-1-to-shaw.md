@@ -3,7 +3,7 @@ title: "22 Minute From Dexter[1] to Shaw"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8373
 vol_id: 21
-date: 1950-10-27
+doc_date: 1950-10-27
 ---
 
 # 22 Minute From Dexter[1] to Shaw

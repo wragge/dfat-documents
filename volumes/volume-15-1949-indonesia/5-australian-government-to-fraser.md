@@ -3,7 +3,7 @@ title: "5 Australian Government to Fraser"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6174
 vol_id: 15
-date: 1949-01-03
+doc_date: 1949-01-03
 ---
 
 # 5 Australian Government to Fraser

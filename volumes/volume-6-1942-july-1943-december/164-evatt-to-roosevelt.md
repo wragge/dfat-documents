@@ -3,7 +3,7 @@ title: "164 Evatt to Roosevelt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2455
 vol_id: 6
-date: 1943-04-22
+doc_date: 1943-04-22
 ---
 
 # 164 Evatt to Roosevelt

@@ -3,7 +3,7 @@ title: "101 CABINET DECISION NO. 762"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9966
 vol_id: 27
-date: 1968-12-04
+doc_date: 1968-12-04
 ---
 
 # 101 CABINET DECISION NO. 762

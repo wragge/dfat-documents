@@ -3,7 +3,7 @@ title: "115 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, t
 volume: "Volume 1: 1937-38"
 doc_id: 114
 vol_id: 1
-date: 1937-12-13
+doc_date: 1937-12-13
 ---
 
 # 115 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr W. M. Hughes, Minister for External Affairs

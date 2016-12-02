@@ -3,7 +3,7 @@ title: "26 Minute From H.C. Menzies To Crawford"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7631
 vol_id: 19
-date: 1953-05-28
+doc_date: 1953-05-28
 ---
 
 # 26 Minute From H.C. Menzies To Crawford

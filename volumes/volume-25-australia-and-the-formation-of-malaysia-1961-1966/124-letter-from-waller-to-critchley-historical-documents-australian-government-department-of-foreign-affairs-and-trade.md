@@ -3,7 +3,7 @@ title: "124 Letter from Waller to Critchley - Historical Documents - Australian 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9255
 vol_id: 25
-date: 1963-10-04
+doc_date: 1963-10-04
 barcode: 1726025
 ---
 

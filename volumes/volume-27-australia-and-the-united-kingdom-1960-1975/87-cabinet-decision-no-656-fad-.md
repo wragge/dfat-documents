@@ -3,7 +3,7 @@ title: "87 CABINET DECISION NO. 656 (FAD)"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9952
 vol_id: 27
-date: 1967-08-25
+doc_date: 1967-08-25
 ---
 
 # 87 CABINET DECISION NO. 656 (FAD)

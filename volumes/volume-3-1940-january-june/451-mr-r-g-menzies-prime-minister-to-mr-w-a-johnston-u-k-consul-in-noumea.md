@@ -3,7 +3,7 @@ title: "451 Mr R. G. Menzies, Prime Minister, to Mr W. A. Johnston, U.K. Consul 
 volume: "Volume 3: 1940, January-June"
 doc_id: 1217
 vol_id: 3
-date: 1940-06-27
+doc_date: 1940-06-27
 barcode: 170323
 ---
 

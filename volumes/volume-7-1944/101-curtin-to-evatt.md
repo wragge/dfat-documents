@@ -3,7 +3,7 @@ title: "101 Curtin to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2748
 vol_id: 7
-date: 1944-03-29
+doc_date: 1944-03-29
 ---
 
 # 101 Curtin to Evatt

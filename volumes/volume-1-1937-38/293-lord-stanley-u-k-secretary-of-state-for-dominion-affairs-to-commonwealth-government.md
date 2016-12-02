@@ -3,7 +3,7 @@ title: "293 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Commo
 volume: "Volume 1: 1937-38"
 doc_id: 292
 vol_id: 1
-date: 1938-09-30
+doc_date: 1938-09-30
 ---
 
 # 293 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

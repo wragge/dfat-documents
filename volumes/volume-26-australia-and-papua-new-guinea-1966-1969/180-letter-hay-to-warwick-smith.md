@@ -3,7 +3,7 @@ title: "180 Letter, Hay To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9688
 vol_id: 26
-date: 1968-05-11
+doc_date: 1968-05-11
 barcode: 31698760
 ---
 

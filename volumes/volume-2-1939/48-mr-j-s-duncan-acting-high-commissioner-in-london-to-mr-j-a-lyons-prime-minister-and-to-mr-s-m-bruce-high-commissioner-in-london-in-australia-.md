@@ -3,7 +3,7 @@ title: "48 Mr J.S. Duncan, Acting High Commissioner in London, to Mr J.A. Lyons,
 volume: "Volume 2: 1939"
 doc_id: 385
 vol_id: 2
-date: 1939-03-21
+doc_date: 1939-03-21
 ---
 
 # 48 Mr J.S. Duncan, Acting High Commissioner in London, to Mr J.A. Lyons, Prime Minister, and to Mr S.M. Bruce, High Commissioner in London (in Australia)

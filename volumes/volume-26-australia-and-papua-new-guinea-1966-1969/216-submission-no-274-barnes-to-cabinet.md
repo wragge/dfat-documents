@@ -3,7 +3,7 @@ title: "216 Submission No. 274, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9724
 vol_id: 26
-date: 1968-08-09
+doc_date: 1968-08-09
 barcode: 3069205
 ---
 

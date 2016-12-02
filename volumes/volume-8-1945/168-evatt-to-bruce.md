@@ -3,7 +3,7 @@ title: "168 Evatt to Bruce"
 volume: "Volume 8: 1945"
 doc_id: 3199
 vol_id: 8
-date: 1945-08-10
+doc_date: 1945-08-10
 barcode: 242483
 ---
 

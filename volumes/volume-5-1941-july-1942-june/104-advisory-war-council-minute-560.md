@@ -3,7 +3,7 @@ title: "104 Advisory War Council Minute 560"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1858
 vol_id: 5
-date: 1941-11-07
+doc_date: 1941-11-07
 barcode: 31204589
 ---
 

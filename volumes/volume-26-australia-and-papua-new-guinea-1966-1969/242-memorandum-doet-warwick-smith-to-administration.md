@@ -3,7 +3,7 @@ title: "242 Memorandum, Doet (Warwick Smith) To Administration"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9750
 vol_id: 26
-date: 1968-11-19
+doc_date: 1968-11-19
 barcode: 11340886
 ---
 

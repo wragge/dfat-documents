@@ -3,7 +3,7 @@ title: "437 Hodgson to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5704
 vol_id: 13
-date: 1948-12-22
+doc_date: 1948-12-22
 ---
 
 # 437 Hodgson to Department of External Affairs

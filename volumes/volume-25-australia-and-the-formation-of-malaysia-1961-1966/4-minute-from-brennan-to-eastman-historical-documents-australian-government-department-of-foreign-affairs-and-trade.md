@@ -3,7 +3,7 @@ title: "4 Minute from Brennan to Eastman - Historical Documents - Australian Gov
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9138
 vol_id: 25
-date: 1962-03-23
+doc_date: 1962-03-23
 barcode: 1729121
 ---
 

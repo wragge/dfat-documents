@@ -3,7 +3,7 @@ title: "68 Mr J.A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul
 volume: "Volume 2: 1939"
 doc_id: 405
 vol_id: 2
-date: 1939-04-03
+doc_date: 1939-04-03
 ---
 
 # 68 Mr J.A. Lyons, Prime Minister, to Mr Torao Wakamatsu, Japanese Consul-General in Sydney

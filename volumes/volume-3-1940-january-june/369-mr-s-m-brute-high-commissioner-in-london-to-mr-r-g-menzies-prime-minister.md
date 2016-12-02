@@ -3,7 +3,7 @@ title: "369 Mr S. M. Brute, High Commissioner in London, to Mr R. G. Menzies, Pr
 volume: "Volume 3: 1940, January-June"
 doc_id: 1135
 vol_id: 3
-date: 1940-06-13
+doc_date: 1940-06-13
 ---
 
 # 369 Mr S. M. Brute, High Commissioner in London, to Mr R. G. Menzies, Prime Minister

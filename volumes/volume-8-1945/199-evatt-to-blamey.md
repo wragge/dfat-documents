@@ -3,7 +3,7 @@ title: "199 Evatt to Blamey"
 volume: "Volume 8: 1945"
 doc_id: 3230
 vol_id: 8
-date: 1945-08-18
+doc_date: 1945-08-18
 barcode: 171826
 ---
 

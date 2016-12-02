@@ -3,7 +3,7 @@ title: "129 Sir Henry Gullett, Minister for External Affairs, to Mr Masatoshi Ak
 volume: "Volume 2: 1939"
 doc_id: 466
 vol_id: 2
-date: 1939-08-03
+doc_date: 1939-08-03
 ---
 
 # 129 Sir Henry Gullett, Minister for External Affairs, to Mr Masatoshi Akiyama, Japanese Consul-General in Sydney

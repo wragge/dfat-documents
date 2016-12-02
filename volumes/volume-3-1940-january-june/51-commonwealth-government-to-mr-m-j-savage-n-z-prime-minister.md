@@ -3,7 +3,7 @@ title: "51 Commonwealth Government to Mr M. J. Savage, N.Z. Prime Minister"
 volume: "Volume 3: 1940, January-June"
 doc_id: 817
 vol_id: 3
-date: 1940-02-10
+doc_date: 1940-02-10
 ---
 
 # 51 Commonwealth Government to Mr M. J. Savage, N.Z. Prime Minister

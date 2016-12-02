@@ -3,7 +3,7 @@ title: "190 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Lord 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1421
 vol_id: 4
-date: 1940-11-05
+doc_date: 1940-11-05
 ---
 
 # 190 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs

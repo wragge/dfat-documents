@@ -3,7 +3,7 @@ title: "258 Statement by Walker"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6973
 vol_id: 16
-date: 1949-08-14
+doc_date: 1949-08-14
 ---
 
 # 258 Statement by Walker

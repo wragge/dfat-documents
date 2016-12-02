@@ -3,7 +3,7 @@ title: "25 Memorandum From Meere To Wati"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7630
 vol_id: 19
-date: 1953-05-25
+doc_date: 1953-05-25
 ---
 
 # 25 Memorandum From Meere To Wati

@@ -3,7 +3,7 @@ title: "368 Australian Government to Shaw, Wrigley and Reibelt"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6144
 vol_id: 14
-date: 1948-01-23
+doc_date: 1948-01-23
 ---
 
 # 368 Australian Government to Shaw, Wrigley and Reibelt

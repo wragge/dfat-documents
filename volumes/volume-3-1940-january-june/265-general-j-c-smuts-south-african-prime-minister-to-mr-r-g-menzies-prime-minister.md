@@ -3,7 +3,7 @@ title: "265 General J. C. Smuts, South African Prime Minister, to Mr R. G. Menzi
 volume: "Volume 3: 1940, January-June"
 doc_id: 1031
 vol_id: 3
-date: 1940-05-23
+doc_date: 1940-05-23
 ---
 
 # 265 General J. C. Smuts, South African Prime Minister, to Mr R. G. Menzies, Prime Minister

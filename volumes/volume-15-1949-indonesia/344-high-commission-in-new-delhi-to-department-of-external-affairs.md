@@ -3,7 +3,7 @@ title: "344 High Commission in New Delhi to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6513
 vol_id: 15
-date: 1949-04-07
+doc_date: 1949-04-07
 ---
 
 # 344 High Commission in New Delhi to Department of External Affairs

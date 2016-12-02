@@ -3,7 +3,7 @@ title: "389 LETTER, BOWEN TO MCMAHON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10255
 vol_id: 27
-date: 1972-08-02
+doc_date: 1972-08-02
 ---
 
 # 389 LETTER, BOWEN TO MCMAHON

@@ -3,7 +3,7 @@ title: "298 Department of External Affairs to Legation in Washington"
 volume: "Volume 7: 1944"
 doc_id: 2945
 vol_id: 7
-date: 1944-09-25
+doc_date: 1944-09-25
 ---
 
 # 298 Department of External Affairs to Legation in Washington

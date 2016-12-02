@@ -3,7 +3,7 @@ title: "371 Cablegram from Eastman to Canberra - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9501
 vol_id: 25
-date: 1966-06-20
+doc_date: 1966-06-20
 ---
 
 # 371 Cablegram from Eastman to Canberra - Historical Documents - Australian Government Department of Foreign Affairs and Trade

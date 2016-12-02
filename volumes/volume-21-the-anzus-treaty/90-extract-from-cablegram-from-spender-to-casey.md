@@ -3,7 +3,7 @@ title: "90 Extract From Cablegram From Spender to Casey"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8441
 vol_id: 21
-date: 1951-05-31
+doc_date: 1951-05-31
 ---
 
 # 90 Extract From Cablegram From Spender to Casey

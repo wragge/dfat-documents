@@ -3,7 +3,7 @@ title: "108 Brief For Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9616
 vol_id: 26
-date: 1967-05-16
+doc_date: 1967-05-16
 barcode: 4780025
 ---
 

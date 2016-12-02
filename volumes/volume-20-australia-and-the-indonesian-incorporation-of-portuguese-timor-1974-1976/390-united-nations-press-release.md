@@ -3,7 +3,7 @@ title: "390 United Nations Press Release"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8228
 vol_id: 20
-date: 1975-12-22
+doc_date: 1975-12-22
 ---
 
 # 390 United Nations Press Release

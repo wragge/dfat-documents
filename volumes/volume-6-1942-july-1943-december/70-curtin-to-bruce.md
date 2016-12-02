@@ -3,7 +3,7 @@ title: "70 Curtin to Bruce"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2361
 vol_id: 6
-date: 1942-11-04
+doc_date: 1942-11-04
 ---
 
 # 70 Curtin to Bruce

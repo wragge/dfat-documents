@@ -3,7 +3,7 @@ title: "168 Minute from Dan to Cumes, Eastman, Petherbridge, Cook and Flood"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10542
 vol_id: 28
-date: 1971-03-26
+doc_date: 1971-03-26
 barcode: 546367
 ---
 

@@ -3,7 +3,7 @@ title: "328 Department of External Affairs to High Commission in New Delhi"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6497
 vol_id: 15
-date: 1949-03-29
+doc_date: 1949-03-29
 ---
 
 # 328 Department of External Affairs to High Commission in New Delhi

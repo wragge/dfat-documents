@@ -3,7 +3,7 @@ title: "582 Noel-Baker to Australian Government"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5264
 vol_id: 12
-date: 1947-12-19
+doc_date: 1947-12-19
 barcode: 194388
 ---
 

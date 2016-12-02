@@ -3,7 +3,7 @@ title: "157 Submission Shann To Hasluck"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9665
 vol_id: 26
-date: 1965-12-01
+doc_date: 1965-12-01
 ---
 
 # 157 Submission Shann To Hasluck

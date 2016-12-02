@@ -3,7 +3,7 @@ title: "271 Dixon to Curtin and Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2562
 vol_id: 6
-date: 1943-09-04
+doc_date: 1943-09-04
 barcode: 235734
 ---
 

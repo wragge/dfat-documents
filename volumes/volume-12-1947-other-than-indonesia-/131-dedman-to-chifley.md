@@ -3,7 +3,7 @@ title: "131 Dedman to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4813
 vol_id: 12
-date: 1947-08-09
+doc_date: 1947-08-09
 ---
 
 # 131 Dedman to Chifley

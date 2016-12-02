@@ -3,7 +3,7 @@ title: "163 Beasley to Shedden"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3675
 vol_id: 9
-date: 1946-04-02
+doc_date: 1946-04-02
 ---
 
 # 163 Beasley to Shedden

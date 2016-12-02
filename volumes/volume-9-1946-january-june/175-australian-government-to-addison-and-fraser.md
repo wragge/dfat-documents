@@ -3,7 +3,7 @@ title: "175 Australian Government to Addison and Fraser"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3687
 vol_id: 9
-date: 1946-04-08
+doc_date: 1946-04-08
 barcode: 190867
 ---
 

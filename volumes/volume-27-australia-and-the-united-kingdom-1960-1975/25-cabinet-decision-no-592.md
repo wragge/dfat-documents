@@ -3,7 +3,7 @@ title: "25 CABINET DECISION NO. 592"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9892
 vol_id: 27
-date: 1964-11-04
+doc_date: 1964-11-04
 ---
 
 # 25 CABINET DECISION NO. 592

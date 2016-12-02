@@ -3,7 +3,7 @@ title: "368 MINUTE, AMERY TO HOME"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10234
 vol_id: 27
-date: 1972-12-12
+doc_date: 1972-12-12
 ---
 
 # 368 MINUTE, AMERY TO HOME

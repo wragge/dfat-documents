@@ -3,7 +3,7 @@ title: "38 Report for Imperial Conference of Technical Committee on Pacific Pact
 volume: "Volume 1: 1937-38"
 doc_id: 38
 vol_id: 1
-date: 1937-06-08
+doc_date: 1937-06-08
 ---
 
 # 38 Report for Imperial Conference of Technical Committee on Pacific Pact

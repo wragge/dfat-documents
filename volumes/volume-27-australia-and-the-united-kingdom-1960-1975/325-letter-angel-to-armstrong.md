@@ -3,7 +3,7 @@ title: "325 LETTER, ANGEL TO ARMSTRONG"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10191
 vol_id: 27
-date: 1971-01-28
+doc_date: 1971-01-28
 ---
 
 # 325 LETTER, ANGEL TO ARMSTRONG

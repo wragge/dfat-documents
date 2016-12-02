@@ -3,7 +3,7 @@ title: "73 Submission From Waller To Barwick - Historical Documents - Australian
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9205
 vol_id: 25
-date: 1963-06-11
+doc_date: 1963-06-11
 ---
 
 # 73 Submission From Waller To Barwick - Historical Documents - Australian Government Department of Foreign Affairs and Trade

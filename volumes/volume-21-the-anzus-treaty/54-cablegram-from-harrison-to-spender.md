@@ -3,7 +3,7 @@ title: "54 Cablegram From Harrison to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8405
 vol_id: 21
-date: 1951-02-24
+doc_date: 1951-02-24
 barcode: 3001619
 ---
 

@@ -3,7 +3,7 @@ title: "63 Cablegram From Menzies to Holland"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8414
 vol_id: 21
-date: 1951-03-16
+doc_date: 1951-03-16
 barcode: 271757
 ---
 

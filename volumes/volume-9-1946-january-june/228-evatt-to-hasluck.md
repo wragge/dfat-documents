@@ -3,7 +3,7 @@ title: "228 Evatt to Hasluck"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3740
 vol_id: 9
-date: 1946-05-02
+doc_date: 1946-05-02
 ---
 
 # 228 Evatt to Hasluck

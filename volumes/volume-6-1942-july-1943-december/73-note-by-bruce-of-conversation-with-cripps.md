@@ -3,7 +3,7 @@ title: "73 Note by Bruce of Conversation with Cripps"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2364
 vol_id: 6
-date: 1942-11-11
+doc_date: 1942-11-11
 barcode: 242450
 ---
 

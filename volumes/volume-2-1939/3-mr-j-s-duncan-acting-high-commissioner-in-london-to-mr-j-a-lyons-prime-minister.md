@@ -3,7 +3,7 @@ title: "3 Mr J.S. Duncan, Acting High Commissioner in London, to Mr J.A. Lyons, 
 volume: "Volume 2: 1939"
 doc_id: 340
 vol_id: 2
-date: 1939-01-06
+doc_date: 1939-01-06
 ---
 
 # 3 Mr J.S. Duncan, Acting High Commissioner in London, to Mr J.A. Lyons, Prime Minister

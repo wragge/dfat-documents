@@ -3,7 +3,7 @@ title: "160 Department of External Affairs to Shaw"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6875
 vol_id: 16
-date: 1949-01-31
+doc_date: 1949-01-31
 ---
 
 # 160 Department of External Affairs to Shaw

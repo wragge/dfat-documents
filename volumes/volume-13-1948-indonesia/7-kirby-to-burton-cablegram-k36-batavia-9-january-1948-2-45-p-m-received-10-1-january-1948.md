@@ -3,7 +3,7 @@ title: "7 Kirby to Burton Cablegram K36 BATAVIA, 9 January 1948, 2.45 p.m. Recei
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5274
 vol_id: 13
-date: 1947-08-01
+doc_date: 1947-08-01
 ---
 
 # 7 Kirby to Burton Cablegram K36 BATAVIA, 9 January 1948, 2.45 p.m. Received [10] [1] January 1948

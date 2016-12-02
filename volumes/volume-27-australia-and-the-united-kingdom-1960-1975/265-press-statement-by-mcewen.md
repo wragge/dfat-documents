@@ -3,7 +3,7 @@ title: "265 PRESS STATEMENT BY MCEWEN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10130
 vol_id: 27
-date: 1970-07-16
+doc_date: 1970-07-16
 ---
 
 # 265 PRESS STATEMENT BY MCEWEN

@@ -3,7 +3,7 @@ title: "5 Mr A.G. Cameron, Postmaster-General, to Mr J.A. Lyons, Prime Minister"
 volume: "Volume 2: 1939"
 doc_id: 342
 vol_id: 2
-date: 1939-01-12
+doc_date: 1939-01-12
 barcode: 206202
 ---
 

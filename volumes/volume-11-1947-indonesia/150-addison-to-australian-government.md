@@ -3,7 +3,7 @@ title: "150 Addison to Australian Government"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4334
 vol_id: 11
-date: 1947-07-24
+doc_date: 1947-07-24
 ---
 
 # 150 Addison to Australian Government

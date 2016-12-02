@@ -3,7 +3,7 @@ title: "110 Minute From Eckersley To Plimsoll"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7715
 vol_id: 19
-date: 1955-08-11
+doc_date: 1955-08-11
 ---
 
 # 110 Minute From Eckersley To Plimsoll

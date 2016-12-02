@@ -3,7 +3,7 @@ title: "164 Note by Bruce of Conversation with Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2811
 vol_id: 7
-date: 1944-05-25
+doc_date: 1944-05-25
 barcode: 242468
 ---
 

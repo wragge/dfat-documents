@@ -3,7 +3,7 @@ title: "182 Advisory War Council Minute"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1413
 vol_id: 4
-date: 1940-10-29
+doc_date: 1940-10-29
 ---
 
 # 182 Advisory War Council Minute

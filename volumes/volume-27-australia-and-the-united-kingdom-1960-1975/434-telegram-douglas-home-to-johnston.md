@@ -3,7 +3,7 @@ title: "434 TELEGRAM,DOUGLAS-HOME TO JOHNSTON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10301
 vol_id: 27
-date: 1971-03-24
+doc_date: 1971-03-24
 ---
 
 # 434 TELEGRAM,DOUGLAS-HOME TO JOHNSTON

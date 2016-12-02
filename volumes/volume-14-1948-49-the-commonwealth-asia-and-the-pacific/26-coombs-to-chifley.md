@@ -3,7 +3,7 @@ title: "26 Coombs to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5802
 vol_id: 14
-date: 1948-09-13
+doc_date: 1948-09-13
 ---
 
 # 26 Coombs to Chifley

@@ -3,7 +3,7 @@ title: "512 Copland to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5194
 vol_id: 12
-date: 1947-01-17
+doc_date: 1947-01-17
 barcode: 1725200
 ---
 

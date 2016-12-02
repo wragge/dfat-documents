@@ -3,7 +3,7 @@ title: "306 Memorandum for Cabinet"
 volume: "Volume 1: 1937-38"
 doc_id: 305
 vol_id: 1
-date: 1938-10-25
+doc_date: 1938-10-25
 ---
 
 # 306 Memorandum for Cabinet

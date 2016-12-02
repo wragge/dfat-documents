@@ -3,7 +3,7 @@ title: "47 REPORT BY DEFENCE COMMITTEE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9912
 vol_id: 27
-date: 1966-01-05
+doc_date: 1966-01-05
 ---
 
 # 47 REPORT BY DEFENCE COMMITTEE

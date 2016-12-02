@@ -3,7 +3,7 @@ title: "143 Shedden to Forde"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3655
 vol_id: 9
-date: 1946-03-26
+doc_date: 1946-03-26
 ---
 
 # 143 Shedden to Forde

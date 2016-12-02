@@ -3,7 +3,7 @@ title: "505 Critchley to McIntyre"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6674
 vol_id: 15
-date: 1949-10-14
+doc_date: 1949-10-14
 ---
 
 # 505 Critchley to McIntyre

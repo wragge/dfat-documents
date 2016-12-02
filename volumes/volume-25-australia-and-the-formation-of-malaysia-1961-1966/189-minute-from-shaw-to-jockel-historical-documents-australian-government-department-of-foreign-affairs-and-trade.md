@@ -3,7 +3,7 @@ title: "189 Minute from Shaw to Jockel - Historical Documents - Australian Gover
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9319
 vol_id: 25
-date: 1964-06-26
+doc_date: 1964-06-26
 barcode: 1505562
 ---
 

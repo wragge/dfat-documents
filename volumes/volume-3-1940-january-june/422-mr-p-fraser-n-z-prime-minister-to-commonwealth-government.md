@@ -3,7 +3,7 @@ title: "422 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government"
 volume: "Volume 3: 1940, January-June"
 doc_id: 1188
 vol_id: 3
-date: 1940-06-13
+doc_date: 1940-06-13
 ---
 
 # 422 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government

@@ -3,7 +3,7 @@ title: "256 Maloney to Department of External Affairs"
 volume: "Volume 7: 1944"
 doc_id: 2903
 vol_id: 7
-date: 1944-08-23
+doc_date: 1944-08-23
 ---
 
 # 256 Maloney to Department of External Affairs

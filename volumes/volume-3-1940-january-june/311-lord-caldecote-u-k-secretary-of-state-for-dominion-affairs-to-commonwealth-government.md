@@ -3,7 +3,7 @@ title: "311 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Com
 volume: "Volume 3: 1940, January-June"
 doc_id: 1077
 vol_id: 3
-date: 1940-05-30
+doc_date: 1940-05-30
 ---
 
 # 311 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

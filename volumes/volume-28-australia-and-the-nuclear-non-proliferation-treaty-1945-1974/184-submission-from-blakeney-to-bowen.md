@@ -3,7 +3,7 @@ title: "184 Submission from Blakeney to Bowen"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10558
 vol_id: 28
-date: 1972-04-19
+doc_date: 1972-04-19
 barcode: 1373495
 ---
 

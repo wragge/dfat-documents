@@ -3,7 +3,7 @@ title: "36 Message for Burton"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6751
 vol_id: 16
-date: 1948-05-05
+doc_date: 1948-05-05
 ---
 
 # 36 Message for Burton

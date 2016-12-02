@@ -3,7 +3,7 @@ title: "88 Chifley to Attlee"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3600
 vol_id: 9
-date: 1946-02-15
+doc_date: 1946-02-15
 ---
 
 # 88 Chifley to Attlee

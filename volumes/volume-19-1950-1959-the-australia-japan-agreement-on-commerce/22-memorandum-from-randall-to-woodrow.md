@@ -3,7 +3,7 @@ title: "22 Memorandum From Randall To Woodrow"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7627
 vol_id: 19
-date: 1953-04-09
+doc_date: 1953-04-09
 ---
 
 # 22 Memorandum From Randall To Woodrow

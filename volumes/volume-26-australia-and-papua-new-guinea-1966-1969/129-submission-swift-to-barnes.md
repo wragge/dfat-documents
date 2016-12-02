@@ -3,7 +3,7 @@ title: "129 Submission, Swift To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9637
 vol_id: 26
-date: 1967-06-27
+doc_date: 1967-06-27
 ---
 
 # 129 Submission, Swift To Barnes

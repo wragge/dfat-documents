@@ -3,7 +3,7 @@ title: "176 Minute from Barratt to Anderson and Lightowler"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9045
 vol_id: 23
-date: 1981-12-18
+doc_date: 1981-12-18
 ---
 
 # 176 Minute from Barratt to Anderson and Lightowler

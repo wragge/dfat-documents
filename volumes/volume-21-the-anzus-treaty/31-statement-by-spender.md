@@ -3,7 +3,7 @@ title: "31 Statement By Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8382
 vol_id: 21
-date: 1951-01-11
+doc_date: 1951-01-11
 ---
 
 # 31 Statement By Spender

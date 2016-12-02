@@ -3,7 +3,7 @@ title: "343 Note for File by Davis"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5610
 vol_id: 13
-date: 1948-12-03
+doc_date: 1948-12-03
 ---
 
 # 343 Note for File by Davis

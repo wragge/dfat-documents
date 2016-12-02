@@ -3,7 +3,7 @@ title: "23 Mr M. Akiyama, Japanese Consul-General in Australia, to Mr R. G. Menz
 volume: "Volume 3: 1940, January-June"
 doc_id: 789
 vol_id: 3
-date: 1940-01-22
+doc_date: 1940-01-22
 ---
 
 # 23 Mr M. Akiyama, Japanese Consul-General in Australia, to Mr R. G. Menzies, Prime Minister

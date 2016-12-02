@@ -3,7 +3,7 @@ title: "196 Department of External Affairs to Officer"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5463
 vol_id: 13
-date: 1948-06-30
+doc_date: 1948-06-30
 ---
 
 # 196 Department of External Affairs to Officer

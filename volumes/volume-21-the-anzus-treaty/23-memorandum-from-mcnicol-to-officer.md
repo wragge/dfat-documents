@@ -3,7 +3,7 @@ title: "23 Memorandum From McNicol to Officer"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8374
 vol_id: 21
-date: 1950-10-31
+doc_date: 1950-10-31
 ---
 
 # 23 Memorandum From McNicol to Officer

@@ -3,7 +3,7 @@ title: "146 Chifley to Fraser"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5922
 vol_id: 14
-date: 1949-03-10
+doc_date: 1949-03-10
 barcode: 248159
 ---
 

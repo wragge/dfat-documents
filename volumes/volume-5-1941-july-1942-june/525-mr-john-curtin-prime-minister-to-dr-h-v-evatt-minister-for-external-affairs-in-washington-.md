@@ -3,7 +3,7 @@ title: "525 Mr John Curtin, Prime Minister, to Dr H. V. Evatt, Minister for Exte
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2279
 vol_id: 5
-date: 1942-06-12
+doc_date: 1942-06-12
 ---
 
 # 525 Mr John Curtin, Prime Minister, to Dr H. V. Evatt, Minister for External Affairs (in Washington)

@@ -3,7 +3,7 @@ title: "212 Letter, Bland To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9720
 vol_id: 26
-date: 1968-07-18
+doc_date: 1968-07-18
 ---
 
 # 212 Letter, Bland To Warwick Smith

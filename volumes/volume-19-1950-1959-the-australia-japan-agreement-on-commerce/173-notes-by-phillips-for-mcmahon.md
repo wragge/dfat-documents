@@ -3,7 +3,7 @@ title: "173 Notes By Phillips For Mcmahon"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7778
 vol_id: 19
-date: 1956-11-23
+doc_date: 1956-11-23
 ---
 
 # 173 Notes By Phillips For Mcmahon

@@ -3,7 +3,7 @@ title: "192 Mr T. Elink Schuurman, Netherlands Consul-General in Sydney, to Lt C
 volume: "Volume 1: 1937-38"
 doc_id: 191
 vol_id: 1
-date: 1938-04-22
+doc_date: 1938-04-22
 ---
 
 # 192 Mr T. Elink Schuurman, Netherlands Consul-General in Sydney, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs

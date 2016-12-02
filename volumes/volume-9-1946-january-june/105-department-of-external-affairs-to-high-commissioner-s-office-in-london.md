@@ -3,7 +3,7 @@ title: "105 Department of External Affairs to High Commissioner's Office in Lond
 volume: "Volume 9: 1946, January-June"
 doc_id: 3617
 vol_id: 9
-date: 1946-02-22
+doc_date: 1946-02-22
 ---
 
 # 105 Department of External Affairs to High Commissioner's Office in London

@@ -3,7 +3,7 @@ title: "223 Agreement On Commerce Between The Commonwealth Of Australia And Japa
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7828
 vol_id: 19
-date: 1957-07-06
+doc_date: 1957-07-06
 ---
 
 # 223 Agreement On Commerce Between The Commonwealth Of Australia And Japan: Confidential Annexes

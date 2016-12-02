@@ -3,7 +3,7 @@ title: "160 Churchill to Curtin (in London)"
 volume: "Volume 7: 1944"
 doc_id: 2807
 vol_id: 7
-date: 1944-05-20
+doc_date: 1944-05-20
 barcode: 242468
 ---
 

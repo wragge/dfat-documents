@@ -3,7 +3,7 @@ title: "395 Department of External Affairs to Steele and Massey"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4579
 vol_id: 11
-date: 1947-10-30
+doc_date: 1947-10-30
 ---
 
 # 395 Department of External Affairs to Steele and Massey

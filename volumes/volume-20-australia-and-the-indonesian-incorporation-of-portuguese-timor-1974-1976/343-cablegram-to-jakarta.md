@@ -3,7 +3,7 @@ title: "343 Cablegram to Jakarta"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8181
 vol_id: 20
-date: 1975-11-20
+doc_date: 1975-11-20
 barcode: 4151641
 ---
 

@@ -3,7 +3,7 @@ title: "444 LETTER WHITLAM TO ARMSTRONG"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10311
 vol_id: 27
-date: 1973-01-29
+doc_date: 1973-01-29
 ---
 
 # 444 LETTER WHITLAM TO ARMSTRONG

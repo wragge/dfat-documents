@@ -3,7 +3,7 @@ title: "214 Lord Chatfield, First Sea Lord and Chief of Naval Staff, to Sir Earl
 volume: "Volume 1: 1937-38"
 doc_id: 213
 vol_id: 1
-date: 1938-06-03
+doc_date: 1938-06-03
 barcode: 206859
 ---
 

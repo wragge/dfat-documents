@@ -3,7 +3,7 @@ title: "225 Evatt to Dedman"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6940
 vol_id: 16
-date: 1948-01-28
+doc_date: 1948-01-28
 barcode: 547313
 ---
 

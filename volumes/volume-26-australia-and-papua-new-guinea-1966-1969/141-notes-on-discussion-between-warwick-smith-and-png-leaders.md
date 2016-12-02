@@ -3,7 +3,7 @@ title: "141 Notes On Discussion Between Warwick Smith And PNG Leaders"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9649
 vol_id: 26
-date: 1967-08-25
+doc_date: 1967-08-25
 ---
 
 # 141 Notes On Discussion Between Warwick Smith And PNG Leaders

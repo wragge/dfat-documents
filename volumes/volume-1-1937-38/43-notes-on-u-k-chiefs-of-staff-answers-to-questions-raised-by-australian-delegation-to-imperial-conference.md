@@ -3,7 +3,7 @@ title: "43 Notes on U.K. Chiefs of Staff Answers to Questions raised by Australi
 volume: "Volume 1: 1937-38"
 doc_id: 43
 vol_id: 1
-date: 1937-06-09
+doc_date: 1937-06-09
 ---
 
 # 43 Notes on U.K. Chiefs of Staff Answers to Questions raised by Australian Delegation to Imperial Conference

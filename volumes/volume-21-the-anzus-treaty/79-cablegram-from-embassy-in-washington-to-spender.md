@@ -3,7 +3,7 @@ title: "79 Cablegram From Embassy in Washington to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8430
 vol_id: 21
-date: 1951-04-04
+doc_date: 1951-04-04
 ---
 
 # 79 Cablegram From Embassy in Washington to Spender

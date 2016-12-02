@@ -3,7 +3,7 @@ title: "125 Department of External Affairs to Heydon and Embassy in Washington"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6840
 vol_id: 16
-date: 1949-09-01
+doc_date: 1949-09-01
 ---
 
 # 125 Department of External Affairs to Heydon and Embassy in Washington

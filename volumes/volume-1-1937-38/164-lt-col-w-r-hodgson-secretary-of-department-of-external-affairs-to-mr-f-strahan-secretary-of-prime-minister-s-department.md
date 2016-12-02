@@ -3,7 +3,7 @@ title: "164 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, t
 volume: "Volume 1: 1937-38"
 doc_id: 163
 vol_id: 1
-date: 1938-03-25
+doc_date: 1938-03-25
 ---
 
 # 164 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr F. Strahan, Secretary of Prime Minister's Department

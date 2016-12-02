@@ -3,7 +3,7 @@ title: "87 A Draft International Employment Agreement"
 volume: "Volume 7: 1944"
 doc_id: 2734
 vol_id: 7
-date: 1944-03-21
+doc_date: 1944-03-21
 ---
 
 # 87 A Draft International Employment Agreement

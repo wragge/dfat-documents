@@ -3,7 +3,7 @@ title: "177 Note by Mr S. M. Bruce, High Commissioner in London, of Meeting of D
 volume: "Volume 3: 1940, January-June"
 doc_id: 943
 vol_id: 3
-date: 1940-04-26
+doc_date: 1940-04-26
 barcode: 242419
 ---
 

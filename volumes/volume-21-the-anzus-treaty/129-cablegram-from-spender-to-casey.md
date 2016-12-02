@@ -3,7 +3,7 @@ title: "129 Cablegram From Spender to Casey"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8480
 vol_id: 21
-date: 1952-03-19
+doc_date: 1952-03-19
 ---
 
 # 129 Cablegram From Spender to Casey

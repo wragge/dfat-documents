@@ -3,7 +3,7 @@ title: "65 Commonwealth Government to Attlee"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2356
 vol_id: 6
-date: 1942-10-24
+doc_date: 1942-10-24
 ---
 
 # 65 Commonwealth Government to Attlee

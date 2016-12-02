@@ -3,7 +3,7 @@ title: "46 SUBMISSION NO. 256, BARNES TO CABINET"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9554
 vol_id: 26
-date: 1966-07-04
+doc_date: 1966-07-04
 barcode: 1806744
 ---
 

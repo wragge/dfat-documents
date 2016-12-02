@@ -3,7 +3,7 @@ title: "112 Stuart to Burton"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5888
 vol_id: 14
-date: 1949-07-21
+doc_date: 1949-07-21
 barcode: 278965
 ---
 

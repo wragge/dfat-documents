@@ -3,7 +3,7 @@ title: "161 Chiefs of Staff Committee Minute 3/1947"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4843
 vol_id: 12
-date: 1947-10-28
+doc_date: 1947-10-28
 ---
 
 # 161 Chiefs of Staff Committee Minute 3/1947

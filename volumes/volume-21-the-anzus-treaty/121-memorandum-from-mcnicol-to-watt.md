@@ -3,7 +3,7 @@ title: "121 Memorandum From McNicol to Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8472
 vol_id: 21
-date: 1951-11-05
+doc_date: 1951-11-05
 ---
 
 # 121 Memorandum From McNicol to Watt

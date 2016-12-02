@@ -3,7 +3,7 @@ title: "252 Savingram To All Posts"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9760
 vol_id: 26
-date: 1969-01-15
+doc_date: 1969-01-15
 barcode: 546830
 ---
 

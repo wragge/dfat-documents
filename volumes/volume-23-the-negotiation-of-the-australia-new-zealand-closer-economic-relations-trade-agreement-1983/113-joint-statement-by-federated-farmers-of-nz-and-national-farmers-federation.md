@@ -3,7 +3,7 @@ title: "113 Joint Statement by Federated Farmers of New Zealand and National Far
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8983
 vol_id: 23
-date: 1980-12-09
+doc_date: 1980-12-09
 ---
 
 # 113 Joint Statement by Federated Farmers of New Zealand and National Farmers' Federation

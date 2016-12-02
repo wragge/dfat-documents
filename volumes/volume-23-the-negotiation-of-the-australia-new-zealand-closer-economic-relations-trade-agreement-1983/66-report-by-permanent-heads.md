@@ -3,7 +3,7 @@ title: "66 Report by Permanent Heads"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8936
 vol_id: 23
-date: 1980-02-26
+doc_date: 1980-02-26
 ---
 
 # 66 Report by Permanent Heads

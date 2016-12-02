@@ -3,7 +3,7 @@ title: "5 Department of External Affairs to Kirby"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5272
 vol_id: 13
-date: 1948-01-09
+doc_date: 1948-01-09
 barcode: 1729706
 ---
 

@@ -3,7 +3,7 @@ title: "378 Ballard to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3409
 vol_id: 8
-date: 1945-11-09
+doc_date: 1945-11-09
 barcode: 190058
 ---
 

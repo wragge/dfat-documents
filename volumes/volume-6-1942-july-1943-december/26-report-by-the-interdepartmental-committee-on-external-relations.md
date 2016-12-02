@@ -3,7 +3,7 @@ title: "26 Report by the Interdepartmental Committee on External Relations"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2317
 vol_id: 6
-date: 1942-08-20
+doc_date: 1942-08-20
 ---
 
 # 26 Report by the Interdepartmental Committee on External Relations

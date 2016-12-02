@@ -3,7 +3,7 @@ title: "4 Chifley to Beasley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5780
 vol_id: 14
-date: 1948-02-23
+doc_date: 1948-02-23
 ---
 
 # 4 Chifley to Beasley

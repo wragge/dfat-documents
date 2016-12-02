@@ -3,7 +3,7 @@ title: "92 Press Statement By Menzies"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7697
 vol_id: 19
-date: 1954-11-17
+doc_date: 1954-11-17
 ---
 
 # 92 Press Statement By Menzies

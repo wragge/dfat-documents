@@ -3,7 +3,7 @@ title: "205 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6920
 vol_id: 16
-date: 1948-10-21
+doc_date: 1948-10-21
 barcode: 102428
 ---
 

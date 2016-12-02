@@ -3,7 +3,7 @@ title: "108 Cablegram From Doidge to Casey"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8459
 vol_id: 21
-date: 1951-07-20
+doc_date: 1951-07-20
 barcode: 271757
 ---
 

@@ -3,7 +3,7 @@ title: "483 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1714
 vol_id: 4
-date: 1941-06-04
+doc_date: 1941-06-04
 ---
 
 # 483 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister

@@ -3,7 +3,7 @@ title: "250 Memorandum by Department of External Affairs"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1481
 vol_id: 4
-date: 1941-01-13
+doc_date: 1941-01-13
 ---
 
 # 250 Memorandum by Department of External Affairs

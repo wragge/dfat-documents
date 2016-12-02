@@ -3,7 +3,7 @@ title: "131 Attlee to Chifley"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3979
 vol_id: 10
-date: 1946-09-21
+doc_date: 1946-09-21
 ---
 
 # 131 Attlee to Chifley

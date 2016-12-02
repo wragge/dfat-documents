@@ -3,7 +3,7 @@ title: "83 Beasley to Addison"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3595
 vol_id: 9
-date: 1946-02-11
+doc_date: 1946-02-11
 barcode: 236305
 ---
 

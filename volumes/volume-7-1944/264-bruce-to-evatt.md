@@ -3,7 +3,7 @@ title: "264 Bruce to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2911
 vol_id: 7
-date: 1944-08-31
+doc_date: 1944-08-31
 ---
 
 # 264 Bruce to Evatt

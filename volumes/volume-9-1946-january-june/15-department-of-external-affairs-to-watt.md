@@ -3,7 +3,7 @@ title: "15 Department of External Affairs to Watt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3527
 vol_id: 9
-date: 1946-01-09
+doc_date: 1946-01-09
 ---
 
 # 15 Department of External Affairs to Watt

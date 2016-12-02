@@ -3,7 +3,7 @@ title: "368 Department of External Affairs to Evatt"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6537
 vol_id: 15
-date: 1949-04-20
+doc_date: 1949-04-20
 ---
 
 # 368 Department of External Affairs to Evatt

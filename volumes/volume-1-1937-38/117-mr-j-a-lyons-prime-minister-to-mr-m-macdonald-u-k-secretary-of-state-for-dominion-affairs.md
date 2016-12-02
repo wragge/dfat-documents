@@ -3,7 +3,7 @@ title: "117 Mr J. A. Lyons, Prime Minister, to Mr M. MacDonald, U.K. Secretary o
 volume: "Volume 1: 1937-38"
 doc_id: 116
 vol_id: 1
-date: 1937-12-30
+doc_date: 1937-12-30
 ---
 
 # 117 Mr J. A. Lyons, Prime Minister, to Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs

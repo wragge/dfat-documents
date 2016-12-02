@@ -3,7 +3,7 @@ title: "425 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, t
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1656
 vol_id: 4
-date: 1941-04-24
+doc_date: 1941-04-24
 ---
 
 # 425 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr B. C. Ballard, Official Representative in New Caledonia

@@ -3,7 +3,7 @@ title: "305 CABINET MINUTE, DECISION NO. 37"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10171
 vol_id: 27
-date: 1962-01-31
+doc_date: 1962-01-31
 ---
 
 # 305 CABINET MINUTE, DECISION NO. 37

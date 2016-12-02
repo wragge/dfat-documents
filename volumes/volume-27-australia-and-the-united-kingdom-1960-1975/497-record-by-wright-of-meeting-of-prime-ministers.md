@@ -3,7 +3,7 @@ title: "497 RECORD BY WRIGHT OF MEETING OF PRIME MINISTERS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10364
 vol_id: 27
-date: 1974-12-20
+doc_date: 1974-12-20
 ---
 
 # 497 RECORD BY WRIGHT OF MEETING OF PRIME MINISTERS

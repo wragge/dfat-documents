@@ -3,7 +3,7 @@ title: "57 TELETYPE MESSAGE FROM CASEY TO TANGE"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8540
 vol_id: 22
-date: 1955-05-23
+doc_date: 1955-05-23
 ---
 
 # 57 TELETYPE MESSAGE FROM CASEY TO TANGE

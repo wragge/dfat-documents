@@ -3,7 +3,7 @@ title: "36 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to M
 volume: "Volume 2: 1939"
 doc_id: 373
 vol_id: 2
-date: 1939-03-11
+doc_date: 1939-03-11
 ---
 
 # 36 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Mr J.A. Lyons, Prime Minister

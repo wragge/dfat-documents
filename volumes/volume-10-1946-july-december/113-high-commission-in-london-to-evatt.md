@@ -3,7 +3,7 @@ title: "113 High Commission in London to Evatt"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3961
 vol_id: 10
-date: 1946-09-10
+doc_date: 1946-09-10
 barcode: 187244
 ---
 

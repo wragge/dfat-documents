@@ -3,7 +3,7 @@ title: "320 Commonwealth Government to Fraser"
 volume: "Volume 7: 1944"
 doc_id: 2967
 vol_id: 7
-date: 1944-10-17
+doc_date: 1944-10-17
 ---
 
 # 320 Commonwealth Government to Fraser

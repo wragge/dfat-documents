@@ -3,7 +3,7 @@ title: "120 Memorandum from Ministry of Foreign Affairs to New Zealand High Comm
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8990
 vol_id: 23
-date: 1980-04-30
+doc_date: 1980-04-30
 ---
 
 # 120 Memorandum from Ministry of Foreign Affairs to New Zealand High Commission in Canberra

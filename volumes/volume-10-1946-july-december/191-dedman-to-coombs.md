@@ -3,7 +3,7 @@ title: "191 Dedman to Coombs"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4039
 vol_id: 10
-date: 1946-11-01
+doc_date: 1946-11-01
 barcode: 191254
 ---
 

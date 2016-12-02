@@ -3,7 +3,7 @@ title: "153 Minute from Laurie to Acting Secretary, Department of Foreign Affair
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9022
 vol_id: 23
-date: 1981-05-01
+doc_date: 1981-05-01
 ---
 
 # 153 Minute from Laurie to Acting Secretary, Department of Foreign Affairs

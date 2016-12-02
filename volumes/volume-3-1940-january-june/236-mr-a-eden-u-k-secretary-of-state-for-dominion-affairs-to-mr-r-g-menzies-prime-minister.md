@@ -3,7 +3,7 @@ title: "236 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G
 volume: "Volume 3: 1940, January-June"
 doc_id: 1002
 vol_id: 3
-date: 1940-05-13
+doc_date: 1940-05-13
 ---
 
 # 236 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister

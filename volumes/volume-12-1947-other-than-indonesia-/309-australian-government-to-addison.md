@@ -3,7 +3,7 @@ title: "309 Australian Government to Addison"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4991
 vol_id: 12
-date: 1947-04-19
+doc_date: 1947-04-19
 ---
 
 # 309 Australian Government to Addison

@@ -3,7 +3,7 @@ title: "147 Dixon to Curtin and Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2438
 vol_id: 6
-date: 1943-03-29
+doc_date: 1943-03-29
 ---
 
 # 147 Dixon to Curtin and Evatt

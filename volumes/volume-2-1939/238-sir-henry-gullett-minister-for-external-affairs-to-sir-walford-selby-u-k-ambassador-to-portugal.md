@@ -3,7 +3,7 @@ title: "238 Sir Henry Gullett, Minister for External Affairs, to Sir Walford Sel
 volume: "Volume 2: 1939"
 doc_id: 575
 vol_id: 2
-date: 1939-09-21
+doc_date: 1939-09-21
 ---
 
 # 238 Sir Henry Gullett, Minister for External Affairs, to Sir Walford Selby, U.K. Ambassador to Portugal

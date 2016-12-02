@@ -3,7 +3,7 @@ title: "169 Smuts to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3200
 vol_id: 8
-date: 1945-08-09
+doc_date: 1945-08-09
 ---
 
 # 169 Smuts to Evatt

@@ -3,7 +3,7 @@ title: "60 RECORD OF MEETING BETWEEN BROWN AND RUSK AT US STATE DEPARTMENT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9925
 vol_id: 27
-date: 1967-04-18
+doc_date: 1967-04-18
 ---
 
 # 60 RECORD OF MEETING BETWEEN BROWN AND RUSK AT US STATE DEPARTMENT

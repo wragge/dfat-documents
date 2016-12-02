@@ -3,7 +3,7 @@ title: "6 Letter From Ex-Servicemen's Association To Prime Ministers"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7611
 vol_id: 19
-date: 1951-07-30
+doc_date: 1951-07-30
 ---
 
 # 6 Letter From Ex-Servicemen's Association To Prime Ministers

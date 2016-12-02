@@ -3,7 +3,7 @@ title: "165 Paper By McDonald And Powys"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9673
 vol_id: 26
-date: 1968-03-14
+doc_date: 1968-03-14
 barcode: 574196
 ---
 

@@ -3,7 +3,7 @@ title: "204 Department of External Affairs to Embassy in Washington"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6373
 vol_id: 15
-date: 1949-02-11
+doc_date: 1949-02-11
 ---
 
 # 204 Department of External Affairs to Embassy in Washington

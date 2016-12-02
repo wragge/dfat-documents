@@ -3,7 +3,7 @@ title: "38 Cabinet Submission by Mr H.V.C. Thorby, Minister for Civil Aviation"
 volume: "Volume 2: 1939"
 doc_id: 375
 vol_id: 2
-date: 1939-03-14
+doc_date: 1939-03-14
 ---
 
 # 38 Cabinet Submission by Mr H.V.C. Thorby, Minister for Civil Aviation

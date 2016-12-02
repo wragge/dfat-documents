@@ -3,7 +3,7 @@ title: "256 Department of External Affairs to Hood and Critchley"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6425
 vol_id: 15
-date: 1949-03-01
+doc_date: 1949-03-01
 ---
 
 # 256 Department of External Affairs to Hood and Critchley

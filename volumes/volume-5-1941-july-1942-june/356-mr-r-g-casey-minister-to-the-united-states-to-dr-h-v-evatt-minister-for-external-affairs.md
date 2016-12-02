@@ -3,7 +3,7 @@ title: "356 Mr R. G. Casey, Minister to the United States, to Dr H. V. Evatt, Mi
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2110
 vol_id: 5
-date: 1942-02-21
+doc_date: 1942-02-21
 ---
 
 # 356 Mr R. G. Casey, Minister to the United States, to Dr H. V. Evatt, Minister for External Affairs

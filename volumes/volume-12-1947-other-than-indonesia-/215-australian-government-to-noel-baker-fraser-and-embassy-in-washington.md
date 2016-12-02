@@ -3,7 +3,7 @@ title: "215 Australian Government to Noel-Baker, Fraser and Embassy in Washingto
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4897
 vol_id: 12
-date: 1947-12-19
+doc_date: 1947-12-19
 ---
 
 # 215 Australian Government to Noel-Baker, Fraser and Embassy in Washington

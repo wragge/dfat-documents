@@ -3,7 +3,7 @@ title: "259 Commonwealth Government to Lord Cranborne, U.K. Secretary of State f
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1490
 vol_id: 4
-date: 1941-01-29
+doc_date: 1941-01-29
 ---
 
 # 259 Commonwealth Government to Lord Cranborne, U.K. Secretary of State for Dominion Affairs

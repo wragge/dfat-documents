@@ -3,7 +3,7 @@ title: "485 CABINET DECISION NO. 2672 (LEG)"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10352
 vol_id: 27
-date: 1974-09-10
+doc_date: 1974-09-10
 ---
 
 # 485 CABINET DECISION NO. 2672 (LEG)

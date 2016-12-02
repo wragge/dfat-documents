@@ -3,7 +3,7 @@ title: "239 Department of External Affairs to Mr R. G. Casey, Minister to the Un
 volume: "Volume 3: 1940, January-June"
 doc_id: 1005
 vol_id: 3
-date: 1940-05-15
+doc_date: 1940-05-15
 barcode: 235485
 ---
 

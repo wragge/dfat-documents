@@ -3,7 +3,7 @@ title: "43 Evatt to Hodgson"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4725
 vol_id: 12
-date: 1947-08-18
+doc_date: 1947-08-18
 barcode: 587628
 ---
 

@@ -3,7 +3,7 @@ title: "477 Quinn to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6646
 vol_id: 15
-date: 1949-08-25
+doc_date: 1949-08-25
 ---
 
 # 477 Quinn to Burton

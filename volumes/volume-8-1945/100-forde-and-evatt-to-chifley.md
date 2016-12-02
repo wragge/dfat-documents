@@ -3,7 +3,7 @@ title: "100 Forde and Evatt to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3131
 vol_id: 8
-date: 1945-06-03
+doc_date: 1945-06-03
 barcode: 188012
 ---
 

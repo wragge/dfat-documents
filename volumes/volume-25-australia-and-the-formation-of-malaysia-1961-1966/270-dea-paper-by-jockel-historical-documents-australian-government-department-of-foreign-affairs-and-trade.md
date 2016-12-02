@@ -3,7 +3,7 @@ title: "270 Dea Paper by Jockel - Historical Documents - Australian Government D
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9400
 vol_id: 25
-date: 1965-05-28
+doc_date: 1965-05-28
 barcode: 583165
 ---
 

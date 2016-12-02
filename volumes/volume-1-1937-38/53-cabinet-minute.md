@@ -3,7 +3,7 @@ title: "53 Cabinet Minute"
 volume: "Volume 1: 1937-38"
 doc_id: 53
 vol_id: 1
-date: 1937-07-28
+doc_date: 1937-07-28
 ---
 
 # 53 Cabinet Minute

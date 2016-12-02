@@ -3,7 +3,7 @@ title: "45 Paper By Dingle"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9553
 vol_id: 26
-date: 1966-06-07
+doc_date: 1966-06-07
 barcode: 1727608
 ---
 

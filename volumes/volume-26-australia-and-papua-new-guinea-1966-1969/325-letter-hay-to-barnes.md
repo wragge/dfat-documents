@@ -3,7 +3,7 @@ title: "325 Letter, Hay To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9834
 vol_id: 26
-date: 1969-10-20
+doc_date: 1969-10-20
 barcode: 4025428
 ---
 

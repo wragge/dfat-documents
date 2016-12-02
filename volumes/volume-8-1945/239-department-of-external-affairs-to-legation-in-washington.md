@@ -3,7 +3,7 @@ title: "239 Department of External Affairs to Legation in Washington"
 volume: "Volume 8: 1945"
 doc_id: 3270
 vol_id: 8
-date: 1945-09-10
+doc_date: 1945-09-10
 ---
 
 # 239 Department of External Affairs to Legation in Washington

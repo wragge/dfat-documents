@@ -3,7 +3,7 @@ title: "264 Minute, Besley To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9772
 vol_id: 26
-date: 1969-04-28
+doc_date: 1969-04-28
 barcode: 3118054
 ---
 

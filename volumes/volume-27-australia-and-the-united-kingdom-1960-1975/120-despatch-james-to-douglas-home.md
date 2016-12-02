@@ -3,7 +3,7 @@ title: "120 DESPATCH, JAMES TO DOUGLAS-HOME"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9985
 vol_id: 27
-date: 1973-09-12
+doc_date: 1973-09-12
 ---
 
 # 120 DESPATCH, JAMES TO DOUGLAS-HOME

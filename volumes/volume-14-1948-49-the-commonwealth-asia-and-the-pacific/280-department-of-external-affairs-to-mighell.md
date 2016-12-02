@@ -3,7 +3,7 @@ title: "280 Department of External Affairs to Mighell"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6056
 vol_id: 14
-date: 1949-11-17
+doc_date: 1949-11-17
 ---
 
 # 280 Department of External Affairs to Mighell

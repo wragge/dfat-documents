@@ -3,7 +3,7 @@ title: "68 LETTER, RUSK TO BROWN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9933
 vol_id: 27
-date: 1967-05-12
+doc_date: 1967-05-12
 ---
 
 # 68 LETTER, RUSK TO BROWN

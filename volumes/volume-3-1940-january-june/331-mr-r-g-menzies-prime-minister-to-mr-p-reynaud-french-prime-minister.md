@@ -3,7 +3,7 @@ title: "331 Mr R. G. Menzies, Prime Minister, to Mr P. Reynaud, French Prime Min
 volume: "Volume 3: 1940, January-June"
 doc_id: 1097
 vol_id: 3
-date: 1940-06-03
+doc_date: 1940-06-03
 ---
 
 # 331 Mr R. G. Menzies, Prime Minister, to Mr P. Reynaud, French Prime Minister

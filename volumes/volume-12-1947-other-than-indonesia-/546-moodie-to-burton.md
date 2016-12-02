@@ -3,7 +3,7 @@ title: "546 Moodie to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5228
 vol_id: 12
-date: 1947-09-30
+doc_date: 1947-09-30
 ---
 
 # 546 Moodie to Burton

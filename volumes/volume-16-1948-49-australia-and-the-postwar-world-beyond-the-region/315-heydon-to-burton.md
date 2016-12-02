@@ -3,7 +3,7 @@ title: "315 Heydon to Burton"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7030
 vol_id: 16
-date: 1948-01-27
+doc_date: 1948-01-27
 ---
 
 # 315 Heydon to Burton

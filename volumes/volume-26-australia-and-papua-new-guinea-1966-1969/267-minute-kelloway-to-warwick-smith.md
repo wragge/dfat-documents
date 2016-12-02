@@ -3,7 +3,7 @@ title: "267 Minute, Kelloway To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9775
 vol_id: 26
-date: 1969-05-07
+doc_date: 1969-05-07
 barcode: 3121863
 ---
 

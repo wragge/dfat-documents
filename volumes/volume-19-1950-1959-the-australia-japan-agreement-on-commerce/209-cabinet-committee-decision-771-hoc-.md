@@ -3,7 +3,7 @@ title: "209 Cabinet Committee Decision 771(Hoc)"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7814
 vol_id: 19
-date: 1957-05-16
+doc_date: 1957-05-16
 ---
 
 # 209 Cabinet Committee Decision 771(Hoc)

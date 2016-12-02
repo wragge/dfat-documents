@@ -3,7 +3,7 @@ title: "354 Evatt to Bruce"
 volume: "Volume 7: 1944"
 doc_id: 3001
 vol_id: 7
-date: 1944-11-20
+doc_date: 1944-11-20
 barcode: 1886556
 ---
 

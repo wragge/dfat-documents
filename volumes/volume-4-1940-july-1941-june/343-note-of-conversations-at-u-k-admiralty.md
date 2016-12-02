@@ -3,7 +3,7 @@ title: "343 Note of Conversations at U.K. Admiralty"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1574
 vol_id: 4
-date: 1941-03-08
+doc_date: 1941-03-08
 ---
 
 # 343 Note of Conversations at U.K. Admiralty

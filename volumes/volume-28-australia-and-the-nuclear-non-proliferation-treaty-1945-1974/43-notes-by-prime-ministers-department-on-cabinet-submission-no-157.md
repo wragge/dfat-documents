@@ -3,7 +3,7 @@ title: "43 Notes by Prime Minister's Department on Cabinet Submission No. 157"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10417
 vol_id: 28
-date: 1959-05-13
+doc_date: 1959-05-13
 barcode: 1342340
 ---
 

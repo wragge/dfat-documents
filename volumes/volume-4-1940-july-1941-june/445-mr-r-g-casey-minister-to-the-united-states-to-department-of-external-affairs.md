@@ -3,7 +3,7 @@ title: "445 Mr R. G. Casey, Minister to the United States, to Department of Exte
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1676
 vol_id: 4
-date: 1941-05-02
+doc_date: 1941-05-02
 ---
 
 # 445 Mr R. G. Casey, Minister to the United States, to Department of External Affairs

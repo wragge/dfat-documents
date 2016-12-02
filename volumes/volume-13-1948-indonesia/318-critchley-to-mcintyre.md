@@ -3,7 +3,7 @@ title: "318 Critchley to McIntyre"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5585
 vol_id: 13
-date: 1948-11-18
+doc_date: 1948-11-18
 ---
 
 # 318 Critchley to McIntyre

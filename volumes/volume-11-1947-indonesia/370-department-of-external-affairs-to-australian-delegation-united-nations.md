@@ -3,7 +3,7 @@ title: "370 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4554
 vol_id: 11
-date: 1947-10-10
+doc_date: 1947-10-10
 ---
 
 # 370 Department of External Affairs to Australian Delegation, United Nations

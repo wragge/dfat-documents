@@ -3,7 +3,7 @@ title: "341 Evatt to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5023
 vol_id: 12
-date: 1947-07-20
+doc_date: 1947-07-20
 barcode: 197321
 ---
 

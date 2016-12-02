@@ -3,7 +3,7 @@ title: "56 Evatt to Beasley and Makin"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3568
 vol_id: 9
-date: 1946-01-26
+doc_date: 1946-01-26
 ---
 
 # 56 Evatt to Beasley and Makin

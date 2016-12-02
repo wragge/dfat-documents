@@ -3,7 +3,7 @@ title: "155 D'Alton to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2802
 vol_id: 7
-date: 1944-05-18
+doc_date: 1944-05-18
 ---
 
 # 155 D'Alton to Evatt

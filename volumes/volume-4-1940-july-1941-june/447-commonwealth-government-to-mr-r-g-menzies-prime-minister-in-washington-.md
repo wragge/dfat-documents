@@ -3,7 +3,7 @@ title: "447 Commonwealth Government to Mr R. G. Menzies, Prime Minister (in Wash
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1678
 vol_id: 4
-date: 1941-05-09
+doc_date: 1941-05-09
 ---
 
 # 447 Commonwealth Government to Mr R. G. Menzies, Prime Minister (in Washington)

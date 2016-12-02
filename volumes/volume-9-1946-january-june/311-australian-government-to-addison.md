@@ -3,7 +3,7 @@ title: "311 Australian Government to Addison"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3823
 vol_id: 9
-date: 1946-06-14
+doc_date: 1946-06-14
 ---
 
 # 311 Australian Government to Addison

@@ -3,7 +3,7 @@ title: "229 Deschamps to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4911
 vol_id: 12
-date: 1947-03-20
+doc_date: 1947-03-20
 ---
 
 # 229 Deschamps to Burton

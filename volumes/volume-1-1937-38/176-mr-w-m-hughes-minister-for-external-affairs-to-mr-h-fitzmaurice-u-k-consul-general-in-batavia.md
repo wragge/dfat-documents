@@ -3,7 +3,7 @@ title: "176 Mr W. M. Hughes, Minister for External Affairs, to Mr H. Fitzmaurice
 volume: "Volume 1: 1937-38"
 doc_id: 175
 vol_id: 1
-date: 1938-04-05
+doc_date: 1938-04-05
 ---
 
 # 176 Mr W. M. Hughes, Minister for External Affairs, to Mr H. Fitzmaurice, U.K. Consul-General in Batavia

@@ -3,7 +3,7 @@ title: "356 Bruce to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2647
 vol_id: 6
-date: 1943-12-24
+doc_date: 1943-12-24
 barcode: 242463
 ---
 

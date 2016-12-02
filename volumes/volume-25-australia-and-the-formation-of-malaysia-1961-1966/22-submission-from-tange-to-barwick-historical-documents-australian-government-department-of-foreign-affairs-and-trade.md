@@ -3,7 +3,7 @@ title: "22 Submission from Tange to Barwick - Historical Documents - Australian 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9156
 vol_id: 25
-date: 1963-02-04
+doc_date: 1963-02-04
 barcode: 550434
 ---
 

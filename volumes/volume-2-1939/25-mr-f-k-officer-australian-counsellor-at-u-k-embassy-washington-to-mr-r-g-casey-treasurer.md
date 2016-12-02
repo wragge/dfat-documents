@@ -3,7 +3,7 @@ title: "25 Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, t
 volume: "Volume 2: 1939"
 doc_id: 362
 vol_id: 2
-date: 1939-02-16
+doc_date: 1939-02-16
 ---
 
 # 25 Mr F.K. Officer, Australian Counsellor at U.K. Embassy, Washington, to Mr R. G. Casey, Treasurer

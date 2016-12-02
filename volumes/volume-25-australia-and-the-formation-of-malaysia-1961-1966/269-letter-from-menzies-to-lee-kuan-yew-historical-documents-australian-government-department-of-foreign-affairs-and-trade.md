@@ -3,7 +3,7 @@ title: "269 Letter from Menzies to Lee Kuan Yew - Historical Documents - Austral
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9399
 vol_id: 25
-date: 1965-05-18
+doc_date: 1965-05-18
 barcode: 1160339
 ---
 

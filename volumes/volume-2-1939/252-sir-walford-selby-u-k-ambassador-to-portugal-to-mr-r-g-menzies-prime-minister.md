@@ -3,7 +3,7 @@ title: "252 Sir Walford Selby, U.K. Ambassador to Portugal, to Mr R.G. Menzies, 
 volume: "Volume 2: 1939"
 doc_id: 589
 vol_id: 2
-date: 1939-09-29
+doc_date: 1939-09-29
 ---
 
 # 252 Sir Walford Selby, U.K. Ambassador to Portugal, to Mr R.G. Menzies, Prime Minister

@@ -3,7 +3,7 @@ title: "202 Minute, Rose To Galvin"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9710
 vol_id: 26
-date: 1968-06-25
+doc_date: 1968-06-25
 ---
 
 # 202 Minute, Rose To Galvin

@@ -3,7 +3,7 @@ title: "242 Australian Government to Mountbatten"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3754
 vol_id: 9
-date: 1946-05-13
+doc_date: 1946-05-13
 ---
 
 # 242 Australian Government to Mountbatten

@@ -3,7 +3,7 @@ title: "178 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. L
 volume: "Volume 1: 1937-38"
 doc_id: 177
 vol_id: 1
-date: 1938-04-05
+doc_date: 1938-04-05
 ---
 
 # 178 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J. A. Lyons, Prime Minister

@@ -3,7 +3,7 @@ title: "366 Duncan to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3397
 vol_id: 8
-date: 1945-11-06
+doc_date: 1945-11-06
 ---
 
 # 366 Duncan to Chifley

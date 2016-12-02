@@ -3,7 +3,7 @@ title: "247 Mr R. G. Casey, Minister to the United States, to Mr S. M. Bruce, Hi
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1478
 vol_id: 4
-date: 1941-01-06
+doc_date: 1941-01-06
 barcode: 235568
 ---
 

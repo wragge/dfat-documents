@@ -3,7 +3,7 @@ title: "300 Australian Government to Gordon Walker"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6076
 vol_id: 14
-date: 1948-04-05
+doc_date: 1948-04-05
 barcode: 414193
 ---
 

@@ -3,7 +3,7 @@ title: "104 CABINET DECISION NO. 575 (AD HOC)"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9969
 vol_id: 27
-date: 1970-07-31
+doc_date: 1970-07-31
 ---
 
 # 104 CABINET DECISION NO. 575 (AD HOC)

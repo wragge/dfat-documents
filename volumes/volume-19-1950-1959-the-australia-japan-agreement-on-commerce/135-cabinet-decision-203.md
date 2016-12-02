@@ -3,7 +3,7 @@ title: "135 Cabinet Decision 203"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7740
 vol_id: 19
-date: 1956-05-21
+doc_date: 1956-05-21
 ---
 
 # 135 Cabinet Decision 203

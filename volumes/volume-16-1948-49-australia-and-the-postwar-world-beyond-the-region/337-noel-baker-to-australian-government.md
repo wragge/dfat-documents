@@ -3,7 +3,7 @@ title: "337 Noel-Baker to Australian Government"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7052
 vol_id: 16
-date: 1948-05-10
+doc_date: 1948-05-10
 ---
 
 # 337 Noel-Baker to Australian Government

@@ -3,7 +3,7 @@ title: "423 Critchley to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6592
 vol_id: 15
-date: 1949-05-26
+doc_date: 1949-05-26
 ---
 
 # 423 Critchley to Department of External Affairs

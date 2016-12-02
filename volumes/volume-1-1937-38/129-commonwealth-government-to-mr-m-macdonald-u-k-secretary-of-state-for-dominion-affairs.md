@@ -3,7 +3,7 @@ title: "129 Commonwealth Government to Mr M. MacDonald, U.K. Secretary of State 
 volume: "Volume 1: 1937-38"
 doc_id: 128
 vol_id: 1
-date: 1938-03-06
+doc_date: 1938-03-06
 ---
 
 # 129 Commonwealth Government to Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs

@@ -3,7 +3,7 @@ title: "9 Extracts From Statement In The House Of Representatives By Casey"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7614
 vol_id: 19
-date: 1951-09-27
+doc_date: 1951-09-27
 ---
 
 # 9 Extracts From Statement In The House Of Representatives By Casey

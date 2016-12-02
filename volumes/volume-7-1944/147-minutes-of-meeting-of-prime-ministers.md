@@ -3,7 +3,7 @@ title: "147 Minutes of Meeting of Prime Ministers"
 volume: "Volume 7: 1944"
 doc_id: 2794
 vol_id: 7
-date: 1944-05-12
+doc_date: 1944-05-12
 ---
 
 # 147 Minutes of Meeting of Prime Ministers

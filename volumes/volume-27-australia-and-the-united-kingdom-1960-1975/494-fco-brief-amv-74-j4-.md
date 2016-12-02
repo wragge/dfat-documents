@@ -3,7 +3,7 @@ title: "494 FCO BRIEF AMV(74)J4."
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10361
 vol_id: 27
-date: 1974-12-12
+doc_date: 1974-12-12
 ---
 
 # 494 FCO BRIEF AMV(74)J4.

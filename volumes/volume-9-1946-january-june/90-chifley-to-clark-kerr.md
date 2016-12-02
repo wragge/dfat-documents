@@ -3,7 +3,7 @@ title: "90 Chifley to Clark Kerr"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3602
 vol_id: 9
-date: 1946-02-16
+doc_date: 1946-02-16
 ---
 
 # 90 Chifley to Clark Kerr

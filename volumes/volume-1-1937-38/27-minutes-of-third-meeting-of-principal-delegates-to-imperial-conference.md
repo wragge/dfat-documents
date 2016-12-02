@@ -3,7 +3,7 @@ title: "27 Minutes of Third Meeting of Principal Delegates to Imperial Conferenc
 volume: "Volume 1: 1937-38"
 doc_id: 27
 vol_id: 1
-date: 1937-05-21
+doc_date: 1937-05-21
 ---
 
 # 27 Minutes of Third Meeting of Principal Delegates to Imperial Conference

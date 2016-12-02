@@ -3,7 +3,7 @@ title: "29 Defence Committee Minute"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10404
 vol_id: 28
-date: 1958-02-06
+doc_date: 1958-02-06
 barcode: 658723
 ---
 

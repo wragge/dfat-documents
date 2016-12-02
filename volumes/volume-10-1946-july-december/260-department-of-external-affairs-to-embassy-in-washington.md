@@ -3,7 +3,7 @@ title: "260 Department of External Affairs to Embassy in Washington"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4108
 vol_id: 10
-date: 1946-11-29
+doc_date: 1946-11-29
 barcode: 191467
 ---
 

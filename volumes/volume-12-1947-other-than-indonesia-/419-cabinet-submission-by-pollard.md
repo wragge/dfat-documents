@@ -3,7 +3,7 @@ title: "419 Cabinet Submission by Pollard"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5101
 vol_id: 12
-date: 1947-06-26
+doc_date: 1947-06-26
 ---
 
 # 419 Cabinet Submission by Pollard

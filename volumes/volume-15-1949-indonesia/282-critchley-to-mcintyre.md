@@ -3,7 +3,7 @@ title: "282 Critchley to McIntyre"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6451
 vol_id: 15
-date: 1949-03-07
+doc_date: 1949-03-07
 ---
 
 # 282 Critchley to McIntyre

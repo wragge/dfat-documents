@@ -3,7 +3,7 @@ title: "51 MlNUTE, BUNTING TO HOLT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9916
 vol_id: 27
-date: 1966-01-30
+doc_date: 1966-01-30
 ---
 
 # 51 MlNUTE, BUNTING TO HOLT

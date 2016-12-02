@@ -3,7 +3,7 @@ title: "3 Policy Planning Paper"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7842
 vol_id: 20
-date: 1974-05-03
+doc_date: 1974-05-03
 ---
 
 # 3 Policy Planning Paper

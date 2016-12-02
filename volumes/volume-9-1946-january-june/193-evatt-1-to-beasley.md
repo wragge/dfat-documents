@@ -3,7 +3,7 @@ title: "193 Evatt [1] to Beasley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3705
 vol_id: 9
-date: 1946-04-16
+doc_date: 1946-04-16
 ---
 
 # 193 Evatt [1] to Beasley

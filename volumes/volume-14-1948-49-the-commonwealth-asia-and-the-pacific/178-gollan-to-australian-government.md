@@ -3,7 +3,7 @@ title: "178 Gollan to Australian Government"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5954
 vol_id: 14
-date: 1949-03-23
+doc_date: 1949-03-23
 ---
 
 # 178 Gollan to Australian Government

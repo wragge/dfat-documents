@@ -3,7 +3,7 @@ title: "88 Extract from Telegram from Ministry of Foreign Affairs to New Zealand
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8958
 vol_id: 23
-date: 1980-03-12
+doc_date: 1980-03-12
 ---
 
 # 88 Extract from Telegram from Ministry of Foreign Affairs to New Zealand High Commission in Canberra

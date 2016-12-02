@@ -3,7 +3,7 @@ title: "263 Full Cabinet Submission by Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3294
 vol_id: 8
-date: 1945-09-24
+doc_date: 1945-09-24
 ---
 
 # 263 Full Cabinet Submission by Chifley

@@ -3,7 +3,7 @@ title: "67 Extract From Memorandum by Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8418
 vol_id: 21
-date: 1951-03-18
+doc_date: 1951-03-18
 ---
 
 # 67 Extract From Memorandum by Watt

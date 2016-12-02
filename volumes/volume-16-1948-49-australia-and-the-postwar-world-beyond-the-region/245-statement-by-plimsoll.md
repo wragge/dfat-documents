@@ -3,7 +3,7 @@ title: "245 Statement by Plimsoll"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6960
 vol_id: 16
-date: 1949-10-27
+doc_date: 1949-10-27
 barcode: 554284
 ---
 

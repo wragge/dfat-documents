@@ -3,7 +3,7 @@ title: "450 Report by Taylor"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8288
 vol_id: 20
-date: 1976-05-21
+doc_date: 1976-05-21
 ---
 
 # 450 Report by Taylor

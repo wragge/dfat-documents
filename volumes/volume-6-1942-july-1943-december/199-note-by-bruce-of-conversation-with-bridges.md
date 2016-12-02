@@ -3,7 +3,7 @@ title: "199 Note by Bruce of Conversation with Bridges"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2490
 vol_id: 6
-date: 1943-05-26
+doc_date: 1943-05-26
 barcode: 242456
 ---
 

@@ -3,7 +3,7 @@ title: "127 Cablegram From Casey to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8478
 vol_id: 21
-date: 1952-03-18
+doc_date: 1952-03-18
 barcode: 699472
 ---
 

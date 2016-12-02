@@ -3,7 +3,7 @@ title: "112 Cabinet Submission by Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3624
 vol_id: 9
-date: 1946-02-26
+doc_date: 1946-02-26
 ---
 
 # 112 Cabinet Submission by Evatt

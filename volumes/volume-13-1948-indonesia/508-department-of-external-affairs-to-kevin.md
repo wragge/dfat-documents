@@ -3,7 +3,7 @@ title: "508 Department of External Affairs to Kevin"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5775
 vol_id: 13
-date: 1948-12-31
+doc_date: 1948-12-31
 ---
 
 # 508 Department of External Affairs to Kevin

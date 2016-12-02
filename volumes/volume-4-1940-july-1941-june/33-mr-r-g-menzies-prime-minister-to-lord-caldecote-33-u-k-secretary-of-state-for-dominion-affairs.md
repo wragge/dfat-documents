@@ -3,7 +3,7 @@ title: "33 Mr. R. G. Menzies, Prime Minister, to Lord Caldecote, 33 U.K. Secreta
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1264
 vol_id: 4
-date: 1940-07-24
+doc_date: 1940-07-24
 ---
 
 # 33 Mr. R. G. Menzies, Prime Minister, to Lord Caldecote, 33 U.K. Secretary of State for Dominion Affairs

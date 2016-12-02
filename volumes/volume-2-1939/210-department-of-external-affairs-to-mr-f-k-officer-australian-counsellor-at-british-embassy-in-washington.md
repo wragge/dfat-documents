@@ -3,7 +3,7 @@ title: "210 Department of External Affairs to Mr F.K. Officer, Australian Counse
 volume: "Volume 2: 1939"
 doc_id: 547
 vol_id: 2
-date: 1939-09-07
+doc_date: 1939-09-07
 ---
 
 # 210 Department of External Affairs to Mr F.K. Officer, Australian Counsellor at British Embassy in Washington

@@ -3,7 +3,7 @@ title: "209 McVey to Bruce"
 volume: "Volume 7: 1944"
 doc_id: 2856
 vol_id: 7
-date: 1944-07-01
+doc_date: 1944-07-01
 ---
 
 # 209 McVey to Bruce

@@ -3,7 +3,7 @@ title: "287 Mr F. K. Officer, Australian Counsellor at British Embassy in Washin
 volume: "Volume 1: 1937-38"
 doc_id: 286
 vol_id: 1
-date: 1938-09-28
+doc_date: 1938-09-28
 ---
 
 # 287 Mr F. K. Officer, Australian Counsellor at British Embassy in Washington, to Department of External Affairs

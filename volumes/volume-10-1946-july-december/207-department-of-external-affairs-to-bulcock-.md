@@ -3,7 +3,7 @@ title: "207 Department of External Affairs to Bulcock,"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4055
 vol_id: 10
-date: 1946-11-11
+doc_date: 1946-11-11
 barcode: 191307
 ---
 

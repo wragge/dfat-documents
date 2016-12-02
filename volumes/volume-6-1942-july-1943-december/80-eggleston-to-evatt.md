@@ -3,7 +3,7 @@ title: "80 Eggleston to Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2371
 vol_id: 6
-date: 1942-11-25
+doc_date: 1942-11-25
 ---
 
 # 80 Eggleston to Evatt

@@ -3,7 +3,7 @@ title: "185 Curtin to Hull"
 volume: "Volume 7: 1944"
 doc_id: 2832
 vol_id: 7
-date: 1944-06-05
+doc_date: 1944-06-05
 ---
 
 # 185 Curtin to Hull

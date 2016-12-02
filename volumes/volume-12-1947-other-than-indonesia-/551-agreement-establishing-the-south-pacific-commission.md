@@ -3,7 +3,7 @@ title: "551 Agreement Establishing the South Pacific Commission"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5233
 vol_id: 12
-date: 1947-02-06
+doc_date: 1947-02-06
 barcode: 550076
 ---
 

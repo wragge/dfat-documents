@@ -3,7 +3,7 @@ title: "108 Jacobsen to Moore"
 volume: "Volume 7: 1944"
 doc_id: 2755
 vol_id: 7
-date: 1944-04-07
+doc_date: 1944-04-07
 ---
 
 # 108 Jacobsen to Moore

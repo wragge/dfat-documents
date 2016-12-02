@@ -3,7 +3,7 @@ title: "299 Australian Government to Fraser"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4981
 vol_id: 12
-date: 1947-03-29
+doc_date: 1947-03-29
 barcode: 587452
 ---
 

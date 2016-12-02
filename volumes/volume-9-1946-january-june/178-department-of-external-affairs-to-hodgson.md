@@ -3,7 +3,7 @@ title: "178 Department of External Affairs to Hodgson"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3690
 vol_id: 9
-date: 1946-04-09
+doc_date: 1946-04-09
 ---
 
 # 178 Department of External Affairs to Hodgson

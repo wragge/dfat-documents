@@ -3,7 +3,7 @@ title: "43 Full Cabinet Submission by Curtin"
 volume: "Volume 8: 1945"
 doc_id: 3074
 vol_id: 8
-date: 1945-02-23
+doc_date: 1945-02-23
 ---
 
 # 43 Full Cabinet Submission by Curtin

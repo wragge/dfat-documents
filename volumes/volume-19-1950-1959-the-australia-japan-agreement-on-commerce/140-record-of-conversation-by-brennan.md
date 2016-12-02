@@ -3,7 +3,7 @@ title: "140 Record Of Conversation By Brennan"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7745
 vol_id: 19
-date: 1956-05-28
+doc_date: 1956-05-28
 ---
 
 # 140 Record Of Conversation By Brennan

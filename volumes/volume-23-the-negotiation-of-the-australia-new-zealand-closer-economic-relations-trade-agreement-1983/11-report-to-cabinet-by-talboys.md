@@ -3,7 +3,7 @@ title: "11 Report to Cabinet by Talboys"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8881
 vol_id: 23
-date: 1978-03-30
+doc_date: 1978-03-30
 ---
 
 # 11 Report to Cabinet by Talboys

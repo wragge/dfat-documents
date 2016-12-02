@@ -3,7 +3,7 @@ title: "430 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, t
 volume: "Volume 3: 1940, January-June"
 doc_id: 1196
 vol_id: 3
-date: 1940-06-24
+doc_date: 1940-06-24
 ---
 
 # 430 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J. McEwen, Minister for External Affairs

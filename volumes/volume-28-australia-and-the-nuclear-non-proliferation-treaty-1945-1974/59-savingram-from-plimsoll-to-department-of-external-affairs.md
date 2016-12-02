@@ -3,7 +3,7 @@ title: "59 Savingram from Plimsoll to Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10433
 vol_id: 28
-date: 1964-11-02
+doc_date: 1964-11-02
 barcode: 842521
 ---
 

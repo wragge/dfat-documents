@@ -3,7 +3,7 @@ title: "134 Minute From Randall To Fadden"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7739
 vol_id: 19
-date: 1956-05-21
+doc_date: 1956-05-21
 ---
 
 # 134 Minute From Randall To Fadden

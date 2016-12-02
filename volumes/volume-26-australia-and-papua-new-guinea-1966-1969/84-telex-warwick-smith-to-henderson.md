@@ -3,7 +3,7 @@ title: "84 Telex, Warwick Smith To Henderson"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9592
 vol_id: 26
-date: 1967-01-06
+doc_date: 1967-01-06
 barcode: 12041601
 ---
 

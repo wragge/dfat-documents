@@ -3,7 +3,7 @@ title: "352 Mr W.L. Mackenzie King, Canadian Prime Minister, to Commonwealth Gov
 volume: "Volume 2: 1939"
 doc_id: 689
 vol_id: 2
-date: 1939-11-10
+doc_date: 1939-11-10
 ---
 
 # 352 Mr W.L. Mackenzie King, Canadian Prime Minister, to Commonwealth Government

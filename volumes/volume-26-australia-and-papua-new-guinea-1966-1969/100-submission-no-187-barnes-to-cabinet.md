@@ -3,7 +3,7 @@ title: "100 Submission No. 187, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9608
 vol_id: 26
-date: 1967-03-29
+doc_date: 1967-03-29
 barcode: 1858753
 ---
 

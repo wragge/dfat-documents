@@ -3,7 +3,7 @@ title: "201 Commonwealth Government to Mr David Ross, U.K. Consul in Dili"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1955
 vol_id: 5
-date: 1941-12-18
+doc_date: 1941-12-18
 ---
 
 # 201 Commonwealth Government to Mr David Ross, U.K. Consul in Dili

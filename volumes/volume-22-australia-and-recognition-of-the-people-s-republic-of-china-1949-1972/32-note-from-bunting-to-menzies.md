@@ -3,7 +3,7 @@ title: "32 NOTE FROM BUNTING TO MENZIES"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8515
 vol_id: 22
-date: 1951-02-28
+doc_date: 1951-02-28
 barcode: 538322
 ---
 

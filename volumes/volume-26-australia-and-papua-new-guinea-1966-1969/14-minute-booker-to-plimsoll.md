@@ -3,7 +3,7 @@ title: "14 Minute, Booker To Plimsoll"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9523
 vol_id: 26
-date: 1966-02-16
+doc_date: 1966-02-16
 barcode: 1730563
 ---
 

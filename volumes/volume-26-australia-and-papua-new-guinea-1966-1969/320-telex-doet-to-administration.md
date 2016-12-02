@@ -3,7 +3,7 @@ title: "320 Telex, Doet To Administration"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9829
 vol_id: 26
-date: 1969-10-03
+doc_date: 1969-10-03
 barcode: 3118271
 ---
 

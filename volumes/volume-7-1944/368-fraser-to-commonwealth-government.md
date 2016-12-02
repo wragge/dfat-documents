@@ -3,7 +3,7 @@ title: "368 Fraser to Commonwealth Government"
 volume: "Volume 7: 1944"
 doc_id: 3015
 vol_id: 7
-date: 1944-12-06
+doc_date: 1944-12-06
 barcode: 549823
 ---
 

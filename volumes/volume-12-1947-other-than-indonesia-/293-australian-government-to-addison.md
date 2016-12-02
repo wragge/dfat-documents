@@ -3,7 +3,7 @@ title: "293 Australian Government to Addison"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4975
 vol_id: 12
-date: 1947-01-21
+doc_date: 1947-01-21
 barcode: 197321
 ---
 

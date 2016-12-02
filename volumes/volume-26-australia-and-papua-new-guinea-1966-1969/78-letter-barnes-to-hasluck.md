@@ -3,7 +3,7 @@ title: "78 Letter, Barnes To Hasluck"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9586
 vol_id: 26
-date: 1966-10-25
+doc_date: 1966-10-25
 barcode: 546781
 ---
 

@@ -3,7 +3,7 @@ title: "91 Department of External Affairs to Legation in Washington"
 volume: "Volume 7: 1944"
 doc_id: 2738
 vol_id: 7
-date: 1944-03-23
+doc_date: 1944-03-23
 ---
 
 # 91 Department of External Affairs to Legation in Washington

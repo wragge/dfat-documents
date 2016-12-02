@@ -3,7 +3,7 @@ title: "322 MINUTE, HAMILION TO STORAR"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10188
 vol_id: 27
-date: 1966-12-02
+doc_date: 1966-12-02
 ---
 
 # 322 MINUTE, HAMILION TO STORAR

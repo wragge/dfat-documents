@@ -3,7 +3,7 @@ title: "47 Hood to Burton"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6762
 vol_id: 16
-date: 1948-08-06
+doc_date: 1948-08-06
 barcode: 573918
 ---
 

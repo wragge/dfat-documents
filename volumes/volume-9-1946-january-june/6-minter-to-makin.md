@@ -3,7 +3,7 @@ title: "6 Minter to Makin"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3518
 vol_id: 9
-date: 1946-01-03
+doc_date: 1946-01-03
 ---
 
 # 6 Minter to Makin

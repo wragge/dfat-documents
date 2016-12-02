@@ -3,7 +3,7 @@ title: "549 Cabinet Submission by Evatt and Ward"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5231
 vol_id: 12
-date: 1947-01-14
+doc_date: 1947-01-14
 barcode: 549843
 ---
 

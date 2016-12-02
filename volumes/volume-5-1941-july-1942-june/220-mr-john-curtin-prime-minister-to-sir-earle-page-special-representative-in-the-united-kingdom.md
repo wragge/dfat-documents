@@ -3,7 +3,7 @@ title: "220 Mr John Curtin, Prime Minister, to Sir Earle Page, Special Represent
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1974
 vol_id: 5
-date: 1941-12-24
+doc_date: 1941-12-24
 ---
 
 # 220 Mr John Curtin, Prime Minister, to Sir Earle Page, Special Representative in the United Kingdom

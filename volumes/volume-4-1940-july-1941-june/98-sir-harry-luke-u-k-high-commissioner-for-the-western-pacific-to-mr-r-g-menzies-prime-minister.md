@@ -3,7 +3,7 @@ title: "98 Sir Harry Luke, U.K. High Commissioner for the Western Pacific, to Mr
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1329
 vol_id: 4
-date: 1940-09-04
+doc_date: 1940-09-04
 ---
 
 # 98 Sir Harry Luke, U.K. High Commissioner for the Western Pacific, to Mr R. G. Menzies, Prime Minister

@@ -3,7 +3,7 @@ title: "40 Mr R. G. Casey, Minister to the United States, to Department of Exter
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1271
 vol_id: 4
-date: 1940-07-29
+doc_date: 1940-07-29
 ---
 
 # 40 Mr R. G. Casey, Minister to the United States, to Department of External Affairs

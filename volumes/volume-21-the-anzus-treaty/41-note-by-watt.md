@@ -3,7 +3,7 @@ title: "41 Note by Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8392
 vol_id: 21
-date: 1951-02-03
+doc_date: 1951-02-03
 ---
 
 # 41 Note by Watt

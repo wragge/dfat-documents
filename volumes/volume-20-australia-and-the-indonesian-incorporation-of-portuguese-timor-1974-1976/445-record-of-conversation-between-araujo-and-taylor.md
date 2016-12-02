@@ -3,7 +3,7 @@ title: "445 Record of Conversation Between Araujo and Taylor"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8283
 vol_id: 20
-date: 1976-05-02
+doc_date: 1976-05-02
 ---
 
 # 445 Record of Conversation Between Araujo and Taylor

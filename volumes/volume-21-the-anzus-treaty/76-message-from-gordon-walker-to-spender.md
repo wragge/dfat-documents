@@ -3,7 +3,7 @@ title: "76 Message From Gordon Walker to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8427
 vol_id: 21
-date: 1951-04-02
+doc_date: 1951-04-02
 ---
 
 # 76 Message From Gordon Walker to Spender

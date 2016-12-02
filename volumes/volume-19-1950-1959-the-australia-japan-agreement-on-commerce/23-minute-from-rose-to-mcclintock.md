@@ -3,7 +3,7 @@ title: "23 Minute From Rose To Mcclintock"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7628
 vol_id: 19
-date: 1953-04-30
+doc_date: 1953-04-30
 ---
 
 # 23 Minute From Rose To Mcclintock

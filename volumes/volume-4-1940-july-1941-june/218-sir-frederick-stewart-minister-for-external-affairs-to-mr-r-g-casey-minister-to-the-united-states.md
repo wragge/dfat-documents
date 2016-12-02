@@ -3,7 +3,7 @@ title: "218 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Ca
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1449
 vol_id: 4
-date: 1940-12-09
+doc_date: 1940-12-09
 ---
 
 # 218 Sir Frederick Stewart, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States

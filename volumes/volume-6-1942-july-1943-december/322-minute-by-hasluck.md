@@ -3,7 +3,7 @@ title: "322 Minute by Hasluck"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2613
 vol_id: 6
-date: 1943-10-29
+doc_date: 1943-10-29
 ---
 
 # 322 Minute by Hasluck

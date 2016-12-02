@@ -3,7 +3,7 @@ title: "527 Commonwealth Government to Mr Clement Attlee, U.K. Secretary of Stat
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2281
 vol_id: 5
-date: 1942-06-18
+doc_date: 1942-06-18
 barcode: 182759
 ---
 

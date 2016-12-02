@@ -3,7 +3,7 @@ title: "152 MEMORANDUM FROM HANDMER TO WALLER"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8635
 vol_id: 22
-date: 1970-12-28
+doc_date: 1970-12-28
 ---
 
 # 152 MEMORANDUM FROM HANDMER TO WALLER

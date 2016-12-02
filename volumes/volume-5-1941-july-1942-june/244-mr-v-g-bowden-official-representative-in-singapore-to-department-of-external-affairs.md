@@ -3,7 +3,7 @@ title: "244 Mr V. G. Bowden, Official Representative in Singapore, to Department
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1998
 vol_id: 5
-date: 1941-12-31
+doc_date: 1941-12-31
 barcode: 1158278
 ---
 

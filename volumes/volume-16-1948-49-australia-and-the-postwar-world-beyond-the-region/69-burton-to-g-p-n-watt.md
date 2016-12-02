@@ -3,7 +3,7 @@ title: "69 Burton to G.P.N. Watt"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6784
 vol_id: 16
-date: 1949-02-18
+doc_date: 1949-02-18
 ---
 
 # 69 Burton to G.P.N. Watt

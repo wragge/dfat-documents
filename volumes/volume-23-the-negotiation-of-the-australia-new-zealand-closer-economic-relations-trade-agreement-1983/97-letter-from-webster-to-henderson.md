@@ -3,7 +3,7 @@ title: "97 Letter from Webster to Henderson"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8967
 vol_id: 23
-date: 1980-07-08
+doc_date: 1980-07-08
 ---
 
 # 97 Letter from Webster to Henderson

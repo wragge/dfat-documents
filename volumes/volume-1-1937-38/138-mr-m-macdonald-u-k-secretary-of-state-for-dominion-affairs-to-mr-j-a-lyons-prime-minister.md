@@ -3,7 +3,7 @@ title: "138 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr
 volume: "Volume 1: 1937-38"
 doc_id: 137
 vol_id: 1
-date: 1938-03-16
+doc_date: 1938-03-16
 ---
 
 # 138 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister

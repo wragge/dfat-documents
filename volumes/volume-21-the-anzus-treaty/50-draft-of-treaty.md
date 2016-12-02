@@ -3,7 +3,7 @@ title: "50 Draft of Treaty"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8401
 vol_id: 21
-date: 1951-02-17
+doc_date: 1951-02-17
 ---
 
 # 50 Draft of Treaty

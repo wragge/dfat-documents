@@ -3,7 +3,7 @@ title: "150 Record by McIntyre of Conversation with Soviet Charge D'Affaires"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10524
 vol_id: 28
-date: 1968-08-22
+doc_date: 1968-08-22
 barcode: 1725941
 ---
 

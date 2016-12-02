@@ -3,7 +3,7 @@ title: "121 Cablegram from Bailey to Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10495
 vol_id: 28
-date: 1968-04-19
+doc_date: 1968-04-19
 barcode: 583385
 ---
 

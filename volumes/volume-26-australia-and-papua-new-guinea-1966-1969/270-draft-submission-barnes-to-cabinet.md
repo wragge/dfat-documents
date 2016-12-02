@@ -3,7 +3,7 @@ title: "270 Draft Submission, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9778
 vol_id: 26
-date: 1969-05-13
+doc_date: 1969-05-13
 barcode: 11340888
 ---
 

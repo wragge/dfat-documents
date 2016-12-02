@@ -3,7 +3,7 @@ title: "362 War Cabinet Agenda"
 volume: "Volume 2: 1939"
 doc_id: 699
 vol_id: 2
-date: 1939-11-14
+doc_date: 1939-11-14
 barcode: 11286985
 ---
 

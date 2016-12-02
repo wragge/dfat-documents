@@ -3,7 +3,7 @@ title: "1 Nareen Statement"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8871
 vol_id: 23
-date: 1978-03-20
+doc_date: 1978-03-20
 ---
 
 # 1 Nareen Statement

@@ -3,7 +3,7 @@ title: "578 Office of the High Commissioner in London to Department of External 
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5260
 vol_id: 12
-date: 1947-10-23
+doc_date: 1947-10-23
 barcode: 194388
 ---
 

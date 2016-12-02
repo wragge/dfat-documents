@@ -3,7 +3,7 @@ title: "14 Chifley to Attlee"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6729
 vol_id: 16
-date: 1948-01-10
+doc_date: 1948-01-10
 ---
 
 # 14 Chifley to Attlee

@@ -3,7 +3,7 @@ title: "361 Burton to Shedden"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7076
 vol_id: 16
-date: 1948-04-22
+doc_date: 1948-04-22
 ---
 
 # 361 Burton to Shedden

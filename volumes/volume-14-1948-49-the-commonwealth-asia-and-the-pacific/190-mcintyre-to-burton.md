@@ -3,7 +3,7 @@ title: "190 McIntyre to Burton"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5966
 vol_id: 14
-date: 1948-03-12
+doc_date: 1948-03-12
 ---
 
 # 190 McIntyre to Burton

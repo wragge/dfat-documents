@@ -3,7 +3,7 @@ title: "85 NOTE BY OSBORN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9950
 vol_id: 27
-date: 1967-08-22
+doc_date: 1967-08-22
 ---
 
 # 85 NOTE BY OSBORN

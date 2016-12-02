@@ -3,7 +3,7 @@ title: "222 RECORD OF CONVERSATION BETWEEN DOWNER AND CALLAGHAN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10087
 vol_id: 27
-date: 1967-01-16
+doc_date: 1967-01-16
 ---
 
 # 222 RECORD OF CONVERSATION BETWEEN DOWNER AND CALLAGHAN

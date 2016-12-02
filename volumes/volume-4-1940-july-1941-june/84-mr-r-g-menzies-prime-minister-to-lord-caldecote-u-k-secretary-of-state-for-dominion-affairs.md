@@ -3,7 +3,7 @@ title: "84 Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary o
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1315
 vol_id: 4
-date: 1940-08-29
+doc_date: 1940-08-29
 ---
 
 # 84 Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary of State for Dominion Affairs

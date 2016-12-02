@@ -3,7 +3,7 @@ title: "176 Mackay to Chifley"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4360
 vol_id: 11
-date: 1947-07-28
+doc_date: 1947-07-28
 ---
 
 # 176 Mackay to Chifley

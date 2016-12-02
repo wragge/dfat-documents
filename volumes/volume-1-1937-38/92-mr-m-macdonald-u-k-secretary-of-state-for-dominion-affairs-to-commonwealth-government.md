@@ -3,7 +3,7 @@ title: "92 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Com
 volume: "Volume 1: 1937-38"
 doc_id: 91
 vol_id: 1
-date: 1937-10-30
+doc_date: 1937-10-30
 ---
 
 # 92 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

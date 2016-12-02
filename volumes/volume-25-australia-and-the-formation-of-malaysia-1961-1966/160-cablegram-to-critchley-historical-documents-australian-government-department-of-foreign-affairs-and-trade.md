@@ -3,7 +3,7 @@ title: "160 Cablegram to Critchley - Historical Documents - Australian Governmen
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9290
 vol_id: 25
-date: 1964-02-17
+doc_date: 1964-02-17
 barcode: 1500841
 ---
 

@@ -3,7 +3,7 @@ title: "85 Cablegram From Department of External Affairs to High Commission in L
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8436
 vol_id: 21
-date: 1951-04-18
+doc_date: 1951-04-18
 ---
 
 # 85 Cablegram From Department of External Affairs to High Commission in London and Embassy in Washington

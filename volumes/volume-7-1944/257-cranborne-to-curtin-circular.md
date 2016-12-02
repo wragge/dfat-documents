@@ -3,7 +3,7 @@ title: "257 Cranborne to Curtin Circular"
 volume: "Volume 7: 1944"
 doc_id: 2904
 vol_id: 7
-date: 1944-08-24
+doc_date: 1944-08-24
 ---
 
 # 257 Cranborne to Curtin Circular

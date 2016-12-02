@@ -3,7 +3,7 @@ title: "504 LETTER, HAY TO CLARK"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10371
 vol_id: 27
-date: 1975-03-17
+doc_date: 1975-03-17
 ---
 
 # 504 LETTER, HAY TO CLARK

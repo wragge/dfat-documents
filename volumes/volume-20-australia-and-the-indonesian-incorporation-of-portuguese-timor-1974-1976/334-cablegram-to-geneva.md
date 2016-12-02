@@ -3,7 +3,7 @@ title: "334 Cablegram to Geneva"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8172
 vol_id: 20
-date: 1975-11-11
+doc_date: 1975-11-11
 ---
 
 # 334 Cablegram to Geneva

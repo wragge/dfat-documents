@@ -3,7 +3,7 @@ title: "99 Sir Henry Gullett, Minister for External Affairs, to Mr R.G. Menzies,
 volume: "Volume 2: 1939"
 doc_id: 436
 vol_id: 2
-date: 1939-06-07
+doc_date: 1939-06-07
 ---
 
 # 99 Sir Henry Gullett, Minister for External Affairs, to Mr R.G. Menzies, Prime Minister

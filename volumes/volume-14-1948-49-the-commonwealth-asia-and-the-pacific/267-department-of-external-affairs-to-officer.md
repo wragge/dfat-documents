@@ -3,7 +3,7 @@ title: "267 Department of External Affairs to Officer"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6043
 vol_id: 14
-date: 1949-09-15
+doc_date: 1949-09-15
 ---
 
 # 267 Department of External Affairs to Officer

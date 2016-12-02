@@ -3,7 +3,7 @@ title: "147 Chifley to Makin"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4829
 vol_id: 12
-date: 1947-12-16
+doc_date: 1947-12-16
 ---
 
 # 147 Chifley to Makin

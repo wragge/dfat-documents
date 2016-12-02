@@ -3,7 +3,7 @@ title: "70 Ball to Evatt"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3918
 vol_id: 10
-date: 1946-08-16
+doc_date: 1946-08-16
 ---
 
 # 70 Ball to Evatt

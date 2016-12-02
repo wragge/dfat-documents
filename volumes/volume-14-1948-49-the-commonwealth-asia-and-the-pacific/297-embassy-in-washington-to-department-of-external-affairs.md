@@ -3,7 +3,7 @@ title: "297 Embassy in Washington to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6073
 vol_id: 14
-date: 1948-11-06
+doc_date: 1948-11-06
 ---
 
 # 297 Embassy in Washington to Department of External Affairs

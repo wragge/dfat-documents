@@ -3,7 +3,7 @@ title: "274 Prime Minister's Department to Bruce"
 volume: "Volume 7: 1944"
 doc_id: 2921
 vol_id: 7
-date: 1944-09-08
+doc_date: 1944-09-08
 ---
 
 # 274 Prime Minister's Department to Bruce

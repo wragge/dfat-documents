@@ -3,7 +3,7 @@ title: "234 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Commo
 volume: "Volume 1: 1937-38"
 doc_id: 233
 vol_id: 1
-date: 1938-07-29
+doc_date: 1938-07-29
 ---
 
 # 234 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

@@ -3,7 +3,7 @@ title: "255 Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord
 volume: "Volume 1: 1937-38"
 doc_id: 254
 vol_id: 1
-date: 1938-09-15
+doc_date: 1938-09-15
 ---
 
 # 255 Mr P. Liesching, U.K. Acting High Commissioner to Australia, to Lord Stanley, U.K. Secretary of State for Dominion Affairs

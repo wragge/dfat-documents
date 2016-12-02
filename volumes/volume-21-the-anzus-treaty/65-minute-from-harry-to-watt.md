@@ -3,7 +3,7 @@ title: "65 Minute From Harry to Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8416
 vol_id: 21
-date: 1951-03-16
+doc_date: 1951-03-16
 barcode: 3001619
 ---
 

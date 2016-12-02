@@ -3,7 +3,7 @@ title: "365 Cutts to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6534
 vol_id: 15
-date: 1949-04-16
+doc_date: 1949-04-16
 ---
 
 # 365 Cutts to Department of External Affairs

@@ -3,7 +3,7 @@ title: "264 Department of External Affairs to Makin and Bailey"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4112
 vol_id: 10
-date: 1946-12-01
+doc_date: 1946-12-01
 ---
 
 # 264 Department of External Affairs to Makin and Bailey

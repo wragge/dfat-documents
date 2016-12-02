@@ -3,7 +3,7 @@ title: "335 Minute, Plimsoll To Brennan, Bourchier And Greet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9844
 vol_id: 26
-date: 1969-11-24
+doc_date: 1969-11-24
 barcode: 573552
 ---
 

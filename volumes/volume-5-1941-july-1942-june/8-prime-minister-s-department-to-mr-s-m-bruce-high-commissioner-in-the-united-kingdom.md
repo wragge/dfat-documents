@@ -3,7 +3,7 @@ title: "8 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in th
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1762
 vol_id: 5
-date: 1941-07-16
+doc_date: 1941-07-16
 ---
 
 # 8 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in the United Kingdom

@@ -3,7 +3,7 @@ title: "7 Memorandum from Critchley to Tange - Historical Documents - Australian
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9141
 vol_id: 25
-date: 1962-07-04
+doc_date: 1962-07-04
 barcode: 550151
 ---
 

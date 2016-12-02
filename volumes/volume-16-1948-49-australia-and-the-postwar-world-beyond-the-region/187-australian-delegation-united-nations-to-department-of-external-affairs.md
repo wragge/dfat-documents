@@ -3,7 +3,7 @@ title: "187 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6902
 vol_id: 16
-date: 1948-12-11
+doc_date: 1948-12-11
 barcode: 573592
 ---
 

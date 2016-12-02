@@ -3,7 +3,7 @@ title: "269 Department of External Affairs to Beasley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4951
 vol_id: 12
-date: 1947-04-24
+doc_date: 1947-04-24
 barcode: 194440
 ---
 

@@ -3,7 +3,7 @@ title: "96 Dunk to Burton"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3944
 vol_id: 10
-date: 1946-08-31
+doc_date: 1946-08-31
 barcode: 191209
 ---
 

@@ -3,7 +3,7 @@ title: "220 Minter to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3251
 vol_id: 8
-date: 1945-08-27
+doc_date: 1945-08-27
 barcode: 188247
 ---
 

@@ -3,7 +3,7 @@ title: "314 LETTER, DOWNER TO HEYDON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10180
 vol_id: 27
-date: 1966-11-08
+doc_date: 1966-11-08
 ---
 
 # 314 LETTER, DOWNER TO HEYDON

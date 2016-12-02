@@ -3,7 +3,7 @@ title: "523 Massey to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5205
 vol_id: 12
-date: 1947-12-28
+doc_date: 1947-12-28
 ---
 
 # 523 Massey to Burton

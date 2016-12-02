@@ -3,7 +3,7 @@ title: "75 Eggleston to Evatt3"
 volume: "Volume 8: 1945"
 doc_id: 3106
 vol_id: 8
-date: 1945-04-20
+doc_date: 1945-04-20
 ---
 
 # 75 Eggleston to Evatt3

@@ -3,7 +3,7 @@ title: "36 Minutes of Eleventh Meeting of Principal Delegates to Imperial Confer
 volume: "Volume 1: 1937-38"
 doc_id: 36
 vol_id: 1
-date: 1937-06-02
+doc_date: 1937-06-02
 ---
 
 # 36 Minutes of Eleventh Meeting of Principal Delegates to Imperial Conference

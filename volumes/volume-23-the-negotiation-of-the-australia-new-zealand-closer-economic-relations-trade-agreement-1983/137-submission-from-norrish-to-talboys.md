@@ -3,7 +3,7 @@ title: "137 Submission from Norrish to Talboys"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9007
 vol_id: 23
-date: 1980-12-15
+doc_date: 1980-12-15
 ---
 
 # 137 Submission from Norrish to Talboys

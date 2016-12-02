@@ -3,7 +3,7 @@ title: "205 Letter from Street to Anthony"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9074
 vol_id: 23
-date: 1982-09-07
+doc_date: 1982-09-07
 ---
 
 # 205 Letter from Street to Anthony

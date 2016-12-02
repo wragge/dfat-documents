@@ -3,7 +3,7 @@ title: "42 D'Alton to Department of External Affairs"
 volume: "Volume 7: 1944"
 doc_id: 2689
 vol_id: 7
-date: 1944-02-05
+doc_date: 1944-02-05
 ---
 
 # 42 D'Alton to Department of External Affairs

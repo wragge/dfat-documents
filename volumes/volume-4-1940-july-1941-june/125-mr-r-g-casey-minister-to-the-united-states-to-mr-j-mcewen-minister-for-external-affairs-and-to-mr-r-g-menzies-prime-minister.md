@@ -3,7 +3,7 @@ title: "125 Mr R. G. Casey, Minister to the United States, to Mr J. McEwen, Mini
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1356
 vol_id: 4
-date: 1940-09-19
+doc_date: 1940-09-19
 barcode: 235510
 ---
 

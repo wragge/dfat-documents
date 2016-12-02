@@ -3,7 +3,7 @@ title: "184 Report by Joint Chiefs of Staff in Australia"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3696
 vol_id: 9
-date: 1946-04-10
+doc_date: 1946-04-10
 ---
 
 # 184 Report by Joint Chiefs of Staff in Australia

@@ -3,7 +3,7 @@ title: "159 Australia-Japan Trade Negotiations: First Plenary Meeting"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7764
 vol_id: 19
-date: 1956-11-01
+doc_date: 1956-11-01
 ---
 
 # 159 Australia-Japan Trade Negotiations: First Plenary Meeting

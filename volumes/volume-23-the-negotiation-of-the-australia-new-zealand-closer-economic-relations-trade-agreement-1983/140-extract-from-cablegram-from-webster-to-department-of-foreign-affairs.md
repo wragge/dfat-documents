@@ -3,7 +3,7 @@ title: "140 Extract from Cablegram from Webster to Department of Foreign Affairs
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9010
 vol_id: 23
-date: 1981-02-03
+doc_date: 1981-02-03
 ---
 
 # 140 Extract from Cablegram from Webster to Department of Foreign Affairs

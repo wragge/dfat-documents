@@ -3,7 +3,7 @@ title: "475 Eaton to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6644
 vol_id: 15
-date: 1949-08-19
+doc_date: 1949-08-19
 ---
 
 # 475 Eaton to Burton

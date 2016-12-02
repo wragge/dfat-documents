@@ -3,7 +3,7 @@ title: "260 Memorandum from Williams to Thompson"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9129
 vol_id: 23
-date: 1982-12-06
+doc_date: 1982-12-06
 ---
 
 # 260 Memorandum from Williams to Thompson

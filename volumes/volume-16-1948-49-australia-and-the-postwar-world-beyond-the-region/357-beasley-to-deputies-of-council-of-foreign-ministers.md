@@ -3,7 +3,7 @@ title: "357 Beasley to Deputies of Council of Foreign Ministers"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7072
 vol_id: 16
-date: 1948-08-06
+doc_date: 1948-08-06
 ---
 
 # 357 Beasley to Deputies of Council of Foreign Ministers

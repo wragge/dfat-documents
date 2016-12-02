@@ -3,7 +3,7 @@ title: "101 Record of Conversation Between Whitlam, Surono and Her Tasning"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7940
 vol_id: 20
-date: 1975-03-04
+doc_date: 1975-03-04
 ---
 
 # 101 Record of Conversation Between Whitlam, Surono and Her Tasning

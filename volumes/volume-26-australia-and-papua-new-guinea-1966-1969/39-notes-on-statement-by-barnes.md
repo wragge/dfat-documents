@@ -3,7 +3,7 @@ title: "39 Notes On Statement By Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9547
 vol_id: 26
-date: 1966-04-18
+doc_date: 1966-04-18
 barcode: 546858
 ---
 

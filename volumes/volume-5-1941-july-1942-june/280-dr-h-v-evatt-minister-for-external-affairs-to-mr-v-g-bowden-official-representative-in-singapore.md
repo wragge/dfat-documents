@@ -3,7 +3,7 @@ title: "280 Dr H. V. Evatt, Minister for External Affairs, to Mr V. G. Bowden, O
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2034
 vol_id: 5
-date: 1942-01-18
+doc_date: 1942-01-18
 barcode: 1158278
 ---
 

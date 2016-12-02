@@ -3,7 +3,7 @@ title: "148 Record of Conversation Between Curtin, Taylor and Tjan"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7987
 vol_id: 20
-date: 1975-06-18
+doc_date: 1975-06-18
 ---
 
 # 148 Record of Conversation Between Curtin, Taylor and Tjan

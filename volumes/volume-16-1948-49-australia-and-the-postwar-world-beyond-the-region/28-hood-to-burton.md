@@ -3,7 +3,7 @@ title: "28 Hood to Burton"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6743
 vol_id: 16
-date: 1948-04-15
+doc_date: 1948-04-15
 ---
 
 # 28 Hood to Burton

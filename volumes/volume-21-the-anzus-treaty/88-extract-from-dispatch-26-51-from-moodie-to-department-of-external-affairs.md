@@ -3,7 +3,7 @@ title: "88 Extract From Dispatch 26/51 From Moodie to Department of External Aff
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8439
 vol_id: 21
-date: 1951-05-14
+doc_date: 1951-05-14
 ---
 
 # 88 Extract From Dispatch 26/51 From Moodie to Department of External Affairs

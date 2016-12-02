@@ -3,7 +3,7 @@ title: "498 LETTER, CHARTERlS TO YEEND"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10365
 vol_id: 27
-date: 1974-12-30
+doc_date: 1974-12-30
 ---
 
 # 498 LETTER, CHARTERlS TO YEEND

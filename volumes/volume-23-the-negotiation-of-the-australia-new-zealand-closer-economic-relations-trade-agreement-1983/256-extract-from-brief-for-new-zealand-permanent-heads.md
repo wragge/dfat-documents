@@ -3,7 +3,7 @@ title: "256 Extract from Brief for New Zealand Permanent Heads"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9125
 vol_id: 23
-date: 1982-10-20
+doc_date: 1982-10-20
 ---
 
 # 256 Extract from Brief for New Zealand Permanent Heads

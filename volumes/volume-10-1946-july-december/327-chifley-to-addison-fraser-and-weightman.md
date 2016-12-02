@@ -3,7 +3,7 @@ title: "327 Chifley to Addison, Fraser and Weightman"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4175
 vol_id: 10
-date: 1946-12-18
+doc_date: 1946-12-18
 barcode: 657435
 ---
 

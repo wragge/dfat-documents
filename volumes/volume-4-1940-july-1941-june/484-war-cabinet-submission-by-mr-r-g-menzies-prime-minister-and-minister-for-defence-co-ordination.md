@@ -3,7 +3,7 @@ title: "484 War Cabinet Submission by Mr R. G. Menzies, Prime Minister and Minis
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1715
 vol_id: 4
-date: 1941-06-04
+doc_date: 1941-06-04
 ---
 
 # 484 War Cabinet Submission by Mr R. G. Menzies, Prime Minister and Minister for Defence Co-ordination

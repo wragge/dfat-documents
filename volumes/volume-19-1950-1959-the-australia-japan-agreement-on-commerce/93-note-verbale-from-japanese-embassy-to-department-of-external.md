@@ -3,7 +3,7 @@ title: "93 Note Verbale From Japanese Embassy To Department Of External"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7698
 vol_id: 19
-date: 1954-12-30
+doc_date: 1954-12-30
 ---
 
 # 93 Note Verbale From Japanese Embassy To Department Of External

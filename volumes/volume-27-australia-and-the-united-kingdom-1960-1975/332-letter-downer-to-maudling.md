@@ -3,7 +3,7 @@ title: "332 LETTER, DOWNER TO MAUDLING"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10198
 vol_id: 27
-date: 1972-05-12
+doc_date: 1972-05-12
 ---
 
 # 332 LETTER, DOWNER TO MAUDLING

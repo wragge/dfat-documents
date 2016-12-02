@@ -3,7 +3,8 @@ title: "70 Submission 108 To Cabinet By Menzies"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7675
 vol_id: 19
-date: 1954-09-14
+doc_date: 1954-09-14
+barcode: 209114
 ---
 
 # 70 Submission 108 To Cabinet By Menzies
@@ -84,4 +85,4 @@ _ 1 Not published.
 
 _
 
-_ [AA : A4906, VOLUME 4]_
+_ [ [AA : A4906, VOLUME 4](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=209114) ]_

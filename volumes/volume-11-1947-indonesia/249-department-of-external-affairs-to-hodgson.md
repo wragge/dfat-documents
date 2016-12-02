@@ -3,7 +3,7 @@ title: "249 Department of External Affairs to Hodgson"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4433
 vol_id: 11
-date: 1947-08-06
+doc_date: 1947-08-06
 ---
 
 # 249 Department of External Affairs to Hodgson

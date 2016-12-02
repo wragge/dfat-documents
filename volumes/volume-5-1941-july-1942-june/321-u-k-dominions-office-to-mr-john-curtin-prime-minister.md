@@ -3,7 +3,7 @@ title: "321 U.K. Dominions Office to Mr John Curtin, Prime Minister"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2075
 vol_id: 5
-date: 1942-02-07
+doc_date: 1942-02-07
 ---
 
 # 321 U.K. Dominions Office to Mr John Curtin, Prime Minister

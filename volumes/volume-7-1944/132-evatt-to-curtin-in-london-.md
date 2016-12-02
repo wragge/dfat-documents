@@ -3,7 +3,7 @@ title: "132 Evatt to Curtin (in London)"
 volume: "Volume 7: 1944"
 doc_id: 2779
 vol_id: 7
-date: 1944-05-05
+doc_date: 1944-05-05
 ---
 
 # 132 Evatt to Curtin (in London)

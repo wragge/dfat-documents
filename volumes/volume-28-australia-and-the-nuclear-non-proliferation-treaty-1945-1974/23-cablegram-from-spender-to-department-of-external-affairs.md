@@ -3,7 +3,7 @@ title: "23 Cablegram from Spender to Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10398
 vol_id: 28
-date: 1957-05-22
+doc_date: 1957-05-22
 barcode: 495566
 ---
 

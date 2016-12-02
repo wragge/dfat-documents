@@ -3,7 +3,7 @@ title: "310 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Com
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1541
 vol_id: 4
-date: 1941-02-20
+doc_date: 1941-02-20
 ---
 
 # 310 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

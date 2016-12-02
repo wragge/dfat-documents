@@ -3,7 +3,7 @@ title: "296 Chifley to Addison"
 volume: "Volume 8: 1945"
 doc_id: 3327
 vol_id: 8
-date: 1945-10-06
+doc_date: 1945-10-06
 ---
 
 # 296 Chifley to Addison

@@ -3,7 +3,7 @@ title: "209 MINUTE, MACMILLAN TO BUTLER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10074
 vol_id: 27
-date: 1962-09-20
+doc_date: 1962-09-20
 ---
 
 # 209 MINUTE, MACMILLAN TO BUTLER

@@ -3,7 +3,7 @@ title: "261 Melville to Dedman"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3773
 vol_id: 9
-date: 1946-05-21
+doc_date: 1946-05-21
 ---
 
 # 261 Melville to Dedman

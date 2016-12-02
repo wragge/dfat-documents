@@ -3,7 +3,7 @@ title: "33 Critchley to Kirby and Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5300
 vol_id: 13
-date: 1948-01-24
+doc_date: 1948-01-24
 barcode: 1729706
 ---
 

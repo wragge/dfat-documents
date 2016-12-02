@@ -3,7 +3,7 @@ title: "310 Blamey to Forde"
 volume: "Volume 7: 1944"
 doc_id: 2957
 vol_id: 7
-date: 1944-10-04
+doc_date: 1944-10-04
 ---
 
 # 310 Blamey to Forde

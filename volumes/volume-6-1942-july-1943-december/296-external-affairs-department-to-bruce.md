@@ -3,7 +3,7 @@ title: "296 External Affairs Department to Bruce"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2587
 vol_id: 6
-date: 1943-10-12
+doc_date: 1943-10-12
 ---
 
 # 296 External Affairs Department to Bruce

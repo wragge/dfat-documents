@@ -3,7 +3,7 @@ title: "207 Letter from Mission to the United Nations to Renouf"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10581
 vol_id: 28
-date: 1974-10-21
+doc_date: 1974-10-21
 barcode: 546373
 ---
 

@@ -3,7 +3,7 @@ title: "90 Sir Henry Gullett, Minister for External Affairs, to Sir William Glas
 volume: "Volume 3: 1940, January-June"
 doc_id: 856
 vol_id: 3
-date: 1940-03-04
+doc_date: 1940-03-04
 ---
 
 # 90 Sir Henry Gullett, Minister for External Affairs, to Sir William Glasgow, High Commissioner in Canada

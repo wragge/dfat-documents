@@ -3,7 +3,7 @@ title: "229 Attlee to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6005
 vol_id: 14
-date: 1948-12-22
+doc_date: 1948-12-22
 ---
 
 # 229 Attlee to Chifley

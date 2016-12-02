@@ -3,7 +3,7 @@ title: "85 Submission, Jockel To Hasluck"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9593
 vol_id: 26
-date: 1967-01-09
+doc_date: 1967-01-09
 ---
 
 # 85 Submission, Jockel To Hasluck

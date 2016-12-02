@@ -3,7 +3,7 @@ title: "111 Cablegram from Department of External Affairs to Posts"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10485
 vol_id: 28
-date: 1968-03-15
+doc_date: 1968-03-15
 barcode: 1725936
 ---
 

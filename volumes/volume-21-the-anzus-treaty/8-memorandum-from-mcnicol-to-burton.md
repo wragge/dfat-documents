@@ -3,7 +3,7 @@ title: "8 Memorandum From McNicol to Burton"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8359
 vol_id: 21
-date: 1950-06-09
+doc_date: 1950-06-09
 ---
 
 # 8 Memorandum From McNicol to Burton

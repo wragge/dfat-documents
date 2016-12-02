@@ -3,7 +3,7 @@ title: "74 Mr David Ross, Department of Civil Aviation Representative in Dili, t
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1828
 vol_id: 5
-date: 1941-09-30
+doc_date: 1941-09-30
 ---
 
 # 74 Mr David Ross, Department of Civil Aviation Representative in Dili, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs

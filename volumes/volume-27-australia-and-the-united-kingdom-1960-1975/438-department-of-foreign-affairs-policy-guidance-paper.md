@@ -3,7 +3,7 @@ title: "438 DEPARTMENT OF FOREIGN AFFAIRS POLICY GUIDANCE PAPER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10305
 vol_id: 27
-date: 1972-08-28
+doc_date: 1972-08-28
 ---
 
 # 438 DEPARTMENT OF FOREIGN AFFAIRS POLICY GUIDANCE PAPER

@@ -3,7 +3,7 @@ title: "187 Cablegram from Plimsoll to Department of Foreign Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10561
 vol_id: 28
-date: 1972-07-21
+doc_date: 1972-07-21
 barcode: 546361
 ---
 

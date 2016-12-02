@@ -3,7 +3,7 @@ title: "18 Note by Gilfedder"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10393
 vol_id: 28
-date: 1955-06-23
+doc_date: 1955-06-23
 barcode: 504941
 ---
 

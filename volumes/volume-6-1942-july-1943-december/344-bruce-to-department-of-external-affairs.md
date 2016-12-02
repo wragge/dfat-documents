@@ -3,7 +3,7 @@ title: "344 Bruce to Department of External Affairs"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2635
 vol_id: 6
-date: 1943-12-03
+doc_date: 1943-12-03
 ---
 
 # 344 Bruce to Department of External Affairs

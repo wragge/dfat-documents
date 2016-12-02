@@ -3,7 +3,7 @@ title: "356 Makin to Spender"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6132
 vol_id: 14
-date: 1949-12-20
+doc_date: 1949-12-20
 ---
 
 # 356 Makin to Spender

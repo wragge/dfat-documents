@@ -3,7 +3,7 @@ title: "321 Defence Committee Report"
 volume: "Volume 7: 1944"
 doc_id: 2968
 vol_id: 7
-date: 1944-10-18
+doc_date: 1944-10-18
 ---
 
 # 321 Defence Committee Report

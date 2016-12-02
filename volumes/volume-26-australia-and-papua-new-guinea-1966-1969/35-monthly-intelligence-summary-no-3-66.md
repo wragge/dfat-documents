@@ -3,7 +3,7 @@ title: "35 Monthly Intelligence Summary No. 3/66"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9543
 vol_id: 26
-date: 1966-03-09
+doc_date: 1966-03-09
 barcode: 3111097
 ---
 

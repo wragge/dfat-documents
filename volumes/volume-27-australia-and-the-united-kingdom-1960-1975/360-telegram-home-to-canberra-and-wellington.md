@@ -3,7 +3,7 @@ title: "360 TELEGRAM, HOME TO CANBERRA AND WELLINGTON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10226
 vol_id: 27
-date: 1972-12-15
+doc_date: 1972-12-15
 ---
 
 # 360 TELEGRAM, HOME TO CANBERRA AND WELLINGTON

@@ -3,7 +3,7 @@ title: "29 NOTE BY DEFENCE DEPARTMENT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10165
 vol_id: 27
-date: 1965-06-17
+doc_date: 1965-06-17
 ---
 
 # 29 NOTE BY DEFENCE DEPARTMENT

@@ -3,7 +3,7 @@ title: "369 Prime Minister's Department to Mr R.G. Casey, Minister for Supply an
 volume: "Volume 2: 1939"
 doc_id: 706
 vol_id: 2
-date: 1939-11-17
+doc_date: 1939-11-17
 ---
 
 # 369 Prime Minister's Department to Mr R.G. Casey, Minister for Supply and Development (in London)

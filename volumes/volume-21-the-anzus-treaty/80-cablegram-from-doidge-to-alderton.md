@@ -3,7 +3,7 @@ title: "80 Cablegram From Doidge to Alderton"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8431
 vol_id: 21
-date: 1951-04-05
+doc_date: 1951-04-05
 ---
 
 # 80 Cablegram From Doidge to Alderton

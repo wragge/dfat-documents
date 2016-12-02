@@ -3,7 +3,7 @@ title: "101 Mr J.D.L. Hood, Department of External Affairs, to Mr A.T. Stirling,
 volume: "Volume 2: 1939"
 doc_id: 438
 vol_id: 2
-date: 1939-06-09
+doc_date: 1939-06-09
 ---
 
 # 101 Mr J.D.L. Hood, Department of External Affairs, to Mr A.T. Stirling, External Affairs Officer in London

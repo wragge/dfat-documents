@@ -3,7 +3,7 @@ title: "153 SPEECH BY MACMILLAN, HOUSE OF COMMONS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10018
 vol_id: 27
-date: 1961-07-31
+doc_date: 1961-07-31
 ---
 
 # 153 SPEECH BY MACMILLAN, HOUSE OF COMMONS

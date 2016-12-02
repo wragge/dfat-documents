@@ -3,7 +3,7 @@ title: "9 Note By Craik On Cabinet Submission No. 1"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9518
 vol_id: 26
-date: 1966-02-02
+doc_date: 1966-02-02
 ---
 
 # 9 Note By Craik On Cabinet Submission No. 1

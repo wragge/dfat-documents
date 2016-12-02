@@ -3,7 +3,7 @@ title: "68 Note For File by Harry"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8419
 vol_id: 21
-date: 1951-03-20
+doc_date: 1951-03-20
 ---
 
 # 68 Note For File by Harry

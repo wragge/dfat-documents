@@ -3,7 +3,7 @@ title: "245 Curtin to Drakeford"
 volume: "Volume 7: 1944"
 doc_id: 2892
 vol_id: 7
-date: 1944-08-02
+doc_date: 1944-08-02
 ---
 
 # 245 Curtin to Drakeford

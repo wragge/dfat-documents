@@ -3,7 +3,7 @@ title: "115 Burton to Kennedy [1]"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5891
 vol_id: 14
-date: 1948-01-21
+doc_date: 1948-01-21
 ---
 
 # 115 Burton to Kennedy [1]

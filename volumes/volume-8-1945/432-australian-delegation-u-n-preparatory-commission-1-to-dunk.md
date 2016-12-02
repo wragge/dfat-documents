@@ -3,7 +3,7 @@ title: "432 Australian Delegation, U.N. Preparatory Commission [1], to Dunk"
 volume: "Volume 8: 1945"
 doc_id: 3463
 vol_id: 8
-date: 1945-12-04
+doc_date: 1945-12-04
 barcode: 188039
 ---
 

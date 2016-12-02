@@ -3,7 +3,7 @@ title: "429 A. W. Fadden, Acting Prime Minister, to Sir Frederick Stewart, Minis
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1660
 vol_id: 4
-date: 1941-04-25
+doc_date: 1941-04-25
 ---
 
 # 429 A. W. Fadden, Acting Prime Minister, to Sir Frederick Stewart, Minister for External Affairs

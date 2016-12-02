@@ -3,7 +3,7 @@ title: "57 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to
 volume: "Volume 1: 1937-38"
 doc_id: 57
 vol_id: 1
-date: 1937-08-17
+doc_date: 1937-08-17
 ---
 
 # 57 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to External Affairs Office, London

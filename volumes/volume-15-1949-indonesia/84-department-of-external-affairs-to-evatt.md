@@ -3,7 +3,7 @@ title: "84 Department of External Affairs to Evatt"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6253
 vol_id: 15
-date: 1949-01-15
+doc_date: 1949-01-15
 ---
 
 # 84 Department of External Affairs to Evatt

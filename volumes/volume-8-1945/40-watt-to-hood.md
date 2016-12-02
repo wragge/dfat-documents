@@ -3,7 +3,7 @@ title: "40 Watt to Hood"
 volume: "Volume 8: 1945"
 doc_id: 3071
 vol_id: 8
-date: 1945-02-20
+doc_date: 1945-02-20
 ---
 
 # 40 Watt to Hood

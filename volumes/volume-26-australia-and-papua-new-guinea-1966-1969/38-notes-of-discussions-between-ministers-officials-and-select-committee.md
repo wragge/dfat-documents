@@ -3,7 +3,7 @@ title: "38 Notes Of Discussions Between Ministers, Officials And Select Committe
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9546
 vol_id: 26
-date: 1966-04-20
+doc_date: 1966-04-20
 ---
 
 # 38 Notes Of Discussions Between Ministers, Officials And Select Committee

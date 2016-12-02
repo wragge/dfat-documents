@@ -3,7 +3,7 @@ title: "133 Department of External Affairs to Legation in Washington"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3645
 vol_id: 9
-date: 1946-03-20
+doc_date: 1946-03-20
 ---
 
 # 133 Department of External Affairs to Legation in Washington

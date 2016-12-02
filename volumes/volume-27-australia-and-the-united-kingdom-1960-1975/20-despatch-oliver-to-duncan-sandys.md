@@ -3,7 +3,7 @@ title: "20 DESPATCH, OLIVER TO DUNCAN SANDYS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9887
 vol_id: 27
-date: 1963-03-19
+doc_date: 1963-03-19
 ---
 
 # 20 DESPATCH, OLIVER TO DUNCAN SANDYS

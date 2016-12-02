@@ -3,7 +3,7 @@ title: "5 Nimmo to Wheeler"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5781
 vol_id: 14
-date: 1948-03-01
+doc_date: 1948-03-01
 ---
 
 # 5 Nimmo to Wheeler

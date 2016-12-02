@@ -3,7 +3,7 @@ title: "206 Submission 643 To Cabinet By Mcewen"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7811
 vol_id: 19
-date: 1957-05-15
+doc_date: 1957-05-15
 barcode: 428854
 ---
 

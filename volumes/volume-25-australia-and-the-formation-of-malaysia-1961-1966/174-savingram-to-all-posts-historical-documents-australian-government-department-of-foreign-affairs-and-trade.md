@@ -3,7 +3,7 @@ title: "174 Savingram to all Posts - Historical Documents - Australian Governmen
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9304
 vol_id: 25
-date: 1964-03-12
+doc_date: 1964-03-12
 barcode: 1500843
 ---
 

@@ -3,7 +3,7 @@ title: "414 Mission in Tokyo to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5096
 vol_id: 12
-date: 1947-05-09
+doc_date: 1947-05-09
 ---
 
 # 414 Mission in Tokyo to Department of External Affairs

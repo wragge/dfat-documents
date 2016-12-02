@@ -3,7 +3,7 @@ title: "35 Cablegram From Menzies to Fadden And Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8386
 vol_id: 21
-date: 1951-01-18
+doc_date: 1951-01-18
 ---
 
 # 35 Cablegram From Menzies to Fadden And Spender

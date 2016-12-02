@@ -3,7 +3,7 @@ title: "326 Mr M.J. Savage, N.Z. Prime Minister, to Commonwealth Government"
 volume: "Volume 2: 1939"
 doc_id: 663
 vol_id: 2
-date: 1939-11-05
+doc_date: 1939-11-05
 ---
 
 # 326 Mr M.J. Savage, N.Z. Prime Minister, to Commonwealth Government

@@ -3,7 +3,7 @@ title: "331 Submission, Ballard To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9840
 vol_id: 26
-date: 1969-10-20
+doc_date: 1969-10-20
 barcode: 3118294
 ---
 

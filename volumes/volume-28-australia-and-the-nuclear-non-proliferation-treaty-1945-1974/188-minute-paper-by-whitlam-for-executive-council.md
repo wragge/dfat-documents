@@ -3,7 +3,7 @@ title: "188 Minute Paper by Whitlam for Executive Council"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10562
 vol_id: 28
-date: 1973-01-11
+doc_date: 1973-01-11
 ---
 
 # 188 Minute Paper by Whitlam for Executive Council

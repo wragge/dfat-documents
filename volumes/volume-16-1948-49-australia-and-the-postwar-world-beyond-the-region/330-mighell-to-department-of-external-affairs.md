@@ -3,7 +3,7 @@ title: "330 Mighell to Department of External Affairs"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7045
 vol_id: 16
-date: 1948-03-11
+doc_date: 1948-03-11
 ---
 
 # 330 Mighell to Department of External Affairs

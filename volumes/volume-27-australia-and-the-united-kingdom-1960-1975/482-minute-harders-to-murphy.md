@@ -3,7 +3,7 @@ title: "482 MINUTE, HARDERS TO MURPHY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10349
 vol_id: 27
-date: 1974-07-11
+doc_date: 1974-07-11
 ---
 
 # 482 MINUTE, HARDERS TO MURPHY

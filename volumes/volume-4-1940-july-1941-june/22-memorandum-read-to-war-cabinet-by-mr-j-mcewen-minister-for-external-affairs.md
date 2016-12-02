@@ -3,7 +3,7 @@ title: "22 Memorandum read to War Cabinet by Mr J. McEwen, Minister for External
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1253
 vol_id: 4
-date: 1940-07-09
+doc_date: 1940-07-09
 barcode: 11330142
 ---
 

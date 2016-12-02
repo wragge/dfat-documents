@@ -3,7 +3,7 @@ title: "227 Australian Government to Addison"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4411
 vol_id: 11
-date: 1947-08-02
+doc_date: 1947-08-02
 ---
 
 # 227 Australian Government to Addison

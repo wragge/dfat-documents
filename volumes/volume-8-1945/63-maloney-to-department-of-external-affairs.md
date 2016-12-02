@@ -3,7 +3,7 @@ title: "63 Maloney to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3094
 vol_id: 8
-date: 1945-03-25
+doc_date: 1945-03-25
 barcode: 12096744
 ---
 

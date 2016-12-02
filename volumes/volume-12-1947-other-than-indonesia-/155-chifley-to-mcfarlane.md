@@ -3,7 +3,7 @@ title: "155 Chifley to McFarlane"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4837
 vol_id: 12
-date: 1947-07-07
+doc_date: 1947-07-07
 barcode: 195315
 ---
 

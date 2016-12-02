@@ -3,7 +3,7 @@ title: "323 Forsyth to Ball"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3835
 vol_id: 9
-date: 1946-06-21
+doc_date: 1946-06-21
 ---
 
 # 323 Forsyth to Ball

@@ -3,7 +3,7 @@ title: "305 Makin to Mountbatten"
 volume: "Volume 8: 1945"
 doc_id: 3336
 vol_id: 8
-date: 1945-10-13
+doc_date: 1945-10-13
 ---
 
 # 305 Makin to Mountbatten

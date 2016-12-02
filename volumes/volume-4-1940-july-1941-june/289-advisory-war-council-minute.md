@@ -3,7 +3,7 @@ title: "289 Advisory War Council Minute"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1520
 vol_id: 4
-date: 1941-02-13
+doc_date: 1941-02-13
 ---
 
 # 289 Advisory War Council Minute

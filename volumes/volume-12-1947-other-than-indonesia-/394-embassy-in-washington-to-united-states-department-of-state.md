@@ -3,7 +3,7 @@ title: "394 Embassy in Washington to United States Department of State"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5076
 vol_id: 12
-date: 1947-05-07
+doc_date: 1947-05-07
 ---
 
 # 394 Embassy in Washington to United States Department of State

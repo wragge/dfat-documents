@@ -3,7 +3,7 @@ title: "123 Slater to Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2414
 vol_id: 6
-date: 1943-02-20
+doc_date: 1943-02-20
 ---
 
 # 123 Slater to Evatt

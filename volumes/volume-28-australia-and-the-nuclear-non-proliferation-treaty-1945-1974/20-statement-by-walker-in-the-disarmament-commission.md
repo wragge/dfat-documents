@@ -3,7 +3,7 @@ title: "20 Statement by Walker in the Disarmament Commission"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10395
 vol_id: 28
-date: 1956-07-10
+doc_date: 1956-07-10
 barcode: 430736
 ---
 

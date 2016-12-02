@@ -3,7 +3,7 @@ title: "433 Pritchett to Eaton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6602
 vol_id: 15
-date: 1949-06-15
+doc_date: 1949-06-15
 ---
 
 # 433 Pritchett to Eaton

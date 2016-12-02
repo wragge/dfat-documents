@@ -3,7 +3,7 @@ title: "452 Hasluck to Dunk"
 volume: "Volume 8: 1945"
 doc_id: 3483
 vol_id: 8
-date: 1945-12-14
+doc_date: 1945-12-14
 barcode: 194043
 ---
 

@@ -3,7 +3,7 @@ title: "97 Submission From Shaw To Mcbride"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7702
 vol_id: 19
-date: 1955-03-02
+doc_date: 1955-03-02
 ---
 
 # 97 Submission From Shaw To Mcbride

@@ -3,7 +3,7 @@ title: "284 Evatt to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6060
 vol_id: 14
-date: 1949-06-02
+doc_date: 1949-06-02
 ---
 
 # 284 Evatt to Chifley

@@ -3,7 +3,7 @@ title: "74 Note by Bruce of Conversation with Gusev"
 volume: "Volume 7: 1944"
 doc_id: 2721
 vol_id: 7
-date: 1944-03-10
+doc_date: 1944-03-10
 barcode: 242466
 ---
 

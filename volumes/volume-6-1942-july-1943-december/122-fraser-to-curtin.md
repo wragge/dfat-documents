@@ -3,7 +3,7 @@ title: "122 Fraser to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2413
 vol_id: 6
-date: 1943-02-20
+doc_date: 1943-02-20
 barcode: 95254
 ---
 

@@ -3,7 +3,7 @@ title: "253 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commission
 volume: "Volume 3: 1940, January-June"
 doc_id: 1019
 vol_id: 3
-date: 1940-05-18
+doc_date: 1940-05-18
 barcode: 242420
 ---
 

@@ -3,7 +3,7 @@ title: "207 Note by Bruce of Conversation with Somerville"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2498
 vol_id: 6
-date: 1943-06-01
+doc_date: 1943-06-01
 barcode: 242457
 ---
 

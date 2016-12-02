@@ -3,7 +3,7 @@ title: "106 MINUTE, CARRINGTON TO HEATH"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9971
 vol_id: 27
-date: 1970-08-06
+doc_date: 1970-08-06
 ---
 
 # 106 MINUTE, CARRINGTON TO HEATH

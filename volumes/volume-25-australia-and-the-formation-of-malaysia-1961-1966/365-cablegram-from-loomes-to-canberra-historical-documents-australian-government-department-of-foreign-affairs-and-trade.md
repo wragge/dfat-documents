@@ -3,7 +3,7 @@ title: "365 Cablegram from Loomes to Canberra - Historical Documents - Australia
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9495
 vol_id: 25
-date: 1966-06-01
+doc_date: 1966-06-01
 barcode: 589440
 ---
 

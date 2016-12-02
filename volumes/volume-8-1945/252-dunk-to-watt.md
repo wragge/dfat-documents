@@ -3,7 +3,7 @@ title: "252 Dunk to Watt"
 volume: "Volume 8: 1945"
 doc_id: 3283
 vol_id: 8
-date: 1945-09-20
+doc_date: 1945-09-20
 barcode: 187001
 ---
 

@@ -3,7 +3,7 @@ title: "85 Churchill to Curtin"
 volume: "Volume 8: 1945"
 doc_id: 3116
 vol_id: 8
-date: 1945-05-08
+doc_date: 1945-05-08
 ---
 
 # 85 Churchill to Curtin

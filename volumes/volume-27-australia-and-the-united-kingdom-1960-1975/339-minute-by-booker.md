@@ -3,7 +3,7 @@ title: "339 MINUTE BY BOOKER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10205
 vol_id: 27
-date: 1972-11-14
+doc_date: 1972-11-14
 ---
 
 # 339 MINUTE BY BOOKER

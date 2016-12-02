@@ -3,7 +3,7 @@ title: "399 War Cabinet Minute"
 volume: "Volume 3: 1940, January-June"
 doc_id: 1165
 vol_id: 3
-date: 1940-06-18
+doc_date: 1940-06-18
 ---
 
 # 399 War Cabinet Minute

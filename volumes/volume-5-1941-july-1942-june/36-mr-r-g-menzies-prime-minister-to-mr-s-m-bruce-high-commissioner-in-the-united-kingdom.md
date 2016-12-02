@@ -3,7 +3,7 @@ title: "36 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissione
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1790
 vol_id: 5
-date: 1941-08-09
+doc_date: 1941-08-09
 ---
 
 # 36 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in the United Kingdom

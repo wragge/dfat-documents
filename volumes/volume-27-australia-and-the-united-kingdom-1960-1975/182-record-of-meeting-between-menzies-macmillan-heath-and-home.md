@@ -3,7 +3,7 @@ title: "182 RECORD OF MEETING BETWEEN MENZIES, MACMILLAN, HEATH AND HOME"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10047
 vol_id: 27
-date: 1962-06-05
+doc_date: 1962-06-05
 ---
 
 # 182 RECORD OF MEETING BETWEEN MENZIES, MACMILLAN, HEATH AND HOME

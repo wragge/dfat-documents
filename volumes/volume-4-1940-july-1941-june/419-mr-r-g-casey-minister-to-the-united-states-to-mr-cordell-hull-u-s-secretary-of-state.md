@@ -3,7 +3,7 @@ title: "419 Mr R. G. Casey, Minister to the United States, to Mr Cordell Hull, U
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1650
 vol_id: 4
-date: 1941-04-22
+doc_date: 1941-04-22
 barcode: 235683
 ---
 

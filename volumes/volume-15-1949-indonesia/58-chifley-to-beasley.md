@@ -3,7 +3,7 @@ title: "58 Chifley to Beasley"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6227
 vol_id: 15
-date: 1949-01-10
+doc_date: 1949-01-10
 ---
 
 # 58 Chifley to Beasley

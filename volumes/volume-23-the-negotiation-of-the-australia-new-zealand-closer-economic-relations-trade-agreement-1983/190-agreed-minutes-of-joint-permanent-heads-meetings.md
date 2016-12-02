@@ -3,7 +3,7 @@ title: "190 Agreed Minutes of Joint Permanent Heads Meetings"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9059
 vol_id: 23
-date: 1982-04-22
+doc_date: 1982-04-22
 ---
 
 # 190 Agreed Minutes of Joint Permanent Heads Meetings

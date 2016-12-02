@@ -3,7 +3,7 @@ title: "216 Australian Government to Noel-Baker"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5483
 vol_id: 13
-date: 1948-07-26
+doc_date: 1948-07-26
 barcode: 1729706
 ---
 

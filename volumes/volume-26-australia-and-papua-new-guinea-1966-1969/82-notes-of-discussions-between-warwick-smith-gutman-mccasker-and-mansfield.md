@@ -3,7 +3,7 @@ title: "82 Notes Of Discussions Between Warwick Smith, Gutman, Mccasker And Mans
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9590
 vol_id: 26
-date: 1966-12-23
+doc_date: 1966-12-23
 barcode: 12030526
 ---
 

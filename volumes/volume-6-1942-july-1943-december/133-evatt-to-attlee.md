@@ -3,7 +3,7 @@ title: "133 Evatt to Attlee"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2424
 vol_id: 6
-date: 1943-03-10
+doc_date: 1943-03-10
 ---
 
 # 133 Evatt to Attlee

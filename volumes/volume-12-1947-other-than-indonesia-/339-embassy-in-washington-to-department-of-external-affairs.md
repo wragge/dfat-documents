@@ -3,7 +3,7 @@ title: "339 Embassy in Washington to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5021
 vol_id: 12
-date: 1947-07-16
+doc_date: 1947-07-16
 ---
 
 # 339 Embassy in Washington to Department of External Affairs

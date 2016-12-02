@@ -3,7 +3,7 @@ title: "Cabinet Minute"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8323
 vol_id: 20
-date: 1963-02-05
+doc_date: 1963-02-05
 barcode: 1338483
 ---
 

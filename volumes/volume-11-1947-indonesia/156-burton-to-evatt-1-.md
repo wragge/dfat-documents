@@ -3,7 +3,7 @@ title: "156 Burton to Evatt [1]"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4340
 vol_id: 11
-date: 1947-07-25
+doc_date: 1947-07-25
 ---
 
 # 156 Burton to Evatt [1]

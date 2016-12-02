@@ -3,7 +3,7 @@ title: "132 Advisory War Council Minute 573"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1886
 vol_id: 5
-date: 1941-11-28
+doc_date: 1941-11-28
 barcode: 31204595
 ---
 

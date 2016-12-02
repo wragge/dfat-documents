@@ -3,7 +3,7 @@ title: "66 Note by Department of External Affairs on Interdepartmental Committee
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10440
 vol_id: 28
-date: 1965-06-22
+doc_date: 1965-06-22
 barcode: 546497
 ---
 

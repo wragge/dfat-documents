@@ -3,7 +3,7 @@ title: "47 Department of External Affairs to Critchley"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5314
 vol_id: 13
-date: 1948-02-09
+doc_date: 1948-02-09
 barcode: 1729706
 ---
 

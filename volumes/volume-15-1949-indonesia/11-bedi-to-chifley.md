@@ -3,7 +3,7 @@ title: "11 Bedi to Chifley"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6180
 vol_id: 15
-date: 1949-01-04
+doc_date: 1949-01-04
 barcode: 587590
 ---
 

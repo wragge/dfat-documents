@@ -3,7 +3,7 @@ title: "170 Extracts from Record of Joint Ministerial Meeting"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9039
 vol_id: 23
-date: 1981-05-12
+doc_date: 1981-05-12
 ---
 
 # 170 Extracts from Record of Joint Ministerial Meeting

@@ -3,7 +3,7 @@ title: "108 Addison to Australian Government"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3620
 vol_id: 9
-date: 1946-02-23
+doc_date: 1946-02-23
 ---
 
 # 108 Addison to Australian Government

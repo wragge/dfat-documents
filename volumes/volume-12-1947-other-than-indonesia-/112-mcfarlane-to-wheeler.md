@@ -3,7 +3,7 @@ title: "112 McFarlane to Wheeler"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4794
 vol_id: 12
-date: 1947-06-19
+doc_date: 1947-06-19
 ---
 
 # 112 McFarlane to Wheeler

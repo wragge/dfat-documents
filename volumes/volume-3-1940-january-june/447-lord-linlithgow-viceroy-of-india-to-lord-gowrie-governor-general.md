@@ -3,7 +3,7 @@ title: "447 Lord Linlithgow, Viceroy of India, to Lord Gowrie, Governor- General
 volume: "Volume 3: 1940, January-June"
 doc_id: 1213
 vol_id: 3
-date: 1940-06-26
+doc_date: 1940-06-26
 ---
 
 # 447 Lord Linlithgow, Viceroy of India, to Lord Gowrie, Governor- General

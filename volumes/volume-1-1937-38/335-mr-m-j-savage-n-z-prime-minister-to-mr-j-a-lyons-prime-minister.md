@@ -3,7 +3,7 @@ title: "335 Mr M. J. Savage, N.Z. Prime Minister, to Mr J. A. Lyons, Prime Minis
 volume: "Volume 1: 1937-38"
 doc_id: 334
 vol_id: 1
-date: 1938-12-22
+doc_date: 1938-12-22
 ---
 
 # 335 Mr M. J. Savage, N.Z. Prime Minister, to Mr J. A. Lyons, Prime Minister

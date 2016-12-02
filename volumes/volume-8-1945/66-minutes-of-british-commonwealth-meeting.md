@@ -3,7 +3,7 @@ title: "66 Minutes of British Commonwealth Meeting"
 volume: "Volume 8: 1945"
 doc_id: 3097
 vol_id: 8
-date: 1945-04-04
+doc_date: 1945-04-04
 ---
 
 # 66 Minutes of British Commonwealth Meeting

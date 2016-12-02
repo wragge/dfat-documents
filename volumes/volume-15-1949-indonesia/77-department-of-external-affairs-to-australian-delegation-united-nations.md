@@ -3,7 +3,7 @@ title: "77 Department of External Affairs to Australian Delegation, United Natio
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6246
 vol_id: 15
-date: 1949-01-14
+doc_date: 1949-01-14
 ---
 
 # 77 Department of External Affairs to Australian Delegation, United Nations

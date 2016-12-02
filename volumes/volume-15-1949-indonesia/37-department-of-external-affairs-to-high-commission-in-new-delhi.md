@@ -3,7 +3,7 @@ title: "37 Department of External Affairs to High Commission in New Delhi"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6206
 vol_id: 15
-date: 1949-01-07
+doc_date: 1949-01-07
 ---
 
 # 37 Department of External Affairs to High Commission in New Delhi

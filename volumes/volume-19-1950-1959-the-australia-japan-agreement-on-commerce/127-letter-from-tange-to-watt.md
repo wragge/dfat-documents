@@ -3,7 +3,7 @@ title: "127 Letter From Tange To Watt"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7732
 vol_id: 19
-date: 1956-04-04
+doc_date: 1956-04-04
 ---
 
 # 127 Letter From Tange To Watt

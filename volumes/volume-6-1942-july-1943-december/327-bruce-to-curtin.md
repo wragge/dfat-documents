@@ -3,7 +3,7 @@ title: "327 Bruce to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2618
 vol_id: 6
-date: 1943-11-15
+doc_date: 1943-11-15
 barcode: 205697
 ---
 

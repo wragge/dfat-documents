@@ -3,7 +3,7 @@ title: "296 Sir Shenton Thomas, Governor of the Straits Settlements, to Commonwe
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2050
 vol_id: 5
-date: 1942-01-23
+doc_date: 1942-01-23
 ---
 
 # 296 Sir Shenton Thomas, Governor of the Straits Settlements, to Commonwealth Government

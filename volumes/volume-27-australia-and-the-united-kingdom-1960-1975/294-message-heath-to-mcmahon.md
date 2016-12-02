@@ -3,7 +3,7 @@ title: "294 MESSAGE, HEATH TO MCMAHON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10159
 vol_id: 27
-date: 1971-07-07
+doc_date: 1971-07-07
 ---
 
 # 294 MESSAGE, HEATH TO MCMAHON

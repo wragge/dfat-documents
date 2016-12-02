@@ -3,7 +3,7 @@ title: "225 Letter, Barnes To Wright"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9733
 vol_id: 26
-date: 1968-09-25
+doc_date: 1968-09-25
 ---
 
 # 225 Letter, Barnes To Wright

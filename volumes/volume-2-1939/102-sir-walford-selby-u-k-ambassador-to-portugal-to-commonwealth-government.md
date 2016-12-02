@@ -3,7 +3,7 @@ title: "102 Sir Walford Selby, U.K. Ambassador to Portugal, to Commonwealth Gove
 volume: "Volume 2: 1939"
 doc_id: 439
 vol_id: 2
-date: 1939-06-14
+doc_date: 1939-06-14
 ---
 
 # 102 Sir Walford Selby, U.K. Ambassador to Portugal, to Commonwealth Government

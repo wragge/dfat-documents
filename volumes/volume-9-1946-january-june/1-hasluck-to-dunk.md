@@ -3,7 +3,7 @@ title: "1 Hasluck to Dunk"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3513
 vol_id: 9
-date: 1945-12-31
+doc_date: 1945-12-31
 ---
 
 # 1 Hasluck to Dunk

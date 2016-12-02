@@ -3,7 +3,7 @@ title: "318 Cabinet Submission by Calwell"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4166
 vol_id: 10
-date: 1946-12-13
+doc_date: 1946-12-13
 ---
 
 # 318 Cabinet Submission by Calwell

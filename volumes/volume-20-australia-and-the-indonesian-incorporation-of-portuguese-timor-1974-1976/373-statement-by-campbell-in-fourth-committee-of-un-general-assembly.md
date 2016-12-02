@@ -3,7 +3,7 @@ title: "373 Statement by Campbell in Fourth Committee of Un General Assembly"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8211
 vol_id: 20
-date: 1975-12-11
+doc_date: 1975-12-11
 ---
 
 # 373 Statement by Campbell in Fourth Committee of Un General Assembly

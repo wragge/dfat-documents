@@ -3,7 +3,7 @@ title: "203 Mr R.G. Menzies, Prime Minister, to Mr W.L. Mackenzie King, Canadian
 volume: "Volume 2: 1939"
 doc_id: 540
 vol_id: 2
-date: 1939-09-06
+doc_date: 1939-09-06
 ---
 
 # 203 Mr R.G. Menzies, Prime Minister, to Mr W.L. Mackenzie King, Canadian Prime Minister

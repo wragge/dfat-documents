@@ -3,7 +3,7 @@ title: "390 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for D
 volume: "Volume 2: 1939"
 doc_id: 727
 vol_id: 2
-date: 1939-11-28
+doc_date: 1939-11-28
 barcode: 206102
 ---
 

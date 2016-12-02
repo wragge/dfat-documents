@@ -3,7 +3,7 @@ title: "223 Mr F. K. Officer, Charge d'Affaires in Japan, to Department of Exter
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1454
 vol_id: 4
-date: 1940-12-12
+doc_date: 1940-12-12
 ---
 
 # 223 Mr F. K. Officer, Charge d'Affaires in Japan, to Department of External Affairs

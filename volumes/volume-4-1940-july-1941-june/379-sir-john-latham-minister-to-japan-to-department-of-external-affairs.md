@@ -3,7 +3,7 @@ title: "379 Sir John Latham, Minister to Japan, to Department of External Affair
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1610
 vol_id: 4
-date: 1941-04-02
+doc_date: 1941-04-02
 ---
 
 # 379 Sir John Latham, Minister to Japan, to Department of External Affairs

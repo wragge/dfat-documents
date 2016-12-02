@@ -3,7 +3,7 @@ title: "24 Minute, Booker To Jockel"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9533
 vol_id: 26
-date: 1966-03-07
+doc_date: 1966-03-07
 barcode: 1730563
 ---
 

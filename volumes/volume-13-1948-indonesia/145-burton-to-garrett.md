@@ -3,7 +3,7 @@ title: "145 Burton to Garrett"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5412
 vol_id: 13
-date: 1948-05-24
+doc_date: 1948-05-24
 ---
 
 # 145 Burton to Garrett

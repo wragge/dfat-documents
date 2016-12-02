@@ -3,7 +3,7 @@ title: "59 Sir Henry Gullett, Minister for External Affairs, to Mr F. K. Officer
 volume: "Volume 3: 1940, January-June"
 doc_id: 825
 vol_id: 3
-date: 1940-02-15
+doc_date: 1940-02-15
 ---
 
 # 59 Sir Henry Gullett, Minister for External Affairs, to Mr F. K. Officer, Australian Counsellor at U.K. Embassy in Washington

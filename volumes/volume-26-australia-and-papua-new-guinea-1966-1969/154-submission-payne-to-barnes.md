@@ -3,7 +3,7 @@ title: "154 Submission, Payne To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9662
 vol_id: 26
-date: 1967-12-28
+doc_date: 1967-12-28
 ---
 
 # 154 Submission, Payne To Barnes

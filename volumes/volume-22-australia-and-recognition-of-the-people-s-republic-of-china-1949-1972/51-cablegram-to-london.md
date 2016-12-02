@@ -3,7 +3,7 @@ title: "51 CABLEGRAM TO LONDON"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8534
 vol_id: 22
-date: 1955-02-21
+doc_date: 1955-02-21
 barcode: 529903
 ---
 

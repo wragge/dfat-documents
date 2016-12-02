@@ -3,7 +3,7 @@ title: "180 Curtin to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2827
 vol_id: 7
-date: 1944-06-03
+doc_date: 1944-06-03
 ---
 
 # 180 Curtin to Evatt

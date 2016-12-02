@@ -3,7 +3,7 @@ title: "105 Record of Inter-Departmental Meeting"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10479
 vol_id: 28
-date: 1968-02-09
+doc_date: 1968-02-09
 barcode: 1730507
 ---
 

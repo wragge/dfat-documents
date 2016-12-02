@@ -3,7 +3,7 @@ title: "323 Fraser to Commonwealth Government"
 volume: "Volume 7: 1944"
 doc_id: 2970
 vol_id: 7
-date: 1944-10-19
+doc_date: 1944-10-19
 ---
 
 # 323 Fraser to Commonwealth Government

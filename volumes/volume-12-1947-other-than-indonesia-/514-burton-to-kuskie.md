@@ -3,7 +3,7 @@ title: "514 Burton to Kuskie"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5196
 vol_id: 12
-date: 1947-04-02
+doc_date: 1947-04-02
 ---
 
 # 514 Burton to Kuskie

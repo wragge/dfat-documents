@@ -3,7 +3,7 @@ title: "104 Evatt to External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3135
 vol_id: 8
-date: 1945-06-06
+doc_date: 1945-06-06
 barcode: 188012
 ---
 

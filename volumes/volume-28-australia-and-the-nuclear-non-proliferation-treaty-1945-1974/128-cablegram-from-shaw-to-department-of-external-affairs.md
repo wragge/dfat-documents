@@ -3,7 +3,7 @@ title: "128 Cablegram from Shaw to Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10502
 vol_id: 28
-date: 1968-05-02
+doc_date: 1968-05-02
 barcode: 1725939
 ---
 

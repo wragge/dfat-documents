@@ -3,7 +3,7 @@ title: "230 Commonwealth Government to Melville"
 volume: "Volume 7: 1944"
 doc_id: 2877
 vol_id: 7
-date: 1944-07-20
+doc_date: 1944-07-20
 ---
 
 # 230 Commonwealth Government to Melville

@@ -3,7 +3,7 @@ title: "43 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation 
 volume: "Volume 3: 1940, January-June"
 doc_id: 809
 vol_id: 3
-date: 1940-02-05
+doc_date: 1940-02-05
 ---
 
 # 43 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Mr R. A. Butler, U.K. Parliamentary Under- Secretary of State for Foreign Affairs

@@ -3,7 +3,7 @@ title: "280 Cabinet Submission by Dedman and Calwell"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4128
 vol_id: 10
-date: 1946-12-06
+doc_date: 1946-12-06
 ---
 
 # 280 Cabinet Submission by Dedman and Calwell

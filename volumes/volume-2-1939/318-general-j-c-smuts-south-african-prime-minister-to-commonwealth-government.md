@@ -3,7 +3,7 @@ title: "318 General J.C. Smuts, South African Prime Minister, to Commonwealth Go
 volume: "Volume 2: 1939"
 doc_id: 655
 vol_id: 2
-date: 1939-10-31
+doc_date: 1939-10-31
 ---
 
 # 318 General J.C. Smuts, South African Prime Minister, to Commonwealth Government

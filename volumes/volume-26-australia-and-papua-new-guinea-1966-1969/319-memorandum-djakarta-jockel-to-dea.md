@@ -3,7 +3,7 @@ title: "319 Memorandum, Djakarta (Jockel) To Dea"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9828
 vol_id: 26
-date: 1969-09-26
+doc_date: 1969-09-26
 barcode: 3118292
 ---
 

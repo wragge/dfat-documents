@@ -3,7 +3,7 @@ title: "306 Fraser to Australian Government"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4988
 vol_id: 12
-date: 1947-04-16
+doc_date: 1947-04-16
 barcode: 446699
 ---
 

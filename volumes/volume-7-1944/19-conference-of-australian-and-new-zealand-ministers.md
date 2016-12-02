@@ -3,7 +3,7 @@ title: "19 Conference of Australian and New Zealand Ministers"
 volume: "Volume 7: 1944"
 doc_id: 2666
 vol_id: 7
-date: 1944-01-18
+doc_date: 1944-01-18
 ---
 
 # 19 Conference of Australian and New Zealand Ministers

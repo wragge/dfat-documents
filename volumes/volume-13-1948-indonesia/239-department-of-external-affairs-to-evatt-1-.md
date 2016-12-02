@@ -3,7 +3,7 @@ title: "239 Department of External Affairs to Evatt [1]"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5506
 vol_id: 13
-date: 1948-09-14
+doc_date: 1948-09-14
 ---
 
 # 239 Department of External Affairs to Evatt [1]

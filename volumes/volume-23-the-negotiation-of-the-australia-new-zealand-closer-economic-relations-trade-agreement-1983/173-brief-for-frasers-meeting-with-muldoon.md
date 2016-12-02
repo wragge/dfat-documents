@@ -3,7 +3,7 @@ title: "173 Brief for Fraser's Meeting with Muldoon"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9042
 vol_id: 23
-date: 1983-01-01
+doc_date: 1983-01-01
 ---
 
 # 173 Brief for Fraser's Meeting with Muldoon

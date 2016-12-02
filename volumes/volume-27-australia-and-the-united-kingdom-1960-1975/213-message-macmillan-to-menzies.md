@@ -3,7 +3,7 @@ title: "213 MESSAGE, MACMILLAN TO MENZIES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10078
 vol_id: 27
-date: 1963-02-01
+doc_date: 1963-02-01
 ---
 
 # 213 MESSAGE, MACMILLAN TO MENZIES

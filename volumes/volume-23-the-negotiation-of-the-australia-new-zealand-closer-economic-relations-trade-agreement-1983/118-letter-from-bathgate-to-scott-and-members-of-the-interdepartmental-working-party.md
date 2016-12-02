@@ -3,7 +3,7 @@ title: "118 Letter from Bathgate to Scott and Members of the Interdepartmental W
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8988
 vol_id: 23
-date: 1980-04-22
+doc_date: 1980-04-22
 ---
 
 # 118 Letter from Bathgate to Scott and Members of the Interdepartmental Working Party

@@ -3,7 +3,7 @@ title: "513 Massey to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5195
 vol_id: 12
-date: 1947-03-14
+doc_date: 1947-03-14
 ---
 
 # 513 Massey to Evatt

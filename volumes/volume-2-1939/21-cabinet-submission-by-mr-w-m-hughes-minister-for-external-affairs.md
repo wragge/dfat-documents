@@ -3,7 +3,7 @@ title: "21 Cabinet Submission by Mr W.M. Hughes, Minister for External Affairs"
 volume: "Volume 2: 1939"
 doc_id: 358
 vol_id: 2
-date: 1939-02-13
+doc_date: 1939-02-13
 ---
 
 # 21 Cabinet Submission by Mr W.M. Hughes, Minister for External Affairs

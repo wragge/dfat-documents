@@ -3,7 +3,7 @@ title: "35 Submission to Whitlam"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7874
 vol_id: 20
-date: 1974-09-23
+doc_date: 1974-09-23
 barcode: 4151641
 ---
 

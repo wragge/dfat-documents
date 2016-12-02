@@ -3,7 +3,7 @@ title: "128 Gilchrist to Burton"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4312
 vol_id: 11
-date: 1947-07-21
+doc_date: 1947-07-21
 ---
 
 # 128 Gilchrist to Burton

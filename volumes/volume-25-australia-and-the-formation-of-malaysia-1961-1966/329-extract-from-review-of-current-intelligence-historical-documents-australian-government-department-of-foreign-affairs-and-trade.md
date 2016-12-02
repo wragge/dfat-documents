@@ -3,7 +3,7 @@ title: "329 Extract from Review of Current Intelligence - Historical Documents -
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9459
 vol_id: 25
-date: 1965-09-03
+doc_date: 1965-09-03
 barcode: 583388
 ---
 

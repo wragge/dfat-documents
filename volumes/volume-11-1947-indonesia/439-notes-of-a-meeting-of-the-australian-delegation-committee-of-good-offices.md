@@ -3,7 +3,7 @@ title: "439 Notes of a Meeting of the Australian Delegation, Committee of Good O
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4623
 vol_id: 11
-date: 1947-11-27
+doc_date: 1947-11-27
 ---
 
 # 439 Notes of a Meeting of the Australian Delegation, Committee of Good Offices

@@ -3,7 +3,7 @@ title: "122 Telex, Hay To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9630
 vol_id: 26
-date: 1967-06-14
+doc_date: 1967-06-14
 ---
 
 # 122 Telex, Hay To Warwick Smith

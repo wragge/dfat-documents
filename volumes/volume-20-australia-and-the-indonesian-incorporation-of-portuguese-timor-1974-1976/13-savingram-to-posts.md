@@ -3,7 +3,7 @@ title: "13 Savingram to Posts"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7852
 vol_id: 20
-date: 1974-07-03
+doc_date: 1974-07-03
 ---
 
 # 13 Savingram to Posts

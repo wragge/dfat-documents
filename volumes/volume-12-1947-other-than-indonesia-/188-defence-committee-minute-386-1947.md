@@ -3,7 +3,7 @@ title: "188 Defence Committee Minute 386/1947"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4870
 vol_id: 12
-date: 1947-11-18
+doc_date: 1947-11-18
 ---
 
 # 188 Defence Committee Minute 386/1947

@@ -3,7 +3,7 @@ title: "338 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Casey, Mini
 volume: "Volume 3: 1940, January-June"
 doc_id: 1104
 vol_id: 3
-date: 1940-06-04
+doc_date: 1940-06-04
 barcode: 235519
 ---
 

@@ -3,7 +3,7 @@ title: "51 CABLEGRAM FROM BARWICK TO MENZIES AND TANGE - Historical Documents - 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9183
 vol_id: 25
-date: 1963-03-13
+doc_date: 1963-03-13
 barcode: 583141
 ---
 

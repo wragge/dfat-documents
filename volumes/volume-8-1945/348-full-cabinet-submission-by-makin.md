@@ -3,7 +3,7 @@ title: "348 Full Cabinet Submission by Makin"
 volume: "Volume 8: 1945"
 doc_id: 3379
 vol_id: 8
-date: 1945-10-29
+doc_date: 1945-10-29
 ---
 
 # 348 Full Cabinet Submission by Makin

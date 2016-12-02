@@ -3,7 +3,7 @@ title: "309 LETTER, NIMMO TO BROWN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10175
 vol_id: 27
-date: 1962-11-20
+doc_date: 1962-11-20
 ---
 
 # 309 LETTER, NIMMO TO BROWN

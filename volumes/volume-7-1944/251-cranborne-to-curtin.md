@@ -3,7 +3,7 @@ title: "251 Cranborne to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2898
 vol_id: 7
-date: 1944-08-17
+doc_date: 1944-08-17
 ---
 
 # 251 Cranborne to Curtin

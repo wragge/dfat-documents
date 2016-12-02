@@ -3,7 +3,7 @@ title: "35 Extract from Paper by Department of Industry and Commerce"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8905
 vol_id: 23
-date: 1979-04-11
+doc_date: 1979-04-11
 ---
 
 # 35 Extract from Paper by Department of Industry and Commerce

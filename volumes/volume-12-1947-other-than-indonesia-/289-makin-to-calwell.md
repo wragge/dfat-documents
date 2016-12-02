@@ -3,7 +3,7 @@ title: "289 Makin to Calwell"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4971
 vol_id: 12
-date: 1947-12-08
+doc_date: 1947-12-08
 ---
 
 # 289 Makin to Calwell

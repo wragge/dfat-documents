@@ -3,8 +3,8 @@ title: "220 Evatt to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2511
 vol_id: 6
-date: 1943-06-12
-barcode: 238608
+doc_date: 1943-06-12
+barcode: 238611
 ---
 
 # 220 Evatt to Curtin
@@ -87,4 +87,4 @@ _
 
 _
 
-_ [ [AA:A4764, 3](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=238608) ]_
+_ [ [AA:A4764, 3](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=238611) ]_

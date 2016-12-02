@@ -3,7 +3,7 @@ title: "122 Submission from Groser to Norrish"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8992
 vol_id: 23
-date: 1980-06-20
+doc_date: 1980-06-20
 ---
 
 # 122 Submission from Groser to Norrish

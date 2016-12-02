@@ -3,7 +3,7 @@ title: "196 Personal Note from Bunting to Menzies - Historical Documents - Austr
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9326
 vol_id: 25
-date: 1964-08-04
+doc_date: 1964-08-04
 barcode: 1345377
 ---
 

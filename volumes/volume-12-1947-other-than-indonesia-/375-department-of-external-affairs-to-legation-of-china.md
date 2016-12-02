@@ -3,7 +3,7 @@ title: "375 Department of External Affairs to Legation of China"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5057
 vol_id: 12
-date: 1947-11-25
+doc_date: 1947-11-25
 ---
 
 # 375 Department of External Affairs to Legation of China

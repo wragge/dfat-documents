@@ -3,7 +3,7 @@ title: "209 Message from Anthony to Muldoon"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9078
 vol_id: 23
-date: 1982-10-05
+doc_date: 1982-10-05
 ---
 
 # 209 Message from Anthony to Muldoon

@@ -3,7 +3,7 @@ title: "25 Department of Information to Bailey"
 volume: "Volume 7: 1944"
 doc_id: 2672
 vol_id: 7
-date: 1944-01-20
+doc_date: 1944-01-20
 ---
 
 # 25 Department of Information to Bailey

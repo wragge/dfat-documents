@@ -3,7 +3,7 @@ title: "29 Evatt to Beasley"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3877
 vol_id: 10
-date: 1946-07-19
+doc_date: 1946-07-19
 ---
 
 # 29 Evatt to Beasley

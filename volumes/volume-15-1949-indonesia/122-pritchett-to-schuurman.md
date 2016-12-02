@@ -3,7 +3,7 @@ title: "122 Pritchett to Schuurman"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6291
 vol_id: 15
-date: 1949-01-20
+doc_date: 1949-01-20
 ---
 
 # 122 Pritchett to Schuurman

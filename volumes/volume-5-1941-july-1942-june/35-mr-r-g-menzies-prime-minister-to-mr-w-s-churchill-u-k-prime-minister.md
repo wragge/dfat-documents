@@ -3,7 +3,7 @@ title: "35 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime M
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1789
 vol_id: 5
-date: 1941-08-08
+doc_date: 1941-08-08
 ---
 
 # 35 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister

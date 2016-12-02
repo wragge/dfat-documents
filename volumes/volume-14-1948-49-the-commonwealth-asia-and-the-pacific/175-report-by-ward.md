@@ -3,7 +3,7 @@ title: "175 Report by Ward"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5951
 vol_id: 14
-date: 1948-12-12
+doc_date: 1948-12-12
 ---
 
 # 175 Report by Ward

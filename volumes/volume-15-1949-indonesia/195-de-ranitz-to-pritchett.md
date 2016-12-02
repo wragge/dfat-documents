@@ -3,7 +3,7 @@ title: "195 De Ranitz to Pritchett"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6364
 vol_id: 15
-date: 1949-02-07
+doc_date: 1949-02-07
 ---
 
 # 195 De Ranitz to Pritchett

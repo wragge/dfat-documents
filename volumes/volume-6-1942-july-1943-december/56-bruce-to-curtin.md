@@ -3,7 +3,7 @@ title: "56 Bruce to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2347
 vol_id: 6
-date: 1942-10-08
+doc_date: 1942-10-08
 ---
 
 # 56 Bruce to Curtin

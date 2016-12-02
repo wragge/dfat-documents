@@ -3,7 +3,7 @@ title: "490 DESPATCH, JAMES TO CALLAGHAN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10357
 vol_id: 27
-date: 1974-12-02
+doc_date: 1974-12-02
 ---
 
 # 490 DESPATCH, JAMES TO CALLAGHAN

@@ -3,7 +3,7 @@ title: "478 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1709
 vol_id: 4
-date: 1941-05-31
+doc_date: 1941-05-31
 barcode: 206133
 ---
 

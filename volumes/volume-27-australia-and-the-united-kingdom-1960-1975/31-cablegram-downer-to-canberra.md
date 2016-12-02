@@ -3,7 +3,7 @@ title: "31 CABLEGRAM, DOWNER TO CANBERRA"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9897
 vol_id: 27
-date: 1965-08-14
+doc_date: 1965-08-14
 ---
 
 # 31 CABLEGRAM, DOWNER TO CANBERRA

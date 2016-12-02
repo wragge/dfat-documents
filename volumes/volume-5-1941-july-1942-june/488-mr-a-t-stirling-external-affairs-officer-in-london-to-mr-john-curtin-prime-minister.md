@@ -3,7 +3,7 @@ title: "488 Mr A. T. Stirling, External Affairs Officer in London, to Mr John Cu
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2242
 vol_id: 5
-date: 1942-05-13
+doc_date: 1942-05-13
 ---
 
 # 488 Mr A. T. Stirling, External Affairs Officer in London, to Mr John Curtin, Prime Minister

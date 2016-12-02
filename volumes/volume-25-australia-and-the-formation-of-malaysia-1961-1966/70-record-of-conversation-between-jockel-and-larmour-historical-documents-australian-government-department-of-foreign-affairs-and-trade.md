@@ -3,7 +3,7 @@ title: "70 Record Of Conversation Between Jockel and Larmour - Historical Docume
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9202
 vol_id: 25
-date: 1963-05-29
+doc_date: 1963-05-29
 barcode: 583145
 ---
 

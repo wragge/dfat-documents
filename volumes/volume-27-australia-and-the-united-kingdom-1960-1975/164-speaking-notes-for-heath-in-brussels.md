@@ -3,7 +3,7 @@ title: "164 SPEAKING NOTES FOR HEATH IN BRUSSELS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10029
 vol_id: 27
-date: 1962-02-22
+doc_date: 1962-02-22
 ---
 
 # 164 SPEAKING NOTES FOR HEATH IN BRUSSELS

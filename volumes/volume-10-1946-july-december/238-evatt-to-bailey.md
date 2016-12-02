@@ -3,7 +3,7 @@ title: "238 Evatt to Bailey"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4086
 vol_id: 10
-date: 1946-11-22
+doc_date: 1946-11-22
 ---
 
 # 238 Evatt to Bailey

@@ -3,7 +3,7 @@ title: "255 Embassy in Washington to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6424
 vol_id: 15
-date: 1949-02-28
+doc_date: 1949-02-28
 ---
 
 # 255 Embassy in Washington to Department of External Affairs

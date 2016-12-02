@@ -3,7 +3,7 @@ title: "468 Submission by the Australian Delegation, Committee of Good Offices [
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4652
 vol_id: 11
-date: 1947-12-15
+doc_date: 1947-12-15
 ---
 
 # 468 Submission by the Australian Delegation, Committee of Good Offices [1]

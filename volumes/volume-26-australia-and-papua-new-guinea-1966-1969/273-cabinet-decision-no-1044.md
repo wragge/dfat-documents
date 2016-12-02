@@ -3,7 +3,7 @@ title: "273 Cabinet Decision No. 1044"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9781
 vol_id: 26
-date: 1969-05-20
+doc_date: 1969-05-20
 barcode: 3054003
 ---
 

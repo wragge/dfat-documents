@@ -3,7 +3,7 @@ title: "39 MINUTE, BAILEY TO BUNTING"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9905
 vol_id: 27
-date: 1965-10-13
+doc_date: 1965-10-13
 ---
 
 # 39 MINUTE, BAILEY TO BUNTING

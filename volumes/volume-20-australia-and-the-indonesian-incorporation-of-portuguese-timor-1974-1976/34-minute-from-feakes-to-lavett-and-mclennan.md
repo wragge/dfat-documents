@@ -3,7 +3,7 @@ title: "34 Minute from Feakes to Lavett and Mclennan"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7873
 vol_id: 20
-date: 1974-09-20
+doc_date: 1974-09-20
 ---
 
 # 34 Minute from Feakes to Lavett and Mclennan

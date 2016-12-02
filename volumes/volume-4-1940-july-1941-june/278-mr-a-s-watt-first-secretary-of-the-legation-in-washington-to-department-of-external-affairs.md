@@ -3,7 +3,7 @@ title: "278 Mr A. S. Watt, First Secretary of the Legation in Washington, to Dep
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1509
 vol_id: 4
-date: 1941-02-07
+doc_date: 1941-02-07
 ---
 
 # 278 Mr A. S. Watt, First Secretary of the Legation in Washington, to Department of External Affairs

@@ -3,7 +3,7 @@ title: "9 Mr M.J. Savage, N.Z. Prime Minister, to Mr J.A. Lyons, Prime Minister"
 volume: "Volume 2: 1939"
 doc_id: 346
 vol_id: 2
-date: 1939-01-24
+doc_date: 1939-01-24
 ---
 
 # 9 Mr M.J. Savage, N.Z. Prime Minister, to Mr J.A. Lyons, Prime Minister

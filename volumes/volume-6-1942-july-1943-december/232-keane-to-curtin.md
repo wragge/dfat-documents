@@ -3,7 +3,7 @@ title: "232 Keane to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2523
 vol_id: 6
-date: 1943-06-30
+doc_date: 1943-06-30
 ---
 
 # 232 Keane to Curtin

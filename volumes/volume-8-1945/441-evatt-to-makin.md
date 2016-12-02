@@ -3,7 +3,7 @@ title: "441 Evatt to Makin"
 volume: "Volume 8: 1945"
 doc_id: 3472
 vol_id: 8
-date: 1945-12-09
+doc_date: 1945-12-09
 barcode: 188247
 ---
 

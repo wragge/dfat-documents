@@ -3,7 +3,7 @@ title: "102 Submission, Plimsoll To Gorton"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9610
 vol_id: 26
-date: 1967-04-03
+doc_date: 1967-04-03
 barcode: 545674
 ---
 

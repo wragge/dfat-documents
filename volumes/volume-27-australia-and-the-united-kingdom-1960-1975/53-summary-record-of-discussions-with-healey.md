@@ -3,7 +3,7 @@ title: "53 SUMMARY RECORD OF DISCUSSIONS WITH HEALEY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9918
 vol_id: 27
-date: 1966-02-02
+doc_date: 1966-02-02
 ---
 
 # 53 SUMMARY RECORD OF DISCUSSIONS WITH HEALEY

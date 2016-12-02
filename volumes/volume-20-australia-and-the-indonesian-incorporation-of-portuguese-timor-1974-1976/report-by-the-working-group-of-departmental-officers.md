@@ -3,7 +3,7 @@ title: "Report by the Working Group of Departmental Officers"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8340
 vol_id: 20
-date: 1963-04-04
+doc_date: 1963-04-04
 ---
 
 # Report by the Working Group of Departmental Officers

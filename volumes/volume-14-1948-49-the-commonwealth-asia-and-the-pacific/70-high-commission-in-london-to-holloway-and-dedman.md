@@ -3,7 +3,7 @@ title: "70 High Commission in London to Holloway and Dedman"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5846
 vol_id: 14
-date: 1949-04-22
+doc_date: 1949-04-22
 ---
 
 # 70 High Commission in London to Holloway and Dedman

@@ -3,7 +3,7 @@ title: "99 Garnett to Strahan"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3611
 vol_id: 9
-date: 1946-02-20
+doc_date: 1946-02-20
 ---
 
 # 99 Garnett to Strahan

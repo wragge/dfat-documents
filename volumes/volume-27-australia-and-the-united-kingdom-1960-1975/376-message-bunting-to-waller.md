@@ -3,7 +3,7 @@ title: "376 MESSAGE, BUNTING TO WALLER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10242
 vol_id: 27
-date: 1971-08-11
+doc_date: 1971-08-11
 ---
 
 # 376 MESSAGE, BUNTING TO WALLER

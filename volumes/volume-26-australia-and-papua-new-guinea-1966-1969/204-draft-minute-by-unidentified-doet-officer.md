@@ -3,7 +3,7 @@ title: "204 Draft Minute By Unidentified Doet Officer"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9712
 vol_id: 26
-date: 1969-01-23
+doc_date: 1969-01-23
 ---
 
 # 204 Draft Minute By Unidentified Doet Officer

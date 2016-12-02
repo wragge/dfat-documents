@@ -3,7 +3,7 @@ title: "31 Attlee to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3543
 vol_id: 9
-date: 1946-01-15
+doc_date: 1946-01-15
 ---
 
 # 31 Attlee to Chifley

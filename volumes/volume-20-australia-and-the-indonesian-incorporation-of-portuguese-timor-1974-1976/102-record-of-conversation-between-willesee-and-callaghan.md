@@ -3,7 +3,7 @@ title: "102 Record of Conversation Between Willesee and Callaghan"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7941
 vol_id: 20
-date: 1975-03-04
+doc_date: 1975-03-04
 ---
 
 # 102 Record of Conversation Between Willesee and Callaghan

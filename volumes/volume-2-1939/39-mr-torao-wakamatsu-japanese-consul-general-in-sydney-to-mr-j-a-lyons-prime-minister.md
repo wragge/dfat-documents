@@ -3,7 +3,7 @@ title: "39 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J.A. Lyo
 volume: "Volume 2: 1939"
 doc_id: 376
 vol_id: 2
-date: 1939-03-15
+doc_date: 1939-03-15
 ---
 
 # 39 Mr Torao Wakamatsu, Japanese Consul-General in Sydney, to Mr J.A. Lyons, Prime Minister

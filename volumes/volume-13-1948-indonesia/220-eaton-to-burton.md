@@ -3,7 +3,7 @@ title: "220 Eaton to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5487
 vol_id: 13
-date: 1948-08-04
+doc_date: 1948-08-04
 ---
 
 # 220 Eaton to Burton

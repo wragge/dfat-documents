@@ -3,7 +3,7 @@ title: "357 Stirling to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 3004
 vol_id: 7
-date: 1944-11-22
+doc_date: 1944-11-22
 ---
 
 # 357 Stirling to Evatt

@@ -3,7 +3,7 @@ title: "42 LETTER, DOWNER TO WILSON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10296
 vol_id: 27
-date: 1965-10-22
+doc_date: 1965-10-22
 ---
 
 # 42 LETTER, DOWNER TO WILSON

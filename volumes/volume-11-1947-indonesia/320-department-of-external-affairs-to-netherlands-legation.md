@@ -3,7 +3,7 @@ title: "320 Department of External Affairs to Netherlands Legation"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4504
 vol_id: 11
-date: 1947-09-08
+doc_date: 1947-09-08
 ---
 
 # 320 Department of External Affairs to Netherlands Legation

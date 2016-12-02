@@ -3,7 +3,7 @@ title: "326 MINUTE, ARMSTRONG TO HEATH"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10192
 vol_id: 27
-date: 1971-01-30
+doc_date: 1971-01-30
 ---
 
 # 326 MINUTE, ARMSTRONG TO HEATH

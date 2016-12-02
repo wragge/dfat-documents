@@ -3,7 +3,7 @@ title: "50 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1804
 vol_id: 5
-date: 1941-08-24
+doc_date: 1941-08-24
 barcode: 206127
 ---
 

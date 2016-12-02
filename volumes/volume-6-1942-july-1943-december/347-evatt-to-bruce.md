@@ -3,7 +3,7 @@ title: "347 Evatt to Bruce"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2638
 vol_id: 6
-date: 1943-12-09
+doc_date: 1943-12-09
 ---
 
 # 347 Evatt to Bruce

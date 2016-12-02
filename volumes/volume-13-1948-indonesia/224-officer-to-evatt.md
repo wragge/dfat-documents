@@ -3,7 +3,7 @@ title: "224 Officer to Evatt"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5491
 vol_id: 13
-date: 1948-08-12
+doc_date: 1948-08-12
 ---
 
 # 224 Officer to Evatt

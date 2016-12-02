@@ -3,7 +3,7 @@ title: "391 Department of External Affairs to Hodgson, Makin, Beasley and Pritch
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5658
 vol_id: 13
-date: 1948-12-19
+doc_date: 1948-12-19
 ---
 
 # 391 Department of External Affairs to Hodgson, Makin, Beasley and Pritchett

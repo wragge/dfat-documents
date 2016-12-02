@@ -3,7 +3,7 @@ title: "265 Savingram from Critchley to Canberra - Historical Documents - Austra
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9395
 vol_id: 25
-date: 1965-04-14
+doc_date: 1965-04-14
 ---
 
 # 265 Savingram from Critchley to Canberra - Historical Documents - Australian Government Department of Foreign Affairs and Trade

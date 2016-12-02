@@ -3,7 +3,7 @@ title: "319 Embassy in Washington to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6095
 vol_id: 14
-date: 1949-03-15
+doc_date: 1949-03-15
 ---
 
 # 319 Embassy in Washington to Department of External Affairs

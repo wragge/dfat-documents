@@ -3,7 +3,7 @@ title: "21 Letter, Watkins To Cleland"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9530
 vol_id: 26
-date: 1966-03-01
+doc_date: 1966-03-01
 barcode: 4151912
 ---
 

@@ -3,7 +3,7 @@ title: "101 Ministerial Submission to Fife from Evans"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8971
 vol_id: 23
-date: 1980-08-29
+doc_date: 1980-08-29
 ---
 
 # 101 Ministerial Submission to Fife from Evans

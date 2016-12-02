@@ -3,7 +3,7 @@ title: "179 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 10: 1946, July-December"
 doc_id: 4027
 vol_id: 10
-date: 1946-10-25
+doc_date: 1946-10-25
 barcode: 194036
 ---
 

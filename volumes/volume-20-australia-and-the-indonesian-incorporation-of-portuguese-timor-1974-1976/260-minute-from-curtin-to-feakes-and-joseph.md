@@ -3,7 +3,7 @@ title: "260 Minute from Curtin to Feakes and Joseph"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8098
 vol_id: 20
-date: 1975-10-15
+doc_date: 1975-10-15
 ---
 
 # 260 Minute from Curtin to Feakes and Joseph

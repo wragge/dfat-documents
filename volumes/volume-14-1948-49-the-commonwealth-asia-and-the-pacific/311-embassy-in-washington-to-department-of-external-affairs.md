@@ -3,7 +3,7 @@ title: "311 Embassy in Washington to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6087
 vol_id: 14
-date: 1949-06-28
+doc_date: 1949-06-28
 ---
 
 # 311 Embassy in Washington to Department of External Affairs

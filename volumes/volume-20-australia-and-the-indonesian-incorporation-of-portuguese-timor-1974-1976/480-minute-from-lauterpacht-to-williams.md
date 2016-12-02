@@ -3,7 +3,7 @@ title: "480 Minute from Lauterpacht to Williams"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8318
 vol_id: 20
-date: 1976-07-09
+doc_date: 1976-07-09
 ---
 
 # 480 Minute from Lauterpacht to Williams

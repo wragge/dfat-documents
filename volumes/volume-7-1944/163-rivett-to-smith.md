@@ -3,7 +3,7 @@ title: "163 Rivett to Smith"
 volume: "Volume 7: 1944"
 doc_id: 2810
 vol_id: 7
-date: 1944-05-23
+doc_date: 1944-05-23
 ---
 
 # 163 Rivett to Smith

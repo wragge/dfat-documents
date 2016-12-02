@@ -3,7 +3,7 @@ title: "365 Note by McIntyre"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6141
 vol_id: 14
-date: 1949-09-16
+doc_date: 1949-09-16
 ---
 
 # 365 Note by McIntyre

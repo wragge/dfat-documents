@@ -3,7 +3,7 @@ title: "530 Strahan to Garnett"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5212
 vol_id: 12
-date: 1947-08-19
+doc_date: 1947-08-19
 ---
 
 # 530 Strahan to Garnett

@@ -3,7 +3,7 @@ title: "425 Letter from Renouf to Harry"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8263
 vol_id: 20
-date: 1976-02-12
+doc_date: 1976-02-12
 ---
 
 # 425 Letter from Renouf to Harry

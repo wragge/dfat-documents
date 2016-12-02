@@ -3,7 +3,7 @@ title: "66 Cablegram From Kevin to Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8417
 vol_id: 21
-date: 1951-03-17
+doc_date: 1951-03-17
 barcode: 699472
 ---
 

@@ -3,7 +3,7 @@ title: "113 Cabinet Sub-Committee on Trade and Employment Conference to Australi
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4795
 vol_id: 12
-date: 1947-06-21
+doc_date: 1947-06-21
 ---
 
 # 113 Cabinet Sub-Committee on Trade and Employment Conference to Australian Delegation, Geneva

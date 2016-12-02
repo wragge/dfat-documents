@@ -3,7 +3,7 @@ title: "218 Moore to Keane"
 volume: "Volume 8: 1945"
 doc_id: 3249
 vol_id: 8
-date: 1945-08-25
+doc_date: 1945-08-25
 barcode: 187582
 ---
 

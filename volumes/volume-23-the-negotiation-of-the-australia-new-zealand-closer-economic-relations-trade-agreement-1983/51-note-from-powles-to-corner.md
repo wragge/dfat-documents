@@ -3,7 +3,7 @@ title: "51 Note from Powles to Corner"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8921
 vol_id: 23
-date: 1979-10-30
+doc_date: 1979-10-30
 ---
 
 # 51 Note from Powles to Corner

@@ -3,7 +3,7 @@ title: "393 Mr R. G. Menzies, Prime Minister, to Mr M. Akiyama, Japanese Consul-
 volume: "Volume 3: 1940, January-June"
 doc_id: 1159
 vol_id: 3
-date: 1940-06-17
+doc_date: 1940-06-17
 ---
 
 # 393 Mr R. G. Menzies, Prime Minister, to Mr M. Akiyama, Japanese Consul-General in Australia

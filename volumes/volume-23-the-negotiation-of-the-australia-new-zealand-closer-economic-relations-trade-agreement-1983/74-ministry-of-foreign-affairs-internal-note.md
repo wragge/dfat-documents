@@ -3,7 +3,7 @@ title: "74 Ministry of Foreign Affairs Internal Note"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8944
 vol_id: 23
-date: 1979-11-05
+doc_date: 1979-11-05
 ---
 
 # 74 Ministry of Foreign Affairs Internal Note

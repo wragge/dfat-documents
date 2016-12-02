@@ -3,7 +3,7 @@ title: "390 Statement by Bullock at Committee No. 1, Far Eastern Commission"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5072
 vol_id: 12
-date: 1947-07-25
+doc_date: 1947-07-25
 ---
 
 # 390 Statement by Bullock at Committee No. 1, Far Eastern Commission

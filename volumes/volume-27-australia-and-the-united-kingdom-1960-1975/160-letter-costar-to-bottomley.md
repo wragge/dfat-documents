@@ -3,7 +3,7 @@ title: "160 LETTER, COSTAR TO BOTTOMLEY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10025
 vol_id: 27
-date: 1962-01-10
+doc_date: 1962-01-10
 ---
 
 # 160 LETTER, COSTAR TO BOTTOMLEY

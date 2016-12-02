@@ -3,7 +3,7 @@ title: "123 Memorandum by Mr T. Elink Schuurman, Netherlands Consul- General in 
 volume: "Volume 3: 1940, January-June"
 doc_id: 889
 vol_id: 3
-date: 1940-04-02
+doc_date: 1940-04-02
 ---
 
 # 123 Memorandum by Mr T. Elink Schuurman, Netherlands Consul- General in Australia

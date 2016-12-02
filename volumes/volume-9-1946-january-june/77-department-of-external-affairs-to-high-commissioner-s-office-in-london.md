@@ -3,7 +3,7 @@ title: "77 Department of External Affairs to High Commissioner's Office in Londo
 volume: "Volume 9: 1946, January-June"
 doc_id: 3589
 vol_id: 9
-date: 1946-02-08
+doc_date: 1946-02-08
 barcode: 193770
 ---
 

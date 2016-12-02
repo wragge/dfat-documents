@@ -3,7 +3,7 @@ title: "23 CABLEGRAM TO NEW YORK"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8507
 vol_id: 22
-date: 1950-12-13
+doc_date: 1950-12-13
 ---
 
 # 23 CABLEGRAM TO NEW YORK

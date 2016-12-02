@@ -3,7 +3,7 @@ title: "159 Cablegram from Department of External Affairs to Embassy in Moscow"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10533
 vol_id: 28
-date: 1969-07-08
+doc_date: 1969-07-08
 barcode: 1730537
 ---
 

@@ -3,7 +3,7 @@ title: "94 Minute from Booker to Anderson"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10468
 vol_id: 28
-date: 1967-08-16
+doc_date: 1967-08-16
 barcode: 1730506
 ---
 

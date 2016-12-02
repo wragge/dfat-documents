@@ -3,7 +3,7 @@ title: "98 Letter From Menzies To Barwick - Historical Documents - Australian Go
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9229
 vol_id: 25
-date: 1963-08-08
+doc_date: 1963-08-08
 barcode: 1500833
 ---
 

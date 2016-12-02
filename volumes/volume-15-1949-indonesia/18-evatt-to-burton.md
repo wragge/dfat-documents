@@ -3,7 +3,7 @@ title: "18 Evatt to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6187
 vol_id: 15
-date: 1948-03-17
+doc_date: 1948-03-17
 ---
 
 # 18 Evatt to Burton

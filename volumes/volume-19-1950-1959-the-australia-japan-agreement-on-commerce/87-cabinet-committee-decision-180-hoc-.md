@@ -3,7 +3,7 @@ title: "87 Cabinet Committee Decision 180(Hoc)"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7692
 vol_id: 19
-date: 1954-11-10
+doc_date: 1954-11-10
 ---
 
 # 87 Cabinet Committee Decision 180(Hoc)

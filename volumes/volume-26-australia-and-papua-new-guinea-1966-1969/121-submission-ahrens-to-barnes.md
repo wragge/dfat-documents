@@ -3,7 +3,7 @@ title: "121 Submission, Ahrens To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9629
 vol_id: 26
-date: 1967-06-14
+doc_date: 1967-06-14
 ---
 
 # 121 Submission, Ahrens To Barnes

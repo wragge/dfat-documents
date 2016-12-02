@@ -3,7 +3,7 @@ title: "396 United States Department of State to Embassy in Washington"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5078
 vol_id: 12
-date: 1947-06-09
+doc_date: 1947-06-09
 ---
 
 # 396 United States Department of State to Embassy in Washington

@@ -3,7 +3,7 @@ title: "211 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government"
 volume: "Volume 3: 1940, January-June"
 doc_id: 977
 vol_id: 3
-date: 1940-05-05
+doc_date: 1940-05-05
 ---
 
 # 211 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government

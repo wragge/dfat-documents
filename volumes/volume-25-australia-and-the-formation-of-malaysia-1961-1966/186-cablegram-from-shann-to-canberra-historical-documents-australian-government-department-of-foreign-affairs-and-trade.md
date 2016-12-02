@@ -3,7 +3,7 @@ title: "186 Cablegram from Shann to Canberra - Historical Documents - Australian
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9316
 vol_id: 25
-date: 1964-06-09
+doc_date: 1964-06-09
 barcode: 1500910
 ---
 

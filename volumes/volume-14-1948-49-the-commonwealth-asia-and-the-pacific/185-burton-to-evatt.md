@@ -3,7 +3,7 @@ title: "185 Burton to Evatt"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5961
 vol_id: 14
-date: 1948-10-21
+doc_date: 1948-10-21
 ---
 
 # 185 Burton to Evatt

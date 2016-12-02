@@ -3,7 +3,7 @@ title: "360 Australian Military Observing Officers to Eaton"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4544
 vol_id: 11
-date: 1947-10-01
+doc_date: 1947-10-01
 ---
 
 # 360 Australian Military Observing Officers to Eaton

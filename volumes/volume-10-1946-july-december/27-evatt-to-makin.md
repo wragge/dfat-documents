@@ -3,7 +3,7 @@ title: "27 Evatt to Makin"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3875
 vol_id: 10
-date: 1946-07-18
+doc_date: 1946-07-18
 barcode: 191277
 ---
 

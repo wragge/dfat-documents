@@ -3,7 +3,7 @@ title: "245 Brookes to Dunk"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3757
 vol_id: 9
-date: 1946-05-14
+doc_date: 1946-05-14
 ---
 
 # 245 Brookes to Dunk

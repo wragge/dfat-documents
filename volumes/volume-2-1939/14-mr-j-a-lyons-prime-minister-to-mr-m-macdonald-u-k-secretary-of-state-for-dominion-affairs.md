@@ -3,7 +3,7 @@ title: "14 Mr J.A. Lyons, Prime Minister, to Mr M. MacDonald, U.K. Secretary of 
 volume: "Volume 2: 1939"
 doc_id: 351
 vol_id: 2
-date: 1939-01-27
+doc_date: 1939-01-27
 ---
 
 # 14 Mr J.A. Lyons, Prime Minister, to Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs

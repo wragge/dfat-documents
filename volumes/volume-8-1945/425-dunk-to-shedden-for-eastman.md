@@ -3,7 +3,7 @@ title: "425 Dunk to Shedden for Eastman"
 volume: "Volume 8: 1945"
 doc_id: 3456
 vol_id: 8
-date: 1945-12-03
+doc_date: 1945-12-03
 barcode: 170202
 ---
 

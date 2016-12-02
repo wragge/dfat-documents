@@ -3,7 +3,7 @@ title: "302 Officer to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3814
 vol_id: 9
-date: 1946-06-11
+doc_date: 1946-06-11
 ---
 
 # 302 Officer to Department of External Affairs

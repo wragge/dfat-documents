@@ -3,7 +3,7 @@ title: "119 Informal Trade Talks: Initial Statement By Uyama [1]"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7724
 vol_id: 19
-date: 1955-10-31
+doc_date: 1955-10-31
 ---
 
 # 119 Informal Trade Talks: Initial Statement By Uyama [1]

@@ -3,7 +3,7 @@ title: "41 Department of External Affairs to Australian Delegation, United Natio
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4723
 vol_id: 12
-date: 1947-07-15
+doc_date: 1947-07-15
 barcode: 194943
 ---
 

@@ -3,7 +3,7 @@ title: "164 MINUTE FROM HEWITTt TO GORTON"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8647
 vol_id: 22
-date: 1971-03-12
+doc_date: 1971-03-12
 ---
 
 # 164 MINUTE FROM HEWITTt TO GORTON

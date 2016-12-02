@@ -3,7 +3,7 @@ title: "91 Plimsoll to Tange"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6260
 vol_id: 15
-date: 1949-01-15
+doc_date: 1949-01-15
 barcode: 587590
 ---
 

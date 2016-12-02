@@ -3,7 +3,7 @@ title: "391 Dexter to McIntyre"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6167
 vol_id: 14
-date: 1947-08-14
+doc_date: 1947-08-14
 ---
 
 # 391 Dexter to McIntyre

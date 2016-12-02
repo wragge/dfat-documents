@@ -3,7 +3,7 @@ title: "108 Department of External Affairs to Mr B. C. Ballard, Official Represe
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1339
 vol_id: 4
-date: 1940-09-08
+doc_date: 1940-09-08
 ---
 
 # 108 Department of External Affairs to Mr B. C. Ballard, Official Representative in New Caledonia

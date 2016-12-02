@@ -3,7 +3,7 @@ title: "323 Dr C. J. Pao, Chinese Consul-General in Australia, to Mr J. McEwen, 
 volume: "Volume 3: 1940, January-June"
 doc_id: 1089
 vol_id: 3
-date: 1940-06-01
+doc_date: 1940-06-01
 ---
 
 # 323 Dr C. J. Pao, Chinese Consul-General in Australia, to Mr J. McEwen, Minister for External Affairs

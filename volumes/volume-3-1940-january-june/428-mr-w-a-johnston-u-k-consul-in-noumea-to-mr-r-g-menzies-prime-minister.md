@@ -3,7 +3,7 @@ title: "428 Mr W. A. Johnston, U.K. Consul in Noumea, to Mr R. G. Menzies, Prime
 volume: "Volume 3: 1940, January-June"
 doc_id: 1194
 vol_id: 3
-date: 1940-06-24
+doc_date: 1940-06-24
 barcode: 170323
 ---
 

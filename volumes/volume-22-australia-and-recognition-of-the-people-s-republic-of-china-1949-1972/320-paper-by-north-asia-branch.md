@@ -3,7 +3,7 @@ title: "320 PAPER BY NORTH ASIA BRANCH"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8804
 vol_id: 22
-date: 1972-03-16
+doc_date: 1972-03-16
 ---
 
 # 320 PAPER BY NORTH ASIA BRANCH

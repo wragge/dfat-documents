@@ -3,7 +3,7 @@ title: "161 Minutes of a Conference between Churchill and Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2808
 vol_id: 7
-date: 1944-05-21
+doc_date: 1944-05-21
 ---
 
 # 161 Minutes of a Conference between Churchill and Curtin

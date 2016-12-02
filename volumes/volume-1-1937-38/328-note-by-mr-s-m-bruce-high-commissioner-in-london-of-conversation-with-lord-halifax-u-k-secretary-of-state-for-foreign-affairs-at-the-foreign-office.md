@@ -3,7 +3,7 @@ title: "328 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation
 volume: "Volume 1: 1937-38"
 doc_id: 327
 vol_id: 1
-date: 1938-12-06
+doc_date: 1938-12-06
 ---
 
 # 328 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Lord Halifax, U.K. Secretary of State for Foreign Affairs, at the Foreign Office

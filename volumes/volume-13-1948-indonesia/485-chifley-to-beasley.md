@@ -3,7 +3,7 @@ title: "485 Chifley to Beasley"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5752
 vol_id: 13
-date: 1948-12-28
+doc_date: 1948-12-28
 ---
 
 # 485 Chifley to Beasley

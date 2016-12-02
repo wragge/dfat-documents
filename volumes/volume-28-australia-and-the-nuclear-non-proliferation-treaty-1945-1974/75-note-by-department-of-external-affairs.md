@@ -3,7 +3,7 @@ title: "75 Note by Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10449
 vol_id: 28
-date: 1965-05-20
+doc_date: 1965-05-20
 barcode: 1725934
 ---
 

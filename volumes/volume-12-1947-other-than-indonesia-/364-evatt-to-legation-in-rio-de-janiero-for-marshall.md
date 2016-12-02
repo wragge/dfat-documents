@@ -3,7 +3,7 @@ title: "364 Evatt to Legation in Rio de Janiero for Marshall"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5046
 vol_id: 12
-date: 1947-09-02
+doc_date: 1947-09-02
 ---
 
 # 364 Evatt to Legation in Rio de Janiero for Marshall

@@ -3,7 +3,7 @@ title: "277 Department of External Affairs to Makin, Landale, Eaton and Beasley"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5544
 vol_id: 13
-date: 1948-10-13
+doc_date: 1948-10-13
 ---
 
 # 277 Department of External Affairs to Makin, Landale, Eaton and Beasley

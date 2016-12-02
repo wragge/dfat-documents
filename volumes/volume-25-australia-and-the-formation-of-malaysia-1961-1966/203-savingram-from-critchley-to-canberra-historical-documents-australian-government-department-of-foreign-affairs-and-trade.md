@@ -3,7 +3,7 @@ title: "203 Savingram from Critchley to Canberra - Historical Documents - Austra
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9333
 vol_id: 25
-date: 1964-09-10
+doc_date: 1964-09-10
 barcode: 1505563
 ---
 

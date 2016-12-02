@@ -3,7 +3,7 @@ title: "133 Cablegram from Mission to the United Nations to Department of Extern
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10507
 vol_id: 28
-date: 1968-05-09
+doc_date: 1968-05-09
 barcode: 1725939
 ---
 

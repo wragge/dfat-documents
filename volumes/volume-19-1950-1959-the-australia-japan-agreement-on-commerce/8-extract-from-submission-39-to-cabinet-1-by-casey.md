@@ -3,7 +3,7 @@ title: "8 Extract From Submission 39 To Cabinet [1] By Casey"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7613
 vol_id: 19
-date: 1951-09-21
+doc_date: 1951-09-21
 ---
 
 # 8 Extract From Submission 39 To Cabinet [1] By Casey

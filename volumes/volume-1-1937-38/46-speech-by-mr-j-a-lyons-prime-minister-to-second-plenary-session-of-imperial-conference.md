@@ -3,7 +3,7 @@ title: "46 Speech by Mr J. A. Lyons, Prime Minister, to Second Plenary Session o
 volume: "Volume 1: 1937-38"
 doc_id: 46
 vol_id: 1
-date: 1937-06-15
+doc_date: 1937-06-15
 ---
 
 # 46 Speech by Mr J. A. Lyons, Prime Minister, to Second Plenary Session of Imperial Conference

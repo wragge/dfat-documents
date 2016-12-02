@@ -3,7 +3,7 @@ title: "369 LETTER, CARR TO HOME"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10235
 vol_id: 27
-date: 1972-12-22
+doc_date: 1972-12-22
 ---
 
 # 369 LETTER, CARR TO HOME

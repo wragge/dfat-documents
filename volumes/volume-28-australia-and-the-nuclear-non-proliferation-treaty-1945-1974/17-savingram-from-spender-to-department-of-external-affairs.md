@@ -3,7 +3,7 @@ title: "17 Savingram from Spender to Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10392
 vol_id: 28
-date: 1955-04-19
+doc_date: 1955-04-19
 barcode: 504946
 ---
 

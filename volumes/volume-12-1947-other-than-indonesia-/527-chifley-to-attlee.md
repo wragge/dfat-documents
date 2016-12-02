@@ -3,7 +3,7 @@ title: "527 Chifley to Attlee"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5209
 vol_id: 12
-date: 1947-05-27
+doc_date: 1947-05-27
 ---
 
 # 527 Chifley to Attlee

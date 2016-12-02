@@ -3,7 +3,7 @@ title: "535 United States Government to Australian Government"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6704
 vol_id: 15
-date: 1949-11-29
+doc_date: 1949-11-29
 ---
 
 # 535 United States Government to Australian Government

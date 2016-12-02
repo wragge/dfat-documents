@@ -3,7 +3,7 @@ title: "336 Burton to Evatt"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4520
 vol_id: 11
-date: 1947-09-17
+doc_date: 1947-09-17
 ---
 
 # 336 Burton to Evatt

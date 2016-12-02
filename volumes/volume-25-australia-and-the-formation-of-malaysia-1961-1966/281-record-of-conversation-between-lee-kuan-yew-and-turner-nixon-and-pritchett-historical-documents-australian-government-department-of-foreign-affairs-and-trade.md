@@ -3,7 +3,7 @@ title: "281 Record of Conversation Between Lee Kuan Yew and Turner, Nixon and Pr
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9411
 vol_id: 25
-date: 1965-07-01
+doc_date: 1965-07-01
 barcode: 3040663
 ---
 

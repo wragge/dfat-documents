@@ -3,7 +3,7 @@ title: "178 Letter from Australian Dairy Farmers' Federation to Anthony"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9047
 vol_id: 23
-date: 1982-02-03
+doc_date: 1982-02-03
 ---
 
 # 178 Letter from Australian Dairy Farmers' Federation to Anthony

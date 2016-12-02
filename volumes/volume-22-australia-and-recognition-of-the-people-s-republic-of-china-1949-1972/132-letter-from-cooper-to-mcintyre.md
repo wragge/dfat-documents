@@ -3,7 +3,7 @@ title: "132 LETTER FROM COOPER TO McINTYRE"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8615
 vol_id: 22
-date: 1969-07-15
+doc_date: 1969-07-15
 ---
 
 # 132 LETTER FROM COOPER TO McINTYRE

@@ -3,7 +3,7 @@ title: "90 Submission, Gutman To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9598
 vol_id: 26
-date: 1967-02-09
+doc_date: 1967-02-09
 ---
 
 # 90 Submission, Gutman To Barnes

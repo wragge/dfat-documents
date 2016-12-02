@@ -3,7 +3,7 @@ title: "362 Heydon to Department of External Affairs"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4546
 vol_id: 11
-date: 1947-10-02
+doc_date: 1947-10-02
 ---
 
 # 362 Heydon to Department of External Affairs

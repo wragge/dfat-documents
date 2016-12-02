@@ -3,7 +3,7 @@ title: "270 Officer to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6046
 vol_id: 14
-date: 1949-10-04
+doc_date: 1949-10-04
 ---
 
 # 270 Officer to Department of External Affairs

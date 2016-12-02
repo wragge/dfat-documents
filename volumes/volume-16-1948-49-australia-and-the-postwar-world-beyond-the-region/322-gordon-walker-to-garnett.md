@@ -3,7 +3,7 @@ title: "322 Gordon Walker to Garnett"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7037
 vol_id: 16
-date: 1948-04-24
+doc_date: 1948-04-24
 barcode: 430735
 ---
 

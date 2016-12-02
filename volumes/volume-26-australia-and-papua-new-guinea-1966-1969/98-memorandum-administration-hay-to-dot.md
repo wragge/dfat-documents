@@ -3,7 +3,7 @@ title: "98 Memorandum, Administration (Hay) To Dot"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9606
 vol_id: 26
-date: 1967-03-31
+doc_date: 1967-03-31
 barcode: 11345517
 ---
 

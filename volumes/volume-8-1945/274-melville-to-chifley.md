@@ -3,7 +3,7 @@ title: "274 Melville to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3305
 vol_id: 8
-date: 1945-09-29
+doc_date: 1945-09-29
 ---
 
 # 274 Melville to Chifley

@@ -3,7 +3,7 @@ title: "57 Letter From South Australian Wheat & Wool Growers' Association To Men
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7662
 vol_id: 19
-date: 1954-03-24
+doc_date: 1954-03-24
 ---
 
 # 57 Letter From South Australian Wheat & Wool Growers' Association To Menzies

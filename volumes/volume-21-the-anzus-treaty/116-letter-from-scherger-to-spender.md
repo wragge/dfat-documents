@@ -3,7 +3,7 @@ title: "116 Letter From Scherger to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8467
 vol_id: 21
-date: 1951-09-27
+doc_date: 1951-09-27
 ---
 
 # 116 Letter From Scherger to Spender

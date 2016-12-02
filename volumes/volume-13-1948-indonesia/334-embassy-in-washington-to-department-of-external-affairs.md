@@ -3,7 +3,7 @@ title: "334 Embassy in Washington to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5601
 vol_id: 13
-date: 1948-11-29
+doc_date: 1948-11-29
 ---
 
 # 334 Embassy in Washington to Department of External Affairs

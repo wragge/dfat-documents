@@ -3,7 +3,7 @@ title: "200 TELEGRAM, OLIVER TO COMMONWEALTH RELATIONS OFFICE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10065
 vol_id: 27
-date: 1962-07-26
+doc_date: 1962-07-26
 ---
 
 # 200 TELEGRAM, OLIVER TO COMMONWEALTH RELATIONS OFFICE

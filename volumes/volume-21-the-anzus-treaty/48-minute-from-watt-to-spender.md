@@ -3,7 +3,7 @@ title: "48 Minute From Watt to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8399
 vol_id: 21
-date: 1951-02-15
+doc_date: 1951-02-15
 ---
 
 # 48 Minute From Watt to Spender

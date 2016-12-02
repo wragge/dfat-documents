@@ -3,7 +3,7 @@ title: "299 Mr Cordell Hull, U.S. Secretary of State, to Mr J. A. Lyons, Prime M
 volume: "Volume 1: 1937-38"
 doc_id: 298
 vol_id: 1
-date: 1938-10-04
+doc_date: 1938-10-04
 ---
 
 # 299 Mr Cordell Hull, U.S. Secretary of State, to Mr J. A. Lyons, Prime Minister

@@ -3,7 +3,7 @@ title: "184 Record Of Conversation In The Department Of Trade"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7789
 vol_id: 19
-date: 1956-12-15
+doc_date: 1956-12-15
 ---
 
 # 184 Record Of Conversation In The Department Of Trade

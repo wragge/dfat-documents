@@ -3,7 +3,7 @@ title: "159 Watt to Hood"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3671
 vol_id: 9
-date: 1946-04-01
+doc_date: 1946-04-01
 ---
 
 # 159 Watt to Hood

@@ -3,7 +3,7 @@ title: "242 SUMMARY RECORD OF TELEPHONE CONVERSATION BETWEEN McMAHON AND WALLER"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8725
 vol_id: 22
-date: 1971-08-19
+doc_date: 1971-08-19
 barcode: 1730898
 ---
 

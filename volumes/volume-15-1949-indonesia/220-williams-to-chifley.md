@@ -3,7 +3,7 @@ title: "220 Williams to Chifley"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6389
 vol_id: 15
-date: 1949-02-16
+doc_date: 1949-02-16
 ---
 
 # 220 Williams to Chifley

@@ -3,7 +3,7 @@ title: "84 Evatt to Melville Cablegram unnumbered [1]"
 volume: "Volume 7: 1944"
 doc_id: 2731
 vol_id: 7
-date: 1944-03-19
+doc_date: 1944-03-19
 ---
 
 # 84 Evatt to Melville Cablegram unnumbered [1]

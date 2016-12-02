@@ -3,7 +3,7 @@ title: "116 Cablegram from Embassy in Washington to Department of External Affai
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10490
 vol_id: 28
-date: 1968-03-22
+doc_date: 1968-03-22
 barcode: 1725937
 ---
 

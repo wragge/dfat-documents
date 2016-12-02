@@ -3,7 +3,7 @@ title: "78 Letter from New Zealand Automotive Component Manufacturer's Federatio
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8948
 vol_id: 23
-date: 1979-12-11
+doc_date: 1979-12-11
 ---
 
 # 78 Letter from New Zealand Automotive Component Manufacturer's Federation to Clark

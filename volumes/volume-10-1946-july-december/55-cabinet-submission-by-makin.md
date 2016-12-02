@@ -3,7 +3,7 @@ title: "55 Cabinet Submission by Makin"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3903
 vol_id: 10
-date: 1946-08-06
+doc_date: 1946-08-06
 ---
 
 # 55 Cabinet Submission by Makin

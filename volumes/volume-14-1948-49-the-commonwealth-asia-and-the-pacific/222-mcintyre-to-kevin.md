@@ -3,7 +3,7 @@ title: "222 McIntyre to Kevin"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5998
 vol_id: 14
-date: 1949-07-05
+doc_date: 1949-07-05
 ---
 
 # 222 McIntyre to Kevin

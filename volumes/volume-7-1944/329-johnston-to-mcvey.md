@@ -3,7 +3,7 @@ title: "329 Johnston to McVey"
 volume: "Volume 7: 1944"
 doc_id: 2976
 vol_id: 7
-date: 1944-10-25
+doc_date: 1944-10-25
 ---
 
 # 329 Johnston to McVey

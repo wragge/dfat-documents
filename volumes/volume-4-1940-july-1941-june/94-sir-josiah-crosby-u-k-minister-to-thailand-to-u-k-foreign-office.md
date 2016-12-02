@@ -3,7 +3,7 @@ title: "94 Sir Josiah Crosby, U.K. Minister to Thailand, to U.K. Foreign Office"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1325
 vol_id: 4
-date: 1940-09-02
+doc_date: 1940-09-02
 ---
 
 # 94 Sir Josiah Crosby, U.K. Minister to Thailand, to U.K. Foreign Office

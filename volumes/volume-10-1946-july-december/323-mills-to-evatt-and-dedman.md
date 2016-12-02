@@ -3,7 +3,7 @@ title: "323 Mills to Evatt and Dedman"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4171
 vol_id: 10
-date: 1946-12-14
+doc_date: 1946-12-14
 ---
 
 # 323 Mills to Evatt and Dedman

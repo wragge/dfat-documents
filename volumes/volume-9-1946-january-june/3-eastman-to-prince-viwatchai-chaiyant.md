@@ -3,7 +3,7 @@ title: "3 Eastman to Prince Viwatchai Chaiyant"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3515
 vol_id: 9
-date: 1946-01-01
+doc_date: 1946-01-01
 ---
 
 # 3 Eastman to Prince Viwatchai Chaiyant

@@ -3,7 +3,7 @@ title: "187 War Cabinet Minute 2813"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2478
 vol_id: 6
-date: 1943-05-12
+doc_date: 1943-05-12
 ---
 
 # 187 War Cabinet Minute 2813

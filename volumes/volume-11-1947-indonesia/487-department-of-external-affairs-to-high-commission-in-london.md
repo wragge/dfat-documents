@@ -3,7 +3,7 @@ title: "487 Department of External Affairs to High Commission in London"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4671
 vol_id: 11
-date: 1947-12-24
+doc_date: 1947-12-24
 ---
 
 # 487 Department of External Affairs to High Commission in London

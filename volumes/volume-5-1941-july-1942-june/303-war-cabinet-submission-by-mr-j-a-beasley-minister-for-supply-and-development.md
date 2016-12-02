@@ -3,7 +3,7 @@ title: "303 War Cabinet Submission by Mr J. A. Beasley, Minister for Supply and 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2057
 vol_id: 5
-date: 1942-01-26
+doc_date: 1942-01-26
 barcode: 11325473
 ---
 

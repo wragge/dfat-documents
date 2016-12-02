@@ -3,7 +3,7 @@ title: "251 Submission No. 449, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9759
 vol_id: 26
-date: 1969-01-15
+doc_date: 1969-01-15
 barcode: 3324232
 ---
 

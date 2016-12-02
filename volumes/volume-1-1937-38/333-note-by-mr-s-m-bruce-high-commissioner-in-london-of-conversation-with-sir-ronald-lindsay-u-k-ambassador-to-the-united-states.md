@@ -3,7 +3,7 @@ title: "333 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation
 volume: "Volume 1: 1937-38"
 doc_id: 332
 vol_id: 1
-date: 1938-12-08
+doc_date: 1938-12-08
 ---
 
 # 333 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Sir Ronald Lindsay, U.K. Ambassador to the United States

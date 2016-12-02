@@ -3,7 +3,7 @@ title: "111 Australian Delegation, Geneva, to Cabinet Sub-Committee on Trade and
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4793
 vol_id: 12
-date: 1947-06-12
+doc_date: 1947-06-12
 ---
 
 # 111 Australian Delegation, Geneva, to Cabinet Sub-Committee on Trade and Employment Conference

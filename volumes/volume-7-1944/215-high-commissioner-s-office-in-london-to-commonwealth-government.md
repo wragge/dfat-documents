@@ -3,7 +3,7 @@ title: "215 High Commissioner's Office in London to Commonwealth Government"
 volume: "Volume 7: 1944"
 doc_id: 2862
 vol_id: 7
-date: 1944-07-05
+doc_date: 1944-07-05
 ---
 
 # 215 High Commissioner's Office in London to Commonwealth Government

@@ -3,7 +3,7 @@ title: "1 Mr R.G. Casey, Treasurer, to Mr J.A. Lyons, Prime Minister"
 volume: "Volume 2: 1939"
 doc_id: 338
 vol_id: 2
-date: 1939-01-03
+doc_date: 1939-01-03
 barcode: 206202
 ---
 

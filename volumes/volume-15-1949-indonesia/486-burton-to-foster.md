@@ -3,7 +3,7 @@ title: "486 Burton to Foster"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6655
 vol_id: 15
-date: 1949-09-09
+doc_date: 1949-09-09
 ---
 
 # 486 Burton to Foster

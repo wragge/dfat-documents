@@ -3,7 +3,7 @@ title: "11 Embassy in Washington to Department of External Affairs"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4195
 vol_id: 11
-date: 1947-03-12
+doc_date: 1947-03-12
 ---
 
 # 11 Embassy in Washington to Department of External Affairs

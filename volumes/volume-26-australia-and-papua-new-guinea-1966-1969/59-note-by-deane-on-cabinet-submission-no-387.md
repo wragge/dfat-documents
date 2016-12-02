@@ -3,7 +3,7 @@ title: "59 Note By Deane On Cabinet Submission No. 387"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9567
 vol_id: 26
-date: 1966-08-12
+doc_date: 1966-08-12
 barcode: 1807541
 ---
 

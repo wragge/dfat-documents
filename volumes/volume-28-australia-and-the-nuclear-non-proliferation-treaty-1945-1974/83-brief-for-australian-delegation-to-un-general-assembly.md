@@ -3,7 +3,7 @@ title: "83 Brief for Australian Delegation to UN General Assembly"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10457
 vol_id: 28
-date: 1965-10-25
+doc_date: 1965-10-25
 barcode: 546341
 ---
 

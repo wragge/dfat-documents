@@ -3,7 +3,7 @@ title: "182 Note by Bruce of Conversation with Attlee"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2473
 vol_id: 6
-date: 1943-05-08
+doc_date: 1943-05-08
 barcode: 242456
 ---
 

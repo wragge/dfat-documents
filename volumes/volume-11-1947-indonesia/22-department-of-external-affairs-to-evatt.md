@@ -3,7 +3,7 @@ title: "22 Department of External Affairs to Evatt"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4206
 vol_id: 11
-date: 1947-03-31
+doc_date: 1947-03-31
 ---
 
 # 22 Department of External Affairs to Evatt

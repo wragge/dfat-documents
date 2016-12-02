@@ -3,7 +3,7 @@ title: "550 Proceedings of the South Seas Commission Conference"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5232
 vol_id: 12
-date: 1947-01-28
+doc_date: 1947-01-28
 barcode: 560735
 ---
 

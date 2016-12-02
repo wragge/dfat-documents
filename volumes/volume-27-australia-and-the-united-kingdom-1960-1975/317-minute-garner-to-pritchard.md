@@ -3,7 +3,7 @@ title: "317 MINUTE, GARNER TO PRITCHARD"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10183
 vol_id: 27
-date: 1966-11-16
+doc_date: 1966-11-16
 ---
 
 # 317 MINUTE, GARNER TO PRITCHARD

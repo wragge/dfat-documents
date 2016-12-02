@@ -3,7 +3,7 @@ title: "1 Submission No. 1304 from Menzies to Cabinet - Historical Documents - A
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9135
 vol_id: 25
-date: 1961-08-11
+doc_date: 1961-08-11
 barcode: 1343637
 ---
 

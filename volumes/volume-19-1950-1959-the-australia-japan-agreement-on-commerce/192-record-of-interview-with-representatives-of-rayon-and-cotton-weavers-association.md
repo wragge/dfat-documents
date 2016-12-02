@@ -3,7 +3,7 @@ title: "192 Record Of Interview With Representatives Of Rayon And Cotton Weavers
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7797
 vol_id: 19
-date: 1957-03-05
+doc_date: 1957-03-05
 ---
 
 # 192 Record Of Interview With Representatives Of Rayon And Cotton Weavers'association

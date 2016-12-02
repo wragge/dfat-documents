@@ -3,7 +3,7 @@ title: "253 Letter, Warwick Smith To Hay"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9761
 vol_id: 26
-date: 1969-01-28
+doc_date: 1969-01-28
 barcode: 4027884
 ---
 

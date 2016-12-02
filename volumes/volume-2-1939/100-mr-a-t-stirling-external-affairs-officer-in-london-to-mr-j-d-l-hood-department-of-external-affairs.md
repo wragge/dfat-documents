@@ -3,7 +3,7 @@ title: "100 Mr A.T. Stirling, External Affairs Officer in London, to Mr J.D.L. H
 volume: "Volume 2: 1939"
 doc_id: 437
 vol_id: 2
-date: 1939-05-23
+doc_date: 1939-05-23
 ---
 
 # 100 Mr A.T. Stirling, External Affairs Officer in London, to Mr J.D.L. Hood, Department of External Affairs

@@ -3,7 +3,7 @@ title: "427 Mr R. G. Menzies, Prime Minister, to Mr G. Pelicier, Governor of New
 volume: "Volume 3: 1940, January-June"
 doc_id: 1193
 vol_id: 3
-date: 1940-06-24
+doc_date: 1940-06-24
 ---
 
 # 427 Mr R. G. Menzies, Prime Minister, to Mr G. Pelicier, Governor of New Caledonia

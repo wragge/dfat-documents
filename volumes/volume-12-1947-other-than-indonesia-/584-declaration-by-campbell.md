@@ -3,7 +3,7 @@ title: "584 Declaration by Campbell"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5266
 vol_id: 12
-date: 1947-12-26
+doc_date: 1947-12-26
 ---
 
 # 584 Declaration by Campbell

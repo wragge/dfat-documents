@@ -3,7 +3,7 @@ title: "97 Chifley to Forde and Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3128
 vol_id: 8
-date: 1945-06-01
+doc_date: 1945-06-01
 ---
 
 # 97 Chifley to Forde and Evatt

@@ -3,7 +3,7 @@ title: "426 Forsyth to Dunk"
 volume: "Volume 8: 1945"
 doc_id: 3457
 vol_id: 8
-date: 1945-12-01
+doc_date: 1945-12-01
 barcode: 190060
 ---
 

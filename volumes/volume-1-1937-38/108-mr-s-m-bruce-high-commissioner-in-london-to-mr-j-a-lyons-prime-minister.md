@@ -3,7 +3,7 @@ title: "108 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prim
 volume: "Volume 1: 1937-38"
 doc_id: 107
 vol_id: 1
-date: 1937-11-18
+doc_date: 1937-11-18
 ---
 
 # 108 Mr S. M. Bruce, High Commissioner in London, to Mr J. A. Lyons, Prime Minister

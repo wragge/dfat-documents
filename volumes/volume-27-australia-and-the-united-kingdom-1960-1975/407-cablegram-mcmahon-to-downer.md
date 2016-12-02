@@ -3,7 +3,7 @@ title: "407 CABLEGRAM MCMAHON TO DOWNER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10273
 vol_id: 27
-date: 1972-10-20
+doc_date: 1972-10-20
 ---
 
 # 407 CABLEGRAM MCMAHON TO DOWNER

@@ -3,7 +3,7 @@ title: "294 Mr R.A. Butler, U.K. Parliamentary Under-Secretary of State for Fore
 volume: "Volume 2: 1939"
 doc_id: 631
 vol_id: 2
-date: 1939-10-14
+doc_date: 1939-10-14
 barcode: 242413
 ---
 

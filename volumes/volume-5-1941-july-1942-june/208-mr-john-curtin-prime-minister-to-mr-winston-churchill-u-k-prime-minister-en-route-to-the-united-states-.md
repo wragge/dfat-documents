@@ -3,7 +3,7 @@ title: "208 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1962
 vol_id: 5
-date: 1941-12-20
+doc_date: 1941-12-20
 ---
 
 # 208 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister (en route to the United States)

@@ -3,7 +3,7 @@ title: "543 Burton to Nankervis"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5225
 vol_id: 12
-date: 1947-08-21
+doc_date: 1947-08-21
 ---
 
 # 543 Burton to Nankervis

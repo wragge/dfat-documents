@@ -3,7 +3,7 @@ title: "304 Evatt to Dixon"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2595
 vol_id: 6
-date: 1943-10-21
+doc_date: 1943-10-21
 ---
 
 # 304 Evatt to Dixon

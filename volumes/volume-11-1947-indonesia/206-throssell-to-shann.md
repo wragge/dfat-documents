@@ -3,7 +3,7 @@ title: "206 Throssell to Shann"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4390
 vol_id: 11
-date: 1947-07-31
+doc_date: 1947-07-31
 ---
 
 # 206 Throssell to Shann

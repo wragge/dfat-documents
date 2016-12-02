@@ -3,7 +3,7 @@ title: "122 Cablegram to Kuala Lumpur, Singapore, Jakarta and Manila - Historica
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9253
 vol_id: 25
-date: 1963-10-04
+doc_date: 1963-10-04
 barcode: 1505556
 ---
 

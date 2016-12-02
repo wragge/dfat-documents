@@ -3,7 +3,7 @@ title: "308 Burton to Evatt and Hood"
 volume: "Volume 8: 1945"
 doc_id: 3339
 vol_id: 8
-date: 1945-10-14
+doc_date: 1945-10-14
 ---
 
 # 308 Burton to Evatt and Hood

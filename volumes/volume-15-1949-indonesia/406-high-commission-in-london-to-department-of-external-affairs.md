@@ -3,7 +3,7 @@ title: "406 High Commission in London to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6575
 vol_id: 15
-date: 1949-05-17
+doc_date: 1949-05-17
 ---
 
 # 406 High Commission in London to Department of External Affairs

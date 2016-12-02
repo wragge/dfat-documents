@@ -3,7 +3,7 @@ title: "396 Department of External Affairs to Hodgson, Embassy in Washington and
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5663
 vol_id: 13
-date: 1948-12-20
+doc_date: 1948-12-20
 ---
 
 # 396 Department of External Affairs to Hodgson, Embassy in Washington and Beasley

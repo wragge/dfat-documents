@@ -3,7 +3,7 @@ title: "352 Mr B. C. Ballard, Official Representative in New Caledonia, to Depar
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1583
 vol_id: 4
-date: 1941-03-13
+doc_date: 1941-03-13
 ---
 
 # 352 Mr B. C. Ballard, Official Representative in New Caledonia, to Department of External Affairs

@@ -3,7 +3,7 @@ title: "240 Sir Frederick Stewart, Minister for External Affairs, to Sir John La
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1471
 vol_id: 4
-date: 1940-12-30
+doc_date: 1940-12-30
 ---
 
 # 240 Sir Frederick Stewart, Minister for External Affairs, to Sir John Latham, Minister to Japan

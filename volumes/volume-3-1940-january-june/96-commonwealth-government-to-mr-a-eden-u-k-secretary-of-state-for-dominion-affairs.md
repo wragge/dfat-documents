@@ -3,7 +3,7 @@ title: "96 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Do
 volume: "Volume 3: 1940, January-June"
 doc_id: 862
 vol_id: 3
-date: 1940-03-09
+doc_date: 1940-03-09
 ---
 
 # 96 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion Affairs

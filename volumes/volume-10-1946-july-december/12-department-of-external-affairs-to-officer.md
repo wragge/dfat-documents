@@ -3,7 +3,7 @@ title: "12 Department of External Affairs to Officer"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3860
 vol_id: 10
-date: 1946-07-06
+doc_date: 1946-07-06
 barcode: 191264
 ---
 

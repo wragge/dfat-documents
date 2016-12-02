@@ -3,7 +3,7 @@ title: "312 Mr J. A. Lyons, Prime Minister, to Dr R. Asmis, German Consul- Gener
 volume: "Volume 1: 1937-38"
 doc_id: 311
 vol_id: 1
-date: 1938-10-29
+doc_date: 1938-10-29
 ---
 
 # 312 Mr J. A. Lyons, Prime Minister, to Dr R. Asmis, German Consul- General in Sydney

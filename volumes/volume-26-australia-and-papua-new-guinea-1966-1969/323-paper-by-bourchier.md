@@ -3,7 +3,7 @@ title: "323 Paper By Bourchier"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9832
 vol_id: 26
-date: 1969-10-17
+doc_date: 1969-10-17
 ---
 
 # 323 Paper By Bourchier

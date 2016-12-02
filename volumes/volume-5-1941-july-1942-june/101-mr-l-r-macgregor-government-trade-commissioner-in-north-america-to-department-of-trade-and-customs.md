@@ -3,7 +3,7 @@ title: "101 Mr L. R. Macgregor, Government Trade Commissioner in North America, 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1855
 vol_id: 5
-date: 1941-11-05
+doc_date: 1941-11-05
 ---
 
 # 101 Mr L. R. Macgregor, Government Trade Commissioner in North America, to Department of Trade and Customs

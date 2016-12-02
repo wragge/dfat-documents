@@ -3,7 +3,7 @@ title: "182 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 10: 1946, July-December"
 doc_id: 4030
 vol_id: 10
-date: 1946-10-29
+doc_date: 1946-10-29
 barcode: 193772
 ---
 

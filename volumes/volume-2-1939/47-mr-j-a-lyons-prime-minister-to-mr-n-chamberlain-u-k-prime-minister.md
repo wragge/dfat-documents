@@ -3,7 +3,7 @@ title: "47 Mr J.A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minis
 volume: "Volume 2: 1939"
 doc_id: 384
 vol_id: 2
-date: 1939-03-21
+doc_date: 1939-03-21
 ---
 
 # 47 Mr J.A. Lyons, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister

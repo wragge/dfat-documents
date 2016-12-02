@@ -3,7 +3,7 @@ title: "160 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Co
 volume: "Volume 1: 1937-38"
 doc_id: 159
 vol_id: 1
-date: 1938-03-24
+doc_date: 1938-03-24
 ---
 
 # 160 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

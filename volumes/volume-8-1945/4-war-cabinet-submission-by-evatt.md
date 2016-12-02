@@ -3,7 +3,7 @@ title: "4 War Cabinet Submission by Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3035
 vol_id: 8
-date: 1945-01-08
+doc_date: 1945-01-08
 barcode: 7564964
 ---
 

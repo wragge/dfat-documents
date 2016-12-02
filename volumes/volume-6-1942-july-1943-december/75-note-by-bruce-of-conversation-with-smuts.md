@@ -3,7 +3,7 @@ title: "75 Note by Bruce of Conversation with Smuts"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2366
 vol_id: 6
-date: 1942-11-14
+doc_date: 1942-11-14
 barcode: 242450
 ---
 

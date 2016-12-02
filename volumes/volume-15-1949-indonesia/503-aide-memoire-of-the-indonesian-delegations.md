@@ -3,7 +3,7 @@ title: "503 Aide Memoire of the Indonesian Delegations"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6672
 vol_id: 15
-date: 1949-10-10
+doc_date: 1949-10-10
 ---
 
 # 503 Aide Memoire of the Indonesian Delegations

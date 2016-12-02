@@ -3,7 +3,7 @@ title: "129 Melville to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3641
 vol_id: 9
-date: 1946-03-15
+doc_date: 1946-03-15
 ---
 
 # 129 Melville to Chifley

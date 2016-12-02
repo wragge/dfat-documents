@@ -3,7 +3,7 @@ title: "105 Commonwealth Government to Cranborne"
 volume: "Volume 7: 1944"
 doc_id: 2752
 vol_id: 7
-date: 1944-03-30
+doc_date: 1944-03-30
 ---
 
 # 105 Commonwealth Government to Cranborne

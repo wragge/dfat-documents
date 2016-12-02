@@ -3,7 +3,7 @@ title: "160 Memorandum, Dot (Warwick Smith) To Administration"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9668
 vol_id: 26
-date: 1968-02-17
+doc_date: 1968-02-17
 ---
 
 # 160 Memorandum, Dot (Warwick Smith) To Administration

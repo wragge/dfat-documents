@@ -3,7 +3,7 @@ title: "386 Department of External Affairs to External Affairs Office, London"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7101
 vol_id: 16
-date: 1948-07-08
+doc_date: 1948-07-08
 ---
 
 # 386 Department of External Affairs to External Affairs Office, London

@@ -3,7 +3,7 @@ title: "24 Note Verbale From Japanese Foreign Ministry"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7629
 vol_id: 19
-date: 1953-05-12
+doc_date: 1953-05-12
 ---
 
 # 24 Note Verbale From Japanese Foreign Ministry

@@ -3,7 +3,7 @@ title: "21 Letter from Scully to Yeend"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8891
 vol_id: 23
-date: 1979-08-08
+doc_date: 1979-08-08
 ---
 
 # 21 Letter from Scully to Yeend

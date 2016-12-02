@@ -3,7 +3,7 @@ title: "475 MINUTE BY HARDERS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10342
 vol_id: 27
-date: 1974-03-01
+doc_date: 1974-03-01
 ---
 
 # 475 MINUTE BY HARDERS

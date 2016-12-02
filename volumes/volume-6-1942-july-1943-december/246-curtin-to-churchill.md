@@ -3,7 +3,7 @@ title: "246 Curtin to Churchill"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2537
 vol_id: 6
-date: 1943-07-19
+doc_date: 1943-07-19
 ---
 
 # 246 Curtin to Churchill

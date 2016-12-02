@@ -3,7 +3,7 @@ title: "377 Hatta to Pritchett"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6546
 vol_id: 15
-date: 1949-05-06
+doc_date: 1949-05-06
 ---
 
 # 377 Hatta to Pritchett

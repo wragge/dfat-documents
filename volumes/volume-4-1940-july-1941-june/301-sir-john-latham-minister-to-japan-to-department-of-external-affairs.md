@@ -3,7 +3,7 @@ title: "301 Sir John Latham, Minister to Japan, to Department of External Affair
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1532
 vol_id: 4
-date: 1941-02-15
+doc_date: 1941-02-15
 ---
 
 # 301 Sir John Latham, Minister to Japan, to Department of External Affairs

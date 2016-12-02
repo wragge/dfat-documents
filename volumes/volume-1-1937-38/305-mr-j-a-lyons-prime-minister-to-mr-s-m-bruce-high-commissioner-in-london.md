@@ -3,7 +3,7 @@ title: "305 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner
 volume: "Volume 1: 1937-38"
 doc_id: 304
 vol_id: 1
-date: 1938-10-25
+doc_date: 1938-10-25
 ---
 
 # 305 Mr J. A. Lyons, Prime Minister, to Mr S. M. Bruce, High Commissioner in London

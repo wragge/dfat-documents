@@ -3,7 +3,7 @@ title: "346 Minutes of Commonwealth Liaison Committee"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7061
 vol_id: 16
-date: 1948-08-10
+doc_date: 1948-08-10
 barcode: 410493
 ---
 

@@ -3,7 +3,7 @@ title: "19 Bury to Wheeler"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5795
 vol_id: 14
-date: 1948-05-25
+doc_date: 1948-05-25
 ---
 
 # 19 Bury to Wheeler

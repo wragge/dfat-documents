@@ -3,7 +3,7 @@ title: "94 Hood to Sinclair"
 volume: "Volume 8: 1945"
 doc_id: 3125
 vol_id: 8
-date: 1945-05-24
+doc_date: 1945-05-24
 barcode: 190178
 ---
 

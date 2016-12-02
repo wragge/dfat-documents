@@ -3,7 +3,7 @@ title: "123 Lt Col E.E. Longfield Lloyd, Australian Government Commissioner in J
 volume: "Volume 2: 1939"
 doc_id: 460
 vol_id: 2
-date: 1939-05-30
+doc_date: 1939-05-30
 ---
 
 # 123 Lt Col E.E. Longfield Lloyd, Australian Government Commissioner in Japan, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs

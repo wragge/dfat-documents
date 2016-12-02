@@ -3,7 +3,7 @@ title: "261 Ballard to Department of External Affairs"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4109
 vol_id: 10
-date: 1946-11-29
+doc_date: 1946-11-29
 ---
 
 # 261 Ballard to Department of External Affairs

@@ -3,7 +3,7 @@ title: "352 Full Cabinet Submission by Senator H. S. Foll, Minister for the Inte
 volume: "Volume 3: 1940, January-June"
 doc_id: 1118
 vol_id: 3
-date: 1940-06-10
+doc_date: 1940-06-10
 ---
 
 # 352 Full Cabinet Submission by Senator H. S. Foll, Minister for the Interior

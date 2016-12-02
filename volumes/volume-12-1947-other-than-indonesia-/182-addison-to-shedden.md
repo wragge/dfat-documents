@@ -3,7 +3,7 @@ title: "182 Addison to Shedden"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4864
 vol_id: 12
-date: 1947-09-02
+doc_date: 1947-09-02
 ---
 
 # 182 Addison to Shedden

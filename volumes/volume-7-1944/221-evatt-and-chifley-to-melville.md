@@ -3,7 +3,7 @@ title: "221 Evatt and Chifley to Melville"
 volume: "Volume 7: 1944"
 doc_id: 2868
 vol_id: 7
-date: 1944-07-15
+doc_date: 1944-07-15
 ---
 
 # 221 Evatt and Chifley to Melville

@@ -3,7 +3,7 @@ title: "Communique by Fraser"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8347
 vol_id: 20
-date: 1976-10-10
+doc_date: 1976-10-10
 ---
 
 # Communique by Fraser

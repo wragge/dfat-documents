@@ -3,7 +3,7 @@ title: "105 Draft Security Treaty Between Australia, New Zealand and the United 
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8456
 vol_id: 21
-date: 1951-07-12
+doc_date: 1951-07-12
 ---
 
 # 105 Draft Security Treaty Between Australia, New Zealand and the United States[1]

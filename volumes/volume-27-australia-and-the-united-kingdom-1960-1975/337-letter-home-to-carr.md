@@ -3,7 +3,7 @@ title: "337 LETTER, HOME TO CARR"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10203
 vol_id: 27
-date: 1972-10-23
+doc_date: 1972-10-23
 ---
 
 # 337 LETTER, HOME TO CARR

@@ -3,7 +3,7 @@ title: "257 Paper By McDonald"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9765
 vol_id: 26
-date: 1969-02-28
+doc_date: 1969-02-28
 ---
 
 # 257 Paper By McDonald

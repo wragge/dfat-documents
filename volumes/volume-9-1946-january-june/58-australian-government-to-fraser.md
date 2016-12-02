@@ -3,7 +3,7 @@ title: "58 Australian Government to Fraser"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3570
 vol_id: 9
-date: 1946-01-30
+doc_date: 1946-01-30
 barcode: 194111
 ---
 

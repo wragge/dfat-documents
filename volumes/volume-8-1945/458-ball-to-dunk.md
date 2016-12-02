@@ -3,7 +3,7 @@ title: "458 Ball to Dunk"
 volume: "Volume 8: 1945"
 doc_id: 3489
 vol_id: 8
-date: 1945-12-17
+doc_date: 1945-12-17
 barcode: 238293
 ---
 

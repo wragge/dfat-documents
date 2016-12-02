@@ -3,7 +3,7 @@ title: "52 Makin to Chifley and Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3564
 vol_id: 9
-date: 1946-01-24
+doc_date: 1946-01-24
 ---
 
 # 52 Makin to Chifley and Evatt

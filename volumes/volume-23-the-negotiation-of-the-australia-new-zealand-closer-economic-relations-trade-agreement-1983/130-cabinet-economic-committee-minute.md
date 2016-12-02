@@ -3,7 +3,7 @@ title: "130 Cabinet Economic Committee Minute"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9000
 vol_id: 23
-date: 1980-11-04
+doc_date: 1980-11-04
 ---
 
 # 130 Cabinet Economic Committee Minute

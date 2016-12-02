@@ -3,7 +3,7 @@ title: "48 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr R. G. 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1802
 vol_id: 5
-date: 1941-08-22
+doc_date: 1941-08-22
 ---
 
 # 48 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr R. G. Menzies, Prime Minister

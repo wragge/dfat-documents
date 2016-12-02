@@ -3,7 +3,7 @@ title: "121 Extract from Minute by the ANZAM Defence Committee - Historical Docu
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9252
 vol_id: 25
-date: 1963-10-03
+doc_date: 1963-10-03
 barcode: 1363555
 ---
 

@@ -3,7 +3,7 @@ title: "200 Statement submitted by Chifley to Prime Ministers' Conference"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3712
 vol_id: 9
-date: 1946-04-20
+doc_date: 1946-04-20
 barcode: 694890
 ---
 

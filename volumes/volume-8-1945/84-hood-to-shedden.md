@@ -3,7 +3,7 @@ title: "84 Hood to Shedden"
 volume: "Volume 8: 1945"
 doc_id: 3115
 vol_id: 8
-date: 1945-05-08
+doc_date: 1945-05-08
 barcode: 1886556
 ---
 

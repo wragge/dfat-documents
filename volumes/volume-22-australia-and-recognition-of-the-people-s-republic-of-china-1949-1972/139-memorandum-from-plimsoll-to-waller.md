@@ -3,7 +3,7 @@ title: "139 MEMORANDUM FROM PLIMSOLL TO WALLER"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8622
 vol_id: 22
-date: 1970-10-15
+doc_date: 1970-10-15
 barcode: 1730898
 ---
 

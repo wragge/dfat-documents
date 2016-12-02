@@ -3,7 +3,7 @@ title: "179 Chifley to Fraser"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4861
 vol_id: 12
-date: 1947-08-13
+doc_date: 1947-08-13
 ---
 
 # 179 Chifley to Fraser

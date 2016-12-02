@@ -3,7 +3,7 @@ title: "216 Cablegram From Crawford To Patterson"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7821
 vol_id: 19
-date: 1957-06-26
+doc_date: 1957-06-26
 ---
 
 # 216 Cablegram From Crawford To Patterson

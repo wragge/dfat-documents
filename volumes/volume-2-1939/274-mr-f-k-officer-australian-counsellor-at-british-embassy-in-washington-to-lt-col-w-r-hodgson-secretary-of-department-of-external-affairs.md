@@ -3,7 +3,7 @@ title: "274 Mr F.K. Officer, Australian Counsellor at British Embassy in Washing
 volume: "Volume 2: 1939"
 doc_id: 611
 vol_id: 2
-date: 1939-10-09
+doc_date: 1939-10-09
 ---
 
 # 274 Mr F.K. Officer, Australian Counsellor at British Embassy in Washington, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs

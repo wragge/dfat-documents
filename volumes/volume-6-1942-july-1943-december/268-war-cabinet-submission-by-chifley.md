@@ -3,7 +3,7 @@ title: "268 War Cabinet Submission by Chifley"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2559
 vol_id: 6
-date: 1943-09-04
+doc_date: 1943-09-04
 barcode: 9019792
 ---
 

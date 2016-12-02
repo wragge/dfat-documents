@@ -3,7 +3,7 @@ title: "278 Letter, Warwick Smith To Plimsoll"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9786
 vol_id: 26
-date: 1969-06-03
+doc_date: 1969-06-03
 barcode: 3118054
 ---
 

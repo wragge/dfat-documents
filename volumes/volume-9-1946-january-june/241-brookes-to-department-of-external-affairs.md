@@ -3,7 +3,7 @@ title: "241 Brookes to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3753
 vol_id: 9
-date: 1946-05-12
+doc_date: 1946-05-12
 ---
 
 # 241 Brookes to Department of External Affairs

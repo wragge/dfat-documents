@@ -3,7 +3,7 @@ title: "282 Cablegram, Jockel To Plimsoll"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9790
 vol_id: 26
-date: 1969-06-06
+doc_date: 1969-06-06
 ---
 
 # 282 Cablegram, Jockel To Plimsoll

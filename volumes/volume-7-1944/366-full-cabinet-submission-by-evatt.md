@@ -3,7 +3,7 @@ title: "366 Full Cabinet Submission by Evatt"
 volume: "Volume 7: 1944"
 doc_id: 3013
 vol_id: 7
-date: 1944-12-06
+doc_date: 1944-12-06
 ---
 
 # 366 Full Cabinet Submission by Evatt

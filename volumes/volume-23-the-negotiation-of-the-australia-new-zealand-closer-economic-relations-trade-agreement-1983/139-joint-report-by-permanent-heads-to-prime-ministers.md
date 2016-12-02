@@ -3,7 +3,7 @@ title: "139 Joint Report by Permanent Heads to Prime Ministers"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9009
 vol_id: 23
-date: 1980-03-21
+doc_date: 1980-03-21
 ---
 
 # 139 Joint Report by Permanent Heads to Prime Ministers

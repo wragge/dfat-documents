@@ -3,7 +3,7 @@ title: "156 CABLEGRAM, MENZIES TO HARRISON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10021
 vol_id: 27
-date: 1961-10-06
+doc_date: 1961-10-06
 ---
 
 # 156 CABLEGRAM, MENZIES TO HARRISON

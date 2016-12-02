@@ -3,7 +3,7 @@ title: "39 Curtin to Roosevelt"
 volume: "Volume 7: 1944"
 doc_id: 2686
 vol_id: 7
-date: 1944-02-02
+doc_date: 1944-02-02
 ---
 
 # 39 Curtin to Roosevelt

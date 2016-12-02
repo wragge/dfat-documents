@@ -3,7 +3,7 @@ title: "99 Minute By Defence Committee - Historical Documents - Australian Gover
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9230
 vol_id: 25
-date: 1963-08-09
+doc_date: 1963-08-09
 barcode: 1338481
 ---
 

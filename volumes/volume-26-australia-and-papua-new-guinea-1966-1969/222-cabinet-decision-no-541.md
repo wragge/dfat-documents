@@ -3,7 +3,7 @@ title: "222 Cabinet Decision No. 541"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9730
 vol_id: 26
-date: 1968-09-18
+doc_date: 1968-09-18
 barcode: 3069205
 ---
 

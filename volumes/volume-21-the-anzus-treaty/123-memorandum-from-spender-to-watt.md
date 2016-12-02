@@ -3,7 +3,7 @@ title: "123 Memorandum From Spender to Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8474
 vol_id: 21
-date: 1951-11-19
+doc_date: 1951-11-19
 ---
 
 # 123 Memorandum From Spender to Watt

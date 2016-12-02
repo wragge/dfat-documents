@@ -3,7 +3,7 @@ title: "224 Commonwealth Government to Mr S.M. Bruce, High Commissioner in Londo
 volume: "Volume 2: 1939"
 doc_id: 561
 vol_id: 2
-date: 1939-09-13
+doc_date: 1939-09-13
 ---
 
 # 224 Commonwealth Government to Mr S.M. Bruce, High Commissioner in London

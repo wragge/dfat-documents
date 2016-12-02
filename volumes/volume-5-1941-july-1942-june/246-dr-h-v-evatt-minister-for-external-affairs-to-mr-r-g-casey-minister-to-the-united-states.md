@@ -3,7 +3,7 @@ title: "246 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Mi
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2000
 vol_id: 5
-date: 1942-01-01
+doc_date: 1942-01-01
 barcode: 206127
 ---
 

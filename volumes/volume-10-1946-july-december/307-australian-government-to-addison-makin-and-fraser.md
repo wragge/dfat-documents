@@ -3,7 +3,7 @@ title: "307 Australian Government to Addison, Makin and Fraser"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4155
 vol_id: 10
-date: 1946-12-10
+doc_date: 1946-12-10
 ---
 
 # 307 Australian Government to Addison, Makin and Fraser

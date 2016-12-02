@@ -3,7 +3,7 @@ title: "230 Mr J. A. Lyons, Prime Minister, to Lord Stanley, U.K. Secretary of S
 volume: "Volume 1: 1937-38"
 doc_id: 229
 vol_id: 1
-date: 1938-07-18
+doc_date: 1938-07-18
 ---
 
 # 230 Mr J. A. Lyons, Prime Minister, to Lord Stanley, U.K. Secretary of State for Dominion Affairs

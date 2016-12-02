@@ -3,7 +3,7 @@ title: "332 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4516
 vol_id: 11
-date: 1947-09-13
+doc_date: 1947-09-13
 ---
 
 # 332 Australian Delegation, United Nations, to Department of External Affairs

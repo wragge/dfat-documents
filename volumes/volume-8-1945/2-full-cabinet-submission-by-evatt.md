@@ -3,7 +3,7 @@ title: "2 Full Cabinet Submission by Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3033
 vol_id: 8
-date: 1945-01-06
+doc_date: 1945-01-06
 ---
 
 # 2 Full Cabinet Submission by Evatt

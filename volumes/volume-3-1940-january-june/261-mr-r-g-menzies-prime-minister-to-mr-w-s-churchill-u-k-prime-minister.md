@@ -3,7 +3,7 @@ title: "261 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime 
 volume: "Volume 3: 1940, January-June"
 doc_id: 1027
 vol_id: 3
-date: 1940-05-22
+doc_date: 1940-05-22
 ---
 
 # 261 Mr R. G. Menzies, Prime Minister, to Mr W. S. Churchill, U.K. Prime Minister

@@ -3,7 +3,7 @@ title: "39 Submission 521 To Cabinet By Menzies"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7644
 vol_id: 19
-date: 1953-08-11
+doc_date: 1953-08-11
 ---
 
 # 39 Submission 521 To Cabinet By Menzies

@@ -3,7 +3,7 @@ title: "139 Burton to Hodgson"
 volume: "Volume 7: 1944"
 doc_id: 2786
 vol_id: 7
-date: 1944-05-07
+doc_date: 1944-05-07
 ---
 
 # 139 Burton to Hodgson

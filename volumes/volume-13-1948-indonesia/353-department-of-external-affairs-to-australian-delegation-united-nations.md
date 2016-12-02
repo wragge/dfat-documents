@@ -3,7 +3,7 @@ title: "353 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5620
 vol_id: 13
-date: 1948-12-06
+doc_date: 1948-12-06
 barcode: 1729706
 ---
 

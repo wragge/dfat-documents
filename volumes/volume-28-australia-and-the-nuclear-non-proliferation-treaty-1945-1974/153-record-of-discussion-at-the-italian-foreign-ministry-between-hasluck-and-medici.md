@@ -3,7 +3,7 @@ title: "153 Record of Discussion at the Italian Foreign Ministry between Hasluck
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10527
 vol_id: 28
-date: 1968-09-25
+doc_date: 1968-09-25
 barcode: 1730533
 ---
 

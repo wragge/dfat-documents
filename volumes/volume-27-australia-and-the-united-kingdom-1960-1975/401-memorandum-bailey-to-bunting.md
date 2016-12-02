@@ -3,7 +3,7 @@ title: "401 MEMORANDUM, BAILEY TO BUNTING"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10267
 vol_id: 27
-date: 1972-08-24
+doc_date: 1972-08-24
 ---
 
 # 401 MEMORANDUM, BAILEY TO BUNTING

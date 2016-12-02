@@ -3,7 +3,7 @@ title: "450 Full Cabinet Minutes"
 volume: "Volume 3: 1940, January-June"
 doc_id: 1216
 vol_id: 3
-date: 1940-06-27
+doc_date: 1940-06-27
 ---
 
 # 450 Full Cabinet Minutes

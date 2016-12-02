@@ -3,7 +3,7 @@ title: "232 Cabinet Decision 1216"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7837
 vol_id: 19
-date: 1958-02-24
+doc_date: 1958-02-24
 ---
 
 # 232 Cabinet Decision 1216

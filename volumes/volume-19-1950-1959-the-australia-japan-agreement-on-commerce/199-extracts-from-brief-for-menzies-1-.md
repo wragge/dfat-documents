@@ -3,7 +3,7 @@ title: "199 Extracts From Brief For Menzies [1]"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7804
 vol_id: 19
-date: 1957-04-08
+doc_date: 1957-04-08
 ---
 
 # 199 Extracts From Brief For Menzies [1]

@@ -3,7 +3,7 @@ title: "189 Report by Hood"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6904
 vol_id: 16
-date: 1949-07-13
+doc_date: 1949-07-13
 ---
 
 # 189 Report by Hood

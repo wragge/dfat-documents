@@ -3,7 +3,7 @@ title: "235 Dea Paper - Historical Documents - Australian Government Department 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9365
 vol_id: 25
-date: 1965-01-15
+doc_date: 1965-01-15
 barcode: 1345374
 ---
 

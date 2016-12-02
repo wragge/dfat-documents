@@ -3,7 +3,7 @@ title: "213 Paper By Doet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9721
 vol_id: 26
-date: 1968-07-22
+doc_date: 1968-07-22
 ---
 
 # 213 Paper By Doet

@@ -3,7 +3,7 @@ title: "296 RECORD OF CONVERSATION BETWEEN ANTHONY AND JAMES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10161
 vol_id: 27
-date: 1971-07-08
+doc_date: 1971-07-08
 ---
 
 # 296 RECORD OF CONVERSATION BETWEEN ANTHONY AND JAMES

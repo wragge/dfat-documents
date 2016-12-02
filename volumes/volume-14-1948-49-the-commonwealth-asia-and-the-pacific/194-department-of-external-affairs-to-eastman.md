@@ -3,7 +3,7 @@ title: "194 Department of External Affairs to Eastman"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5970
 vol_id: 14
-date: 1948-07-13
+doc_date: 1948-07-13
 barcode: 140167
 ---
 

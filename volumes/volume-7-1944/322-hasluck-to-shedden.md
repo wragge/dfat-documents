@@ -3,7 +3,7 @@ title: "322 Hasluck to Shedden"
 volume: "Volume 7: 1944"
 doc_id: 2969
 vol_id: 7
-date: 1944-10-19
+doc_date: 1944-10-19
 ---
 
 # 322 Hasluck to Shedden

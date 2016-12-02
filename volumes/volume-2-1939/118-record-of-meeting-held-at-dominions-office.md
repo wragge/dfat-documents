@@ -3,7 +3,7 @@ title: "118 Record of Meeting held at Dominions Office"
 volume: "Volume 2: 1939"
 doc_id: 455
 vol_id: 2
-date: 1939-07-11
+doc_date: 1939-07-11
 ---
 
 # 118 Record of Meeting held at Dominions Office

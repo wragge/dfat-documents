@@ -3,7 +3,7 @@ title: "315 DESPATCH, JOHNSTON TO COMMONWEALTH OFFICE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10181
 vol_id: 27
-date: 1966-11-14
+doc_date: 1966-11-14
 ---
 
 # 315 DESPATCH, JOHNSTON TO COMMONWEALTH OFFICE

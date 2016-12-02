@@ -3,7 +3,7 @@ title: "228 Cabinet Decision 879(M)"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7833
 vol_id: 19
-date: 1957-07-25
+doc_date: 1957-07-25
 barcode: 428857
 ---
 

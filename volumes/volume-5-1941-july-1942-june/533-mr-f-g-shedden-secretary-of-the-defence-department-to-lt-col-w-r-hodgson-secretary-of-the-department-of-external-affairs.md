@@ -3,7 +3,7 @@ title: "533 Mr F. G. Shedden, Secretary of the Defence Department, to Lt Col W. 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2287
 vol_id: 5
-date: 1942-06-28
+doc_date: 1942-06-28
 barcode: 182759
 ---
 

@@ -3,7 +3,7 @@ title: "100 Memorandum by Critchley"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5367
 vol_id: 13
-date: 1948-03-06
+doc_date: 1948-03-06
 ---
 
 # 100 Memorandum by Critchley

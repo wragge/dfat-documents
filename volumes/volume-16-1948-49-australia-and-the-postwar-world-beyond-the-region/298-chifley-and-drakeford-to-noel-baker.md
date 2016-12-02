@@ -3,7 +3,7 @@ title: "298 Chifley and Drakeford to Noel-Baker"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7013
 vol_id: 16
-date: 1948-08-21
+doc_date: 1948-08-21
 barcode: 1034205
 ---
 

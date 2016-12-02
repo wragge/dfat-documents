@@ -3,7 +3,7 @@ title: "396 Cabinet Submission by Drakeford"
 volume: "Volume 8: 1945"
 doc_id: 3427
 vol_id: 8
-date: 1945-11-16
+doc_date: 1945-11-16
 ---
 
 # 396 Cabinet Submission by Drakeford

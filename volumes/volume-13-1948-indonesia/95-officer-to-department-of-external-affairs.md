@@ -3,7 +3,7 @@ title: "95 Officer to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5362
 vol_id: 13
-date: 1948-02-28
+doc_date: 1948-02-28
 ---
 
 # 95 Officer to Department of External Affairs

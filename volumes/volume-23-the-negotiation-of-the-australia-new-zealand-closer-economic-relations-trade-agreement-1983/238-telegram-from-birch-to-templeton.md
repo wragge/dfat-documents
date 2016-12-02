@@ -3,7 +3,7 @@ title: "238 Telegram from Birch to Templeton"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9107
 vol_id: 23
-date: 1982-03-31
+doc_date: 1982-03-31
 ---
 
 # 238 Telegram from Birch to Templeton

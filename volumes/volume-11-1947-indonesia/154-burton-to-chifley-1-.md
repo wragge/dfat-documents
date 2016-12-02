@@ -3,7 +3,7 @@ title: "154 Burton to Chifley [1]"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4338
 vol_id: 11
-date: 1947-07-25
+doc_date: 1947-07-25
 ---
 
 # 154 Burton to Chifley [1]

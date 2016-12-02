@@ -3,7 +3,7 @@ title: "306 Evatt to Queuille[1], Stalin, Attlee, Truman"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7021
 vol_id: 16
-date: 1948-11-13
+doc_date: 1948-11-13
 ---
 
 # 306 Evatt to Queuille[1], Stalin, Attlee, Truman

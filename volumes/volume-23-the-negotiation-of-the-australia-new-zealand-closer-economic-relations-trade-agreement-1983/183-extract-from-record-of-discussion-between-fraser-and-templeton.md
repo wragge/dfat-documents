@@ -3,7 +3,7 @@ title: "183 Extract from Record of Discussion between Fraser and Templeton"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9052
 vol_id: 23
-date: 1982-03-12
+doc_date: 1982-03-12
 ---
 
 # 183 Extract from Record of Discussion between Fraser and Templeton

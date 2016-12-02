@@ -3,7 +3,7 @@ title: "49 Memorandum From Cumpston to Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8400
 vol_id: 21
-date: 1951-02-16
+doc_date: 1951-02-16
 barcode: 699472
 ---
 

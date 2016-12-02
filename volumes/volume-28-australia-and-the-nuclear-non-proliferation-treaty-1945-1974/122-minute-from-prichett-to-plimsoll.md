@@ -3,7 +3,7 @@ title: "122 Minute from Pritchett to Plimsoll"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10496
 vol_id: 28
-date: 1968-04-22
+doc_date: 1968-04-22
 barcode: 1725938
 ---
 

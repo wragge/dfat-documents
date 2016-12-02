@@ -3,7 +3,7 @@ title: "56 Savingram from Embassy in Washington to Department of External Affair
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10430
 vol_id: 28
-date: 1963-10-18
+doc_date: 1963-10-18
 barcode: 546337
 ---
 

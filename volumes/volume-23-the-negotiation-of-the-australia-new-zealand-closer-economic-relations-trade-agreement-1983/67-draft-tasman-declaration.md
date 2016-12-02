@@ -3,7 +3,7 @@ title: "67 Draft Tasman Declaration"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8937
 vol_id: 23
-date: 1980-02-26
+doc_date: 1980-02-26
 ---
 
 # 67 Draft Tasman Declaration

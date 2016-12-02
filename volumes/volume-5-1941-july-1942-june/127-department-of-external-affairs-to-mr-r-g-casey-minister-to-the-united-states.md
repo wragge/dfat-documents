@@ -3,7 +3,7 @@ title: "127 Department of External Affairs to Mr R. G. Casey, Minister to the Un
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1881
 vol_id: 5
-date: 1941-11-26
+doc_date: 1941-11-26
 ---
 
 # 127 Department of External Affairs to Mr R. G. Casey, Minister to the United States

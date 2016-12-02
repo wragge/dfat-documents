@@ -3,7 +3,7 @@ title: "70 CABINET DECISION NO. 357 (FAD)"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9935
 vol_id: 27
-date: 1967-05-25
+doc_date: 1967-05-25
 ---
 
 # 70 CABINET DECISION NO. 357 (FAD)

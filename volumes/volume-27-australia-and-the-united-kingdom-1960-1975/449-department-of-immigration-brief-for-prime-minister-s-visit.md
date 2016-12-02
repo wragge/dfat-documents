@@ -3,7 +3,7 @@ title: "449 DEPARTMENT OF IMMIGRATION BRIEF FOR PRIME MINISTER’S VISIT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10316
 vol_id: 27
-date: 1973-04-05
+doc_date: 1973-04-05
 ---
 
 # 449 DEPARTMENT OF IMMIGRATION BRIEF FOR PRIME MINISTER’S VISIT

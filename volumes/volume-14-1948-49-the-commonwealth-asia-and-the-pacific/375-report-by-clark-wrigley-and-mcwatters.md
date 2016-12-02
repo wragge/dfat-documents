@@ -3,7 +3,7 @@ title: "375 Report by Clark, Wrigley and McWatters"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6151
 vol_id: 14
-date: 1948-08-17
+doc_date: 1948-08-17
 ---
 
 # 375 Report by Clark, Wrigley and McWatters

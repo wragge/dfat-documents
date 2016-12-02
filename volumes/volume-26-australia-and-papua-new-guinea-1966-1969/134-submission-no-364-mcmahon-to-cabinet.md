@@ -3,7 +3,7 @@ title: "134 Submission No. 364, McMahon To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9642
 vol_id: 26
-date: 1967-07-17
+doc_date: 1967-07-17
 barcode: 1862635
 ---
 

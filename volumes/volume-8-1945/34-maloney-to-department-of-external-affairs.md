@@ -3,7 +3,7 @@ title: "34 Maloney to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3065
 vol_id: 8
-date: 1945-02-12
+doc_date: 1945-02-12
 ---
 
 # 34 Maloney to Department of External Affairs

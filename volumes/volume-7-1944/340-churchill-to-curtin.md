@@ -3,7 +3,7 @@ title: "340 Churchill to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2987
 vol_id: 7
-date: 1944-11-08
+doc_date: 1944-11-08
 ---
 
 # 340 Churchill to Curtin

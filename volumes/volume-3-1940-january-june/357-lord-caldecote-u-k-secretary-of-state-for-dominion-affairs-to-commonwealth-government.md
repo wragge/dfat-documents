@@ -3,7 +3,7 @@ title: "357 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Com
 volume: "Volume 3: 1940, January-June"
 doc_id: 1123
 vol_id: 3
-date: 1940-06-10
+doc_date: 1940-06-10
 ---
 
 # 357 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

@@ -3,7 +3,7 @@ title: "312 LETTER, LARMOUR TO HEYDON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10178
 vol_id: 27
-date: 1963-06-24
+doc_date: 1963-06-24
 ---
 
 # 312 LETTER, LARMOUR TO HEYDON

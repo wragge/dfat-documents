@@ -3,7 +3,7 @@ title: "393 Burton to Makin"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7108
 vol_id: 16
-date: 1949-06-01
+doc_date: 1949-06-01
 barcode: 409850
 ---
 

@@ -3,7 +3,7 @@ title: "513 U.S. Department of State to Mr Nelson Trusler Johnson, U.S. Minister
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2267
 vol_id: 5
-date: 1942-06-01
+doc_date: 1942-06-01
 ---
 
 # 513 U.S. Department of State to Mr Nelson Trusler Johnson, U.S. Minister to Australia

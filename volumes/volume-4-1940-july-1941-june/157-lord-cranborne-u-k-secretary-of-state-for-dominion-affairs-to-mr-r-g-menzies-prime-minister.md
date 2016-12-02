@@ -3,7 +3,7 @@ title: "157 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1388
 vol_id: 4
-date: 1940-10-03
+doc_date: 1940-10-03
 ---
 
 # 157 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr R. G. Menzies, Prime Minister

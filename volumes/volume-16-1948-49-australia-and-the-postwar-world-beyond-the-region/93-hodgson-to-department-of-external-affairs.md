@@ -3,7 +3,7 @@ title: "93 Hodgson to Department of External Affairs"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6808
 vol_id: 16
-date: 1948-05-02
+doc_date: 1948-05-02
 ---
 
 # 93 Hodgson to Department of External Affairs

@@ -3,7 +3,7 @@ title: "172 Memorandum, Dot (Ballard) To Hay"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9680
 vol_id: 26
-date: 1968-04-17
+doc_date: 1968-04-17
 ---
 
 # 172 Memorandum, Dot (Ballard) To Hay

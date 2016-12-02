@@ -3,7 +3,7 @@ title: "167 Ball [1] to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5434
 vol_id: 13
-date: 1948-06-07
+doc_date: 1948-06-07
 ---
 
 # 167 Ball [1] to Burton

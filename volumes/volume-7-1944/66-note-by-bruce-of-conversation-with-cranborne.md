@@ -3,7 +3,7 @@ title: "66 Note by Bruce of Conversation with Cranborne"
 volume: "Volume 7: 1944"
 doc_id: 2713
 vol_id: 7
-date: 1944-03-07
+doc_date: 1944-03-07
 barcode: 242466
 ---
 

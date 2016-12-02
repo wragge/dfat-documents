@@ -3,7 +3,7 @@ title: "93 Coombs to Cabinet Sub-Committee on Trade and Employment Conference"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4775
 vol_id: 12
-date: 1947-04-03
+doc_date: 1947-04-03
 barcode: 195040
 ---
 

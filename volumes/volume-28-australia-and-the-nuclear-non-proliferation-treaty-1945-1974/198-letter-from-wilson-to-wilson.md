@@ -3,7 +3,7 @@ title: "198 Letter from Wilson to Wilson"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10572
 vol_id: 28
-date: 1974-07-02
+doc_date: 1974-07-02
 barcode: 1373509
 ---
 

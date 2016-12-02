@@ -3,7 +3,7 @@ title: "428 Australian Government to Noel-Baker and Fraser"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5110
 vol_id: 12
-date: 1947-12-30
+doc_date: 1947-12-30
 barcode: 195215
 ---
 

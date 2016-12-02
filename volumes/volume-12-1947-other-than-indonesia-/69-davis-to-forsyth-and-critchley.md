@@ -3,7 +3,7 @@ title: "69 Davis to Forsyth and Critchley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4751
 vol_id: 12
-date: 1947-07-01
+doc_date: 1947-07-01
 ---
 
 # 69 Davis to Forsyth and Critchley

@@ -3,7 +3,7 @@ title: "105 Meeting of Departmental Representatives of the Australian Delegation
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4787
 vol_id: 12
-date: 1947-05-28
+doc_date: 1947-05-28
 ---
 
 # 105 Meeting of Departmental Representatives of the Australian Delegation, Geneva

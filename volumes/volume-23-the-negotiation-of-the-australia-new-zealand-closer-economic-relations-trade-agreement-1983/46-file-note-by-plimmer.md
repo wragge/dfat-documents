@@ -3,7 +3,7 @@ title: "46 File Note by Plimmer"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8916
 vol_id: 23
-date: 1979-09-12
+doc_date: 1979-09-12
 ---
 
 # 46 File Note by Plimmer

@@ -3,7 +3,7 @@ title: "209 Forde to Chifley and Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3721
 vol_id: 9
-date: 1946-04-25
+doc_date: 1946-04-25
 ---
 
 # 209 Forde to Chifley and Evatt

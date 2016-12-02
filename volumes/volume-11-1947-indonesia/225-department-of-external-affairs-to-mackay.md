@@ -3,7 +3,7 @@ title: "225 Department of External Affairs to Mackay"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4409
 vol_id: 11
-date: 1947-08-02
+doc_date: 1947-08-02
 ---
 
 # 225 Department of External Affairs to Mackay

@@ -3,7 +3,7 @@ title: "99 Minute from Lang to Kingsmill"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8969
 vol_id: 23
-date: 1980-07-23
+doc_date: 1980-07-23
 ---
 
 # 99 Minute from Lang to Kingsmill

@@ -3,7 +3,7 @@ title: "261 Letter from Thompson to Templeton"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9130
 vol_id: 23
-date: 1982-12-09
+doc_date: 1982-12-09
 ---
 
 # 261 Letter from Thompson to Templeton

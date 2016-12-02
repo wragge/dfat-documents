@@ -3,7 +3,7 @@ title: "116 Department of External Affairs to Critchley"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5383
 vol_id: 13
-date: 1948-04-19
+doc_date: 1948-04-19
 ---
 
 # 116 Department of External Affairs to Critchley

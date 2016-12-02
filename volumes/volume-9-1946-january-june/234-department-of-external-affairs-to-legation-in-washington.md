@@ -3,7 +3,7 @@ title: "234 Department of External Affairs to Legation in Washington"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3746
 vol_id: 9
-date: 1946-05-06
+doc_date: 1946-05-06
 ---
 
 # 234 Department of External Affairs to Legation in Washington

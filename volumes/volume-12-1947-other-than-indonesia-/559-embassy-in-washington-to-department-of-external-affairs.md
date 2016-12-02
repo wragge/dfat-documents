@@ -3,7 +3,7 @@ title: "559 Embassy in Washington to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5241
 vol_id: 12
-date: 1947-10-10
+doc_date: 1947-10-10
 ---
 
 # 559 Embassy in Washington to Department of External Affairs

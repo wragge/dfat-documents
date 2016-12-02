@@ -3,7 +3,7 @@ title: "58 Gordon Walker to Australian Government"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5834
 vol_id: 14
-date: 1948-04-13
+doc_date: 1948-04-13
 ---
 
 # 58 Gordon Walker to Australian Government

@@ -3,7 +3,7 @@ title: "269 Evatt to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3300
 vol_id: 8
-date: 1945-09-26
+doc_date: 1945-09-26
 barcode: 188247
 ---
 

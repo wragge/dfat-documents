@@ -3,7 +3,7 @@ title: "167 Minutes of Staff Conference"
 volume: "Volume 7: 1944"
 doc_id: 2814
 vol_id: 7
-date: 1944-05-26
+doc_date: 1944-05-26
 ---
 
 # 167 Minutes of Staff Conference

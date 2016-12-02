@@ -3,7 +3,7 @@ title: "318 Memorandum, Administration (Hay) To Doet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9827
 vol_id: 26
-date: 1969-09-20
+doc_date: 1969-09-20
 barcode: 3118271
 ---
 

@@ -1,10 +1,24 @@
 import csv
 import re
 from operator import itemgetter, attrgetter
+from calendar import month_name
+from harvest import slugify
+from recordsearch_tools.client import RSItemClient, RSSeriesClient
+import json
+from datetime import datetime
 
 # doc_id, vol_id, doc_title, vol_title, date, reference, barcode, series, control
 
 # I should really figure out how to use Pandas for stuff like this...
+
+
+def json_serial(obj):
+    """JSON serializer for objects not serializable by default json code"""
+
+    if isinstance(obj, datetime):
+        serial = obj.isoformat()
+        return serial
+    raise TypeError("Type not serializable")
 
 
 def results_summary():
@@ -112,4 +126,27 @@ def get_dates():
             for vol, total in month[1].items():
                 row[int(vol)] = total
             writer.writerow(row)
+
+
+def list_references():
+    item_client = RSItemClient()
+    series_client = RSSeriesClient()
+    current_series = ""
+    series_details = None
+    series_list = []
+    with open('barcodes.csv', 'rb') as barcodes_csv:
+        reader = csv.reader(barcodes_csv)
+        for barcode, series, control in reader:
+            if series != current_series:
+                print series
+                if series_details:
+                    series_list.append(series_details)
+                series_details = series_client.get_summary(entity_id=series)
+                series_details['items'] = []
+                current_series = series
+            item_details = item_client.get_summary(entity_id=barcode)
+            series_details['items'].append(item_details)
+    print series_list
+    with open('references.json', 'wb') as json_file:
+        json.dump(series_list, json_file, default=json_serial)
 

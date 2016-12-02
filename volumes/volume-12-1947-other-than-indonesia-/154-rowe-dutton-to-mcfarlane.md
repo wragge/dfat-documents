@@ -3,7 +3,7 @@ title: "154 Rowe-Dutton to McFarlane"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4836
 vol_id: 12
-date: 1947-07-03
+doc_date: 1947-07-03
 ---
 
 # 154 Rowe-Dutton to McFarlane

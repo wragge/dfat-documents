@@ -3,7 +3,7 @@ title: "13 Note for File by Department of Defence"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10388
 vol_id: 28
-date: 1953-12-08
+doc_date: 1953-12-08
 barcode: 3076301
 ---
 

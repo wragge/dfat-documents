@@ -3,7 +3,7 @@ title: "26 Record of Meeting Between Whitlam and Soeharto"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7865
 vol_id: 20
-date: 1974-09-06
+doc_date: 1974-09-06
 ---
 
 # 26 Record of Meeting Between Whitlam and Soeharto

@@ -3,7 +3,7 @@ title: "73 Extract from Cablegram from Scully to Australian Government"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8943
 vol_id: 23
-date: 1980-03-18
+doc_date: 1980-03-18
 ---
 
 # 73 Extract from Cablegram from Scully to Australian Government

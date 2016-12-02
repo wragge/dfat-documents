@@ -3,7 +3,7 @@ title: "27 Memorandum From Randall To Meere"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7632
 vol_id: 19
-date: 1953-05-29
+doc_date: 1953-05-29
 ---
 
 # 27 Memorandum From Randall To Meere

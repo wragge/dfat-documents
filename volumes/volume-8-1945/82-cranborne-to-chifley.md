@@ -3,7 +3,7 @@ title: "82 Cranborne to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3113
 vol_id: 8
-date: 1945-05-07
+doc_date: 1945-05-07
 barcode: 188194
 ---
 

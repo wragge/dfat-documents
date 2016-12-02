@@ -3,7 +3,7 @@ title: "235 Eggleston to Dunk"
 volume: "Volume 8: 1945"
 doc_id: 3266
 vol_id: 8
-date: 1945-09-05
+doc_date: 1945-09-05
 barcode: 187001
 ---
 

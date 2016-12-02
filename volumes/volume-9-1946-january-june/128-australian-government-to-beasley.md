@@ -3,7 +3,7 @@ title: "128 Australian Government to Beasley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3640
 vol_id: 9
-date: 1946-03-15
+doc_date: 1946-03-15
 ---
 
 # 128 Australian Government to Beasley

@@ -3,7 +3,7 @@ title: "289 External Affairs Department to Dixon"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2580
 vol_id: 6
-date: 1943-09-30
+doc_date: 1943-09-30
 ---
 
 # 289 External Affairs Department to Dixon

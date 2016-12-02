@@ -3,7 +3,7 @@ title: "126 Brief By Morrison For Watt"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7731
 vol_id: 19
-date: 1956-03-31
+doc_date: 1956-03-31
 ---
 
 # 126 Brief By Morrison For Watt

@@ -3,7 +3,7 @@ title: "388 Department of External Affairs to High Commission in New Delhi"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6557
 vol_id: 15
-date: 1949-05-09
+doc_date: 1949-05-09
 ---
 
 # 388 Department of External Affairs to High Commission in New Delhi

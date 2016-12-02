@@ -3,7 +3,7 @@ title: "206 Note by Shedden of Discussions with MacArthur"
 volume: "Volume 7: 1944"
 doc_id: 2853
 vol_id: 7
-date: 1944-06-27
+doc_date: 1944-06-27
 ---
 
 # 206 Note by Shedden of Discussions with MacArthur

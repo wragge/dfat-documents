@@ -3,7 +3,7 @@ title: "174 Dr H. V. Evatt, Minister for External Affairs, to Mr F. K. Officer, 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1928
 vol_id: 5
-date: 1941-12-09
+doc_date: 1941-12-09
 ---
 
 # 174 Dr H. V. Evatt, Minister for External Affairs, to Mr F. K. Officer, Charge d'Affaires in Japan

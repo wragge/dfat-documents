@@ -3,7 +3,7 @@ title: "300 Mr David Ross, U.K. Consul in Dili, to Department of External Affair
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2054
 vol_id: 5
-date: 1942-01-25
+doc_date: 1942-01-25
 ---
 
 # 300 Mr David Ross, U.K. Consul in Dili, to Department of External Affairs

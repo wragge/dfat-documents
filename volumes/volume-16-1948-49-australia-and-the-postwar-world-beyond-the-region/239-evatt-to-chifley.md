@@ -3,7 +3,7 @@ title: "239 Evatt to Chifley"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6954
 vol_id: 16
-date: 1949-08-09
+doc_date: 1949-08-09
 barcode: 1729674
 ---
 

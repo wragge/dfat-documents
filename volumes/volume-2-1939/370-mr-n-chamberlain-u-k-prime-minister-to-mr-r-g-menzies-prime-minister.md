@@ -3,7 +3,7 @@ title: "370 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Mi
 volume: "Volume 2: 1939"
 doc_id: 707
 vol_id: 2
-date: 1939-11-17
+doc_date: 1939-11-17
 ---
 
 # 370 Mr N. Chamberlain, U.K. Prime Minister, to Mr R.G. Menzies, Prime Minister

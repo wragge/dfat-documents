@@ -3,7 +3,7 @@ title: "266 Australian Delegation, World Health Assembly[1], to Australian Gover
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6981
 vol_id: 16
-date: 1948-06-30
+doc_date: 1948-06-30
 ---
 
 # 266 Australian Delegation, World Health Assembly[1], to Australian Government

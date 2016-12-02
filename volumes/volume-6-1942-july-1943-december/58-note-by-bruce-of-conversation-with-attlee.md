@@ -3,7 +3,7 @@ title: "58 Note by Bruce of Conversation with Attlee"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2349
 vol_id: 6
-date: 1942-10-14
+doc_date: 1942-10-14
 barcode: 242449
 ---
 

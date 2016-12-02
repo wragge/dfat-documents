@@ -3,7 +3,7 @@ title: "124 Advisory War Council Minute 1352"
 volume: "Volume 7: 1944"
 doc_id: 2771
 vol_id: 7
-date: 1944-05-02
+doc_date: 1944-05-02
 ---
 
 # 124 Advisory War Council Minute 1352

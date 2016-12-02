@@ -3,7 +3,7 @@ title: "218 Mr E. E. Longfield Lloyd, Australian Government Commissioner in Toky
 volume: "Volume 1: 1937-38"
 doc_id: 217
 vol_id: 1
-date: 1938-06-17
+doc_date: 1938-06-17
 ---
 
 # 218 Mr E. E. Longfield Lloyd, Australian Government Commissioner in Tokyo, to Prime Minister's Department

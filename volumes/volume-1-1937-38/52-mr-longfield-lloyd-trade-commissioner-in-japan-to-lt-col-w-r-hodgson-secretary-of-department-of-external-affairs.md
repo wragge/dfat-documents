@@ -3,7 +3,7 @@ title: "52 Mr Longfield Lloyd, Trade Commissioner in Japan, to Lt Col W. R. Hodg
 volume: "Volume 1: 1937-38"
 doc_id: 52
 vol_id: 1
-date: 1937-06-14
+doc_date: 1937-06-14
 ---
 
 # 52 Mr Longfield Lloyd, Trade Commissioner in Japan, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs

@@ -3,7 +3,7 @@ title: "459 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1690
 vol_id: 4
-date: 1941-05-15
+doc_date: 1941-05-15
 ---
 
 # 459 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia

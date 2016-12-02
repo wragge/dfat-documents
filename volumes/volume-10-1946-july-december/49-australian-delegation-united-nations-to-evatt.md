@@ -3,7 +3,7 @@ title: "49 Australian Delegation, United Nations, to Evatt"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3897
 vol_id: 10
-date: 1946-08-01
+doc_date: 1946-08-01
 ---
 
 # 49 Australian Delegation, United Nations, to Evatt

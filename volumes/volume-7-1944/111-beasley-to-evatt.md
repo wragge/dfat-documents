@@ -3,7 +3,7 @@ title: "111 Beasley to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2758
 vol_id: 7
-date: 1944-04-19
+doc_date: 1944-04-19
 ---
 
 # 111 Beasley to Evatt

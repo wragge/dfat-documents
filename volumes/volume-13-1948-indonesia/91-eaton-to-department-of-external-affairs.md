@@ -3,7 +3,7 @@ title: "91 Eaton to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5358
 vol_id: 13
-date: 1948-02-27
+doc_date: 1948-02-27
 barcode: 1729706
 ---
 

@@ -3,7 +3,7 @@ title: "315 Embassy in Washington to Evatt"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6091
 vol_id: 14
-date: 1948-06-12
+doc_date: 1948-06-12
 ---
 
 # 315 Embassy in Washington to Evatt

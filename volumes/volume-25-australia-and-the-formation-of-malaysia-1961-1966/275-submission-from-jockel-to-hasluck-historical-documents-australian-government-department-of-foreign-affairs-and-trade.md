@@ -3,7 +3,7 @@ title: "275 Submission from Jockel to Hasluck - Historical Documents - Australia
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9405
 vol_id: 25
-date: 1965-06-11
+doc_date: 1965-06-11
 barcode: 583169
 ---
 

@@ -3,7 +3,7 @@ title: "196 Minute From Durie To Menzies"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7801
 vol_id: 19
-date: 1957-04-02
+doc_date: 1957-04-02
 ---
 
 # 196 Minute From Durie To Menzies

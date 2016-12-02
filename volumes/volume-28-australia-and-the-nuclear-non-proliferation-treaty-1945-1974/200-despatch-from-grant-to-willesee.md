@@ -3,7 +3,7 @@ title: "200 Despatch from Grant to Willesee"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10574
 vol_id: 28
-date: 1974-07-29
+doc_date: 1974-07-29
 barcode: 549329
 ---
 

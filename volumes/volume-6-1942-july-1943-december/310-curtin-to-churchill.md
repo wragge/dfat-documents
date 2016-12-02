@@ -3,7 +3,7 @@ title: "310 Curtin to Churchill"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2601
 vol_id: 6
-date: 1943-10-23
+doc_date: 1943-10-23
 ---
 
 # 310 Curtin to Churchill

@@ -3,7 +3,7 @@ title: "61 Beasley to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3573
 vol_id: 9
-date: 1946-01-30
+doc_date: 1946-01-30
 barcode: 193422
 ---
 

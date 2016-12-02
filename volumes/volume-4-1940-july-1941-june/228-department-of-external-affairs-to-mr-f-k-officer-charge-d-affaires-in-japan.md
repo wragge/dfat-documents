@@ -3,7 +3,7 @@ title: "228 Department of External Affairs to Mr F. K. Officer, Charge d'Affaire
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1459
 vol_id: 4
-date: 1940-12-17
+doc_date: 1940-12-17
 ---
 
 # 228 Department of External Affairs to Mr F. K. Officer, Charge d'Affaires in Japan

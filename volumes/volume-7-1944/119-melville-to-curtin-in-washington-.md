@@ -3,7 +3,7 @@ title: "119 Melville to Curtin (in Washington)"
 volume: "Volume 7: 1944"
 doc_id: 2766
 vol_id: 7
-date: 1944-04-26
+doc_date: 1944-04-26
 ---
 
 # 119 Melville to Curtin (in Washington)

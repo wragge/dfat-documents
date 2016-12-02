@@ -3,7 +3,7 @@ title: "303 Chifley to Mountbatten"
 volume: "Volume 8: 1945"
 doc_id: 3334
 vol_id: 8
-date: 1945-10-12
+doc_date: 1945-10-12
 ---
 
 # 303 Chifley to Mountbatten

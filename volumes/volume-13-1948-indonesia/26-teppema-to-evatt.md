@@ -3,7 +3,7 @@ title: "26 Teppema to Evatt"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5293
 vol_id: 13
-date: 1948-01-17
+doc_date: 1948-01-17
 ---
 
 # 26 Teppema to Evatt

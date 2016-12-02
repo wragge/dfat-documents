@@ -3,7 +3,7 @@ title: "154 Evatt to Fraser"
 volume: "Volume 8: 1945"
 doc_id: 3185
 vol_id: 8
-date: 1945-08-04
+doc_date: 1945-08-04
 barcode: 188247
 ---
 

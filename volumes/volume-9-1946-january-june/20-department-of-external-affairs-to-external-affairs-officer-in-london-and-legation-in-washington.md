@@ -3,7 +3,7 @@ title: "20 Department of External Affairs to External Affairs Officer in London 
 volume: "Volume 9: 1946, January-June"
 doc_id: 3532
 vol_id: 9
-date: 1946-01-11
+doc_date: 1946-01-11
 barcode: 190025
 ---
 

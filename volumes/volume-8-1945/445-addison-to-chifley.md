@@ -3,7 +3,7 @@ title: "445 Addison to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3476
 vol_id: 8
-date: 1945-12-11
+doc_date: 1945-12-11
 barcode: 188045
 ---
 

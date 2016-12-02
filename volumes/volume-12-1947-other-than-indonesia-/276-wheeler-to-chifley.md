@@ -3,7 +3,7 @@ title: "276 Wheeler to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4958
 vol_id: 12
-date: 1947-04-14
+doc_date: 1947-04-14
 ---
 
 # 276 Wheeler to Chifley

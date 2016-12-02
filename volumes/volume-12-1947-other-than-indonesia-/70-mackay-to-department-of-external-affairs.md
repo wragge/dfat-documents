@@ -3,7 +3,7 @@ title: "70 Mackay to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4752
 vol_id: 12
-date: 1947-10-29
+doc_date: 1947-10-29
 ---
 
 # 70 Mackay to Department of External Affairs

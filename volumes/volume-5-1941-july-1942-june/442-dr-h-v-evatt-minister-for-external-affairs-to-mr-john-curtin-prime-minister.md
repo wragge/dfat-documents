@@ -3,7 +3,7 @@ title: "442 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Pr
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2196
 vol_id: 5
-date: 1942-03-25
+doc_date: 1942-03-25
 ---
 
 # 442 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Prime Minister

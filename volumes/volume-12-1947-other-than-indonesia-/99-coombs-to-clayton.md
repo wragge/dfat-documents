@@ -3,7 +3,7 @@ title: "99 Coombs to Clayton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4781
 vol_id: 12
-date: 1947-05-03
+doc_date: 1947-05-03
 ---
 
 # 99 Coombs to Clayton

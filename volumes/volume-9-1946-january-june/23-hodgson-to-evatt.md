@@ -3,7 +3,7 @@ title: "23 Hodgson to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3535
 vol_id: 9
-date: 1946-01-11
+doc_date: 1946-01-11
 ---
 
 # 23 Hodgson to Evatt

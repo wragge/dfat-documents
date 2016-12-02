@@ -3,7 +3,7 @@ title: "327 Mr John Curtin, Prime Minister, to Mr S. M. Bruce, High Commissioner
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2081
 vol_id: 5
-date: 1942-02-11
+doc_date: 1942-02-11
 barcode: 182752
 ---
 

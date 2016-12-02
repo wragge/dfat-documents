@@ -3,7 +3,7 @@ title: "107 Evatt to Van Aerssen"
 volume: "Volume 7: 1944"
 doc_id: 2754
 vol_id: 7
-date: 1944-04-05
+doc_date: 1944-04-05
 ---
 
 # 107 Evatt to Van Aerssen

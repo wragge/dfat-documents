@@ -3,7 +3,7 @@ title: "40 McDougall to Bruce"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2331
 vol_id: 6
-date: 1942-09-06
+doc_date: 1942-09-06
 barcode: 242514
 ---
 

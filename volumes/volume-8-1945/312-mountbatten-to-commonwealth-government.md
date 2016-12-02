@@ -3,7 +3,7 @@ title: "312 Mountbatten to Commonwealth Government"
 volume: "Volume 8: 1945"
 doc_id: 3343
 vol_id: 8
-date: 1945-10-14
+doc_date: 1945-10-14
 ---
 
 # 312 Mountbatten to Commonwealth Government

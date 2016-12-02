@@ -3,7 +3,7 @@ title: "21 Atyeo to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4703
 vol_id: 12
-date: 1947-03-12
+doc_date: 1947-03-12
 ---
 
 # 21 Atyeo to Evatt

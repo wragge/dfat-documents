@@ -3,7 +3,7 @@ title: "86 Mr J.S. Duncan, Acting High Commissioner in London, to Mr R.G. Menzie
 volume: "Volume 2: 1939"
 doc_id: 423
 vol_id: 2
-date: 1939-05-12
+doc_date: 1939-05-12
 ---
 
 # 86 Mr J.S. Duncan, Acting High Commissioner in London, to Mr R.G. Menzies, Prime Minister

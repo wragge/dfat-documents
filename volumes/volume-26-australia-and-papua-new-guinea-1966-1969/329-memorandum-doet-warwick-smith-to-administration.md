@@ -3,7 +3,7 @@ title: "329 Memorandum, Doet (Warwick Smith) To Administration"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9838
 vol_id: 26
-date: 1969-11-05
+doc_date: 1969-11-05
 barcode: 32756962
 ---
 

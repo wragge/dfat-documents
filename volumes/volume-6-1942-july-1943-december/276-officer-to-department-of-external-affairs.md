@@ -3,7 +3,7 @@ title: "276 Officer to Department of External Affairs"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2567
 vol_id: 6
-date: 1943-09-10
+doc_date: 1943-09-10
 ---
 
 # 276 Officer to Department of External Affairs

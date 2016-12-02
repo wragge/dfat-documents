@@ -3,7 +3,7 @@ title: "470 Addison to Commonwealth Government"
 volume: "Volume 8: 1945"
 doc_id: 3501
 vol_id: 8
-date: 1945-12-20
+doc_date: 1945-12-20
 barcode: 187181
 ---
 

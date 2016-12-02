@@ -3,7 +3,7 @@ title: "48 Evatt to Hasluck"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4730
 vol_id: 12
-date: 1947-01-07
+doc_date: 1947-01-07
 ---
 
 # 48 Evatt to Hasluck

@@ -3,7 +3,7 @@ title: "361 Full Cabinet Submission by"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1592
 vol_id: 4
-date: 1941-03-25
+doc_date: 1941-03-25
 ---
 
 # 361 Full Cabinet Submission by

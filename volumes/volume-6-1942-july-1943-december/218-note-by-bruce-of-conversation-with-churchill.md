@@ -3,7 +3,7 @@ title: "218 Note by Bruce of Conversation with Churchill"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2509
 vol_id: 6
-date: 1943-06-10
+doc_date: 1943-06-10
 barcode: 242457
 ---
 

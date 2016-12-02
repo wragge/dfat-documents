@@ -3,7 +3,7 @@ title: "564 Massey to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5246
 vol_id: 12
-date: 1947-03-31
+doc_date: 1947-03-31
 barcode: 195083
 ---
 

@@ -3,7 +3,7 @@ title: "115 Commonwealth Government to Attlee"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2406
 vol_id: 6
-date: 1943-02-05
+doc_date: 1943-02-05
 barcode: 11244644
 ---
 

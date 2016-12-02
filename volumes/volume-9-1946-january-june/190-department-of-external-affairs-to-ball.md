@@ -3,7 +3,7 @@ title: "190 Department of External Affairs to Ball"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3702
 vol_id: 9
-date: 1946-04-15
+doc_date: 1946-04-15
 ---
 
 # 190 Department of External Affairs to Ball

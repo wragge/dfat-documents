@@ -3,7 +3,7 @@ title: "323 Sir Walford Selby, U.K. Ambassador to Portugal, to Mr R.G. Menzies, 
 volume: "Volume 2: 1939"
 doc_id: 660
 vol_id: 2
-date: 1939-11-02
+doc_date: 1939-11-02
 barcode: 92242
 ---
 

@@ -3,7 +3,7 @@ title: "20 Minute from Arriens to Furlonger"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7859
 vol_id: 20
-date: 1974-08-14
+doc_date: 1974-08-14
 ---
 
 # 20 Minute from Arriens to Furlonger

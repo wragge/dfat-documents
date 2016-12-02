@@ -3,7 +3,7 @@ title: "161 Brief By Defence"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9669
 vol_id: 26
-date: 1968-02-21
+doc_date: 1968-02-21
 barcode: 1727611
 ---
 

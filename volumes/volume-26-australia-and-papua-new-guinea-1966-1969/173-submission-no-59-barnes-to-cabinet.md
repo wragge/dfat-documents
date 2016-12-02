@@ -3,7 +3,7 @@ title: "173 Submission No. 59, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9681
 vol_id: 26
-date: 1968-04-18
+doc_date: 1968-04-18
 barcode: 3067653
 ---
 

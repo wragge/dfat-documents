@@ -3,7 +3,7 @@ title: "336 Telex, Warwick Smith To Hay"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9845
 vol_id: 26
-date: 1969-11-26
+doc_date: 1969-11-26
 barcode: 3120417
 ---
 

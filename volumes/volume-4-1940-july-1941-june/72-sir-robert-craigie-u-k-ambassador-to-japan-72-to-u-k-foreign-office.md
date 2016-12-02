@@ -3,7 +3,7 @@ title: "72 Sir Robert Craigie, U.K. Ambassador to Japan, 72 to U.K. Foreign Offi
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1303
 vol_id: 4
-date: 1940-08-14
+doc_date: 1940-08-14
 ---
 
 # 72 Sir Robert Craigie, U.K. Ambassador to Japan, 72 to U.K. Foreign Office

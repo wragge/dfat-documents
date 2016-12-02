@@ -3,7 +3,7 @@ title: "22 Mr J. K. Waller, Department of External Affairs, to Mr H. A. Peterson
 volume: "Volume 1: 1937-38"
 doc_id: 22
 vol_id: 1
-date: 1937-05-03
+doc_date: 1937-05-03
 ---
 
 # 22 Mr J. K. Waller, Department of External Affairs, to Mr H. A. Peterson, Department of External Affairs

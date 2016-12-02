@@ -3,7 +3,7 @@ title: "186 Letter from Australian Dairy Corporation to Nixon"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9055
 vol_id: 23
-date: 1982-04-02
+doc_date: 1982-04-02
 ---
 
 # 186 Letter from Australian Dairy Corporation to Nixon

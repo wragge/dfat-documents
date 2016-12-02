@@ -3,7 +3,7 @@ title: "31 Commonwealth Government to Mr M.J. Savage, N.Z. Prime Minister, and t
 volume: "Volume 2: 1939"
 doc_id: 368
 vol_id: 2
-date: 1939-02-28
+doc_date: 1939-02-28
 ---
 
 # 31 Commonwealth Government to Mr M.J. Savage, N.Z. Prime Minister, and to Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs

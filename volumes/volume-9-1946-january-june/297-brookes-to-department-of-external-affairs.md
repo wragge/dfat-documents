@@ -3,7 +3,7 @@ title: "297 Brookes to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3809
 vol_id: 9
-date: 1946-06-08
+doc_date: 1946-06-08
 ---
 
 # 297 Brookes to Department of External Affairs

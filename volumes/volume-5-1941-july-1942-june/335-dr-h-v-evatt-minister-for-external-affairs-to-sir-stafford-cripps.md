@@ -3,7 +3,7 @@ title: "335 Dr H. V. Evatt, Minister for External Affairs, to Sir Stafford Cripp
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2089
 vol_id: 5
-date: 1942-02-16
+doc_date: 1942-02-16
 ---
 
 # 335 Dr H. V. Evatt, Minister for External Affairs, to Sir Stafford Cripps

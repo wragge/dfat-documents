@@ -3,7 +3,7 @@ title: "571 Glasheen to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5253
 vol_id: 12
-date: 1947-03-14
+doc_date: 1947-03-14
 ---
 
 # 571 Glasheen to Department of External Affairs

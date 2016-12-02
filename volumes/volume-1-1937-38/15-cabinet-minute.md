@@ -3,7 +3,7 @@ title: "15 Cabinet Minute"
 volume: "Volume 1: 1937-38"
 doc_id: 15
 vol_id: 1
-date: 1937-03-09
+doc_date: 1937-03-09
 barcode: 96360
 ---
 

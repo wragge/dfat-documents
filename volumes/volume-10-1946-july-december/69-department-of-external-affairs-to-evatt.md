@@ -3,7 +3,7 @@ title: "69 Department of External Affairs to Evatt"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3917
 vol_id: 10
-date: 1946-08-15
+doc_date: 1946-08-15
 ---
 
 # 69 Department of External Affairs to Evatt

@@ -3,7 +3,7 @@ title: "501 Dr H. V. Evatt, Minister for External Affairs, to Mr John Curtin, Pr
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2255
 vol_id: 5
-date: 1942-05-28
+doc_date: 1942-05-28
 barcode: 238609
 ---
 

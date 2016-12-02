@@ -3,7 +3,7 @@ title: "458 Sastroamidjojo to Eaton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6627
 vol_id: 15
-date: 1949-07-21
+doc_date: 1949-07-21
 ---
 
 # 458 Sastroamidjojo to Eaton

@@ -3,7 +3,7 @@ title: "Cablegram to Washington"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8325
 vol_id: 20
-date: 1963-01-28
+doc_date: 1963-01-28
 ---
 
 # Cablegram to Washington

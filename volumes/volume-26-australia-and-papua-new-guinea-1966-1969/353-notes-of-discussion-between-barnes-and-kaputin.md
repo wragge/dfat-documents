@@ -3,7 +3,7 @@ title: "353 Notes Of Discussion Between Barnes And Kaputin"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9862
 vol_id: 26
-date: 1969-12-19
+doc_date: 1969-12-19
 barcode: 3120417
 ---
 

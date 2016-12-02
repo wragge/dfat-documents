@@ -3,7 +3,7 @@ title: "214 Cablegram from Vawdrey to Canberra - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9344
 vol_id: 25
-date: 1964-09-25
+doc_date: 1964-09-25
 barcode: 1160247
 ---
 

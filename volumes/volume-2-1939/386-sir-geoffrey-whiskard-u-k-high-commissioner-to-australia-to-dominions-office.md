@@ -3,7 +3,7 @@ title: "386 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Domin
 volume: "Volume 2: 1939"
 doc_id: 723
 vol_id: 2
-date: 1939-11-24
+doc_date: 1939-11-24
 ---
 
 # 386 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Dominions Office

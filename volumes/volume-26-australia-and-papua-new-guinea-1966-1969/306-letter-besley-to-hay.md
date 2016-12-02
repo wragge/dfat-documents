@@ -3,7 +3,7 @@ title: "306 Letter, Besley To Hay"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9815
 vol_id: 26
-date: 1969-08-07
+doc_date: 1969-08-07
 barcode: 3117906
 ---
 

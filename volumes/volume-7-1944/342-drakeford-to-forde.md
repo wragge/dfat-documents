@@ -3,7 +3,7 @@ title: "342 Drakeford to Forde"
 volume: "Volume 7: 1944"
 doc_id: 2989
 vol_id: 7
-date: 1944-11-09
+doc_date: 1944-11-09
 ---
 
 # 342 Drakeford to Forde

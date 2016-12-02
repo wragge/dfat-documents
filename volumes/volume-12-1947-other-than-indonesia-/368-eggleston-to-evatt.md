@@ -3,7 +3,7 @@ title: "368 Eggleston to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5050
 vol_id: 12
-date: 1947-10-01
+doc_date: 1947-10-01
 ---
 
 # 368 Eggleston to Evatt

@@ -3,7 +3,7 @@ title: "171 Lord Cranborne, U.K. Secretary of State 171 for Dominion Affairs, to
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1925
 vol_id: 5
-date: 1941-12-07
+doc_date: 1941-12-07
 barcode: 206048
 ---
 

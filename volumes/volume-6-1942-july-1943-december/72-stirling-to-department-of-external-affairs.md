@@ -3,7 +3,7 @@ title: "72 Stirling to Department of External Affairs"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2363
 vol_id: 6
-date: 1942-11-07
+doc_date: 1942-11-07
 ---
 
 # 72 Stirling to Department of External Affairs

@@ -3,7 +3,7 @@ title: "169 Mr N. Chamberlain, U.K. Prime Minister, to Mr R. G. Menzies, Prime M
 volume: "Volume 3: 1940, January-June"
 doc_id: 935
 vol_id: 3
-date: 1940-04-22
+doc_date: 1940-04-22
 ---
 
 # 169 Mr N. Chamberlain, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister

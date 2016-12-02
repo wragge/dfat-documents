@@ -3,7 +3,7 @@ title: "166 Addison to Commonwealth Government"
 volume: "Volume 8: 1945"
 doc_id: 3197
 vol_id: 8
-date: 1945-08-08
+doc_date: 1945-08-08
 ---
 
 # 166 Addison to Commonwealth Government

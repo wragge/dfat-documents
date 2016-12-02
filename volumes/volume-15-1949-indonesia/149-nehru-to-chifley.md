@@ -3,7 +3,7 @@ title: "149 Nehru to Chifley"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6318
 vol_id: 15
-date: 1949-01-23
+doc_date: 1949-01-23
 barcode: 587590
 ---
 

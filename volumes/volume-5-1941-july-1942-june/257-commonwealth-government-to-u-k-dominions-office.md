@@ -3,7 +3,7 @@ title: "257 Commonwealth Government to U.K. Dominions Office"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2011
 vol_id: 5
-date: 1942-01-06
+doc_date: 1942-01-06
 ---
 
 # 257 Commonwealth Government to U.K. Dominions Office

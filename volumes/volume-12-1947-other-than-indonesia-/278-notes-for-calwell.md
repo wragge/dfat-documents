@@ -3,7 +3,7 @@ title: "278 Notes for Calwell"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4960
 vol_id: 12
-date: 1947-12-31
+doc_date: 1947-12-31
 ---
 
 # 278 Notes for Calwell

@@ -3,7 +3,7 @@ title: "247 Note by Bruce of Conversation with Churchill"
 volume: "Volume 7: 1944"
 doc_id: 2894
 vol_id: 7
-date: 1944-08-03
+doc_date: 1944-08-03
 barcode: 242471
 ---
 

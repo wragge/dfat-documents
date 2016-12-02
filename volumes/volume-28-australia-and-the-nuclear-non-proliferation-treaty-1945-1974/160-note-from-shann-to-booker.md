@@ -3,7 +3,7 @@ title: "160 Note from Shann to Booker"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10534
 vol_id: 28
-date: 1970-02-10
+doc_date: 1970-02-10
 barcode: 1730539
 ---
 

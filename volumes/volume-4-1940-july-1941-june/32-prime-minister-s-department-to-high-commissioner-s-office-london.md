@@ -3,7 +3,7 @@ title: "32 Prime Minister's Department to High Commissioner's Office, London"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1263
 vol_id: 4
-date: 1940-07-23
+doc_date: 1940-07-23
 ---
 
 # 32 Prime Minister's Department to High Commissioner's Office, London

@@ -3,7 +3,7 @@ title: "172 Throssell to Shann"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4356
 vol_id: 11
-date: 1947-07-28
+doc_date: 1947-07-28
 ---
 
 # 172 Throssell to Shann

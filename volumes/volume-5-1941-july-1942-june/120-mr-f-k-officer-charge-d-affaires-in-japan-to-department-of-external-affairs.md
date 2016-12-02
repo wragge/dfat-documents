@@ -3,7 +3,7 @@ title: "120 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of Exte
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1874
 vol_id: 5
-date: 1941-11-21
+doc_date: 1941-11-21
 barcode: 170268
 ---
 

@@ -3,7 +3,7 @@ title: "100 Cablegram From Embassy in Washington to Casey"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8451
 vol_id: 21
-date: 1951-07-11
+doc_date: 1951-07-11
 ---
 
 # 100 Cablegram From Embassy in Washington to Casey

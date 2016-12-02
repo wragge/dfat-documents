@@ -3,7 +3,7 @@ title: "14 Cablegram From Menzies to Fadden"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8365
 vol_id: 21
-date: 1950-08-03
+doc_date: 1950-08-03
 barcode: 3900109
 ---
 

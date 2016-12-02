@@ -3,7 +3,7 @@ title: "346 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Casey, Mini
 volume: "Volume 3: 1940, January-June"
 doc_id: 1112
 vol_id: 3
-date: 1940-06-06
+doc_date: 1940-06-06
 ---
 
 # 346 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Casey, Minister to the United States

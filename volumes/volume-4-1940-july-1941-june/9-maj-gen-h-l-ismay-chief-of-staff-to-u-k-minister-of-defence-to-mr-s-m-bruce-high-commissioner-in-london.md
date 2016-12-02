@@ -3,7 +3,7 @@ title: "9 Maj Gen H. L. Ismay, Chief of Staff to U.K. Minister of Defence, to Mr
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1240
 vol_id: 4
-date: 1940-07-04
+doc_date: 1940-07-04
 ---
 
 # 9 Maj Gen H. L. Ismay, Chief of Staff to U.K. Minister of Defence, to Mr S. M. Bruce, High Commissioner in London

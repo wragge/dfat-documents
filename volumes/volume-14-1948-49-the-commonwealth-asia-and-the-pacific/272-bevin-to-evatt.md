@@ -3,7 +3,7 @@ title: "272 Bevin to Evatt"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6048
 vol_id: 14
-date: 1949-10-17
+doc_date: 1949-10-17
 barcode: 236421
 ---
 

@@ -3,7 +3,7 @@ title: "117 Speech by Burton at New Delhi Conference"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6286
 vol_id: 15
-date: 1949-01-20
+doc_date: 1949-01-20
 ---
 
 # 117 Speech by Burton at New Delhi Conference

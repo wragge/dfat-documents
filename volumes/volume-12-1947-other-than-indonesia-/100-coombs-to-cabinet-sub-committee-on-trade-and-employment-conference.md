@@ -3,7 +3,7 @@ title: "100 Coombs to Cabinet Sub-Committee on Trade and Employment Conference"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4782
 vol_id: 12
-date: 1947-05-09
+doc_date: 1947-05-09
 barcode: 195156
 ---
 

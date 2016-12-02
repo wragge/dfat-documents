@@ -3,7 +3,7 @@ title: "231 Note by Attlee for Meeting of Prime Ministers"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3743
 vol_id: 9
-date: 1946-05-04
+doc_date: 1946-05-04
 barcode: 694890
 ---
 

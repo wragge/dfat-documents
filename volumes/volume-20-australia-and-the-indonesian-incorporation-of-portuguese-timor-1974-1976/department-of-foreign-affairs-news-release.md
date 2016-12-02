@@ -3,7 +3,7 @@ title: "Department of Foreign Affairs News Release"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8348
 vol_id: 20
-date: 1978-01-20
+doc_date: 1978-01-20
 ---
 
 # Department of Foreign Affairs News Release

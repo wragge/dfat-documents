@@ -3,7 +3,7 @@ title: "320 Evatt to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3351
 vol_id: 8
-date: 1945-10-16
+doc_date: 1945-10-16
 ---
 
 # 320 Evatt to Chifley

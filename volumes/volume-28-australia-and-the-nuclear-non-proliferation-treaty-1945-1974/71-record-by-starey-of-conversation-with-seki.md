@@ -3,7 +3,7 @@ title: "71 Record by Starey of Conversation with Seki"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10445
 vol_id: 28
-date: 1965-08-02
+doc_date: 1965-08-02
 barcode: 1726046
 ---
 

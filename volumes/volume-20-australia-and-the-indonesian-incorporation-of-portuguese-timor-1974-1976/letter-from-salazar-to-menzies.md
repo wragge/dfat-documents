@@ -3,7 +3,7 @@ title: "Letter from Salazar to Menzies"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8331
 vol_id: 20
-date: 1963-03-01
+doc_date: 1963-03-01
 ---
 
 # Letter from Salazar to Menzies

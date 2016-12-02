@@ -3,7 +3,7 @@ title: "320 White and Booker to Shedden and Dunk"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4168
 vol_id: 10
-date: 1946-12-13
+doc_date: 1946-12-13
 ---
 
 # 320 White and Booker to Shedden and Dunk

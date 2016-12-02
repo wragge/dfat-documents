@@ -3,7 +3,7 @@ title: "38 Evatt to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6207
 vol_id: 15
-date: 1949-01-07
+doc_date: 1949-01-07
 ---
 
 # 38 Evatt to Burton

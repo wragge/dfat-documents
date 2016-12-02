@@ -3,7 +3,7 @@ title: "55 RECORD OF CONVERSATION BETWEEN TANGE, CRITCHLEY AND PETERSON"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8538
 vol_id: 22
-date: 1955-05-05
+doc_date: 1955-05-05
 barcode: 529903
 ---
 

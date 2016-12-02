@@ -3,7 +3,7 @@ title: "113 Defence Committee Agendum"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5889
 vol_id: 14
-date: 1949-09-26
+doc_date: 1949-09-26
 barcode: 703263
 ---
 

@@ -3,7 +3,7 @@ title: "82 Notes by Bailey on Cabinet Submission 200"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10456
 vol_id: 28
-date: 1966-05-27
+doc_date: 1966-05-27
 barcode: 1342340
 ---
 

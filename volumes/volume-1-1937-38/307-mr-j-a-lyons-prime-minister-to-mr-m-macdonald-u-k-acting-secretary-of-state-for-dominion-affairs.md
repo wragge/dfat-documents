@@ -3,7 +3,7 @@ title: "307 Mr J. A. Lyons, Prime Minister, to Mr M. MacDonald, U.K. Acting Secr
 volume: "Volume 1: 1937-38"
 doc_id: 306
 vol_id: 1
-date: 1938-10-26
+doc_date: 1938-10-26
 ---
 
 # 307 Mr J. A. Lyons, Prime Minister, to Mr M. MacDonald, U.K. Acting Secretary of State for Dominion Affairs

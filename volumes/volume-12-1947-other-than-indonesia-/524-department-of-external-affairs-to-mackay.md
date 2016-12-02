@@ -3,7 +3,7 @@ title: "524 Department of External Affairs to Mackay"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5206
 vol_id: 12
-date: 1947-02-23
+doc_date: 1947-02-23
 ---
 
 # 524 Department of External Affairs to Mackay

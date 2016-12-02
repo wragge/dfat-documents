@@ -3,7 +3,7 @@ title: "291 Dixon to Department of External Affairs"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2582
 vol_id: 6
-date: 1943-10-06
+doc_date: 1943-10-06
 barcode: 7569636
 ---
 

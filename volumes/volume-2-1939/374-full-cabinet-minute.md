@@ -3,7 +3,7 @@ title: "374 Full Cabinet Minute"
 volume: "Volume 2: 1939"
 doc_id: 711
 vol_id: 2
-date: 1939-11-20
+doc_date: 1939-11-20
 ---
 
 # 374 Full Cabinet Minute

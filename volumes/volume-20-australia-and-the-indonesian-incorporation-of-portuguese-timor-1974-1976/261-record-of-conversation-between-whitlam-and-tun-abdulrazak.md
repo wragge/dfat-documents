@@ -3,7 +3,7 @@ title: "261 Record of Conversation Between Whitlam and Tun Abdulrazak"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8099
 vol_id: 20
-date: 1975-10-15
+doc_date: 1975-10-15
 ---
 
 # 261 Record of Conversation Between Whitlam and Tun Abdulrazak

@@ -3,7 +3,7 @@ title: "12 Note from Tange to Casey"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10387
 vol_id: 28
-date: 1951-10-09
+doc_date: 1951-10-09
 barcode: 427510
 ---
 

@@ -3,7 +3,7 @@ title: "7 MINUTE, MOUNTBATTEN TO WATKINSON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9874
 vol_id: 27
-date: 1961-06-26
+doc_date: 1961-06-26
 ---
 
 # 7 MINUTE, MOUNTBATTEN TO WATKINSON

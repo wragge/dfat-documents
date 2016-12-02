@@ -3,7 +3,7 @@ title: "141 Officer to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5408
 vol_id: 13
-date: 1948-05-22
+doc_date: 1948-05-22
 ---
 
 # 141 Officer to Department of External Affairs

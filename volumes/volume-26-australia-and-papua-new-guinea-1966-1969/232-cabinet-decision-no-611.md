@@ -3,7 +3,7 @@ title: "232 Cabinet Decision No. 611"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9740
 vol_id: 26
-date: 1968-10-15
+doc_date: 1968-10-15
 barcode: 3068609
 ---
 

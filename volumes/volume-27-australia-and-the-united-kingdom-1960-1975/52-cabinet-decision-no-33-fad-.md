@@ -3,7 +3,7 @@ title: "52 CABINET DECISION NO. 33 (FAD)"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9917
 vol_id: 27
-date: 1966-01-30
+doc_date: 1966-01-30
 ---
 
 # 52 CABINET DECISION NO. 33 (FAD)

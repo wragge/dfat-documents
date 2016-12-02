@@ -3,7 +3,7 @@ title: "284 Memorandum from Critchley to Plimsoll - Historical Documents - Austr
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9414
 vol_id: 25
-date: 1965-07-15
+doc_date: 1965-07-15
 barcode: 583171
 ---
 

@@ -3,7 +3,7 @@ title: "280 CABLEGRAM, ANTHONY TO FOREIGN AFFAIRS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10145
 vol_id: 27
-date: 1971-06-04
+doc_date: 1971-06-04
 ---
 
 # 280 CABLEGRAM, ANTHONY TO FOREIGN AFFAIRS

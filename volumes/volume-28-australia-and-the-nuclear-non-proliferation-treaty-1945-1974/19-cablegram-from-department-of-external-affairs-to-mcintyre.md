@@ -3,7 +3,7 @@ title: "19 Cablegram from Department of External Affairs to Mcintyre"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10394
 vol_id: 28
-date: 1956-06-26
+doc_date: 1956-06-26
 barcode: 842049
 ---
 

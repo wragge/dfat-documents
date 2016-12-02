@@ -3,7 +3,7 @@ title: "202 Australian Government to Butler"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4884
 vol_id: 12
-date: 1947-02-19
+doc_date: 1947-02-19
 ---
 
 # 202 Australian Government to Butler

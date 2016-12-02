@@ -3,7 +3,7 @@ title: "504 Critchley to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6673
 vol_id: 15
-date: 1949-10-10
+doc_date: 1949-10-10
 ---
 
 # 504 Critchley to Department of External Affairs

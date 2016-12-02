@@ -3,7 +3,7 @@ title: "125 Commentary by Mission to the United Nations"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10499
 vol_id: 28
-date: 1968-05-01
+doc_date: 1968-05-01
 barcode: 1725938
 ---
 

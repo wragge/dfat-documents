@@ -3,7 +3,7 @@ title: "184 TELEGRAM, DIXON TO FOREIGN OFFICE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10049
 vol_id: 27
-date: 1962-06-14
+doc_date: 1962-06-14
 ---
 
 # 184 TELEGRAM, DIXON TO FOREIGN OFFICE

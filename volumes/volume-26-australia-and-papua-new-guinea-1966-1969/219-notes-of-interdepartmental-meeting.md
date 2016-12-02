@@ -3,7 +3,7 @@ title: "219 Notes Of Interdepartmental Meeting"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9727
 vol_id: 26
-date: 1968-08-23
+doc_date: 1968-08-23
 barcode: 583784
 ---
 

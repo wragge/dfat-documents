@@ -3,7 +3,7 @@ title: "93 United States Government to Australian Government"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3941
 vol_id: 10
-date: 1946-08-29
+doc_date: 1946-08-29
 ---
 
 # 93 United States Government to Australian Government

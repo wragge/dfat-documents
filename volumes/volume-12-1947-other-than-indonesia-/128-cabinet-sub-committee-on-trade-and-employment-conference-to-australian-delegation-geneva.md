@@ -3,7 +3,7 @@ title: "128 Cabinet Sub-Committee on Trade and Employment Conference to Australi
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4810
 vol_id: 12
-date: 1947-08-07
+doc_date: 1947-08-07
 barcode: 195062
 ---
 

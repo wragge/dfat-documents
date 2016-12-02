@@ -3,7 +3,7 @@ title: "138 Savingram, Loveday To Dea"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9646
 vol_id: 26
-date: 1967-08-18
+doc_date: 1967-08-18
 barcode: 546863
 ---
 

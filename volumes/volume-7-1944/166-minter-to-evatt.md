@@ -3,7 +3,7 @@ title: "166 Minter to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2813
 vol_id: 7
-date: 1944-05-26
+doc_date: 1944-05-26
 ---
 
 # 166 Minter to Evatt

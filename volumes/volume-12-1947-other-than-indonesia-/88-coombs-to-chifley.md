@@ -3,7 +3,7 @@ title: "88 Coombs to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4770
 vol_id: 12
-date: 1947-03-22
+doc_date: 1947-03-22
 barcode: 195040
 ---
 

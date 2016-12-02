@@ -3,7 +3,7 @@ title: "85 Cablegram From Mcewen And O'sullivan To Spooner And Mcleay"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7690
 vol_id: 19
-date: 1954-11-03
+doc_date: 1954-11-03
 ---
 
 # 85 Cablegram From Mcewen And O'sullivan To Spooner And Mcleay

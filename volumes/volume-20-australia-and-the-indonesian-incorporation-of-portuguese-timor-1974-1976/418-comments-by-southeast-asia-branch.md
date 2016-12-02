@@ -3,7 +3,7 @@ title: "418 Comments by South-East Asia Branch"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8256
 vol_id: 20
-date: 1976-02-04
+doc_date: 1976-02-04
 ---
 
 # 418 Comments by South-East Asia Branch

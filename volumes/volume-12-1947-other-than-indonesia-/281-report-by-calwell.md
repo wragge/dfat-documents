@@ -3,7 +3,7 @@ title: "281 Report by Calwell"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4963
 vol_id: 12
-date: 1947-07-08
+doc_date: 1947-07-08
 ---
 
 # 281 Report by Calwell

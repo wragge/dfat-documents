@@ -3,7 +3,7 @@ title: "146 War Cabinet Submission by Senator G. McLeay, Minister for Trade and 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1377
 vol_id: 4
-date: 1940-09-30
+doc_date: 1940-09-30
 barcode: 7559111
 ---
 

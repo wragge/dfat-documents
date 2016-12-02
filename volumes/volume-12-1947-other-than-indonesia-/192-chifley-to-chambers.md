@@ -3,7 +3,7 @@ title: "192 Chifley to Chambers"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4874
 vol_id: 12
-date: 1947-12-09
+doc_date: 1947-12-09
 ---
 
 # 192 Chifley to Chambers

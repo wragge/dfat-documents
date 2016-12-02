@@ -3,7 +3,7 @@ title: "157 Letter from Dan to Joseph"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7996
 vol_id: 20
-date: 1975-07-21
+doc_date: 1975-07-21
 ---
 
 # 157 Letter from Dan to Joseph

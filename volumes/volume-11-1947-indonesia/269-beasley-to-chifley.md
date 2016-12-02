@@ -3,7 +3,7 @@ title: "269 Beasley to Chifley"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4453
 vol_id: 11
-date: 1947-08-09
+doc_date: 1947-08-09
 ---
 
 # 269 Beasley to Chifley

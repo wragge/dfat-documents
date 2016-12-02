@@ -3,7 +3,7 @@ title: "214 CABINET MINUTE, DECISION NO. 638"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10079
 vol_id: 27
-date: 1963-02-05
+doc_date: 1963-02-05
 ---
 
 # 214 CABINET MINUTE, DECISION NO. 638

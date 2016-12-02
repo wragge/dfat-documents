@@ -3,7 +3,7 @@ title: "483 MINUTE MENZIES TO HARDERS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10350
 vol_id: 27
-date: 1974-07-12
+doc_date: 1974-07-12
 ---
 
 # 483 MINUTE MENZIES TO HARDERS

@@ -3,7 +3,7 @@ title: "294 Record of Conversation Between Fernandez, Her Tasning and Matias"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8132
 vol_id: 20
-date: 1975-10-24
+doc_date: 1975-10-24
 ---
 
 # 294 Record of Conversation Between Fernandez, Her Tasning and Matias

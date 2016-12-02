@@ -3,7 +3,7 @@ title: "72 Cablegram from High Commission in London to Department of External Af
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10446
 vol_id: 28
-date: 1965-08-03
+doc_date: 1965-08-03
 barcode: 1726046
 ---
 

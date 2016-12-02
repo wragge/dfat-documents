@@ -3,7 +3,7 @@ title: "315 CABLEGRAM TO PARIS"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8799
 vol_id: 22
-date: 1972-03-08
+doc_date: 1972-03-08
 barcode: 1730901
 ---
 

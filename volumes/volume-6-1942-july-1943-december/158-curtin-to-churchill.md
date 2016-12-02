@@ -3,7 +3,7 @@ title: "158 Curtin to Churchill"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2449
 vol_id: 6
-date: 1943-04-20
+doc_date: 1943-04-20
 ---
 
 # 158 Curtin to Churchill

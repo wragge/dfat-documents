@@ -3,7 +3,7 @@ title: "217 Ministerial Submission to Street by Laurie"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9086
 vol_id: 23
-date: 1982-10-26
+doc_date: 1982-10-26
 ---
 
 # 217 Ministerial Submission to Street by Laurie

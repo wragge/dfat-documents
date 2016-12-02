@@ -3,7 +3,7 @@ title: "96 Memorandum by Department of External Affairs"
 volume: "Volume 7: 1944"
 doc_id: 2743
 vol_id: 7
-date: 1944-03-27
+doc_date: 1944-03-27
 barcode: 1725200
 ---
 

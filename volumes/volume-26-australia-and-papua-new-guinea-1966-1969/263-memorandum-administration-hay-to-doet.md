@@ -3,7 +3,7 @@ title: "263 Memorandum, Administration (Hay) To Doet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9771
 vol_id: 26
-date: 1969-04-14
+doc_date: 1969-04-14
 ---
 
 # 263 Memorandum, Administration (Hay) To Doet

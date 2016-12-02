@@ -3,7 +3,7 @@ title: "346 Hood to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3377
 vol_id: 8
-date: 1945-10-27
+doc_date: 1945-10-27
 ---
 
 # 346 Hood to Department of External Affairs

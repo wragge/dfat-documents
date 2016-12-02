@@ -3,7 +3,7 @@ title: "218 Dedman to Coombs"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4066
 vol_id: 10
-date: 1946-11-15
+doc_date: 1946-11-15
 ---
 
 # 218 Dedman to Coombs

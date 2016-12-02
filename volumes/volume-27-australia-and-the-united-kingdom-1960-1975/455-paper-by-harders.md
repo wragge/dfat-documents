@@ -3,7 +3,7 @@ title: "455 PAPER BY HARDERS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10322
 vol_id: 27
-date: 1973-04-16
+doc_date: 1973-04-16
 ---
 
 # 455 PAPER BY HARDERS

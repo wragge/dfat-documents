@@ -3,7 +3,7 @@ title: "352 Cabinet Submission by Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5034
 vol_id: 12
-date: 1947-08-13
+doc_date: 1947-08-13
 ---
 
 # 352 Cabinet Submission by Evatt

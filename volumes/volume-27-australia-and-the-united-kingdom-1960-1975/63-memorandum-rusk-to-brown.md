@@ -3,7 +3,7 @@ title: "63 MEMORANDUM, RUSK TO BROWN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9928
 vol_id: 27
-date: 1967-04-21
+doc_date: 1967-04-21
 ---
 
 # 63 MEMORANDUM, RUSK TO BROWN

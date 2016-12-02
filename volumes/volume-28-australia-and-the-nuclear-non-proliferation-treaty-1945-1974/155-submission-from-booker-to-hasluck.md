@@ -3,7 +3,7 @@ title: "155 Submission from Booker to Hasluck"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10529
 vol_id: 28
-date: 1969-02-06
+doc_date: 1969-02-06
 barcode: 1730536
 ---
 

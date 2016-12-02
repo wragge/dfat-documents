@@ -3,7 +3,7 @@ title: "74 Memorandum, Dot (Warwick Smith) To Administration"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9582
 vol_id: 26
-date: 1966-10-10
+doc_date: 1966-10-10
 barcode: 12030524
 ---
 

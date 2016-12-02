@@ -3,7 +3,7 @@ title: "10 Record Of Conversation In Central Policy And Planning Committee"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9519
 vol_id: 26
-date: 1966-02-07
+doc_date: 1966-02-07
 barcode: 12030514
 ---
 

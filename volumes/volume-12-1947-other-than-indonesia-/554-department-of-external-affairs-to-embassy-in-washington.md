@@ -3,7 +3,7 @@ title: "554 Department of External Affairs to Embassy in Washington"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5236
 vol_id: 12
-date: 1947-07-21
+doc_date: 1947-07-21
 ---
 
 # 554 Department of External Affairs to Embassy in Washington

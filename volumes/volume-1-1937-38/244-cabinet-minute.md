@@ -3,7 +3,7 @@ title: "244 Cabinet Minute"
 volume: "Volume 1: 1937-38"
 doc_id: 243
 vol_id: 1
-date: 1938-09-01
+doc_date: 1938-09-01
 ---
 
 # 244 Cabinet Minute

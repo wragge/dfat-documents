@@ -3,7 +3,7 @@ title: "174 Ball to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3686
 vol_id: 9
-date: 1946-04-07
+doc_date: 1946-04-07
 barcode: 12096745
 ---
 

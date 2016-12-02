@@ -3,7 +3,7 @@ title: "108 Eaton to Evatt"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5375
 vol_id: 13
-date: 1948-03-19
+doc_date: 1948-03-19
 ---
 
 # 108 Eaton to Evatt

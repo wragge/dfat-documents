@@ -3,7 +3,7 @@ title: "169 Minute from Clark to Muldoon"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9038
 vol_id: 23
-date: 1981-05-12
+doc_date: 1981-05-12
 ---
 
 # 169 Minute from Clark to Muldoon

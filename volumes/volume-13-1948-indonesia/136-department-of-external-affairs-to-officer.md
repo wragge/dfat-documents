@@ -3,7 +3,7 @@ title: "136 Department of External Affairs to Officer"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5403
 vol_id: 13
-date: 1948-05-20
+doc_date: 1948-05-20
 ---
 
 # 136 Department of External Affairs to Officer

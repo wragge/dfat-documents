@@ -3,7 +3,7 @@ title: "410 Bury to Coombs"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7125
 vol_id: 16
-date: 1948-02-11
+doc_date: 1948-02-11
 ---
 
 # 410 Bury to Coombs

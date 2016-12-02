@@ -3,7 +3,7 @@ title: "348 Telex, Hayes To Parkinson"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9857
 vol_id: 26
-date: 1969-12-15
+doc_date: 1969-12-15
 barcode: 3118301
 ---
 

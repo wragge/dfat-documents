@@ -3,7 +3,7 @@ title: "50 Submission 614 To Cabinet By Mcleay"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7655
 vol_id: 19
-date: 1954-01-30
+doc_date: 1954-01-30
 ---
 
 # 50 Submission 614 To Cabinet By Mcleay

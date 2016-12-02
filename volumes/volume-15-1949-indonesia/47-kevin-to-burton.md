@@ -3,7 +3,7 @@ title: "47 Kevin to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6216
 vol_id: 15
-date: 1949-01-07
+doc_date: 1949-01-07
 ---
 
 # 47 Kevin to Burton

@@ -3,7 +3,7 @@ title: "231 Mr Winston Churchill, U.K. Prime Minister (in the United States), to
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1985
 vol_id: 5
-date: 1941-12-25
+doc_date: 1941-12-25
 ---
 
 # 231 Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John Curtin, Prime Minister

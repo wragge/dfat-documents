@@ -3,7 +3,7 @@ title: "79 Department of External Affairs to Australian Delegation, United Natio
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5346
 vol_id: 13
-date: 1948-02-20
+doc_date: 1948-02-20
 ---
 
 # 79 Department of External Affairs to Australian Delegation, United Nations

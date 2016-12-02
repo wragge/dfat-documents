@@ -3,7 +3,7 @@ title: "204 Brookes to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3716
 vol_id: 9
-date: 1946-04-22
+doc_date: 1946-04-22
 ---
 
 # 204 Brookes to Department of External Affairs

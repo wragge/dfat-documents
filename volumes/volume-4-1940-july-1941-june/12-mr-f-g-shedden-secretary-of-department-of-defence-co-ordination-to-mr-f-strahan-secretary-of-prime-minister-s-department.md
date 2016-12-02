@@ -3,7 +3,7 @@ title: "12 Mr F. G. Shedden, Secretary of Department of Defence Co- ordination, 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1243
 vol_id: 4
-date: 1940-07-05
+doc_date: 1940-07-05
 ---
 
 # 12 Mr F. G. Shedden, Secretary of Department of Defence Co- ordination, to Mr F. Strahan, Secretary of Prime Minister's Department

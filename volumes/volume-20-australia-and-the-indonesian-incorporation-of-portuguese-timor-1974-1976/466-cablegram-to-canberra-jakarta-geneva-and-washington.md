@@ -3,7 +3,7 @@ title: "466 Cablegram to Canberra, Jakarta, Geneva and Washington"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8304
 vol_id: 20
-date: 1976-06-10
+doc_date: 1976-06-10
 ---
 
 # 466 Cablegram to Canberra, Jakarta, Geneva and Washington

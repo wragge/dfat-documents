@@ -3,7 +3,7 @@ title: "137 Notes Of Discussion Between Dot And Dea Officials"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9645
 vol_id: 26
-date: 1967-07-27
+doc_date: 1967-07-27
 barcode: 3117301
 ---
 

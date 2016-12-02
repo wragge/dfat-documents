@@ -3,7 +3,7 @@ title: "116 CABINET DECISION NO. 251"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8599
 vol_id: 22
-date: 1966-05-17
+doc_date: 1966-05-17
 barcode: 1345967
 ---
 

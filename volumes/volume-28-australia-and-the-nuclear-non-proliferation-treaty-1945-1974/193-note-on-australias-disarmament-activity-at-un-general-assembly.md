@@ -3,7 +3,7 @@ title: "193 Note on Australia's Disarmament Activity at UN General Assembly"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10567
 vol_id: 28
-date: 1974-01-11
+doc_date: 1974-01-11
 barcode: 1373503
 ---
 

@@ -3,7 +3,7 @@ title: "9 Report by New Weapons and Equipment Development Committee"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10384
 vol_id: 28
-date: 1948-05-07
+doc_date: 1948-05-07
 barcode: 510526
 ---
 

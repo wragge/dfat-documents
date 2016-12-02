@@ -3,7 +3,7 @@ title: "7 de Valera to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3519
 vol_id: 9
-date: 1946-01-02
+doc_date: 1946-01-02
 barcode: 187244
 ---
 

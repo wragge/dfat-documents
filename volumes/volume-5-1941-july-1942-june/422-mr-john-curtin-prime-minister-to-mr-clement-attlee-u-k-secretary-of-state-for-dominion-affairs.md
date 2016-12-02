@@ -3,7 +3,7 @@ title: "422 Mr John Curtin, Prime Minister, to Mr Clement Attlee, U.K. Secretary
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2176
 vol_id: 5
-date: 1942-03-19
+doc_date: 1942-03-19
 barcode: 925051
 ---
 

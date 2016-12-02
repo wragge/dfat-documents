@@ -3,7 +3,7 @@ title: "50 D'Alton to Evatt Dispatch 44/1/7 EXCLUSIVE"
 volume: "Volume 7: 1944"
 doc_id: 2697
 vol_id: 7
-date: 1944-02-16
+doc_date: 1944-02-16
 ---
 
 # 50 D'Alton to Evatt Dispatch 44/1/7 EXCLUSIVE

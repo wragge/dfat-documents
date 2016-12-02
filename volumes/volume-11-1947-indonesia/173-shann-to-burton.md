@@ -3,7 +3,7 @@ title: "173 Shann to Burton"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4357
 vol_id: 11
-date: 1947-07-28
+doc_date: 1947-07-28
 ---
 
 # 173 Shann to Burton

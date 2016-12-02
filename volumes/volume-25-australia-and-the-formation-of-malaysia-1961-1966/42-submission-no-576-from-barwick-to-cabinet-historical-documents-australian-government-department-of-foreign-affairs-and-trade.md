@@ -3,7 +3,7 @@ title: "42 Submission No. 576 from Barwick to Cabinet - Historical Documents - A
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9508
 vol_id: 25
-date: 1963-02-26
+doc_date: 1963-02-26
 barcode: 1338483
 ---
 

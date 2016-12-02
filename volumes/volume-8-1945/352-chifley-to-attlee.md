@@ -3,7 +3,7 @@ title: "352 Chifley to Attlee"
 volume: "Volume 8: 1945"
 doc_id: 3383
 vol_id: 8
-date: 1945-10-31
+doc_date: 1945-10-31
 ---
 
 # 352 Chifley to Attlee

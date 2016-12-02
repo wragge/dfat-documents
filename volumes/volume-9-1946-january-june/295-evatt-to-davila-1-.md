@@ -3,7 +3,7 @@ title: "295 Evatt to Davila [1]"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3807
 vol_id: 9
-date: 1946-06-06
+doc_date: 1946-06-06
 barcode: 191273
 ---
 

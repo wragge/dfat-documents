@@ -3,7 +3,7 @@ title: "25 Note by Bruce of Conversation with Pound"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2316
 vol_id: 6
-date: 1942-08-16
+doc_date: 1942-08-16
 barcode: 242447
 ---
 

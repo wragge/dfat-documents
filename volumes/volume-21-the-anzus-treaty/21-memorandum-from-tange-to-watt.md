@@ -3,7 +3,7 @@ title: "21 Memorandum From Tange to Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8372
 vol_id: 21
-date: 1950-10-19
+doc_date: 1950-10-19
 barcode: 271757
 ---
 

@@ -3,7 +3,7 @@ title: "490 MacArthur to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5172
 vol_id: 12
-date: 1947-08-02
+doc_date: 1947-08-02
 ---
 
 # 490 MacArthur to Chifley

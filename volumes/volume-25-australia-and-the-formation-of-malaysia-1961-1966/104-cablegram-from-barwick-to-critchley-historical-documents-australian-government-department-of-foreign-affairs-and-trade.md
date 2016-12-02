@@ -3,7 +3,7 @@ title: "104 Cablegram from Barwick to Critchley - Historical Documents - Austral
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9235
 vol_id: 25
-date: 1963-08-27
+doc_date: 1963-08-27
 barcode: 1500832
 ---
 

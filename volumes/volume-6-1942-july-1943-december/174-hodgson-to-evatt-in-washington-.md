@@ -3,7 +3,7 @@ title: "174 Hodgson to Evatt (in Washington)"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2465
 vol_id: 6
-date: 1943-05-06
+doc_date: 1943-05-06
 barcode: 5169167
 ---
 

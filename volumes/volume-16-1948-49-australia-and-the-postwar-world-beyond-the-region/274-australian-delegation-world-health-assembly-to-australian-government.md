@@ -3,7 +3,7 @@ title: "274 Australian Delegation, World Health Assembly, to Australian Governme
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6989
 vol_id: 16
-date: 1949-06-25
+doc_date: 1949-06-25
 barcode: 550089
 ---
 

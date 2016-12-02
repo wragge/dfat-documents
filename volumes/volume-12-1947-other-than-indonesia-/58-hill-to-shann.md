@@ -3,7 +3,7 @@ title: "58 Hill to Shann"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4740
 vol_id: 12
-date: 1947-04-21
+doc_date: 1947-04-21
 barcode: 198061
 ---
 

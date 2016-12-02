@@ -3,7 +3,7 @@ title: "442 AUSTRALIA DAY BROADCAST BY WHITLAM"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10309
 vol_id: 27
-date: 1973-01-26
+doc_date: 1973-01-26
 ---
 
 # 442 AUSTRALIA DAY BROADCAST BY WHITLAM

@@ -3,7 +3,7 @@ title: "404 Attlee to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5086
 vol_id: 12
-date: 1947-07-31
+doc_date: 1947-07-31
 ---
 
 # 404 Attlee to Chifley

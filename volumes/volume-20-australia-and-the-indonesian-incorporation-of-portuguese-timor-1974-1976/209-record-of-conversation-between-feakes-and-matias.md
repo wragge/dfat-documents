@@ -3,7 +3,7 @@ title: "209 Record of Conversation Between Feakes and Matias"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8047
 vol_id: 20
-date: 1975-09-03
+doc_date: 1975-09-03
 ---
 
 # 209 Record of Conversation Between Feakes and Matias

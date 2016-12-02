@@ -3,7 +3,7 @@ title: "180 LETTER, MENZIES TO MACMILLAN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10045
 vol_id: 27
-date: 1962-04-18
+doc_date: 1962-04-18
 ---
 
 # 180 LETTER, MENZIES TO MACMILLAN

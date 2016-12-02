@@ -3,7 +3,7 @@ title: "302 Bruce to Churchill"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2593
 vol_id: 6
-date: 1943-10-19
+doc_date: 1943-10-19
 ---
 
 # 302 Bruce to Churchill

@@ -3,7 +3,7 @@ title: "136 Addison to Australian Government"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3984
 vol_id: 10
-date: 1946-09-24
+doc_date: 1946-09-24
 ---
 
 # 136 Addison to Australian Government

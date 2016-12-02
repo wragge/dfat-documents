@@ -3,7 +3,7 @@ title: "331 NOTE FROM GRIFFITH TO McMAHON"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8815
 vol_id: 22
-date: 1972-04-17
+doc_date: 1972-04-17
 ---
 
 # 331 NOTE FROM GRIFFITH TO McMAHON

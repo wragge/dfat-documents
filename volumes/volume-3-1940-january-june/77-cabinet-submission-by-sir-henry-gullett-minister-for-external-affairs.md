@@ -3,7 +3,7 @@ title: "77 Cabinet Submission by Sir Henry Gullett, Minister for External Affair
 volume: "Volume 3: 1940, January-June"
 doc_id: 843
 vol_id: 3
-date: 1940-02-26
+doc_date: 1940-02-26
 ---
 
 # 77 Cabinet Submission by Sir Henry Gullett, Minister for External Affairs

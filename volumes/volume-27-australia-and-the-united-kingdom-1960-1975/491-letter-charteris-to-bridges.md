@@ -3,7 +3,7 @@ title: "491 LETTER, CHARTERIS TO BRIDGES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10358
 vol_id: 27
-date: 1974-12-06
+doc_date: 1974-12-06
 ---
 
 # 491 LETTER, CHARTERIS TO BRIDGES

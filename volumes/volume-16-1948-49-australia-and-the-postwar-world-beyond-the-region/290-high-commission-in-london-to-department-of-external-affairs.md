@@ -3,7 +3,7 @@ title: "290 High Commission in London to Department of External Affairs"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7005
 vol_id: 16
-date: 1948-07-21
+doc_date: 1948-07-21
 ---
 
 # 290 High Commission in London to Department of External Affairs

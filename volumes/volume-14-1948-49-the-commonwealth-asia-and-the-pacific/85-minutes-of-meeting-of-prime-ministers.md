@@ -3,7 +3,7 @@ title: "85 Minutes of meeting of Prime Ministers"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5861
 vol_id: 14
-date: 1948-10-20
+doc_date: 1948-10-20
 ---
 
 # 85 Minutes of meeting of Prime Ministers

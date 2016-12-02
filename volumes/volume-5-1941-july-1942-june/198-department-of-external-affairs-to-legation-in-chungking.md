@@ -3,7 +3,7 @@ title: "198 Department of External Affairs to Legation in Chungking"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1952
 vol_id: 5
-date: 1941-12-17
+doc_date: 1941-12-17
 ---
 
 # 198 Department of External Affairs to Legation in Chungking

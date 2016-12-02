@@ -3,7 +3,7 @@ title: "242 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6957
 vol_id: 16
-date: 1949-10-21
+doc_date: 1949-10-21
 barcode: 1729674
 ---
 

@@ -3,7 +3,7 @@ title: "36 Evatt to Hodgson"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3884
 vol_id: 10
-date: 1946-07-26
+doc_date: 1946-07-26
 barcode: 739165
 ---
 

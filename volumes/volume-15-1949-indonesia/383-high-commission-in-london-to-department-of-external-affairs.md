@@ -3,7 +3,7 @@ title: "383 High Commission in London to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6552
 vol_id: 15
-date: 1949-05-07
+doc_date: 1949-05-07
 ---
 
 # 383 High Commission in London to Department of External Affairs

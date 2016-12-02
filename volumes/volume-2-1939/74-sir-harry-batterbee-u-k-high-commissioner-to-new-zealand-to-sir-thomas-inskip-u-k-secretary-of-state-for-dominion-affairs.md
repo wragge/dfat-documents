@@ -3,7 +3,7 @@ title: "74 Sir Harry Batterbee, U.K. High Commissioner to New Zealand, to Sir Th
 volume: "Volume 2: 1939"
 doc_id: 411
 vol_id: 2
-date: 1939-04-26
+doc_date: 1939-04-26
 ---
 
 # 74 Sir Harry Batterbee, U.K. High Commissioner to New Zealand, to Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs

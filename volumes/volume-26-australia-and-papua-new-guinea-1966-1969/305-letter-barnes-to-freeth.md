@@ -3,7 +3,7 @@ title: "305 Letter, Barnes To Freeth"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9814
 vol_id: 26
-date: 1969-08-04
+doc_date: 1969-08-04
 barcode: 573510
 ---
 

@@ -3,7 +3,7 @@ title: "337 High Commissioner's Office in London to Prime Minister's Department"
 volume: "Volume 3: 1940, January-June"
 doc_id: 1103
 vol_id: 3
-date: 1940-06-04
+doc_date: 1940-06-04
 ---
 
 # 337 High Commissioner's Office in London to Prime Minister's Department

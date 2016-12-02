@@ -3,7 +3,7 @@ title: "237 Mr T. Elink Schuurman, Netherlands Consul-General in Australia, to D
 volume: "Volume 3: 1940, January-June"
 doc_id: 1003
 vol_id: 3
-date: 1940-05-13
+doc_date: 1940-05-13
 ---
 
 # 237 Mr T. Elink Schuurman, Netherlands Consul-General in Australia, to Department of External Affairs

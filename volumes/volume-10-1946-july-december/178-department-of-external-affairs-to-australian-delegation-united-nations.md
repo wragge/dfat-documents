@@ -3,7 +3,7 @@ title: "178 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 10: 1946, July-December"
 doc_id: 4026
 vol_id: 10
-date: 1946-10-25
+doc_date: 1946-10-25
 ---
 
 # 178 Department of External Affairs to Australian Delegation, United Nations

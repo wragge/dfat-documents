@@ -3,7 +3,7 @@ title: "248 Cabinet Submission by Sir Henry Gullett, Minister for External Affai
 volume: "Volume 2: 1939"
 doc_id: 585
 vol_id: 2
-date: 1939-09-28
+doc_date: 1939-09-28
 ---
 
 # 248 Cabinet Submission by Sir Henry Gullett, Minister for External Affairs

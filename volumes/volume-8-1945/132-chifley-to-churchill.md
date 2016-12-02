@@ -3,7 +3,7 @@ title: "132 Chifley to Churchill"
 volume: "Volume 8: 1945"
 doc_id: 3163
 vol_id: 8
-date: 1945-07-17
+doc_date: 1945-07-17
 ---
 
 # 132 Chifley to Churchill

@@ -3,7 +3,7 @@ title: "109 Cablegram From Spender to Menzies[1]"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8460
 vol_id: 21
-date: 1951-07-20
+doc_date: 1951-07-20
 ---
 
 # 109 Cablegram From Spender to Menzies[1]

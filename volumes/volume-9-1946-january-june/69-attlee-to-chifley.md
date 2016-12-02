@@ -3,7 +3,7 @@ title: "69 Attlee to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3581
 vol_id: 9
-date: 1946-02-04
+doc_date: 1946-02-04
 barcode: 191384
 ---
 

@@ -3,7 +3,7 @@ title: "130 Submission 174 To Cabinet By Mcewen"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7735
 vol_id: 19
-date: 1956-05-16
+doc_date: 1956-05-16
 barcode: 303365
 ---
 

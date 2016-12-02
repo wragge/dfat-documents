@@ -3,7 +3,7 @@ title: "39 Department of External Affairs to Dunk [1]"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3887
 vol_id: 10
-date: 1946-07-28
+doc_date: 1946-07-28
 ---
 
 # 39 Department of External Affairs to Dunk [1]

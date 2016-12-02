@@ -3,7 +3,7 @@ title: "49 Department of External Affairs to High Commission in London"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6218
 vol_id: 15
-date: 1949-01-08
+doc_date: 1949-01-08
 ---
 
 # 49 Department of External Affairs to High Commission in London

@@ -3,7 +3,7 @@ title: "34 Evatt to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5810
 vol_id: 14
-date: 1949-06-29
+doc_date: 1949-06-29
 barcode: 466998
 ---
 

@@ -3,7 +3,7 @@ title: "217 Minute, Ashwin To Jockel"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9725
 vol_id: 26
-date: 1968-08-12
+doc_date: 1968-08-12
 barcode: 1727611
 ---
 

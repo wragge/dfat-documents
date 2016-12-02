@@ -3,7 +3,7 @@ title: "402 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4586
 vol_id: 11
-date: 1947-11-01
+doc_date: 1947-11-01
 ---
 
 # 402 Australian Delegation, United Nations, to Department of External Affairs

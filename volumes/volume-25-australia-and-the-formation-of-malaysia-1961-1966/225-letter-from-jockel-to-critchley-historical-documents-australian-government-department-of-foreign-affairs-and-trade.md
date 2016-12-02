@@ -3,7 +3,7 @@ title: "225 Letter from Jockel to Critchley - Historical Documents - Australian 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9355
 vol_id: 25
-date: 1964-11-10
+doc_date: 1964-11-10
 barcode: 1727141
 ---
 

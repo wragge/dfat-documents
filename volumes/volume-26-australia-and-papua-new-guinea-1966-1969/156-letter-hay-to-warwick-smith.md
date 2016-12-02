@@ -3,7 +3,7 @@ title: "156 Letter, Hay To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9664
 vol_id: 26
-date: 1968-02-02
+doc_date: 1968-02-02
 ---
 
 # 156 Letter, Hay To Warwick Smith

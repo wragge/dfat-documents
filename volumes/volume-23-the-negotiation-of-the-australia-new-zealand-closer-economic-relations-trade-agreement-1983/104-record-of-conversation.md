@@ -3,7 +3,7 @@ title: "104 Record of Conversation"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8974
 vol_id: 23
-date: 1980-10-02
+doc_date: 1980-10-02
 ---
 
 # 104 Record of Conversation

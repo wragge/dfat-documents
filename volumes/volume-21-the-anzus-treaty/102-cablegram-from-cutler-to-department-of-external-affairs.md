@@ -3,7 +3,7 @@ title: "102 Cablegram From Cutler to Department of External Affairs"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8453
 vol_id: 21
-date: 1951-07-12
+doc_date: 1951-07-12
 ---
 
 # 102 Cablegram From Cutler to Department of External Affairs

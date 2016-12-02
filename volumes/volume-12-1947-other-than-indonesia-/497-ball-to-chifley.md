@@ -3,7 +3,7 @@ title: "497 Ball to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5179
 vol_id: 12
-date: 1947-08-30
+doc_date: 1947-08-30
 ---
 
 # 497 Ball to Chifley

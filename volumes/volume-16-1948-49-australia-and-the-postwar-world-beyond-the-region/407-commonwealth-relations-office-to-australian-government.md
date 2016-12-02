@@ -3,7 +3,7 @@ title: "407 Commonwealth Relations Office to Australian Government"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7122
 vol_id: 16
-date: 1948-03-02
+doc_date: 1948-03-02
 barcode: 195066
 ---
 

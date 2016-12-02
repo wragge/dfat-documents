@@ -3,7 +3,7 @@ title: "223 New Zealand Government to Commonwealth"
 volume: "Volume 7: 1944"
 doc_id: 2870
 vol_id: 7
-date: 1944-07-16
+doc_date: 1944-07-16
 ---
 
 # 223 New Zealand Government to Commonwealth

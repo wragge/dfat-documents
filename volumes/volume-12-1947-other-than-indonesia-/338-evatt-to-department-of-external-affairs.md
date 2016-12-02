@@ -3,7 +3,7 @@ title: "338 Evatt to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5020
 vol_id: 12
-date: 1947-07-14
+doc_date: 1947-07-14
 ---
 
 # 338 Evatt to Department of External Affairs

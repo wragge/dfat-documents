@@ -3,7 +3,7 @@ title: "135 Legation in Washington to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3647
 vol_id: 9
-date: 1946-03-19
+doc_date: 1946-03-19
 ---
 
 # 135 Legation in Washington to Department of External Affairs

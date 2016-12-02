@@ -3,7 +3,7 @@ title: "331 Mr R.G. Menzies, Prime Minister, to Sir Geoffrey Whiskard, U.K. High
 volume: "Volume 2: 1939"
 doc_id: 668
 vol_id: 2
-date: 1939-11-06
+doc_date: 1939-11-06
 barcode: 205677
 ---
 

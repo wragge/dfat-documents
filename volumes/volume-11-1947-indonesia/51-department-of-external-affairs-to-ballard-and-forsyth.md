@@ -3,7 +3,7 @@ title: "51 Department of External Affairs to Ballard and Forsyth"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4235
 vol_id: 11
-date: 1947-05-10
+doc_date: 1947-05-10
 ---
 
 # 51 Department of External Affairs to Ballard and Forsyth

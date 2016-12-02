@@ -3,7 +3,7 @@ title: "80 Mr J. A. Lyons, Prime Minister, to Sir Robert Clive, U.K. Ambassador 
 volume: "Volume 1: 1937-38"
 doc_id: 79
 vol_id: 1
-date: 1937-10-17
+doc_date: 1937-10-17
 ---
 
 # 80 Mr J. A. Lyons, Prime Minister, to Sir Robert Clive, U.K. Ambassador to Belgium

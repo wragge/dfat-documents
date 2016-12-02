@@ -3,7 +3,7 @@ title: "151 Cablegram from Embassy in Bonn to Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10525
 vol_id: 28
-date: 1968-08-29
+doc_date: 1968-08-29
 barcode: 1725941
 ---
 

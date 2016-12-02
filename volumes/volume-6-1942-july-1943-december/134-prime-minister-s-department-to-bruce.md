@@ -3,7 +3,7 @@ title: "134 Prime Minister's Department to Bruce"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2425
 vol_id: 6
-date: 1943-03-11
+doc_date: 1943-03-11
 ---
 
 # 134 Prime Minister's Department to Bruce

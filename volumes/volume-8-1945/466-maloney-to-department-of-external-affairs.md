@@ -3,7 +3,7 @@ title: "466 Maloney to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3497
 vol_id: 8
-date: 1945-12-19
+doc_date: 1945-12-19
 barcode: 188244
 ---
 

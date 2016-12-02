@@ -3,7 +3,7 @@ title: "244 Evatt to Dunk"
 volume: "Volume 8: 1945"
 doc_id: 3275
 vol_id: 8
-date: 1945-09-14
+doc_date: 1945-09-14
 ---
 
 # 244 Evatt to Dunk

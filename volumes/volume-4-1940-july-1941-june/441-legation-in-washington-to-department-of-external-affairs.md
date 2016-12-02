@@ -3,7 +3,7 @@ title: "441 Legation in Washington to Department of External Affairs"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1672
 vol_id: 4
-date: 1941-05-01
+doc_date: 1941-05-01
 ---
 
 # 441 Legation in Washington to Department of External Affairs

@@ -3,7 +3,7 @@ title: "64 Note by Bruce of Conversation with Forde"
 volume: "Volume 8: 1945"
 doc_id: 3095
 vol_id: 8
-date: 1945-04-02
+doc_date: 1945-04-02
 barcode: 242479
 ---
 

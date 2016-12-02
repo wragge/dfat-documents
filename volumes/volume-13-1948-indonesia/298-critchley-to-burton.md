@@ -3,7 +3,7 @@ title: "298 Critchley to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5565
 vol_id: 13
-date: 1948-11-02
+doc_date: 1948-11-02
 ---
 
 # 298 Critchley to Burton

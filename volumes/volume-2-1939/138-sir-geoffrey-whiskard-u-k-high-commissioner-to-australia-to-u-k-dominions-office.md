@@ -3,7 +3,7 @@ title: "138 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. 
 volume: "Volume 2: 1939"
 doc_id: 475
 vol_id: 2
-date: 1939-08-21
+doc_date: 1939-08-21
 ---
 
 # 138 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to U.K. Dominions Office

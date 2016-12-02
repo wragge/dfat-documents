@@ -3,7 +3,7 @@ title: "13 Report by Walker"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3525
 vol_id: 9
-date: 1945-12-21
+doc_date: 1945-12-21
 ---
 
 # 13 Report by Walker

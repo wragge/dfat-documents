@@ -3,7 +3,7 @@ title: "249 Note by Sir John Latham, Minister to Japan, of Conversation with Mr 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1480
 vol_id: 4
-date: 1941-01-10
+doc_date: 1941-01-10
 barcode: 170234
 ---
 

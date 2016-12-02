@@ -3,7 +3,7 @@ title: "199 Submission From Booker To Hasluck"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9707
 vol_id: 26
-date: 1968-06-07
+doc_date: 1968-06-07
 barcode: 589237
 ---
 

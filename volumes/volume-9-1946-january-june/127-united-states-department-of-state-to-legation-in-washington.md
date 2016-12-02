@@ -3,7 +3,7 @@ title: "127 United States Department of State to Legation in Washington"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3639
 vol_id: 9
-date: 1946-03-14
+doc_date: 1946-03-14
 ---
 
 # 127 United States Department of State to Legation in Washington

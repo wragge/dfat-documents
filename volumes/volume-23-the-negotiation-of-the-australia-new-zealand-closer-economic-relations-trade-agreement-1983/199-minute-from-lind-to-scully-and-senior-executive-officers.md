@@ -3,7 +3,7 @@ title: "199 Minute from Lind to Scully and Senior Executive Officers"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9068
 vol_id: 23
-date: 1982-08-06
+doc_date: 1982-08-06
 ---
 
 # 199 Minute from Lind to Scully and Senior Executive Officers

@@ -3,7 +3,7 @@ title: "414 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Pr
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2168
 vol_id: 5
-date: 1942-03-15
+doc_date: 1942-03-15
 ---
 
 # 414 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister

@@ -3,7 +3,7 @@ title: "224 Bruce to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3255
 vol_id: 8
-date: 1945-08-29
+doc_date: 1945-08-29
 barcode: 188226
 ---
 

@@ -3,7 +3,7 @@ title: "87 Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to 
 volume: "Volume 2: 1939"
 doc_id: 424
 vol_id: 2
-date: 1939-05-16
+doc_date: 1939-05-16
 ---
 
 # 87 Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to Mr A.T. Stirling,

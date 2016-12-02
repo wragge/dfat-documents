@@ -3,7 +3,7 @@ title: "585 Antarctic Expedition to Naval Board"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5267
 vol_id: 12
-date: 1947-12-29
+doc_date: 1947-12-29
 barcode: 194388
 ---
 

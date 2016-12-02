@@ -3,7 +3,7 @@ title: "194 Commonwealth Government to Addison"
 volume: "Volume 8: 1945"
 doc_id: 3225
 vol_id: 8
-date: 1945-08-17
+doc_date: 1945-08-17
 ---
 
 # 194 Commonwealth Government to Addison

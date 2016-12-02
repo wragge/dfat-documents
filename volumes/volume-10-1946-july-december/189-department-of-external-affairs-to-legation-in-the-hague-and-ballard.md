@@ -3,7 +3,7 @@ title: "189 Department of External Affairs to Legation in The Hague and Ballard"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4037
 vol_id: 10
-date: 1946-11-01
+doc_date: 1946-11-01
 ---
 
 # 189 Department of External Affairs to Legation in The Hague and Ballard

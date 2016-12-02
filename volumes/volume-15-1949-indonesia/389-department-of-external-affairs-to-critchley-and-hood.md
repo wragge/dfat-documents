@@ -3,7 +3,7 @@ title: "389 Department of External Affairs to Critchley and Hood"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6558
 vol_id: 15
-date: 1949-05-09
+doc_date: 1949-05-09
 ---
 
 # 389 Department of External Affairs to Critchley and Hood

@@ -3,7 +3,7 @@ title: "455 Mr Winston Churchill, U.K. Prime Minister, to Mr S. M. Bruce, High C
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2209
 vol_id: 5
-date: 1942-04-03
+doc_date: 1942-04-03
 barcode: 242443
 ---
 

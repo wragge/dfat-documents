@@ -3,7 +3,7 @@ title: "57 Glasgow to Evatt Dispatch M3/44 (extracts)"
 volume: "Volume 7: 1944"
 doc_id: 2704
 vol_id: 7
-date: 1944-02-26
+doc_date: 1944-02-26
 ---
 
 # 57 Glasgow to Evatt Dispatch M3/44 (extracts)

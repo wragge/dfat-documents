@@ -3,7 +3,7 @@ title: "200 Eaton to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5467
 vol_id: 13
-date: 1948-07-01
+doc_date: 1948-07-01
 ---
 
 # 200 Eaton to Burton

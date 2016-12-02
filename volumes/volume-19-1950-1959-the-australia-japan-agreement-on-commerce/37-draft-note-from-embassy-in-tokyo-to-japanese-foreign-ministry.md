@@ -3,7 +3,7 @@ title: "37 Draft Note From Embassy In Tokyo To Japanese Foreign Ministry"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7642
 vol_id: 19
-date: 1953-07-16
+doc_date: 1953-07-16
 ---
 
 # 37 Draft Note From Embassy In Tokyo To Japanese Foreign Ministry

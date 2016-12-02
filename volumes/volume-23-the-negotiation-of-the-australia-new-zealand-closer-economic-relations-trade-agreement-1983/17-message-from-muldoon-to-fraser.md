@@ -3,7 +3,7 @@ title: "17 Message from Muldoon to Fraser"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8887
 vol_id: 23
-date: 1979-05-10
+doc_date: 1979-05-10
 ---
 
 # 17 Message from Muldoon to Fraser

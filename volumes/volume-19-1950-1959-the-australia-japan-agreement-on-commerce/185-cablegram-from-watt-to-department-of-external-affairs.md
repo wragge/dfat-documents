@@ -3,7 +3,7 @@ title: "185 Cablegram From Watt To Department Of External Affairs"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7790
 vol_id: 19
-date: 1956-12-24
+doc_date: 1956-12-24
 ---
 
 # 185 Cablegram From Watt To Department Of External Affairs

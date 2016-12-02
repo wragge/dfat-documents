@@ -3,7 +3,7 @@ title: "56 War Cabinet Submission by Curtin"
 volume: "Volume 8: 1945"
 doc_id: 3087
 vol_id: 8
-date: 1945-03-15
+doc_date: 1945-03-15
 barcode: 8283024
 ---
 

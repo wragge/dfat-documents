@@ -3,7 +3,7 @@ title: "40 Sir Henry Gullett, Minister for External Affairs, to Mr R. G. Menzies
 volume: "Volume 3: 1940, January-June"
 doc_id: 806
 vol_id: 3
-date: 1940-02-05
+doc_date: 1940-02-05
 ---
 
 # 40 Sir Henry Gullett, Minister for External Affairs, to Mr R. G. Menzies, Prime Minister

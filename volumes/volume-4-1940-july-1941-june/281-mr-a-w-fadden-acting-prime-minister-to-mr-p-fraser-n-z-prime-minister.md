@@ -3,7 +3,7 @@ title: "281 Mr A. W. Fadden, Acting Prime Minister, to Mr P. Fraser, N.Z. Prime 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1512
 vol_id: 4
-date: 1941-02-10
+doc_date: 1941-02-10
 ---
 
 # 281 Mr A. W. Fadden, Acting Prime Minister, to Mr P. Fraser, N.Z. Prime Minister

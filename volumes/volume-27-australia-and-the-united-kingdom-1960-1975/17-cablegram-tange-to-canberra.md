@@ -3,7 +3,7 @@ title: "17 CABLEGRAM, TANGE TO CANBERRA"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9884
 vol_id: 27
-date: 1963-02-11
+doc_date: 1963-02-11
 ---
 
 # 17 CABLEGRAM, TANGE TO CANBERRA

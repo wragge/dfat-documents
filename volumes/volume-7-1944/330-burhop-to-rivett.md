@@ -3,7 +3,7 @@ title: "330 Burhop to Rivett"
 volume: "Volume 7: 1944"
 doc_id: 2977
 vol_id: 7
-date: 1944-10-28
+doc_date: 1944-10-28
 ---
 
 # 330 Burhop to Rivett

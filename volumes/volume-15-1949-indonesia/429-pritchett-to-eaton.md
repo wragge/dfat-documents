@@ -3,7 +3,7 @@ title: "429 Pritchett to Eaton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6598
 vol_id: 15
-date: 1949-06-07
+doc_date: 1949-06-07
 ---
 
 # 429 Pritchett to Eaton

@@ -3,7 +3,7 @@ title: "157 Churchill to Curtin Circular cablegram D219 [1]"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2448
 vol_id: 6
-date: 1943-04-15
+doc_date: 1943-04-15
 ---
 
 # 157 Churchill to Curtin Circular cablegram D219 [1]

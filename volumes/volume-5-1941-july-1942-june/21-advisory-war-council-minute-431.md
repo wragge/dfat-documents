@@ -3,7 +3,7 @@ title: "21 Advisory War Council Minute 431"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1775
 vol_id: 5
-date: 1941-07-29
+doc_date: 1941-07-29
 ---
 
 # 21 Advisory War Council Minute 431

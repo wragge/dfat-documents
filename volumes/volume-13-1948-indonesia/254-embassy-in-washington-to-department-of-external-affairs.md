@@ -3,7 +3,7 @@ title: "254 Embassy in Washington to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5521
 vol_id: 13
-date: 1948-09-23
+doc_date: 1948-09-23
 ---
 
 # 254 Embassy in Washington to Department of External Affairs

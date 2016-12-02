@@ -3,7 +3,7 @@ title: "201 Evatt to Department of External Affairs"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2492
 vol_id: 6
-date: 1943-05-26
+doc_date: 1943-05-26
 ---
 
 # 201 Evatt to Department of External Affairs

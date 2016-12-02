@@ -3,7 +3,7 @@ title: "189 MacArthur to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2480
 vol_id: 6
-date: 1943-05-13
+doc_date: 1943-05-13
 ---
 
 # 189 MacArthur to Curtin

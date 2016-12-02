@@ -3,7 +3,7 @@ title: "155 Note from Hasluck to Hicks - Historical Documents - Australian Gover
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9285
 vol_id: 25
-date: 1964-02-05
+doc_date: 1964-02-05
 barcode: 1363553
 ---
 

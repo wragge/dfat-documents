@@ -3,7 +3,7 @@ title: "227 Minute, Legge To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9735
 vol_id: 26
-date: 1968-10-02
+doc_date: 1968-10-02
 barcode: 3112099
 ---
 

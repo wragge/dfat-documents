@@ -3,7 +3,7 @@ title: "474 Pritchett to McIntyre"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6643
 vol_id: 15
-date: 1949-08-19
+doc_date: 1949-08-19
 ---
 
 # 474 Pritchett to McIntyre

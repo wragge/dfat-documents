@@ -3,7 +3,7 @@ title: "112 Cablegram from Department of Primary Industry to Duthie"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8982
 vol_id: 23
-date: 1980-12-08
+doc_date: 1980-12-08
 ---
 
 # 112 Cablegram from Department of Primary Industry to Duthie

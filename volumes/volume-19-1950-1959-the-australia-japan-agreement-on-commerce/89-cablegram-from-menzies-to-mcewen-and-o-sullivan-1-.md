@@ -3,7 +3,7 @@ title: "89 Cablegram From Menzies To Mcewen And O'sullivan [1]"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7694
 vol_id: 19
-date: 1954-11-12
+doc_date: 1954-11-12
 ---
 
 # 89 Cablegram From Menzies To Mcewen And O'sullivan [1]

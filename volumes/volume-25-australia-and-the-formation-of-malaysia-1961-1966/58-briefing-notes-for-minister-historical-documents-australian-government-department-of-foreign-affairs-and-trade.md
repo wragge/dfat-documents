@@ -3,7 +3,7 @@ title: "58 BRIEFING NOTES FOR MINISTER - Historical Documents - Australian Gover
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9190
 vol_id: 25
-date: 1963-03-21
+doc_date: 1963-03-21
 barcode: 1328088
 ---
 

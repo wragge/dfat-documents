@@ -3,7 +3,7 @@ title: "99 Eaton to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5366
 vol_id: 13
-date: 1948-03-05
+doc_date: 1948-03-05
 barcode: 1729706
 ---
 

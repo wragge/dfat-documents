@@ -3,7 +3,7 @@ title: "69 Submission No. 453, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9577
 vol_id: 26
-date: 1966-09-19
+doc_date: 1966-09-19
 barcode: 1807983
 ---
 

@@ -3,7 +3,7 @@ title: "150 Australia-Japan Trade Negotiations: Second Meeting"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7755
 vol_id: 19
-date: 1956-10-05
+doc_date: 1956-10-05
 ---
 
 # 150 Australia-Japan Trade Negotiations: Second Meeting

@@ -3,7 +3,7 @@ title: "370 Evatt to Marshall"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5052
 vol_id: 12
-date: 1947-10-16
+doc_date: 1947-10-16
 ---
 
 # 370 Evatt to Marshall

@@ -3,7 +3,7 @@ title: "199 Memorandum by Mr J. D. L. Hood, Department of External Affairs"
 volume: "Volume 3: 1940, January-June"
 doc_id: 965
 vol_id: 3
-date: 1940-05-02
+doc_date: 1940-05-02
 ---
 
 # 199 Memorandum by Mr J. D. L. Hood, Department of External Affairs

@@ -3,7 +3,7 @@ title: "66 Embassy in Washington to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5333
 vol_id: 13
-date: 1948-02-13
+doc_date: 1948-02-13
 barcode: 1729706
 ---
 

@@ -3,7 +3,7 @@ title: "137 Department of External Affairs to Ballard"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3985
 vol_id: 10
-date: 1946-09-26
+doc_date: 1946-09-26
 ---
 
 # 137 Department of External Affairs to Ballard

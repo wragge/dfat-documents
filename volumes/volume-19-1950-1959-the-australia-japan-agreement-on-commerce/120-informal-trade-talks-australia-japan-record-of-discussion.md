@@ -3,7 +3,7 @@ title: "120 Informal Trade Talks: Australia-Japan: Record Of Discussion"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7725
 vol_id: 19
-date: 1955-11-04
+doc_date: 1955-11-04
 ---
 
 # 120 Informal Trade Talks: Australia-Japan: Record Of Discussion

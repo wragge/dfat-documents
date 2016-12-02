@@ -3,7 +3,7 @@ title: "451 Makin to Department of External Affairs"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4635
 vol_id: 11
-date: 1947-12-03
+doc_date: 1947-12-03
 ---
 
 # 451 Makin to Department of External Affairs

@@ -3,7 +3,7 @@ title: "116 Evatt to Makin"
 volume: "Volume 8: 1945"
 doc_id: 3147
 vol_id: 8
-date: 1945-06-18
+doc_date: 1945-06-18
 ---
 
 # 116 Evatt to Makin

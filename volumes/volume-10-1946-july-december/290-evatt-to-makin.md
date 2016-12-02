@@ -3,7 +3,7 @@ title: "290 Evatt to Makin"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4138
 vol_id: 10
-date: 1946-12-08
+doc_date: 1946-12-08
 ---
 
 # 290 Evatt to Makin

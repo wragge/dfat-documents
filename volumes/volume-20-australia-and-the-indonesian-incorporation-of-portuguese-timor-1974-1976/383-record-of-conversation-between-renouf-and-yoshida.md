@@ -3,7 +3,7 @@ title: "383 Record of Conversation Between Renouf and Yoshida"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8221
 vol_id: 20
-date: 1975-12-17
+doc_date: 1975-12-17
 ---
 
 # 383 Record of Conversation Between Renouf and Yoshida

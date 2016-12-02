@@ -3,7 +3,7 @@ title: "236 TELEGRAM, CANBERRA TO COMMONWEALTH OFFICE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10101
 vol_id: 27
-date: 1967-06-26
+doc_date: 1967-06-26
 ---
 
 # 236 TELEGRAM, CANBERRA TO COMMONWEALTH OFFICE

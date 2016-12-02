@@ -3,7 +3,7 @@ title: "262 Ministerial Submission to Hayden by Nutter"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9131
 vol_id: 23
-date: 1983-03-15
+doc_date: 1983-03-15
 ---
 
 # 262 Ministerial Submission to Hayden by Nutter

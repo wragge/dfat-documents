@@ -3,7 +3,7 @@ title: "254 Roem to Australian Government"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6423
 vol_id: 15
-date: 1949-03-01
+doc_date: 1949-03-01
 ---
 
 # 254 Roem to Australian Government

@@ -3,7 +3,7 @@ title: "261 MINUTE FROM ANDERSON TO WALLER"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8744
 vol_id: 22
-date: 1971-09-30
+doc_date: 1971-09-30
 ---
 
 # 261 MINUTE FROM ANDERSON TO WALLER

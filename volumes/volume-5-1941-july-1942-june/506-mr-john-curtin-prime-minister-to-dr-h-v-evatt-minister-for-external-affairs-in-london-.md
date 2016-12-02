@@ -3,7 +3,7 @@ title: "506 Mr John Curtin, Prime Minister, to Dr H. V. Evatt, Minister for Exte
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2260
 vol_id: 5
-date: 1942-05-29
+doc_date: 1942-05-29
 barcode: 235701
 ---
 

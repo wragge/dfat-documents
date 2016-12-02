@@ -3,7 +3,7 @@ title: "261 Dea Ministerial Brief - Historical Documents - Australian Government
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9391
 vol_id: 25
-date: 1965-03-09
+doc_date: 1965-03-09
 barcode: 583164
 ---
 

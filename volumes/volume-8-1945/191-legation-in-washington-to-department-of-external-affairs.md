@@ -3,7 +3,7 @@ title: "191 Legation in Washington to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3222
 vol_id: 8
-date: 1945-08-14
+doc_date: 1945-08-14
 ---
 
 # 191 Legation in Washington to Department of External Affairs

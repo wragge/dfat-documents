@@ -3,7 +3,7 @@ title: "463 Letter from Taylor to Curtin"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8301
 vol_id: 20
-date: 1976-06-09
+doc_date: 1976-06-09
 ---
 
 # 463 Letter from Taylor to Curtin

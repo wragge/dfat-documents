@@ -3,7 +3,7 @@ title: "163 Cablegram to New York - Historical Documents - Australian Government
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9293
 vol_id: 25
-date: 1964-02-27
+doc_date: 1964-02-27
 barcode: 1505559
 ---
 

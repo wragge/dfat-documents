@@ -3,7 +3,7 @@ title: "122 Maloney to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3153
 vol_id: 8
-date: 1945-06-22
+doc_date: 1945-06-22
 ---
 
 # 122 Maloney to Department of External Affairs

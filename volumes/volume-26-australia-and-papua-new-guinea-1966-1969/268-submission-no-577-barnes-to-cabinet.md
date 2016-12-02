@@ -3,7 +3,7 @@ title: "268 Submission No. 577, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9776
 vol_id: 26
-date: 1969-05-09
+doc_date: 1969-05-09
 barcode: 3324759
 ---
 

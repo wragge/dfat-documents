@@ -3,7 +3,7 @@ title: "224 Forde to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3736
 vol_id: 9
-date: 1946-05-01
+doc_date: 1946-05-01
 ---
 
 # 224 Forde to Chifley

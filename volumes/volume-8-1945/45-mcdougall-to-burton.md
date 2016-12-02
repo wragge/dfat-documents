@@ -3,7 +3,7 @@ title: "45 McDougall to Burton"
 volume: "Volume 8: 1945"
 doc_id: 3076
 vol_id: 8
-date: 1945-02-24
+doc_date: 1945-02-24
 barcode: 187599
 ---
 

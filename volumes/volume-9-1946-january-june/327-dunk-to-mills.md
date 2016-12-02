@@ -3,7 +3,7 @@ title: "327 Dunk to Mills"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3839
 vol_id: 9
-date: 1946-06-25
+doc_date: 1946-06-25
 barcode: 236374
 ---
 

@@ -3,7 +3,7 @@ title: "371 Pritchett to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6540
 vol_id: 15
-date: 1949-04-29
+doc_date: 1949-04-29
 ---
 
 # 371 Pritchett to Burton

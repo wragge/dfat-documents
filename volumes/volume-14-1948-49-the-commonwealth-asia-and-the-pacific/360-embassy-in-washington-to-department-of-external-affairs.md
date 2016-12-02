@@ -3,7 +3,7 @@ title: "360 Embassy in Washington to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6136
 vol_id: 14
-date: 1949-09-07
+doc_date: 1949-09-07
 ---
 
 # 360 Embassy in Washington to Department of External Affairs

@@ -3,7 +3,7 @@ title: "42 Submission 542 To Cabinet By O'sullivan"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7647
 vol_id: 19
-date: 1953-09-01
+doc_date: 1953-09-01
 ---
 
 # 42 Submission 542 To Cabinet By O'sullivan

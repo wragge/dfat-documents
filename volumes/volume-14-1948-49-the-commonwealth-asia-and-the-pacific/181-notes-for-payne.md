@@ -3,7 +3,7 @@ title: "181 Notes for Payne"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5957
 vol_id: 14
-date: 1949-09-19
+doc_date: 1949-09-19
 barcode: 572960
 ---
 

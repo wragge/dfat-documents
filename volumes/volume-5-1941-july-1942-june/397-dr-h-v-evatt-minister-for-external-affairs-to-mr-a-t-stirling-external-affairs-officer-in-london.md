@@ -3,7 +3,7 @@ title: "397 Dr H. V. Evatt, Minister for External Affairs, to Mr A. T. Stirling,
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2151
 vol_id: 5
-date: 1942-03-08
+doc_date: 1942-03-08
 ---
 
 # 397 Dr H. V. Evatt, Minister for External Affairs, to Mr A. T. Stirling, External Affairs Officer in London

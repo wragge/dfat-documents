@@ -3,7 +3,7 @@ title: "84 Cablegram From Spender to Dulles"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8435
 vol_id: 21
-date: 1951-04-16
+doc_date: 1951-04-16
 ---
 
 # 84 Cablegram From Spender to Dulles

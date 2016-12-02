@@ -3,7 +3,7 @@ title: "133 Telegram from Turkington to Muldoon"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9003
 vol_id: 23
-date: 1980-11-25
+doc_date: 1980-11-25
 ---
 
 # 133 Telegram from Turkington to Muldoon

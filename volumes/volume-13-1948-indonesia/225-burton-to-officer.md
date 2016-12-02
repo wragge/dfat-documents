@@ -3,7 +3,7 @@ title: "225 Burton to Officer"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5492
 vol_id: 13
-date: 1948-08-13
+doc_date: 1948-08-13
 ---
 
 # 225 Burton to Officer

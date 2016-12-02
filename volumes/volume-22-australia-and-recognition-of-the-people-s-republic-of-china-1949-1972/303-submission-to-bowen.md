@@ -3,7 +3,7 @@ title: "303 SUBMISSION TO BOWEN"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8787
 vol_id: 22
-date: 1972-02-24
+doc_date: 1972-02-24
 ---
 
 # 303 SUBMISSION TO BOWEN

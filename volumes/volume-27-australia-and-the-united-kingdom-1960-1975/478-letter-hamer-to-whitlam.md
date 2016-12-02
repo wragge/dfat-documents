@@ -3,7 +3,7 @@ title: "478 LETTER HAMER TO WHITLAM"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10345
 vol_id: 27
-date: 1974-04-20
+doc_date: 1974-04-20
 ---
 
 # 478 LETTER HAMER TO WHITLAM

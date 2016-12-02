@@ -3,7 +3,7 @@ title: "167 Record of Conversation between Department of Foreign Affairs and AAE
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10541
 vol_id: 28
-date: 1971-03-09
+doc_date: 1971-03-09
 barcode: 546367
 ---
 

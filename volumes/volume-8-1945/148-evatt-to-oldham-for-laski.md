@@ -3,7 +3,7 @@ title: "148 Evatt to Oldham for Laski"
 volume: "Volume 8: 1945"
 doc_id: 3179
 vol_id: 8
-date: 1945-08-01
+doc_date: 1945-08-01
 ---
 
 # 148 Evatt to Oldham for Laski

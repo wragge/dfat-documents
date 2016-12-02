@@ -3,7 +3,7 @@ title: "289 Mr John Curtin, Prime Minister, to Lord Cranborne, U.K. Secretary of
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2043
 vol_id: 5
-date: 1942-01-21
+doc_date: 1942-01-21
 barcode: 31425949
 ---
 

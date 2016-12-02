@@ -3,7 +3,7 @@ title: "463 LETTER REECE TO WHITLAM"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10330
 vol_id: 27
-date: 1973-05-11
+doc_date: 1973-05-11
 ---
 
 # 463 LETTER REECE TO WHITLAM

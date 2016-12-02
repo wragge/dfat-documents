@@ -3,7 +3,7 @@ title: "336 Department of External Affairs to Embassy in Washington"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5603
 vol_id: 13
-date: 1948-12-01
+doc_date: 1948-12-01
 ---
 
 # 336 Department of External Affairs to Embassy in Washington

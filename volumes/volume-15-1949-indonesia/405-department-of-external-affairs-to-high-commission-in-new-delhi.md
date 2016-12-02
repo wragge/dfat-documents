@@ -3,7 +3,7 @@ title: "405 Department of External Affairs to High Commission in New Delhi"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6574
 vol_id: 15
-date: 1949-05-17
+doc_date: 1949-05-17
 ---
 
 # 405 Department of External Affairs to High Commission in New Delhi

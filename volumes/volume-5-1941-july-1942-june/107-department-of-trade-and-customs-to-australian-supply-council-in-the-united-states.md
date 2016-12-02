@@ -3,7 +3,7 @@ title: "107 Department of Trade and Customs to Australian Supply Council in the 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1861
 vol_id: 5
-date: 1941-11-12
+doc_date: 1941-11-12
 ---
 
 # 107 Department of Trade and Customs to Australian Supply Council in the United States

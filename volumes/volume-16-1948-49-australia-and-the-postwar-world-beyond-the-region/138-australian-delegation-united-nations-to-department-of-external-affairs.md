@@ -3,7 +3,7 @@ title: "138 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6853
 vol_id: 16
-date: 1948-02-20
+doc_date: 1948-02-20
 ---
 
 # 138 Australian Delegation, United Nations, to Department of External Affairs

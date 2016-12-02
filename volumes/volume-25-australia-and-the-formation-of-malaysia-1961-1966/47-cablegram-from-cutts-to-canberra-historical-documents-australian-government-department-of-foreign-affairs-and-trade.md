@@ -3,7 +3,7 @@ title: "47 Cablegram from Cutts to Canberra - Historical Documents - Australian 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9179
 vol_id: 25
-date: 1963-03-07
+doc_date: 1963-03-07
 barcode: 1500828
 ---
 

@@ -3,7 +3,7 @@ title: "117 SPEECH, BARNARD TO THE FIRST TUESDAY GROUP"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9982
 vol_id: 27
-date: 1973-04-03
+doc_date: 1973-04-03
 ---
 
 # 117 SPEECH, BARNARD TO THE FIRST TUESDAY GROUP

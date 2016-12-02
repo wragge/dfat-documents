@@ -3,7 +3,7 @@ title: "388 LETTER, HICKMAN TO MCCARTHY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10254
 vol_id: 27
-date: 1972-06-02
+doc_date: 1972-06-02
 ---
 
 # 388 LETTER, HICKMAN TO MCCARTHY

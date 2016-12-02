@@ -3,7 +3,7 @@ title: "378 Shedden to Sillitoe"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7093
 vol_id: 16
-date: 1949-07-21
+doc_date: 1949-07-21
 barcode: 332069
 ---
 

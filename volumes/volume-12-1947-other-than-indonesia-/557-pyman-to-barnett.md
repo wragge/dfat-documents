@@ -3,7 +3,7 @@ title: "557 Pyman to Barnett"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5239
 vol_id: 12
-date: 1947-10-07
+doc_date: 1947-10-07
 barcode: 274948
 ---
 

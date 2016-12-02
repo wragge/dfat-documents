@@ -3,7 +3,7 @@ title: "273 Commonwealth Government to Attlee"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2564
 vol_id: 6
-date: 1943-09-07
+doc_date: 1943-09-07
 ---
 
 # 273 Commonwealth Government to Attlee

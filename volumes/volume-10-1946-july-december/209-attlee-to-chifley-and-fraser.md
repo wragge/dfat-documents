@@ -3,7 +3,7 @@ title: "209 Attlee to Chifley and Fraser"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4057
 vol_id: 10
-date: 1946-11-11
+doc_date: 1946-11-11
 ---
 
 # 209 Attlee to Chifley and Fraser

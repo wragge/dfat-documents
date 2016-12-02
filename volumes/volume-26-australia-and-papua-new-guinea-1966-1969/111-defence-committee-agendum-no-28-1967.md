@@ -3,7 +3,7 @@ title: "111 Defence Committee Agendum No. 28/1967"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9619
 vol_id: 26
-date: 1967-05-26
+doc_date: 1967-05-26
 barcode: 3125687
 ---
 

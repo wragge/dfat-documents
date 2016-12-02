@@ -3,7 +3,7 @@ title: "20 Mr J.S. Duncan, Acting High Commissioner in London, to Mr S.M. Bruce,
 volume: "Volume 2: 1939"
 doc_id: 357
 vol_id: 2
-date: 1939-02-10
+doc_date: 1939-02-10
 ---
 
 # 20 Mr J.S. Duncan, Acting High Commissioner in London, to Mr S.M. Bruce, High Commissioner in London (in Australia)

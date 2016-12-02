@@ -3,7 +3,7 @@ title: "173 Ball to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3685
 vol_id: 9
-date: 1946-04-07
+doc_date: 1946-04-07
 barcode: 193423
 ---
 

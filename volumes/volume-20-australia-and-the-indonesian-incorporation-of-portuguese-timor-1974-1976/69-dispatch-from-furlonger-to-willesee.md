@@ -3,7 +3,7 @@ title: "69 Dispatch from Furlonger to Willesee"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7908
 vol_id: 20
-date: 1974-12-13
+doc_date: 1974-12-13
 ---
 
 # 69 Dispatch from Furlonger to Willesee

@@ -3,7 +3,7 @@ title: "169 Plimsoll to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3681
 vol_id: 9
-date: 1946-04-04
+doc_date: 1946-04-04
 ---
 
 # 169 Plimsoll to Department of External Affairs

@@ -3,7 +3,7 @@ title: "112 Churchill to Forde"
 volume: "Volume 7: 1944"
 doc_id: 2759
 vol_id: 7
-date: 1944-04-20
+doc_date: 1944-04-20
 barcode: 170642
 ---
 

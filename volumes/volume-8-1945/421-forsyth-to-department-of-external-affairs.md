@@ -3,7 +3,7 @@ title: "421 Forsyth to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3452
 vol_id: 8
-date: 1945-11-28
+doc_date: 1945-11-28
 barcode: 191462
 ---
 

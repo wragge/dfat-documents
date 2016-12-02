@@ -3,7 +3,7 @@ title: "242 Bedi to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6411
 vol_id: 15
-date: 1949-02-24
+doc_date: 1949-02-24
 ---
 
 # 242 Bedi to Burton

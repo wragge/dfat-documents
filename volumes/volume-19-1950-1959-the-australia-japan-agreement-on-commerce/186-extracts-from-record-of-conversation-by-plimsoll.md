@@ -3,7 +3,7 @@ title: "186 Extracts From Record Of Conversation By Plimsoll"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7791
 vol_id: 19
-date: 1957-01-04
+doc_date: 1957-01-04
 ---
 
 # 186 Extracts From Record Of Conversation By Plimsoll

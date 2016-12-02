@@ -3,7 +3,7 @@ title: "150 MINUTE FROM McMAHON TO SHANN"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8633
 vol_id: 22
-date: 1970-12-17
+doc_date: 1970-12-17
 ---
 
 # 150 MINUTE FROM McMAHON TO SHANN

@@ -3,7 +3,7 @@ title: "223 Report by Dalrymple"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8061
 vol_id: 20
-date: 1975-09-11
+doc_date: 1975-09-11
 ---
 
 # 223 Report by Dalrymple

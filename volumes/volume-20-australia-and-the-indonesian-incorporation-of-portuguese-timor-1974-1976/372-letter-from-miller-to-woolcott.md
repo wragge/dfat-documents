@@ -3,7 +3,7 @@ title: "372 Letter from Miller to Woolcott"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8210
 vol_id: 20
-date: 1975-12-11
+doc_date: 1975-12-11
 ---
 
 # 372 Letter from Miller to Woolcott

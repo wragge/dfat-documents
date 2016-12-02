@@ -3,7 +3,7 @@ title: "165 File Note by Price"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9034
 vol_id: 23
-date: 1981-03-30
+doc_date: 1981-03-30
 ---
 
 # 165 File Note by Price

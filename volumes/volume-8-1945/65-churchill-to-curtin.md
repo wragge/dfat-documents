@@ -3,7 +3,7 @@ title: "65 Churchill to Curtin"
 volume: "Volume 8: 1945"
 doc_id: 3096
 vol_id: 8
-date: 1945-04-03
+doc_date: 1945-04-03
 barcode: 188011
 ---
 

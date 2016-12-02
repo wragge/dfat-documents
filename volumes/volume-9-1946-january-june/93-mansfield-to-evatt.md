@@ -3,7 +3,7 @@ title: "93 Mansfield to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3605
 vol_id: 9
-date: 1946-02-16
+doc_date: 1946-02-16
 barcode: 194102
 ---
 

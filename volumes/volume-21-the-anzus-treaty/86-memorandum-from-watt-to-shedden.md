@@ -3,7 +3,7 @@ title: "86 Memorandum From Watt to Shedden"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8437
 vol_id: 21
-date: 1951-04-30
+doc_date: 1951-04-30
 ---
 
 # 86 Memorandum From Watt to Shedden

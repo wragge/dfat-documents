@@ -3,7 +3,7 @@ title: "321 Department of External Affairs to Legation in Washington"
 volume: "Volume 8: 1945"
 doc_id: 3352
 vol_id: 8
-date: 1945-10-18
+doc_date: 1945-10-18
 barcode: 171294
 ---
 

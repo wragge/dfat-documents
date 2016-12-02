@@ -3,7 +3,7 @@ title: "19 Minute From Crawford To Mcewen"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7624
 vol_id: 19
-date: 1953-02-05
+doc_date: 1953-02-05
 ---
 
 # 19 Minute From Crawford To Mcewen

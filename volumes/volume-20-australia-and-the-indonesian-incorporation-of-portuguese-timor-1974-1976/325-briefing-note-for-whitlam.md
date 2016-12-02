@@ -3,7 +3,7 @@ title: "325 Briefing Note for Whitlam"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8163
 vol_id: 20
-date: 1975-11-06
+doc_date: 1975-11-06
 barcode: 4151641
 ---
 

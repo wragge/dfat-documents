@@ -3,7 +3,7 @@ title: "31 Letter From Casey To Mcleay"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7636
 vol_id: 19
-date: 1953-06-12
+doc_date: 1953-06-12
 ---
 
 # 31 Letter From Casey To Mcleay

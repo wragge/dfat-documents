@@ -3,7 +3,7 @@ title: "215 Mackay to Chifley [1]"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4399
 vol_id: 11
-date: 1947-07-31
+doc_date: 1947-07-31
 ---
 
 # 215 Mackay to Chifley [1]

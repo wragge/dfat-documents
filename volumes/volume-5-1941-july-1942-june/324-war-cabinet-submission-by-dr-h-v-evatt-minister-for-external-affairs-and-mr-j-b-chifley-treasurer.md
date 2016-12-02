@@ -3,7 +3,7 @@ title: "324 War Cabinet Submission by Dr H. V. Evatt, Minister for External Affa
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2078
 vol_id: 5
-date: 1942-02-10
+doc_date: 1942-02-10
 barcode: 7593905
 ---
 

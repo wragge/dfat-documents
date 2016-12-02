@@ -3,7 +3,7 @@ title: "324 Record of Meeting at U.K. Foreign Office"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1555
 vol_id: 4
-date: 1941-02-26
+doc_date: 1941-02-26
 ---
 
 # 324 Record of Meeting at U.K. Foreign Office

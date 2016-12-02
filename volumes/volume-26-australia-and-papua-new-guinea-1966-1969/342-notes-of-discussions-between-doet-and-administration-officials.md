@@ -3,7 +3,7 @@ title: "342 Notes Of Discussions Between Doet And Administration Officials"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9851
 vol_id: 26
-date: 1969-12-09
+doc_date: 1969-12-09
 barcode: 3121841
 ---
 

@@ -3,7 +3,7 @@ title: "132 Mr A. R. Nankervis, Secretary of Department of the Navy, to Mr F. St
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1363
 vol_id: 4
-date: 1940-09-21
+doc_date: 1940-09-21
 ---
 
 # 132 Mr A. R. Nankervis, Secretary of Department of the Navy, to Mr F. Strahan, Secretary of Prime Minister's Department

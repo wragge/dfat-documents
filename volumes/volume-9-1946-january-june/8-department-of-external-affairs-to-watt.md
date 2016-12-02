@@ -3,7 +3,7 @@ title: "8 Department of External Affairs to Watt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3520
 vol_id: 9
-date: 1946-01-04
+doc_date: 1946-01-04
 barcode: 191060
 ---
 

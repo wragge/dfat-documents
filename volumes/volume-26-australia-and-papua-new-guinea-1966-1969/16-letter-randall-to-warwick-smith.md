@@ -3,7 +3,7 @@ title: "16 Letter, Randall To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9525
 vol_id: 26
-date: 1966-02-18
+doc_date: 1966-02-18
 barcode: 8811161
 ---
 

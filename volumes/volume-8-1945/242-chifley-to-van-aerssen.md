@@ -3,7 +3,7 @@ title: "242 Chifley to Van Aerssen"
 volume: "Volume 8: 1945"
 doc_id: 3273
 vol_id: 8
-date: 1945-09-11
+doc_date: 1945-09-11
 ---
 
 # 242 Chifley to Van Aerssen

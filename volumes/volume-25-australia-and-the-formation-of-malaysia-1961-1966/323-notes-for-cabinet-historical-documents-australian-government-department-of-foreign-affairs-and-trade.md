@@ -3,7 +3,7 @@ title: "323 Notes for Cabinet - Historical Documents - Australian Government Dep
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9453
 vol_id: 25
-date: 1965-08-26
+doc_date: 1965-08-26
 barcode: 1345813
 ---
 

@@ -3,7 +3,7 @@ title: "16 Cabinet Minute"
 volume: "Volume 1: 1937-38"
 doc_id: 16
 vol_id: 1
-date: 1937-03-09
+doc_date: 1937-03-09
 ---
 
 # 16 Cabinet Minute

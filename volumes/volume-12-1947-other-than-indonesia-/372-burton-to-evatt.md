@@ -3,7 +3,7 @@ title: "372 Burton to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5054
 vol_id: 12
-date: 1947-11-21
+doc_date: 1947-11-21
 ---
 
 # 372 Burton to Evatt

@@ -3,7 +3,7 @@ title: "21 Nimmo to Department of the Treasury"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5797
 vol_id: 14
-date: 1948-06-28
+doc_date: 1948-06-28
 ---
 
 # 21 Nimmo to Department of the Treasury

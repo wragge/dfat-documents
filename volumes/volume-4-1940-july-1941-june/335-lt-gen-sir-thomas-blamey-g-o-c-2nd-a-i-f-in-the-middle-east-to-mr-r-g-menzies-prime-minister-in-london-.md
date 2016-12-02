@@ -3,7 +3,7 @@ title: "335 Lt Gen Sir Thomas Blamey, G.O.C. 2nd A.I.F. in the Middle East, to M
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1566
 vol_id: 4
-date: 1941-03-05
+doc_date: 1941-03-05
 ---
 
 # 335 Lt Gen Sir Thomas Blamey, G.O.C. 2nd A.I.F. in the Middle East, to Mr R. G. Menzies, Prime Minister (in London)

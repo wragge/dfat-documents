@@ -3,7 +3,7 @@ title: "239 Mr S.M. Bruce, High Commissioner in London, to Mr R.A. Butler, U.K. 
 volume: "Volume 2: 1939"
 doc_id: 576
 vol_id: 2
-date: 1939-09-21
+doc_date: 1939-09-21
 ---
 
 # 239 Mr S.M. Bruce, High Commissioner in London, to Mr R.A. Butler, U.K. Parliamentary Under-Secretary of State for Foreign Affairs

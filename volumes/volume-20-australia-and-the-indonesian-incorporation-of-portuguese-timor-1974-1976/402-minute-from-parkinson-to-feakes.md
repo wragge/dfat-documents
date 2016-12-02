@@ -3,7 +3,7 @@ title: "402 Minute from Parkinson to Feakes"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8240
 vol_id: 20
-date: 1976-01-19
+doc_date: 1976-01-19
 barcode: 4151641
 ---
 

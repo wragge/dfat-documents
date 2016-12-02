@@ -3,7 +3,7 @@ title: "35 Extract from Cablegram from Department of External Affairs to Casey"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10410
 vol_id: 28
-date: 1958-09-30
+doc_date: 1958-09-30
 barcode: 842521
 ---
 

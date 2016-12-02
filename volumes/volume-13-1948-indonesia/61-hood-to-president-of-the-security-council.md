@@ -3,7 +3,7 @@ title: "61 Hood to President of the Security Council"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5328
 vol_id: 13
-date: 1948-02-13
+doc_date: 1948-02-13
 ---
 
 # 61 Hood to President of the Security Council

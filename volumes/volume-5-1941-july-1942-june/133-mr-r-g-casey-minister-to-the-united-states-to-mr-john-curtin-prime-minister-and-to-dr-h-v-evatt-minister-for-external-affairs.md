@@ -3,7 +3,7 @@ title: "133 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Pr
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1887
 vol_id: 5
-date: 1941-11-27
+doc_date: 1941-11-27
 ---
 
 # 133 Mr R. G. Casey, Minister to the United States, to Mr John Curtin, Prime Minister, and to Dr H. V. Evatt, Minister for External Affairs

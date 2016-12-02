@@ -3,7 +3,7 @@ title: "199 Letter from McKeow to Renouf"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10573
 vol_id: 28
-date: 1974-07-26
+doc_date: 1974-07-26
 barcode: 1373509
 ---
 

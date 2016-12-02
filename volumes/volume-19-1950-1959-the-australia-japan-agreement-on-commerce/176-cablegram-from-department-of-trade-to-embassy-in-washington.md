@@ -3,7 +3,7 @@ title: "176 Cablegram From Department Of Trade To Embassy In Washington"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7781
 vol_id: 19
-date: 1956-12-03
+doc_date: 1956-12-03
 ---
 
 # 176 Cablegram From Department Of Trade To Embassy In Washington

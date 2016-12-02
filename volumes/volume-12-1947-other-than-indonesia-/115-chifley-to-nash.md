@@ -3,7 +3,7 @@ title: "115 Chifley to Nash"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4797
 vol_id: 12
-date: 1947-06-26
+doc_date: 1947-06-26
 barcode: 195062
 ---
 

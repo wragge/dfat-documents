@@ -3,7 +3,7 @@ title: "431 Dr C. J. Pao, Chinese Consul-General in Australia, to Mr R. G. Menzi
 volume: "Volume 3: 1940, January-June"
 doc_id: 1197
 vol_id: 3
-date: 1940-06-24
+doc_date: 1940-06-24
 barcode: 97723
 ---
 

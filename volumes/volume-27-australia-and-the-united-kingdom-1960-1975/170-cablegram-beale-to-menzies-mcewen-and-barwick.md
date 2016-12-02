@@ -3,7 +3,7 @@ title: "170 CABLEGRAM, BEALE TO MENZIES, MCEWEN AND BARWICK"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10035
 vol_id: 27
-date: 1962-03-01
+doc_date: 1962-03-01
 ---
 
 # 170 CABLEGRAM, BEALE TO MENZIES, MCEWEN AND BARWICK

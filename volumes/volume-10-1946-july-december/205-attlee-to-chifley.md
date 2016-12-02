@@ -3,7 +3,7 @@ title: "205 Attlee to Chifley"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4053
 vol_id: 10
-date: 1946-11-09
+doc_date: 1946-11-09
 barcode: 478608
 ---
 

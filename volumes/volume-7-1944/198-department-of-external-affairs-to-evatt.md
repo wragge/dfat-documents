@@ -3,7 +3,7 @@ title: "198 Department of External Affairs to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2845
 vol_id: 7
-date: 1944-06-15
+doc_date: 1944-06-15
 ---
 
 # 198 Department of External Affairs to Evatt

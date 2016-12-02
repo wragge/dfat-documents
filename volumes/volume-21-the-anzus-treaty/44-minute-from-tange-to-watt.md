@@ -3,7 +3,7 @@ title: "44 Minute From Tange to Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8395
 vol_id: 21
-date: 1951-02-08
+doc_date: 1951-02-08
 ---
 
 # 44 Minute From Tange to Watt

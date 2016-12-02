@@ -3,7 +3,7 @@ title: "333 LETTER FROM DUNN TO ANDERSON"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8817
 vol_id: 22
-date: 1972-06-16
+doc_date: 1972-06-16
 ---
 
 # 333 LETTER FROM DUNN TO ANDERSON

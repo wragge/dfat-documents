@@ -3,7 +3,7 @@ title: "427 LETTER GARNER TO JOHNSTON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10293
 vol_id: 27
-date: 1968-02-28
+doc_date: 1968-02-28
 ---
 
 # 427 LETTER GARNER TO JOHNSTON

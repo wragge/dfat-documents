@@ -3,7 +3,7 @@ title: "214 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commission
 volume: "Volume 3: 1940, January-June"
 doc_id: 980
 vol_id: 3
-date: 1940-05-08
+doc_date: 1940-05-08
 ---
 
 # 214 Mr R. G. Menzies, Prime Minister, to Mr S. M. Bruce, High Commissioner in London

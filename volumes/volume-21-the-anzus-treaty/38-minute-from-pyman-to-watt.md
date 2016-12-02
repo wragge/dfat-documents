@@ -3,7 +3,7 @@ title: "38 Minute From Pyman to Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8389
 vol_id: 21
-date: 1951-01-23
+doc_date: 1951-01-23
 ---
 
 # 38 Minute From Pyman to Watt

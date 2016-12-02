@@ -3,7 +3,7 @@ title: "39 War Cabinet Minute"
 volume: "Volume 3: 1940, January-June"
 doc_id: 805
 vol_id: 3
-date: 1940-02-05
+doc_date: 1940-02-05
 ---
 
 # 39 War Cabinet Minute

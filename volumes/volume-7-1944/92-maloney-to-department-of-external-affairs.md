@@ -3,7 +3,7 @@ title: "92 Maloney to Department of External Affairs"
 volume: "Volume 7: 1944"
 doc_id: 2739
 vol_id: 7
-date: 1944-03-21
+doc_date: 1944-03-21
 ---
 
 # 92 Maloney to Department of External Affairs

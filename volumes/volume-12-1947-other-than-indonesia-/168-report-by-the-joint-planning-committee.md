@@ -3,7 +3,7 @@ title: "168 Report by the joint Planning Committee"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4850
 vol_id: 12
-date: 1947-02-20
+doc_date: 1947-02-20
 ---
 
 # 168 Report by the joint Planning Committee

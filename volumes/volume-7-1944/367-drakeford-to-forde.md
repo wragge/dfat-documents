@@ -3,7 +3,7 @@ title: "367 Drakeford to Forde"
 volume: "Volume 7: 1944"
 doc_id: 3014
 vol_id: 7
-date: 1944-12-05
+doc_date: 1944-12-05
 ---
 
 # 367 Drakeford to Forde

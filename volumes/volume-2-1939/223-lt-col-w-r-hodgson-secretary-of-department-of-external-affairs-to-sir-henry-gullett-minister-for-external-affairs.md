@@ -3,7 +3,7 @@ title: "223 Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to
 volume: "Volume 2: 1939"
 doc_id: 560
 vol_id: 2
-date: 1939-09-13
+doc_date: 1939-09-13
 ---
 
 # 223 Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to Sir Henry Gullett, Minister for External Affairs

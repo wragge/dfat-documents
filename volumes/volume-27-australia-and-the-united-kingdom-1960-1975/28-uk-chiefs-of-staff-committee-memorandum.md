@@ -3,7 +3,7 @@ title: "28 UK CHIEFS OF STAFF COMMITTEE MEMORANDUM"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9895
 vol_id: 27
-date: 1965-02-08
+doc_date: 1965-02-08
 ---
 
 # 28 UK CHIEFS OF STAFF COMMITTEE MEMORANDUM

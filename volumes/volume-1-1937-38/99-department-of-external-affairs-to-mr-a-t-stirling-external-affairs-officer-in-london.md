@@ -3,7 +3,7 @@ title: "99 Department of External Affairs to Mr A. T. Stirling, External Affairs
 volume: "Volume 1: 1937-38"
 doc_id: 98
 vol_id: 1
-date: 1937-11-10
+doc_date: 1937-11-10
 ---
 
 # 99 Department of External Affairs to Mr A. T. Stirling, External Affairs Officer in London

@@ -3,7 +3,7 @@ title: "177 Extracts from Minute from Anderson to Anthony"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9046
 vol_id: 23
-date: 1982-01-26
+doc_date: 1982-01-26
 ---
 
 # 177 Extracts from Minute from Anderson to Anthony

@@ -3,7 +3,7 @@ title: "128 Record Of Conversation Between Anderson And Kosasih"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9636
 vol_id: 26
-date: 1967-06-27
+doc_date: 1967-06-27
 barcode: 1727609
 ---
 

@@ -3,7 +3,7 @@ title: "454 Mr D. Acheson, U.S. Assistant Secretary of State, to Mr R. G. Menzie
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1685
 vol_id: 4
-date: 1941-05-14
+doc_date: 1941-05-14
 barcode: 235658
 ---
 

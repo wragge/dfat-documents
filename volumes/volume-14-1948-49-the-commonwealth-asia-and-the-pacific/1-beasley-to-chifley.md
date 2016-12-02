@@ -3,7 +3,7 @@ title: "1 Beasley to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5777
 vol_id: 14
-date: 1948-01-08
+doc_date: 1948-01-08
 barcode: 342633
 ---
 

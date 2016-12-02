@@ -3,7 +3,7 @@ title: "256 Department of External Affairs to Ballard"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4440
 vol_id: 11
-date: 1947-08-07
+doc_date: 1947-08-07
 ---
 
 # 256 Department of External Affairs to Ballard

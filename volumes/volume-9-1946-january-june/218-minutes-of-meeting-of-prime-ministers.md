@@ -3,7 +3,7 @@ title: "218 Minutes of Meeting of Prime Ministers"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3730
 vol_id: 9
-date: 1946-04-28
+doc_date: 1946-04-28
 barcode: 694890
 ---
 

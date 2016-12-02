@@ -3,7 +3,7 @@ title: "149 Report of the Australian Delegation to the Resumed Meeting of the Tw
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10523
 vol_id: 28
-date: 1968-08-14
+doc_date: 1968-08-14
 barcode: 1725941
 ---
 

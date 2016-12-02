@@ -3,7 +3,7 @@ title: "188 Cablegram from Hasluck to Gorton - Historical Documents - Australian
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9318
 vol_id: 25
-date: 1964-06-20
+doc_date: 1964-06-20
 ---
 
 # 188 Cablegram from Hasluck to Gorton - Historical Documents - Australian Government Department of Foreign Affairs and Trade

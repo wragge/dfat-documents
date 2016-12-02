@@ -3,7 +3,7 @@ title: "130 Winant to Curtin (in London)"
 volume: "Volume 7: 1944"
 doc_id: 2777
 vol_id: 7
-date: 1944-05-04
+doc_date: 1944-05-04
 ---
 
 # 130 Winant to Curtin (in London)

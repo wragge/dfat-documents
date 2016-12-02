@@ -3,7 +3,7 @@ title: "111 Mr Longfield Lloyd, Trade Commissioner in Japan, to Mr J. F. Murphy,
 volume: "Volume 1: 1937-38"
 doc_id: 110
 vol_id: 1
-date: 1937-10-06
+doc_date: 1937-10-06
 ---
 
 # 111 Mr Longfield Lloyd, Trade Commissioner in Japan, to Mr J. F. Murphy, Secretary of Department of Commerce

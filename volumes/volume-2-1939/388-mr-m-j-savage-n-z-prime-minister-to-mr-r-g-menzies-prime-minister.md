@@ -3,7 +3,7 @@ title: "388 Mr M.J. Savage, N.Z. Prime Minister, to Mr R.G. Menzies, Prime Minis
 volume: "Volume 2: 1939"
 doc_id: 725
 vol_id: 2
-date: 1939-11-28
+doc_date: 1939-11-28
 barcode: 206102
 ---
 

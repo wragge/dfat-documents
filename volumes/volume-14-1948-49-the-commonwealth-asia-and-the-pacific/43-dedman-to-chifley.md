@@ -3,7 +3,7 @@ title: "43 Dedman to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5819
 vol_id: 14
-date: 1949-07-17
+doc_date: 1949-07-17
 ---
 
 # 43 Dedman to Chifley

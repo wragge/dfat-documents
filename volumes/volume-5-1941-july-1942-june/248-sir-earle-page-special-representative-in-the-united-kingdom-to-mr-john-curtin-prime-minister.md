@@ -3,7 +3,7 @@ title: "248 Sir Earle Page, Special Representative in the United Kingdom, to Mr 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2002
 vol_id: 5
-date: 1942-01-01
+doc_date: 1942-01-01
 barcode: 205697
 ---
 

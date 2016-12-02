@@ -3,7 +3,7 @@ title: "373 LETTER, HOLT TO TURNER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10239
 vol_id: 27
-date: 1967-10-04
+doc_date: 1967-10-04
 ---
 
 # 373 LETTER, HOLT TO TURNER

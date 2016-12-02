@@ -3,7 +3,7 @@ title: "405 Evatt to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5087
 vol_id: 12
-date: 1947-08-04
+doc_date: 1947-08-04
 ---
 
 # 405 Evatt to Burton

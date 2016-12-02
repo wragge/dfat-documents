@@ -3,7 +3,7 @@ title: "5 Mr R. G. Menzies, Prime Minister, to Mr Tatsuo Kawai, Japanese Ministe
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1758
 vol_id: 5
-date: 1941-07-11
+doc_date: 1941-07-11
 ---
 
 # 5 Mr R. G. Menzies, Prime Minister, to Mr Tatsuo Kawai, Japanese Minister to Australia

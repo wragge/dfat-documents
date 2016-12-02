@@ -3,7 +3,7 @@ title: "30 CABLEGRAM, MENZIES TO MCEWEN, PALTRIDGE AND HASLUCK"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9896
 vol_id: 27
-date: 1965-07-03
+doc_date: 1965-07-03
 ---
 
 # 30 CABLEGRAM, MENZIES TO MCEWEN, PALTRIDGE AND HASLUCK

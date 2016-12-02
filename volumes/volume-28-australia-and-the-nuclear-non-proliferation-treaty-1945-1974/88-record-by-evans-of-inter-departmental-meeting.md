@@ -3,7 +3,7 @@ title: "88 Record by Evans of Inter-Departmental Meeting"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10462
 vol_id: 28
-date: 1967-04-19
+doc_date: 1967-04-19
 barcode: 1730506
 ---
 

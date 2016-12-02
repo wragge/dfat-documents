@@ -3,7 +3,7 @@ title: "382 Department of External Affairs to Embassy in Washington"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5064
 vol_id: 12
-date: 1947-04-02
+doc_date: 1947-04-02
 barcode: 195203
 ---
 

@@ -3,7 +3,7 @@ title: "64 LETTER, DOWNER TO WILSON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9929
 vol_id: 27
-date: 1967-04-21
+doc_date: 1967-04-21
 ---
 
 # 64 LETTER, DOWNER TO WILSON

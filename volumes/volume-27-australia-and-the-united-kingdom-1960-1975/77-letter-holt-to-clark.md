@@ -3,7 +3,7 @@ title: "77 LETTER, HOLT TO CLARK"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9942
 vol_id: 27
-date: 1967-07-05
+doc_date: 1967-07-05
 ---
 
 # 77 LETTER, HOLT TO CLARK

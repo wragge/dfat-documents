@@ -3,7 +3,7 @@ title: "169 Report by Inter-Departmental Committee"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10543
 vol_id: 28
-date: 1971-04-01
+doc_date: 1971-04-01
 barcode: 546379
 ---
 

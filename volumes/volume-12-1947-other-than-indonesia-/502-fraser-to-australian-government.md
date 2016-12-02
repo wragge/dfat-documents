@@ -3,7 +3,7 @@ title: "502 Fraser to Australian Government"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5184
 vol_id: 12
-date: 1947-03-15
+doc_date: 1947-03-15
 barcode: 649091
 ---
 

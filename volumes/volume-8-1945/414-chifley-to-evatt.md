@@ -3,7 +3,7 @@ title: "414 Chifley to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3445
 vol_id: 8
-date: 1945-11-26
+doc_date: 1945-11-26
 ---
 
 # 414 Chifley to Evatt

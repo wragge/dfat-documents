@@ -3,7 +3,7 @@ title: "414 Eaton to Department of External Affairs"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4598
 vol_id: 11
-date: 1947-11-11
+doc_date: 1947-11-11
 ---
 
 # 414 Eaton to Department of External Affairs

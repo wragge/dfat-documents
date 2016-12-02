@@ -3,7 +3,7 @@ title: "174 Minute from Miller to Feakes and Piper"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8012
 vol_id: 20
-date: 1962-09-01
+doc_date: 1962-09-01
 ---
 
 # 174 Minute from Miller to Feakes and Piper

@@ -3,7 +3,7 @@ title: "160 Joint Intelligence Committee Appreciation 1/47"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4842
 vol_id: 12
-date: 1947-03-27
+doc_date: 1947-03-27
 ---
 
 # 160 Joint Intelligence Committee Appreciation 1/47

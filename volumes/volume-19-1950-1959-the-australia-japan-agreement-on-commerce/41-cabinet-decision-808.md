@@ -3,7 +3,7 @@ title: "41 Cabinet Decision 808"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7646
 vol_id: 19
-date: 1953-08-13
+doc_date: 1953-08-13
 ---
 
 # 41 Cabinet Decision 808

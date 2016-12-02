@@ -3,7 +3,7 @@ title: "156 Jamieson to Department of External Affairs"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6871
 vol_id: 16
-date: 1948-08-18
+doc_date: 1948-08-18
 ---
 
 # 156 Jamieson to Department of External Affairs

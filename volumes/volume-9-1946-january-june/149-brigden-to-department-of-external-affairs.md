@@ -3,7 +3,7 @@ title: "149 Brigden to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3661
 vol_id: 9
-date: 1946-03-27
+doc_date: 1946-03-27
 barcode: 193770
 ---
 

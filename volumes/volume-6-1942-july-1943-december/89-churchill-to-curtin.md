@@ -3,7 +3,7 @@ title: "89 Churchill to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2380
 vol_id: 6
-date: 1942-12-10
+doc_date: 1942-12-10
 ---
 
 # 89 Churchill to Curtin

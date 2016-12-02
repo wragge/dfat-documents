@@ -3,7 +3,7 @@ title: "241 Embassy in Washington to Department of External Affairs"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4089
 vol_id: 10
-date: 1946-11-21
+doc_date: 1946-11-21
 barcode: 191470
 ---
 

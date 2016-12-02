@@ -3,7 +3,7 @@ title: "336 Mr John Curtin, Prime Minister, to Lord Cranborne, U.K. Secretary of
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2090
 vol_id: 5
-date: 1942-02-17
+doc_date: 1942-02-17
 ---
 
 # 336 Mr John Curtin, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs

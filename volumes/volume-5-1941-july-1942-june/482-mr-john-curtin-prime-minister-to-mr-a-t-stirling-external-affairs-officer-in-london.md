@@ -3,7 +3,7 @@ title: "482 Mr John Curtin, Prime Minister, to Mr A. T. Stirling, External Affai
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2236
 vol_id: 5
-date: 1942-05-05
+doc_date: 1942-05-05
 ---
 
 # 482 Mr John Curtin, Prime Minister, to Mr A. T. Stirling, External Affairs Officer in London

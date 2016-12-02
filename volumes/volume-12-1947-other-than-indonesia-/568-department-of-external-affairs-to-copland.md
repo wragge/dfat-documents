@@ -3,7 +3,7 @@ title: "568 Department of External Affairs to Copland"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5250
 vol_id: 12
-date: 1947-12-02
+doc_date: 1947-12-02
 barcode: 195083
 ---
 

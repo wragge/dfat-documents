@@ -3,7 +3,7 @@ title: "128 Evatt to Bruce"
 volume: "Volume 8: 1945"
 doc_id: 3159
 vol_id: 8
-date: 1945-07-05
+doc_date: 1945-07-05
 barcode: 188012
 ---
 

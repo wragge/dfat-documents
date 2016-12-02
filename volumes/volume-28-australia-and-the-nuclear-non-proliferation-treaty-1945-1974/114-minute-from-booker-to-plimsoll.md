@@ -3,7 +3,7 @@ title: "114 Minute from Booker to Plimsoll"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10488
 vol_id: 28
-date: 1968-03-21
+doc_date: 1968-03-21
 barcode: 1725937
 ---
 

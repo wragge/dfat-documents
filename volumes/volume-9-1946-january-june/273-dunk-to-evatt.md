@@ -3,7 +3,7 @@ title: "273 Dunk to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3785
 vol_id: 9
-date: 1946-05-28
+doc_date: 1946-05-28
 ---
 
 # 273 Dunk to Evatt

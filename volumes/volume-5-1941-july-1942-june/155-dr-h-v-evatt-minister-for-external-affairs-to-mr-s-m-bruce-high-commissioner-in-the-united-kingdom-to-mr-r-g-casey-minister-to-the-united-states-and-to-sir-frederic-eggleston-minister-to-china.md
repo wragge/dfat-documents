@@ -3,7 +3,7 @@ title: "155 Dr H. V. Evatt, Minister for External Affairs, to Mr S. M. Bruce, Hi
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1909
 vol_id: 5
-date: 1941-12-03
+doc_date: 1941-12-03
 ---
 
 # 155 Dr H. V. Evatt, Minister for External Affairs, to Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr R. G. Casey, Minister to the United States, and to Sir Frederic Eggleston, Minister to China

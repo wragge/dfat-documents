@@ -3,7 +3,7 @@ title: "170 Record by Irvine of AAEA Group Visit to Italy"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10544
 vol_id: 28
-date: 1971-06-18
+doc_date: 1971-06-18
 barcode: 549300
 ---
 

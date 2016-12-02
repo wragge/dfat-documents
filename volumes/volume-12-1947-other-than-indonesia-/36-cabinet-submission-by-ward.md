@@ -3,7 +3,7 @@ title: "36 Cabinet Submission by Ward"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4718
 vol_id: 12
-date: 1947-11-21
+doc_date: 1947-11-21
 ---
 
 # 36 Cabinet Submission by Ward

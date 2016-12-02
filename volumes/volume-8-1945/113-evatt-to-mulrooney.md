@@ -3,7 +3,7 @@ title: "113 Evatt to Mulrooney"
 volume: "Volume 8: 1945"
 doc_id: 3144
 vol_id: 8
-date: 1945-06-15
+doc_date: 1945-06-15
 ---
 
 # 113 Evatt to Mulrooney

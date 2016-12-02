@@ -3,7 +3,7 @@ title: "125 Letter from Douglas to Woodfield"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8995
 vol_id: 23
-date: 1980-07-29
+doc_date: 1980-07-29
 ---
 
 # 125 Letter from Douglas to Woodfield

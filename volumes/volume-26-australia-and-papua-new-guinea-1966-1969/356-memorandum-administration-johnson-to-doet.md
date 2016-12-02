@@ -3,7 +3,7 @@ title: "356 Memorandum, Administration (Johnson) To Doet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9865
 vol_id: 26
-date: 1969-12-23
+doc_date: 1969-12-23
 barcode: 3121841
 ---
 

@@ -3,7 +3,7 @@ title: "330 Commonwealth Government to Canadian Department of External Affairs"
 volume: "Volume 1: 1937-38"
 doc_id: 329
 vol_id: 1
-date: 1938-12-07
+doc_date: 1938-12-07
 ---
 
 # 330 Commonwealth Government to Canadian Department of External Affairs

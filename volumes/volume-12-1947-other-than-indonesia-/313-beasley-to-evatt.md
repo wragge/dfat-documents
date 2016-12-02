@@ -3,7 +3,7 @@ title: "313 Beasley to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4995
 vol_id: 12
-date: 1947-05-21
+doc_date: 1947-05-21
 ---
 
 # 313 Beasley to Evatt

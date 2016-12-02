@@ -3,7 +3,7 @@ title: "133 Evatt to Beasley (in Philadelphia)"
 volume: "Volume 7: 1944"
 doc_id: 2780
 vol_id: 7
-date: 1944-05-05
+doc_date: 1944-05-05
 ---
 
 # 133 Evatt to Beasley (in Philadelphia)

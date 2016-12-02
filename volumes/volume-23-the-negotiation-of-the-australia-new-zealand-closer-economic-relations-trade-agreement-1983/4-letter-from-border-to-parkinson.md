@@ -3,7 +3,7 @@ title: "4 Letter from Border to Parkinson"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8874
 vol_id: 23
-date: 1979-04-12
+doc_date: 1979-04-12
 ---
 
 # 4 Letter from Border to Parkinson

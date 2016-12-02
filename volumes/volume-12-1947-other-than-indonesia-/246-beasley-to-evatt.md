@@ -3,7 +3,7 @@ title: "246 Beasley to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4928
 vol_id: 12
-date: 1947-02-11
+doc_date: 1947-02-11
 barcode: 194635
 ---
 

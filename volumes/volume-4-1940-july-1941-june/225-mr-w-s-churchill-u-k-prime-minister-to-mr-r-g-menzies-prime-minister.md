@@ -3,7 +3,7 @@ title: "225 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1456
 vol_id: 4
-date: 1940-12-13
+doc_date: 1940-12-13
 ---
 
 # 225 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister

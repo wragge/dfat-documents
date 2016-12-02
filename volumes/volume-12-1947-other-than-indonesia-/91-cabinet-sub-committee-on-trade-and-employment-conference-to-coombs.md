@@ -3,7 +3,7 @@ title: "91 Cabinet Sub-Committee on Trade and Employment Conference to Coombs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4773
 vol_id: 12
-date: 1947-04-03
+doc_date: 1947-04-03
 ---
 
 # 91 Cabinet Sub-Committee on Trade and Employment Conference to Coombs

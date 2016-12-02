@@ -3,7 +3,7 @@ title: "204 Appreciation by Chiefs of Staff for War Cabinet"
 volume: "Volume 3: 1940, January-June"
 doc_id: 970
 vol_id: 3
-date: 1940-05-02
+doc_date: 1940-05-02
 ---
 
 # 204 Appreciation by Chiefs of Staff for War Cabinet

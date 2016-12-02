@@ -3,7 +3,7 @@ title: "1. Sir George Pearce, Minister for External Affairs, to Mr J. A. Lyons, 
 volume: "Volume 1: 1937-38"
 doc_id: 1
 vol_id: 1
-date: 1937-01-26
+doc_date: 1937-01-26
 ---
 
 # 1. Sir George Pearce, Minister for External Affairs, to Mr J. A. Lyons, Prime Minister

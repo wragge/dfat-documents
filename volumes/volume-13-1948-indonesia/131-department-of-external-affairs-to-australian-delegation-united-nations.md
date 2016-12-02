@@ -3,7 +3,7 @@ title: "131 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5398
 vol_id: 13
-date: 1948-05-14
+doc_date: 1948-05-14
 ---
 
 # 131 Department of External Affairs to Australian Delegation, United Nations

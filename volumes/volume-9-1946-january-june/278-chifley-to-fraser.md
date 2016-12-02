@@ -3,7 +3,7 @@ title: "278 Chifley to Fraser"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3790
 vol_id: 9
-date: 1946-05-29
+doc_date: 1946-05-29
 ---
 
 # 278 Chifley to Fraser

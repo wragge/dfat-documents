@@ -3,7 +3,7 @@ title: "24 Sir Earle Page, Acting Prime Minister, to Mr J. A. Lyons, Prime Minis
 volume: "Volume 1: 1937-38"
 doc_id: 24
 vol_id: 1
-date: 1937-05-11
+doc_date: 1937-05-11
 ---
 
 # 24 Sir Earle Page, Acting Prime Minister, to Mr J. A. Lyons, Prime Minister (in London)

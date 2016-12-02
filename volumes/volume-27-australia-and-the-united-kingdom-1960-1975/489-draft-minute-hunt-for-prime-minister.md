@@ -3,7 +3,7 @@ title: "489 DRAFT MINUTE, HUNT FOR PRIME MINISTER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10356
 vol_id: 27
-date: 1974-11-27
+doc_date: 1974-11-27
 ---
 
 # 489 DRAFT MINUTE, HUNT FOR PRIME MINISTER

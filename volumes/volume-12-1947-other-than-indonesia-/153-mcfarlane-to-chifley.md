@@ -3,7 +3,7 @@ title: "153 McFarlane to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4835
 vol_id: 12
-date: 1947-06-23
+doc_date: 1947-06-23
 ---
 
 # 153 McFarlane to Chifley

@@ -3,7 +3,7 @@ title: "144 MINUTES, SANDYS’ 1ST MEETING WITH AUSTRALIAN CABINET"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10009
 vol_id: 27
-date: 1961-07-08
+doc_date: 1961-07-08
 ---
 
 # 144 MINUTES, SANDYS’ 1ST MEETING WITH AUSTRALIAN CABINET

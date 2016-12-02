@@ -3,7 +3,7 @@ title: "39 Blamey to Shedden"
 volume: "Volume 8: 1945"
 doc_id: 3070
 vol_id: 8
-date: 1945-02-19
+doc_date: 1945-02-19
 ---
 
 # 39 Blamey to Shedden

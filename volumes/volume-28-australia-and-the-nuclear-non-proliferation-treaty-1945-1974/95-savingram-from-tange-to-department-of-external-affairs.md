@@ -3,7 +3,7 @@ title: "95 Savingram from Tange to Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10469
 vol_id: 28
-date: 1967-08-18
+doc_date: 1967-08-18
 barcode: 546404
 ---
 

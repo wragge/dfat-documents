@@ -3,7 +3,7 @@ title: "464 LETTER HARDERS TO BUNTING"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10331
 vol_id: 27
-date: 1973-05-16
+doc_date: 1973-05-16
 ---
 
 # 464 LETTER HARDERS TO BUNTING

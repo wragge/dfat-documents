@@ -3,7 +3,7 @@ title: "96 Attlee to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2387
 vol_id: 6
-date: 1943-01-08
+doc_date: 1943-01-08
 barcode: 11244644
 ---
 

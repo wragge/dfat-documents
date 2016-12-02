@@ -3,7 +3,7 @@ title: "349 LETTER, ARMSTRONG TO WALLER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10215
 vol_id: 27
-date: 1972-11-22
+doc_date: 1972-11-22
 ---
 
 # 349 LETTER, ARMSTRONG TO WALLER

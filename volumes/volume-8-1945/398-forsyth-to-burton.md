@@ -3,7 +3,7 @@ title: "398 Forsyth to Burton"
 volume: "Volume 8: 1945"
 doc_id: 3429
 vol_id: 8
-date: 1945-11-16
+doc_date: 1945-11-16
 barcode: 190060
 ---
 

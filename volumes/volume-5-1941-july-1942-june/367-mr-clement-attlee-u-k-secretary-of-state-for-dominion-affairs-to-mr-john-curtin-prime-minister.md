@@ -3,7 +3,7 @@ title: "367 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2121
 vol_id: 5
-date: 1942-02-23
+doc_date: 1942-02-23
 ---
 
 # 367 Mr Clement Attlee, U.K. Secretary of State for Dominion Affairs, to Mr John Curtin, Prime Minister

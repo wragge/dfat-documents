@@ -3,7 +3,7 @@ title: "62 Minute from Griffith to Bunting"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10436
 vol_id: 28
-date: 1965-06-02
+doc_date: 1965-06-02
 barcode: 3055577
 ---
 

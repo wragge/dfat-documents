@@ -3,7 +3,7 @@ title: "444 Minter to Makin"
 volume: "Volume 8: 1945"
 doc_id: 3475
 vol_id: 8
-date: 1945-12-12
+doc_date: 1945-12-12
 barcode: 191227
 ---
 

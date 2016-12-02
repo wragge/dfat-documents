@@ -3,7 +3,7 @@ title: "67 MINUTE BY PLIMSOLL"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9932
 vol_id: 27
-date: 1967-05-05
+doc_date: 1967-05-05
 ---
 
 # 67 MINUTE BY PLIMSOLL

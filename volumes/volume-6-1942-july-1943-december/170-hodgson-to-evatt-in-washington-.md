@@ -3,8 +3,8 @@ title: "170 Hodgson to Evatt (in Washington)"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2461
 vol_id: 6
-date: 1943-05-01
-barcode: 5169167
+doc_date: 1943-05-01
+barcode: 238611
 ---
 
 # 170 Hodgson to Evatt (in Washington)
@@ -43,4 +43,4 @@ _
 
 _
 
-_ [ [AA:A4764, 6](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=5169167) ]_
+_ [ [AA:A4764, 6](http://www.naa.gov.au/cgi-bin/Search?O=I&Number=238611) ]_

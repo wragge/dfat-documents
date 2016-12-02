@@ -3,7 +3,7 @@ title: "53 Letter, Barnes To Hay"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9561
 vol_id: 26
-date: 1966-07-27
+doc_date: 1966-07-27
 ---
 
 # 53 Letter, Barnes To Hay

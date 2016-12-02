@@ -3,7 +3,7 @@ title: "397 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1628
 vol_id: 4
-date: 1941-04-09
+doc_date: 1941-04-09
 ---
 
 # 397 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government

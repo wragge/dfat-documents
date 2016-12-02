@@ -3,7 +3,7 @@ title: "233 CABLEGRAM, FLEMING TO EXTERNAL AFFAIRS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10098
 vol_id: 27
-date: 1967-06-09
+doc_date: 1967-06-09
 ---
 
 # 233 CABLEGRAM, FLEMING TO EXTERNAL AFFAIRS

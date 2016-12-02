@@ -3,7 +3,7 @@ title: "324 Letter from Feakes to Woolcott"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8162
 vol_id: 20
-date: 1975-11-05
+doc_date: 1975-11-05
 ---
 
 # 324 Letter from Feakes to Woolcott

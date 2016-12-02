@@ -3,7 +3,7 @@ title: "77 Record of Conversation by Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10451
 vol_id: 28
-date: 1965-11-17
+doc_date: 1965-11-17
 barcode: 546396
 ---
 

@@ -3,7 +3,7 @@ title: "51 Submission from Menzies to Cabinet"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10425
 vol_id: 28
-date: 1961-06-07
+doc_date: 1961-06-07
 barcode: 1343605
 ---
 

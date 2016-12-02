@@ -3,7 +3,7 @@ title: "88 Mr R. G. Menzies, Prime Minister, to Mr M. J. Savage, N.Z. Prime Mini
 volume: "Volume 3: 1940, January-June"
 doc_id: 854
 vol_id: 3
-date: 1940-03-04
+doc_date: 1940-03-04
 ---
 
 # 88 Mr R. G. Menzies, Prime Minister, to Mr M. J. Savage, N.Z. Prime Minister

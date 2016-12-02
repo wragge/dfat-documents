@@ -3,7 +3,7 @@ title: "335 Nimmo to Department of the Treasury"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7050
 vol_id: 16
-date: 1948-04-28
+doc_date: 1948-04-28
 ---
 
 # 335 Nimmo to Department of the Treasury

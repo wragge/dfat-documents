@@ -3,7 +3,7 @@ title: "158 Department of External Affairs to Officer"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5425
 vol_id: 13
-date: 1948-06-03
+doc_date: 1948-06-03
 ---
 
 # 158 Department of External Affairs to Officer

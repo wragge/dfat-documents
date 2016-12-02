@@ -3,7 +3,7 @@ title: "26 Evatt to Department of External Affairs"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3874
 vol_id: 10
-date: 1946-07-15
+doc_date: 1946-07-15
 ---
 
 # 26 Evatt to Department of External Affairs

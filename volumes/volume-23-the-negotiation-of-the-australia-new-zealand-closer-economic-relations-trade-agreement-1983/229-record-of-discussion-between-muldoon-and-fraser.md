@@ -3,7 +3,7 @@ title: "229 Record of Discussion between Muldoon and Fraser"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9098
 vol_id: 23
-date: 1981-09-29
+doc_date: 1981-09-29
 ---
 
 # 229 Record of Discussion between Muldoon and Fraser

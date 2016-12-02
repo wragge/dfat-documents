@@ -3,7 +3,7 @@ title: "443 Dr H. V. Evatt, Minister for External Affairs, to Mr S. M. Bruce, Hi
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2197
 vol_id: 5
-date: 1942-03-26
+doc_date: 1942-03-26
 barcode: 242442
 ---
 

@@ -3,7 +3,7 @@ title: "153 Memorandum From Marcusson To Attorney General's Department"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7758
 vol_id: 19
-date: 1956-10-12
+doc_date: 1956-10-12
 ---
 
 # 153 Memorandum From Marcusson To Attorney General's Department

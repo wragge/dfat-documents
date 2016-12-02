@@ -3,7 +3,7 @@ title: "181 D'Alton to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2828
 vol_id: 7
-date: 1944-06-03
+doc_date: 1944-06-03
 barcode: 11231346
 ---
 

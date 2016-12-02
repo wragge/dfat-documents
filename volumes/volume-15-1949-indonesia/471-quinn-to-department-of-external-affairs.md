@@ -3,7 +3,7 @@ title: "471 Quinn to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6640
 vol_id: 15
-date: 1949-08-11
+doc_date: 1949-08-11
 ---
 
 # 471 Quinn to Department of External Affairs

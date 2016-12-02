@@ -3,7 +3,7 @@ title: "190 LETTER, MENZIES TO MACMILLAN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10055
 vol_id: 27
-date: 1962-07-11
+doc_date: 1962-07-11
 ---
 
 # 190 LETTER, MENZIES TO MACMILLAN

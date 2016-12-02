@@ -3,7 +3,7 @@ title: "160 Curtin to Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2451
 vol_id: 6
-date: 1943-04-20
+doc_date: 1943-04-20
 barcode: 235731
 ---
 

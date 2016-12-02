@@ -3,7 +3,7 @@ title: "189 Broadcast Message by Mr R.G. Menzies, Prime Minister"
 volume: "Volume 2: 1939"
 doc_id: 526
 vol_id: 2
-date: 1939-09-03
+doc_date: 1939-09-03
 ---
 
 # 189 Broadcast Message by Mr R.G. Menzies, Prime Minister

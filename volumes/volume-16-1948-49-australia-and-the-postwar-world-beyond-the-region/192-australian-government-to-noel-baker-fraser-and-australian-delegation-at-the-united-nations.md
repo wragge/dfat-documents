@@ -3,7 +3,7 @@ title: "192 Australian Government to Noel-Baker, Fraser and Australian Delegatio
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6907
 vol_id: 16
-date: 1948-02-11
+doc_date: 1948-02-11
 ---
 
 # 192 Australian Government to Noel-Baker, Fraser and Australian Delegation at the United Nations

@@ -3,7 +3,7 @@ title: "416 Mr S.M. Bruce, High Commissioner in London, to Mr F.K. Officer, Aust
 volume: "Volume 2: 1939"
 doc_id: 753
 vol_id: 2
-date: 1939-12-12
+doc_date: 1939-12-12
 ---
 
 # 416 Mr S.M. Bruce, High Commissioner in London, to Mr F.K. Officer, Australian Counsellor at U.K. Embassy in Washington

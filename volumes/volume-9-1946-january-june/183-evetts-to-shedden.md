@@ -3,7 +3,7 @@ title: "183 Evetts to Shedden"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3695
 vol_id: 9
-date: 1946-04-10
+doc_date: 1946-04-10
 ---
 
 # 183 Evetts to Shedden

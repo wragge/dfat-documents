@@ -3,7 +3,7 @@ title: "211 Evatt to Eggleston"
 volume: "Volume 8: 1945"
 doc_id: 3242
 vol_id: 8
-date: 1945-08-25
+doc_date: 1945-08-25
 ---
 
 # 211 Evatt to Eggleston

@@ -3,7 +3,7 @@ title: "222 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geo
 volume: "Volume 2: 1939"
 doc_id: 559
 vol_id: 2
-date: 1939-09-12
+doc_date: 1939-09-12
 ---
 
 # 222 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner to Australia

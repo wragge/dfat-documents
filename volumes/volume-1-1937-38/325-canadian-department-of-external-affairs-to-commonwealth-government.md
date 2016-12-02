@@ -3,7 +3,7 @@ title: "325 Canadian Department of External Affairs to Commonwealth Government"
 volume: "Volume 1: 1937-38"
 doc_id: 324
 vol_id: 1
-date: 1938-12-05
+doc_date: 1938-12-05
 ---
 
 # 325 Canadian Department of External Affairs to Commonwealth Government

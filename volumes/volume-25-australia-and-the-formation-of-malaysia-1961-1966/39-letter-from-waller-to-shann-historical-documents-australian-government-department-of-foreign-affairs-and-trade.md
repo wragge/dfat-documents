@@ -3,7 +3,7 @@ title: "39 Letter from Waller to Shann - Historical Documents - Australian Gover
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9172
 vol_id: 25
-date: 1963-02-21
+doc_date: 1963-02-21
 barcode: 1500828
 ---
 

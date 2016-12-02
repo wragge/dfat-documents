@@ -3,7 +3,7 @@ title: "254 Mr R. G. Menzies, Prime Minister, to Mr J. van Holst Pellekaan, Neth
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1485
 vol_id: 4
-date: 1941-01-22
+doc_date: 1941-01-22
 ---
 
 # 254 Mr R. G. Menzies, Prime Minister, to Mr J. van Holst Pellekaan, Netherlands Consul in Sydney

@@ -3,7 +3,7 @@ title: "458 Mr R. G. Casey, Minister to the United States, to Department of Exte
 volume: "Volume 3: 1940, January-June"
 doc_id: 1224
 vol_id: 3
-date: 1940-06-27
+doc_date: 1940-06-27
 ---
 
 # 458 Mr R. G. Casey, Minister to the United States, to Department of External Affairs

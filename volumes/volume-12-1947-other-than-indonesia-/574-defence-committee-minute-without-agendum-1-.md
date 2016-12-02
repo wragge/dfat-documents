@@ -3,7 +3,7 @@ title: "574 Defence Committee Minute without Agendum [1]"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5256
 vol_id: 12
-date: 1947-05-12
+doc_date: 1947-05-12
 ---
 
 # 574 Defence Committee Minute without Agendum [1]

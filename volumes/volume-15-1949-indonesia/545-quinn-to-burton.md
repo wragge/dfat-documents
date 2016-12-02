@@ -3,7 +3,7 @@ title: "545 Quinn to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6714
 vol_id: 15
-date: 1949-12-27
+doc_date: 1949-12-27
 ---
 
 # 545 Quinn to Burton

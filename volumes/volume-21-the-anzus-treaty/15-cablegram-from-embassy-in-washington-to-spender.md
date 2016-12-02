@@ -3,7 +3,7 @@ title: "15 Cablegram From Embassy in Washington to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8366
 vol_id: 21
-date: 1950-08-03
+doc_date: 1950-08-03
 barcode: 271757
 ---
 

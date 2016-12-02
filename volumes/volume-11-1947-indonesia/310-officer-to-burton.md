@@ -3,7 +3,7 @@ title: "310 Officer to Burton"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4494
 vol_id: 11
-date: 1947-09-02
+doc_date: 1947-09-02
 ---
 
 # 310 Officer to Burton

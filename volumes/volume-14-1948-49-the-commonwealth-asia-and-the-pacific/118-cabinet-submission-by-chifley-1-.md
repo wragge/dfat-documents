@@ -3,7 +3,7 @@ title: "118 Cabinet Submission by Chifley [1]"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5894
 vol_id: 14
-date: 1948-08-30
+doc_date: 1948-08-30
 ---
 
 # 118 Cabinet Submission by Chifley [1]

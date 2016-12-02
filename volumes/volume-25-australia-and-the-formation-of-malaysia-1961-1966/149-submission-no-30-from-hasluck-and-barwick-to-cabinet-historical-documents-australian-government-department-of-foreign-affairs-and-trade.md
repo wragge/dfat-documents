@@ -3,7 +3,7 @@ title: "149 Submission No. 30 from Hasluck and Barwick to Cabinet - Historical D
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9279
 vol_id: 25
-date: 1964-01-24
+doc_date: 1964-01-24
 ---
 
 # 149 Submission No. 30 from Hasluck and Barwick to Cabinet - Historical Documents - Australian Government Department of Foreign Affairs and Trade

@@ -3,7 +3,7 @@ title: "84 Advisory War Council Minute 533"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1838
 vol_id: 5
-date: 1941-10-16
+doc_date: 1941-10-16
 ---
 
 # 84 Advisory War Council Minute 533

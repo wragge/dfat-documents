@@ -3,7 +3,7 @@ title: "430 MINUTE SMALLMAN TO AIERS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10297
 vol_id: 27
-date: 1970-02-17
+doc_date: 1970-02-17
 ---
 
 # 430 MINUTE SMALLMAN TO AIERS

@@ -3,7 +3,7 @@ title: "270 Department of External Affairs to Beasley, Forde, Hood and Critchley
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6439
 vol_id: 15
-date: 1949-03-04
+doc_date: 1949-03-04
 ---
 
 # 270 Department of External Affairs to Beasley, Forde, Hood and Critchley

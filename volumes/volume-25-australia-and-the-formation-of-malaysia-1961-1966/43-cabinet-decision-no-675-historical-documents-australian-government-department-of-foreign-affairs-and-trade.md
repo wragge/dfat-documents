@@ -3,7 +3,7 @@ title: "43 Cabinet Decision No. 675 - Historical Documents - Australian Governme
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9175
 vol_id: 25
-date: 1963-03-05
+doc_date: 1963-03-05
 barcode: 1344506
 ---
 

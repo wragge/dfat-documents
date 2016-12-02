@@ -3,7 +3,7 @@ title: "60 Minute from Santer to Gate"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8930
 vol_id: 23
-date: 1980-02-12
+doc_date: 1980-02-12
 ---
 
 # 60 Minute from Santer to Gate

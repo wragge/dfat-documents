@@ -3,7 +3,7 @@ title: "134 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1888
 vol_id: 5
-date: 1941-11-29
+doc_date: 1941-11-29
 ---
 
 # 134 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister

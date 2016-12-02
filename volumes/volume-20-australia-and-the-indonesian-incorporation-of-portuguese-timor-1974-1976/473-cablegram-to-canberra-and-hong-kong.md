@@ -3,7 +3,7 @@ title: "473 Cablegram to Canberra and Hong Kong"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8311
 vol_id: 20
-date: 1976-06-25
+doc_date: 1976-06-25
 ---
 
 # 473 Cablegram to Canberra and Hong Kong

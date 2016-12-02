@@ -3,7 +3,7 @@ title: "44 Department of External Affairs to Makin"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3556
 vol_id: 9
-date: 1946-01-23
+doc_date: 1946-01-23
 ---
 
 # 44 Department of External Affairs to Makin

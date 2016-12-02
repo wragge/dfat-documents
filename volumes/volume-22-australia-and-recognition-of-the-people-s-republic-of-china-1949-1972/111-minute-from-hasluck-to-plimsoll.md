@@ -3,7 +3,7 @@ title: "111 MINUTE FROM HASLUCK TO PLIMSOLL"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8594
 vol_id: 22
-date: 1965-06-10
+doc_date: 1965-06-10
 ---
 
 # 111 MINUTE FROM HASLUCK TO PLIMSOLL

@@ -3,7 +3,7 @@ title: "316 Cabinet Minute"
 volume: "Volume 2: 1939"
 doc_id: 653
 vol_id: 2
-date: 1939-10-31
+doc_date: 1939-10-31
 ---
 
 # 316 Cabinet Minute

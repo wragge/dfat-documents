@@ -3,7 +3,7 @@ title: "85 Letter from Tange to Hasluck"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10459
 vol_id: 28
-date: 1967-02-17
+doc_date: 1967-02-17
 barcode: 1730506
 ---
 

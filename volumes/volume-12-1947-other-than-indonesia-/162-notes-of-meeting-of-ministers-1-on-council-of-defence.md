@@ -3,7 +3,7 @@ title: "162 Notes of Meeting of Ministers [1] on Council of Defence"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4844
 vol_id: 12
-date: 1947-03-06
+doc_date: 1947-03-06
 ---
 
 # 162 Notes of Meeting of Ministers [1] on Council of Defence

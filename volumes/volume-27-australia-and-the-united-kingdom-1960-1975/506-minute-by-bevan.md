@@ -3,7 +3,7 @@ title: "506 MINUTE BY BEVAN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10373
 vol_id: 27
-date: 1975-11-18
+doc_date: 1975-11-18
 ---
 
 # 506 MINUTE BY BEVAN

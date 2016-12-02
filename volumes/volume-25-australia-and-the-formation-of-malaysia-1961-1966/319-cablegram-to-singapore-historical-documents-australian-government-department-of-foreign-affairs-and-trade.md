@@ -3,7 +3,7 @@ title: "319 Cablegram to Singapore - Historical Documents - Australian Governmen
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9449
 vol_id: 25
-date: 1965-08-23
+doc_date: 1965-08-23
 barcode: 1726025
 ---
 

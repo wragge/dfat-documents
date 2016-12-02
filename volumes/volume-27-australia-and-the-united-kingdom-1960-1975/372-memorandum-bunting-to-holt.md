@@ -3,7 +3,7 @@ title: "372 MEMORANDUM, BUNTING TO HOLT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10238
 vol_id: 27
-date: 1967-09-27
+doc_date: 1967-09-27
 ---
 
 # 372 MEMORANDUM, BUNTING TO HOLT

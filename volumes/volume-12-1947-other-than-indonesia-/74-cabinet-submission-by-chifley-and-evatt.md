@@ -3,7 +3,7 @@ title: "74 Cabinet Submission by Chifley and Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4756
 vol_id: 12
-date: 1947-04-09
+doc_date: 1947-04-09
 ---
 
 # 74 Cabinet Submission by Chifley and Evatt

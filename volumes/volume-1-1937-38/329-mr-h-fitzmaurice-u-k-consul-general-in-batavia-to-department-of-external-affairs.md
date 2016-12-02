@@ -3,7 +3,7 @@ title: "329 Mr H. Fitzmaurice, U.K. Consul-General in Batavia, to Department of 
 volume: "Volume 1: 1937-38"
 doc_id: 328
 vol_id: 1
-date: 1938-12-07
+doc_date: 1938-12-07
 ---
 
 # 329 Mr H. Fitzmaurice, U.K. Consul-General in Batavia, to Department of External Affairs

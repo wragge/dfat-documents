@@ -3,7 +3,7 @@ title: "92 Legation in Washington to Department of External Affairs"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2383
 vol_id: 6
-date: 1942-12-22
+doc_date: 1942-12-22
 ---
 
 # 92 Legation in Washington to Department of External Affairs

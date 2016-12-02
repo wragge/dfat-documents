@@ -3,7 +3,7 @@ title: "14 Department of External Affairs to Legation in Washington"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3862
 vol_id: 10
-date: 1946-07-09
+doc_date: 1946-07-09
 ---
 
 # 14 Department of External Affairs to Legation in Washington

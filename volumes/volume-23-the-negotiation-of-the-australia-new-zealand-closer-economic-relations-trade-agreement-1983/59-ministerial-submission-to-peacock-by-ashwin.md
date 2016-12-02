@@ -3,7 +3,7 @@ title: "59 Ministerial Submission to Peacock by Ashwin"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8929
 vol_id: 23
-date: 1980-02-05
+doc_date: 1980-02-05
 ---
 
 # 59 Ministerial Submission to Peacock by Ashwin

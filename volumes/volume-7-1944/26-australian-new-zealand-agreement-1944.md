@@ -3,7 +3,7 @@ title: "26 Australian - New Zealand Agreement 1944"
 volume: "Volume 7: 1944"
 doc_id: 2673
 vol_id: 7
-date: 1944-01-21
+doc_date: 1944-01-21
 ---
 
 # 26 Australian - New Zealand Agreement 1944

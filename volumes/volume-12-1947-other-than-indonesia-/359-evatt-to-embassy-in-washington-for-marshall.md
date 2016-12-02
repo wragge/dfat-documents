@@ -3,7 +3,7 @@ title: "359 Evatt to Embassy in Washington for Marshall"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5041
 vol_id: 12
-date: 1947-08-31
+doc_date: 1947-08-31
 ---
 
 # 359 Evatt to Embassy in Washington for Marshall

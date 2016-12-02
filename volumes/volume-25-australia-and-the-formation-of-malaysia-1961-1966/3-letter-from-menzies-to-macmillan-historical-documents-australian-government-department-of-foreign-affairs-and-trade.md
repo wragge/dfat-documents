@@ -3,7 +3,7 @@ title: "3 Letter from Menzies to Macmillan - Historical Documents - Australian G
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9137
 vol_id: 25
-date: 1961-10-18
+doc_date: 1961-10-18
 barcode: 1343637
 ---
 

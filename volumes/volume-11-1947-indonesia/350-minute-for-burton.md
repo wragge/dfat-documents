@@ -3,7 +3,7 @@ title: "350 Minute for Burton"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4534
 vol_id: 11
-date: 1947-09-25
+doc_date: 1947-09-25
 ---
 
 # 350 Minute for Burton

@@ -3,7 +3,7 @@ title: "303 Record of Conversation Between Feakes, Joseph, Curtin and Horta"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8141
 vol_id: 20
-date: 1975-10-28
+doc_date: 1975-10-28
 ---
 
 # 303 Record of Conversation Between Feakes, Joseph, Curtin and Horta

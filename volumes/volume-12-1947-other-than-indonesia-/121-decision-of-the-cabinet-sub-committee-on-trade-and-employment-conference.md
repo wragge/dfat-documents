@@ -3,7 +3,7 @@ title: "121 Decision of the Cabinet Sub-Committee on Trade and Employment Confer
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4803
 vol_id: 12
-date: 1947-07-14
+doc_date: 1947-07-14
 ---
 
 # 121 Decision of the Cabinet Sub-Committee on Trade and Employment Conference

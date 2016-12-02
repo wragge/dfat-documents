@@ -3,7 +3,7 @@ title: "109 Memorandum from Henderson to Street"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8979
 vol_id: 23
-date: 1980-11-19
+doc_date: 1980-11-19
 ---
 
 # 109 Memorandum from Henderson to Street

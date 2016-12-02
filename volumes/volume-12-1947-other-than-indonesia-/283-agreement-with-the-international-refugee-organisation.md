@@ -3,7 +3,7 @@ title: "283 Agreement with the International Refugee Organisation"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4965
 vol_id: 12
-date: 1946-02-16
+doc_date: 1946-02-16
 ---
 
 # 283 Agreement with the International Refugee Organisation

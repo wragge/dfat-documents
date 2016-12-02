@@ -3,7 +3,7 @@ title: "360 Department of Foreign Affairs News Release"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8198
 vol_id: 20
-date: 1975-12-07
+doc_date: 1975-12-07
 ---
 
 # 360 Department of Foreign Affairs News Release

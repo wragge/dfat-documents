@@ -3,7 +3,7 @@ title: "206 Burton to McIntosh"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4888
 vol_id: 12
-date: 1947-06-23
+doc_date: 1947-06-23
 barcode: 553033
 ---
 

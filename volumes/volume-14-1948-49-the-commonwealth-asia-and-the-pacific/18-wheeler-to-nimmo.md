@@ -3,7 +3,7 @@ title: "18 Wheeler to Nimmo"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5794
 vol_id: 14
-date: 1948-05-10
+doc_date: 1948-05-10
 ---
 
 # 18 Wheeler to Nimmo

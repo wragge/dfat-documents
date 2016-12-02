@@ -3,7 +3,7 @@ title: "12 Massey to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5279
 vol_id: 13
-date: 1948-01-10
+doc_date: 1948-01-10
 ---
 
 # 12 Massey to Department of External Affairs

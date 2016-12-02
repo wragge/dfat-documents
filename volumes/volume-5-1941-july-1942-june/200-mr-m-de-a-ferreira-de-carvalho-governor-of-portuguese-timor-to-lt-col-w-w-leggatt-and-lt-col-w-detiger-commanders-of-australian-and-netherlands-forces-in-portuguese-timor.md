@@ -3,7 +3,7 @@ title: "200 Mr M. de A. Ferreira de Carvalho, Governor of Portuguese Timor, to L
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1954
 vol_id: 5
-date: 1941-12-17
+doc_date: 1941-12-17
 barcode: 170185
 ---
 

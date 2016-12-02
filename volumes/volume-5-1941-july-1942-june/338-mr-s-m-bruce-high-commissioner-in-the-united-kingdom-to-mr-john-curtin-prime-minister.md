@@ -3,7 +3,7 @@ title: "338 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2092
 vol_id: 5
-date: 1942-02-17
+doc_date: 1942-02-17
 barcode: 205694
 ---
 

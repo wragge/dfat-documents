@@ -3,7 +3,7 @@ title: "325 Evatt to Addison"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3837
 vol_id: 9
-date: 1946-06-23
+doc_date: 1946-06-23
 barcode: 191470
 ---
 

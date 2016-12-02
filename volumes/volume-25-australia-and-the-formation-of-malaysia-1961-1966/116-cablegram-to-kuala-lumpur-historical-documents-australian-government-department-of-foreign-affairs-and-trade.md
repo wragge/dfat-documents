@@ -3,7 +3,7 @@ title: "116 Cablegram to Kuala Lumpur - Historical Documents - Australian Govern
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9247
 vol_id: 25
-date: 1963-09-21
+doc_date: 1963-09-21
 barcode: 1505556
 ---
 

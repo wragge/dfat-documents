@@ -3,7 +3,7 @@ title: "467 MINUTE BRIDGES TO HEATH"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10334
 vol_id: 27
-date: 1973-06-15
+doc_date: 1973-06-15
 ---
 
 # 467 MINUTE BRIDGES TO HEATH

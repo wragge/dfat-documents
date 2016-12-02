@@ -3,7 +3,7 @@ title: "154 Report on Conference of Non-Nuclear-Weapon States"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10528
 vol_id: 28
-date: 1968-09-28
+doc_date: 1968-09-28
 barcode: 1725941
 ---
 

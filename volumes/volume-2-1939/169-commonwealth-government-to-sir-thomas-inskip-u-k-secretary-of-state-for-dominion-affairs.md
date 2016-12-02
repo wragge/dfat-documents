@@ -3,7 +3,7 @@ title: "169 Commonwealth Government to Sir Thomas Inskip, U.K. Secretary of Stat
 volume: "Volume 2: 1939"
 doc_id: 506
 vol_id: 2
-date: 1939-08-30
+doc_date: 1939-08-30
 ---
 
 # 169 Commonwealth Government to Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs

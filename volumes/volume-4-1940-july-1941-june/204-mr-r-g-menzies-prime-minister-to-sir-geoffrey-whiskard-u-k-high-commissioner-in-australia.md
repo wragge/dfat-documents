@@ -3,7 +3,7 @@ title: "204 Mr R. G. Menzies, Prime Minister, to Sir Geoffrey Whiskard, U.K. Hig
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1435
 vol_id: 4
-date: 1940-11-22
+doc_date: 1940-11-22
 ---
 
 # 204 Mr R. G. Menzies, Prime Minister, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia

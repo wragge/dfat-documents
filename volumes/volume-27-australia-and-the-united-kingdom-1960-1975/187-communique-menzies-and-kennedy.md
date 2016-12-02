@@ -3,7 +3,7 @@ title: "187 COMMUNIQUE, MENZIES AND KENNEDY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10052
 vol_id: 27
-date: 1962-06-20
+doc_date: 1962-06-20
 ---
 
 # 187 COMMUNIQUE, MENZIES AND KENNEDY

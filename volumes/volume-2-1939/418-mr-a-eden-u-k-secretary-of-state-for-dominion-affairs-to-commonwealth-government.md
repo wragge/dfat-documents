@@ -3,7 +3,7 @@ title: "418 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonw
 volume: "Volume 2: 1939"
 doc_id: 755
 vol_id: 2
-date: 1939-12-14
+doc_date: 1939-12-14
 ---
 
 # 418 Mr A. Eden, U.K. Secretary of State for Dominion Affairs, to Commonwealth Government

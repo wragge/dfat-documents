@@ -3,7 +3,7 @@ title: "238 Department of External Affairs to Stirling"
 volume: "Volume 7: 1944"
 doc_id: 2885
 vol_id: 7
-date: 1944-07-26
+doc_date: 1944-07-26
 ---
 
 # 238 Department of External Affairs to Stirling

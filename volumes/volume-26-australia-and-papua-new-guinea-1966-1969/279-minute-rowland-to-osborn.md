@@ -3,7 +3,7 @@ title: "279 Minute, Rowland To Osborn"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9787
 vol_id: 26
-date: 1969-06-04
+doc_date: 1969-06-04
 ---
 
 # 279 Minute, Rowland To Osborn

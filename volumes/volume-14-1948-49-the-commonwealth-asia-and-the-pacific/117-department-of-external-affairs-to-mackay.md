@@ -3,7 +3,7 @@ title: "117 Department of External Affairs to Mackay"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5893
 vol_id: 14
-date: 1948-02-13
+doc_date: 1948-02-13
 barcode: 735282
 ---
 

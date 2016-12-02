@@ -3,7 +3,7 @@ title: "238 Mr John Curtin, Prime Minister, to Mr R. G. Casey, Minister to the U
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1992
 vol_id: 5
-date: 1941-12-30
+doc_date: 1941-12-30
 barcode: 206127
 ---
 

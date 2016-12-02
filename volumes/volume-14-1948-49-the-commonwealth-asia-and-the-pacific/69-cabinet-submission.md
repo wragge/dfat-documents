@@ -3,7 +3,7 @@ title: "69 Cabinet Submission"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5845
 vol_id: 14
-date: 1949-04-07
+doc_date: 1949-04-07
 ---
 
 # 69 Cabinet Submission

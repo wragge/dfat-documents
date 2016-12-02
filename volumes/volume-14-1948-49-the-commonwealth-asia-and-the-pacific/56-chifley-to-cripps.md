@@ -3,7 +3,7 @@ title: "56 Chifley to Cripps"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5832
 vol_id: 14
-date: 1949-11-04
+doc_date: 1949-11-04
 ---
 
 # 56 Chifley to Cripps

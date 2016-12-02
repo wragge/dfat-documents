@@ -3,7 +3,7 @@ title: "469 Teppema to Evatt"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6638
 vol_id: 15
-date: 1949-08-11
+doc_date: 1949-08-11
 ---
 
 # 469 Teppema to Evatt

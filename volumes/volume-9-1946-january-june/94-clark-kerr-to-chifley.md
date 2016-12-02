@@ -3,7 +3,7 @@ title: "94 Clark Kerr to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3606
 vol_id: 9
-date: 1946-02-17
+doc_date: 1946-02-17
 ---
 
 # 94 Clark Kerr to Chifley

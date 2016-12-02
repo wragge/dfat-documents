@@ -3,7 +3,7 @@ title: "328 Savingram, Dea To All Posts"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9837
 vol_id: 26
-date: 1969-11-04
+doc_date: 1969-11-04
 barcode: 1370828
 ---
 

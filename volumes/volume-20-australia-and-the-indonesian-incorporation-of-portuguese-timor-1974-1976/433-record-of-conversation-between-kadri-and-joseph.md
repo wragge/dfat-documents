@@ -3,7 +3,7 @@ title: "433 Record of Conversation Between Kadri and Joseph"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8271
 vol_id: 20
-date: 1976-03-17
+doc_date: 1976-03-17
 ---
 
 # 433 Record of Conversation Between Kadri and Joseph

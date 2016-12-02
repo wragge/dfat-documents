@@ -3,7 +3,7 @@ title: "220 Letter From Menzies To Home [1]"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7825
 vol_id: 19
-date: 1957-07-04
+doc_date: 1957-07-04
 ---
 
 # 220 Letter From Menzies To Home [1]

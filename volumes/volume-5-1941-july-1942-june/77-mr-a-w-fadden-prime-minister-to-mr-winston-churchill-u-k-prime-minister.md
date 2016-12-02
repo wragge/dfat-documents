@@ -3,7 +3,7 @@ title: "77 Mr A. W. Fadden, Prime Minister, to Mr Winston Churchill, U.K. Prime 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1831
 vol_id: 5
-date: 1941-10-04
+doc_date: 1941-10-04
 ---
 
 # 77 Mr A. W. Fadden, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister

@@ -3,7 +3,7 @@ title: "40 REPORT BY DEFENCE COMMITTEE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9906
 vol_id: 27
-date: 1965-10-18
+doc_date: 1965-10-18
 ---
 
 # 40 REPORT BY DEFENCE COMMITTEE

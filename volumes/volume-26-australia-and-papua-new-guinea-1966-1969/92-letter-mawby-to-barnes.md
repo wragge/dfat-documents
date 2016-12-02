@@ -3,7 +3,7 @@ title: "92 Letter, Mawby To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9600
 vol_id: 26
-date: 1967-02-24
+doc_date: 1967-02-24
 ---
 
 # 92 Letter, Mawby To Barnes

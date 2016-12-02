@@ -3,7 +3,7 @@ title: "166 Chifley to Williams"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4848
 vol_id: 12
-date: 1947-01-06
+doc_date: 1947-01-06
 ---
 
 # 166 Chifley to Williams

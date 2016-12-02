@@ -3,7 +3,7 @@ title: "500 RECORD BY HARDERS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10367
 vol_id: 27
-date: 1975-01-03
+doc_date: 1975-01-03
 ---
 
 # 500 RECORD BY HARDERS

@@ -3,7 +3,7 @@ title: "309 South East Asia Command to Commonwealth Government"
 volume: "Volume 8: 1945"
 doc_id: 3340
 vol_id: 8
-date: 1945-10-14
+doc_date: 1945-10-14
 ---
 
 # 309 South East Asia Command to Commonwealth Government

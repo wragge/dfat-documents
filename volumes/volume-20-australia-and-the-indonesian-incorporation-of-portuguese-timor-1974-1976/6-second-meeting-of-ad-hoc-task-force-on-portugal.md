@@ -3,7 +3,7 @@ title: "6 Second Meeting of Ad Hoc Task Force on Portugal"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7845
 vol_id: 20
-date: 1974-05-17
+doc_date: 1974-05-17
 ---
 
 # 6 Second Meeting of Ad Hoc Task Force on Portugal

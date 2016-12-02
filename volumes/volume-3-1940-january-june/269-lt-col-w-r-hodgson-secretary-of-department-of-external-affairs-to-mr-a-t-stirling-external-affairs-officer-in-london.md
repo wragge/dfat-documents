@@ -3,7 +3,7 @@ title: "269 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, t
 volume: "Volume 3: 1940, January-June"
 doc_id: 1035
 vol_id: 3
-date: 1940-05-24
+doc_date: 1940-05-24
 ---
 
 # 269 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr A. T. Stirling, External Affairs Officer in London

@@ -3,7 +3,7 @@ title: "60 Note by Mackay of interview with Nehru"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5836
 vol_id: 14
-date: 1948-05-24
+doc_date: 1948-05-24
 ---
 
 # 60 Note by Mackay of interview with Nehru

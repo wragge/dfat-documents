@@ -3,7 +3,7 @@ title: "234 BRIEF BY COMMONWEALTH OFFICE FOR HOLT VISIT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10099
 vol_id: 27
-date: 1967-06-12
+doc_date: 1967-06-12
 ---
 
 # 234 BRIEF BY COMMONWEALTH OFFICE FOR HOLT VISIT

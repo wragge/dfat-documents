@@ -3,7 +3,7 @@ title: "134 Chiefs of Staff Committee Minute 11/1946"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3646
 vol_id: 9
-date: 1946-03-20
+doc_date: 1946-03-20
 ---
 
 # 134 Chiefs of Staff Committee Minute 11/1946

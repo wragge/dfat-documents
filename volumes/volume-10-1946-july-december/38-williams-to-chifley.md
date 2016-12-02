@@ -3,7 +3,7 @@ title: "38 Williams to Chifley"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3886
 vol_id: 10
-date: 1946-07-27
+doc_date: 1946-07-27
 barcode: 193348
 ---
 

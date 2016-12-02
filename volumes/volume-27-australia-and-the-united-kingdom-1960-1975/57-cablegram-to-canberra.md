@@ -3,7 +3,7 @@ title: "57 CABLEGRAM TO CANBERRA"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9922
 vol_id: 27
-date: 1966-06-01
+doc_date: 1966-06-01
 ---
 
 # 57 CABLEGRAM TO CANBERRA

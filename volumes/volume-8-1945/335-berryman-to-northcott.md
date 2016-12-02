@@ -3,7 +3,7 @@ title: "335 Berryman to Northcott"
 volume: "Volume 8: 1945"
 doc_id: 3366
 vol_id: 8
-date: 1945-10-23
+doc_date: 1945-10-23
 ---
 
 # 335 Berryman to Northcott

@@ -3,7 +3,7 @@ title: "19 Letter, Espie To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9528
 vol_id: 26
-date: 1966-02-25
+doc_date: 1966-02-25
 barcode: 12030514
 ---
 

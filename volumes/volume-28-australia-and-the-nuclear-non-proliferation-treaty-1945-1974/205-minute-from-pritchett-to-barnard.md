@@ -3,7 +3,7 @@ title: "205 Minute from Pritchett to Barnard"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10579
 vol_id: 28
-date: 1974-10-09
+doc_date: 1974-10-09
 barcode: 546373
 ---
 

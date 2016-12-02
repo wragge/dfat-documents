@@ -3,7 +3,7 @@ title: "79 Dixon to Department of External Affairs"
 volume: "Volume 7: 1944"
 doc_id: 2726
 vol_id: 7
-date: 1944-03-14
+doc_date: 1944-03-14
 ---
 
 # 79 Dixon to Department of External Affairs

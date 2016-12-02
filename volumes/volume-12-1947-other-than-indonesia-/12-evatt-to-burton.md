@@ -3,7 +3,7 @@ title: "12 Evatt to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4694
 vol_id: 12
-date: 1947-10-26
+doc_date: 1947-10-26
 ---
 
 # 12 Evatt to Burton

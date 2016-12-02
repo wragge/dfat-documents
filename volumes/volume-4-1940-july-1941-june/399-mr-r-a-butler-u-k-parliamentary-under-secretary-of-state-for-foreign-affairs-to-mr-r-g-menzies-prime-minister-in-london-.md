@@ -3,7 +3,7 @@ title: "399 Mr R. A. Butler, U.K. Parliamentary Under-Secretary of State for For
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1630
 vol_id: 4
-date: 1941-04-11
+doc_date: 1941-04-11
 ---
 
 # 399 Mr R. A. Butler, U.K. Parliamentary Under-Secretary of State for Foreign Affairs, to Mr R. G. Menzies, Prime Minister (in London)

@@ -3,7 +3,7 @@ title: "341 Mr R. G. Casey, Minister to the United States, to Mr J. McEwen, Mini
 volume: "Volume 3: 1940, January-June"
 doc_id: 1107
 vol_id: 3
-date: 1940-06-05
+doc_date: 1940-06-05
 ---
 
 # 341 Mr R. G. Casey, Minister to the United States, to Mr J. McEwen, Minister for External Affairs

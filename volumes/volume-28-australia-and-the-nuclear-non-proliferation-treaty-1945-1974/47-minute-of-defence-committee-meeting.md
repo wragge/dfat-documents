@@ -3,7 +3,7 @@ title: "47 Minute of Defence Committee Meeting"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10421
 vol_id: 28
-date: 1960-04-29
+doc_date: 1960-04-29
 barcode: 3043191
 ---
 

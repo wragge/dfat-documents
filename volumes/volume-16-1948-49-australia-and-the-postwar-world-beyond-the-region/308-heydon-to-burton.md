@@ -3,7 +3,7 @@ title: "308 Heydon to Burton"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7023
 vol_id: 16
-date: 1948-11-15
+doc_date: 1948-11-15
 barcode: 471018
 ---
 

@@ -3,7 +3,7 @@ title: "144 Department of External Affairs to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3656
 vol_id: 9
-date: 1946-03-27
+doc_date: 1946-03-27
 ---
 
 # 144 Department of External Affairs to Evatt

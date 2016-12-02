@@ -3,7 +3,7 @@ title: "18 Department of External Affairs to Gordon Walker"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6733
 vol_id: 16
-date: 1948-03-11
+doc_date: 1948-03-11
 ---
 
 # 18 Department of External Affairs to Gordon Walker

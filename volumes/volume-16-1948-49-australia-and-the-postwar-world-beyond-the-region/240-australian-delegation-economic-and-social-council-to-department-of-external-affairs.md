@@ -3,7 +3,7 @@ title: "240 Australian Delegation, Economic and Social Council, to Department of
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6955
 vol_id: 16
-date: 1949-08-09
+doc_date: 1949-08-09
 ---
 
 # 240 Australian Delegation, Economic and Social Council, to Department of External Affairs

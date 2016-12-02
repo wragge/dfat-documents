@@ -3,7 +3,7 @@ title: "103 Tange to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4785
 vol_id: 12
-date: 1947-05-17
+doc_date: 1947-05-17
 ---
 
 # 103 Tange to Burton

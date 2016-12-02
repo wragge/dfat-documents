@@ -3,7 +3,7 @@ title: "4 Department of External Affairs to Kirby Cablegram 114 CANBERRA, 3 Janu
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5271
 vol_id: 13
-date: 1947-12-31
+doc_date: 1947-12-31
 ---
 
 # 4 Department of External Affairs to Kirby Cablegram 114 CANBERRA, 3 January 1948

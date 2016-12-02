@@ -3,7 +3,7 @@ title: "151 Coombs to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4833
 vol_id: 12
-date: 1947-02-11
+doc_date: 1947-02-11
 barcode: 523895
 ---
 

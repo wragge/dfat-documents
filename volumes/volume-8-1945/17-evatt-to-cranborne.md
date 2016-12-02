@@ -3,7 +3,7 @@ title: "17 Evatt to Cranborne"
 volume: "Volume 8: 1945"
 doc_id: 3048
 vol_id: 8
-date: 1945-01-31
+doc_date: 1945-01-31
 barcode: 1886556
 ---
 

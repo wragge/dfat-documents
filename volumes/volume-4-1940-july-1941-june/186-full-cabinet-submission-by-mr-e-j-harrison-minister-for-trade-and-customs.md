@@ -3,7 +3,7 @@ title: "186 Full Cabinet Submission by Mr E. J. Harrison, Minister for Trade and
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1417
 vol_id: 4
-date: 1940-11-01
+doc_date: 1940-11-01
 ---
 
 # 186 Full Cabinet Submission by Mr E. J. Harrison, Minister for Trade and Customs

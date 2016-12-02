@@ -3,7 +3,7 @@ title: "304 MINUTE FROM SHANN TO ANDERSON"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8788
 vol_id: 22
-date: 1972-02-29
+doc_date: 1972-02-29
 barcode: 1730901
 ---
 

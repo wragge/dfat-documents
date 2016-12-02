@@ -3,7 +3,7 @@ title: "454 Addison to Australian Government"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5136
 vol_id: 12
-date: 1947-02-25
+doc_date: 1947-02-25
 ---
 
 # 454 Addison to Australian Government

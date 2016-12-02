@@ -3,7 +3,7 @@ title: "95 Evatt to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3126
 vol_id: 8
-date: 1945-05-28
+doc_date: 1945-05-28
 barcode: 1886556
 ---
 

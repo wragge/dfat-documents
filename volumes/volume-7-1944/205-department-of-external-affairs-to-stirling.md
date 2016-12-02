@@ -3,7 +3,7 @@ title: "205 Department of External Affairs to Stirling"
 volume: "Volume 7: 1944"
 doc_id: 2852
 vol_id: 7
-date: 1944-06-27
+doc_date: 1944-06-27
 ---
 
 # 205 Department of External Affairs to Stirling

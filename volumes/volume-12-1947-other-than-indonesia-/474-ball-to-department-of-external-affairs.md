@@ -3,7 +3,7 @@ title: "474 Ball to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5156
 vol_id: 12
-date: 1947-03-25
+doc_date: 1947-03-25
 barcode: 446699
 ---
 

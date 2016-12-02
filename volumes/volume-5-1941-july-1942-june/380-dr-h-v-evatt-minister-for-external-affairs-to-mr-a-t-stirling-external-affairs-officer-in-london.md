@@ -3,7 +3,7 @@ title: "380 Dr H. V. Evatt, Minister for External Affairs, to Mr A. T. Stirling,
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2134
 vol_id: 5
-date: 1942-02-27
+doc_date: 1942-02-27
 barcode: 238607
 ---
 

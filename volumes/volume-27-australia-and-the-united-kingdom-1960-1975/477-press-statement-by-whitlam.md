@@ -3,7 +3,7 @@ title: "477 PRESS STATEMENT BY WHITLAM"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10344
 vol_id: 27
-date: 1974-04-18
+doc_date: 1974-04-18
 ---
 
 # 477 PRESS STATEMENT BY WHITLAM

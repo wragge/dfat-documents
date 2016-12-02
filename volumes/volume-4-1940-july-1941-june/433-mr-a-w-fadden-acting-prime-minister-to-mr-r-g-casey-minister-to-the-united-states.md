@@ -3,7 +3,7 @@ title: "433 Mr A. W. Fadden, Acting Prime Minister, to Mr R. G. Casey, Minister 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1664
 vol_id: 4
-date: 1941-04-26
+doc_date: 1941-04-26
 barcode: 235646
 ---
 

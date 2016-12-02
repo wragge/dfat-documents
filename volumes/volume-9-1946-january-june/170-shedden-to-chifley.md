@@ -3,7 +3,7 @@ title: "170 Shedden to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3682
 vol_id: 9
-date: 1946-04-05
+doc_date: 1946-04-05
 ---
 
 # 170 Shedden to Chifley

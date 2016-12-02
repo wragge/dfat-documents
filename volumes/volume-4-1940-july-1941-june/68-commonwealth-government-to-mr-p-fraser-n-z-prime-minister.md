@@ -3,7 +3,7 @@ title: "68 Commonwealth Government to Mr P. Fraser, N.Z. Prime Minister"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1299
 vol_id: 4
-date: 1940-08-12
+doc_date: 1940-08-12
 ---
 
 # 68 Commonwealth Government to Mr P. Fraser, N.Z. Prime Minister

@@ -3,7 +3,7 @@ title: "30 Note by Bruce"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2321
 vol_id: 6
-date: 1942-08-28
+doc_date: 1942-08-28
 barcode: 242447
 ---
 

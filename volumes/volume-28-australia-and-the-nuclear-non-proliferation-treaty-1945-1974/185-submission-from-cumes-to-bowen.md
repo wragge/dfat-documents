@@ -3,7 +3,7 @@ title: "185 Submission from Cumes to Bowen"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10559
 vol_id: 28
-date: 1972-04-20
+doc_date: 1972-04-20
 barcode: 1373495
 ---
 

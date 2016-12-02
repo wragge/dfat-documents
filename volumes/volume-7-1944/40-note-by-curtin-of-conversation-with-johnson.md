@@ -3,7 +3,7 @@ title: "40 Note by Curtin of Conversation with Johnson"
 volume: "Volume 7: 1944"
 doc_id: 2687
 vol_id: 7
-date: 1944-02-03
+doc_date: 1944-02-03
 barcode: 206135
 ---
 

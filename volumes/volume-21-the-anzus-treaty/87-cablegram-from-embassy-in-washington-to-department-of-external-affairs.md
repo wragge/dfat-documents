@@ -3,7 +3,7 @@ title: "87 Cablegram From Embassy in Washington to Department of External Affair
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8438
 vol_id: 21
-date: 1951-05-07
+doc_date: 1951-05-07
 barcode: 4185374
 ---
 

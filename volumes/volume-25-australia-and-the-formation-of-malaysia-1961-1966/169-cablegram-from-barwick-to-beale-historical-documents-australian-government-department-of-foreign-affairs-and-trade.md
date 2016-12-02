@@ -3,7 +3,7 @@ title: "169 Cablegram from Barwick to Beale - Historical Documents - Australian 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9299
 vol_id: 25
-date: 1964-03-06
+doc_date: 1964-03-06
 ---
 
 # 169 Cablegram from Barwick to Beale - Historical Documents - Australian Government Department of Foreign Affairs and Trade

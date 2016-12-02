@@ -3,7 +3,7 @@ title: "106 Report of Conversation between Auge and Watt, Forsyth and Pyman"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3954
 vol_id: 10
-date: 1946-09-06
+doc_date: 1946-09-06
 ---
 
 # 106 Report of Conversation between Auge and Watt, Forsyth and Pyman

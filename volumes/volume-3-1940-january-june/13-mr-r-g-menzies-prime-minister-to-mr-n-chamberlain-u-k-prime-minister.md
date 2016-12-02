@@ -3,7 +3,7 @@ title: "13 Mr R. G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Mi
 volume: "Volume 3: 1940, January-June"
 doc_id: 779
 vol_id: 3
-date: 1940-01-12
+doc_date: 1940-01-12
 ---
 
 # 13 Mr R. G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister

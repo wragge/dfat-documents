@@ -3,7 +3,7 @@ title: "208 Letter from Fraser to Anthony"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9077
 vol_id: 23
-date: 1982-09-17
+doc_date: 1982-09-17
 ---
 
 # 208 Letter from Fraser to Anthony

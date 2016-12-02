@@ -3,7 +3,7 @@ title: "349 Dunk to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3380
 vol_id: 8
-date: 1945-10-28
+doc_date: 1945-10-28
 barcode: 187582
 ---
 

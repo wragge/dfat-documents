@@ -3,7 +3,7 @@ title: "363 Note by Mr S.M. Bruce, High Commissioner in London, of Meeting on 16
 volume: "Volume 2: 1939"
 doc_id: 700
 vol_id: 2
-date: 1939-11-06
+doc_date: 1939-11-06
 barcode: 242414
 ---
 

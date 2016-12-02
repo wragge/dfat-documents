@@ -3,7 +3,7 @@ title: "153 Note by Bruce of Conversation with Bevin"
 volume: "Volume 8: 1945"
 doc_id: 3184
 vol_id: 8
-date: 1945-08-03
+doc_date: 1945-08-03
 barcode: 242483
 ---
 

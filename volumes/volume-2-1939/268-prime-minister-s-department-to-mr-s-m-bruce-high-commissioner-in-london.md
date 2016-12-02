@@ -3,7 +3,7 @@ title: "268 Prime Minister's Department to Mr S.M. Bruce, High Commissioner in L
 volume: "Volume 2: 1939"
 doc_id: 605
 vol_id: 2
-date: 1939-10-07
+doc_date: 1939-10-07
 ---
 
 # 268 Prime Minister's Department to Mr S.M. Bruce, High Commissioner in London

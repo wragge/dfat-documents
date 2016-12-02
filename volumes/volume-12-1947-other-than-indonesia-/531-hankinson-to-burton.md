@@ -3,7 +3,7 @@ title: "531 Hankinson to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5213
 vol_id: 12
-date: 1947-10-15
+doc_date: 1947-10-15
 barcode: 197298
 ---
 

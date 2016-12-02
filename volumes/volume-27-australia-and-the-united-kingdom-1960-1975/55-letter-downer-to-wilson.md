@@ -3,7 +3,7 @@ title: "55 LETTER, DOWNER TO WILSON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9920
 vol_id: 27
-date: 1966-02-25
+doc_date: 1966-02-25
 ---
 
 # 55 LETTER, DOWNER TO WILSON

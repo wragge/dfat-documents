@@ -3,7 +3,7 @@ title: "166 Cablegram From Stuart To Department Of Trade"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7771
 vol_id: 19
-date: 1956-11-05
+doc_date: 1956-11-05
 ---
 
 # 166 Cablegram From Stuart To Department Of Trade

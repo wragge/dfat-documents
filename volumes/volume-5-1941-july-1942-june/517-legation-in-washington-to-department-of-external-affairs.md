@@ -3,7 +3,7 @@ title: "517 Legation in Washington to Department of External Affairs"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2271
 vol_id: 5
-date: 1942-06-03
+doc_date: 1942-06-03
 ---
 
 # 517 Legation in Washington to Department of External Affairs

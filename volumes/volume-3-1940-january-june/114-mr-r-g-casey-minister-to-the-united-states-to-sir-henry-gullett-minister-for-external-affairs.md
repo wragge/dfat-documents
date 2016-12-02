@@ -3,7 +3,7 @@ title: "114 Mr R. G. Casey, Minister to the United States, to Sir Henry Gullett,
 volume: "Volume 3: 1940, January-June"
 doc_id: 880
 vol_id: 3
-date: 1940-02-26
+doc_date: 1940-02-26
 ---
 
 # 114 Mr R. G. Casey, Minister to the United States, to Sir Henry Gullett, Minister for External Affairs

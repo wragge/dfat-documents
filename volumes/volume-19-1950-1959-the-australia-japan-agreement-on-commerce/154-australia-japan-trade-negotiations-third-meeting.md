@@ -3,7 +3,7 @@ title: "154 Australia-Japan Trade Negotiations: Third Meeting"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7759
 vol_id: 19
-date: 1956-10-17
+doc_date: 1956-10-17
 ---
 
 # 154 Australia-Japan Trade Negotiations: Third Meeting

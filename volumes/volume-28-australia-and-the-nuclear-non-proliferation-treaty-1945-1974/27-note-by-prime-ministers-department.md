@@ -3,7 +3,7 @@ title: "27 Note by Prime Minister's Department"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10402
 vol_id: 28
-date: 1957-08-21
+doc_date: 1957-08-21
 barcode: 504938
 ---
 

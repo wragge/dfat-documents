@@ -3,7 +3,7 @@ title: "326 Wootton to Dunk"
 volume: "Volume 8: 1945"
 doc_id: 3357
 vol_id: 8
-date: 1945-10-19
+doc_date: 1945-10-19
 barcode: 187953
 ---
 

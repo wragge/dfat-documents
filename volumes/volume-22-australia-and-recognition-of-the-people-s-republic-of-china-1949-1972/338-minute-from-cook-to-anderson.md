@@ -3,7 +3,7 @@ title: "338 MINUTE FROM COOK TO ANDERSON"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8822
 vol_id: 22
-date: 1972-07-13
+doc_date: 1972-07-13
 ---
 
 # 338 MINUTE FROM COOK TO ANDERSON

@@ -3,7 +3,7 @@ title: "216 Keane to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2863
 vol_id: 7
-date: 1944-07-06
+doc_date: 1944-07-06
 ---
 
 # 216 Keane to Curtin

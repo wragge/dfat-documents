@@ -3,7 +3,7 @@ title: "52 Extract From Casey's Diary"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7657
 vol_id: 19
-date: 1954-02-19
+doc_date: 1954-02-19
 ---
 
 # 52 Extract From Casey's Diary

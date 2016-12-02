@@ -3,7 +3,7 @@ title: "153 Makin to Evatt"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5929
 vol_id: 14
-date: 1949-08-08
+doc_date: 1949-08-08
 ---
 
 # 153 Makin to Evatt

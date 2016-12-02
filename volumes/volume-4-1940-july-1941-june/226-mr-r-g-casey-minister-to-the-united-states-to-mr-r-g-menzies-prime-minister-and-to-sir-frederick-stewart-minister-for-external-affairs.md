@@ -3,7 +3,7 @@ title: "226 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1457
 vol_id: 4
-date: 1940-12-15
+doc_date: 1940-12-15
 barcode: 205710
 ---
 

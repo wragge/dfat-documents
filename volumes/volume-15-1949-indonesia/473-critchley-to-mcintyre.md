@@ -3,7 +3,7 @@ title: "473 Critchley to McIntyre"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6642
 vol_id: 15
-date: 1949-08-18
+doc_date: 1949-08-18
 ---
 
 # 473 Critchley to McIntyre

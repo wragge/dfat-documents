@@ -3,7 +3,7 @@ title: "44 Extract From Broadcast By Menzies"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7649
 vol_id: 19
-date: 1953-09-16
+doc_date: 1953-09-16
 ---
 
 # 44 Extract From Broadcast By Menzies

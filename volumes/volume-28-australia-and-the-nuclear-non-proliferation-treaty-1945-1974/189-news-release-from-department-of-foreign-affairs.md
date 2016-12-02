@@ -3,7 +3,7 @@ title: "189 News Release from Department of Foreign Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10563
 vol_id: 28
-date: 1973-01-23
+doc_date: 1973-01-23
 barcode: 1373499
 ---
 

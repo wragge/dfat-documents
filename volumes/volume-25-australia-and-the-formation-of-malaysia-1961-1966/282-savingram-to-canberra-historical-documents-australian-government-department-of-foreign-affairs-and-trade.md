@@ -3,7 +3,7 @@ title: "282 Savingram to Canberra - Historical Documents - Australian Government
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9412
 vol_id: 25
-date: 1965-07-08
+doc_date: 1965-07-08
 ---
 
 # 282 Savingram to Canberra - Historical Documents - Australian Government Department of Foreign Affairs and Trade

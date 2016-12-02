@@ -3,7 +3,7 @@ title: "412 Lord Lothian, U.K. Ambassador to the United States, to U.K. Foreign 
 volume: "Volume 2: 1939"
 doc_id: 749
 vol_id: 2
-date: 1939-12-08
+doc_date: 1939-12-08
 barcode: 97698
 ---
 

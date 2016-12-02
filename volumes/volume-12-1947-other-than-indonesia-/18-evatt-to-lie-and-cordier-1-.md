@@ -3,7 +3,7 @@ title: "18 Evatt to Lie and Cordier [1]"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4700
 vol_id: 12
-date: 1947-11-27
+doc_date: 1947-11-27
 ---
 
 # 18 Evatt to Lie and Cordier [1]

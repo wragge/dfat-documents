@@ -3,7 +3,7 @@ title: "266 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1497
 vol_id: 4
-date: 1941-02-03
+doc_date: 1941-02-03
 ---
 
 # 266 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Mr A. W. Fadden, Acting Prime Minister

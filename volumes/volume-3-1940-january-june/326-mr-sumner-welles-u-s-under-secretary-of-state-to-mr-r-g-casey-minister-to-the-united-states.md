@@ -3,7 +3,7 @@ title: "326 Mr Sumner Welles, U.S. Under-Secretary of State to Mr R. G. Casey, M
 volume: "Volume 3: 1940, January-June"
 doc_id: 1092
 vol_id: 3
-date: 1940-06-01
+doc_date: 1940-06-01
 barcode: 235518
 ---
 

@@ -3,7 +3,7 @@ title: "153 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1384
 vol_id: 4
-date: 1940-10-02
+doc_date: 1940-10-02
 ---
 
 # 153 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Mr W. S. Churchill, U.K. Prime Minister

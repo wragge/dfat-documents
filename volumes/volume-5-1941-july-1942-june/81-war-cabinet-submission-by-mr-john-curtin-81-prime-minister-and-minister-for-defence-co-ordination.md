@@ -3,7 +3,7 @@ title: "81 War Cabinet Submission by Mr John Curtin, 81 Prime Minister and Minis
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1835
 vol_id: 5
-date: 1941-10-13
+doc_date: 1941-10-13
 barcode: 7593764
 ---
 

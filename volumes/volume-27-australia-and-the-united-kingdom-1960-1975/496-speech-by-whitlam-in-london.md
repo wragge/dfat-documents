@@ -3,7 +3,7 @@ title: "496 SPEECH BY WHITLAM IN LONDON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10363
 vol_id: 27
-date: 1974-12-19
+doc_date: 1974-12-19
 ---
 
 # 496 SPEECH BY WHITLAM IN LONDON

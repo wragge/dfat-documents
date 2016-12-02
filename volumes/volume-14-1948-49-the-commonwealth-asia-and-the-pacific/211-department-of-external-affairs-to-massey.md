@@ -3,7 +3,7 @@ title: "211 Department of External Affairs to Massey"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5987
 vol_id: 14
-date: 1949-06-14
+doc_date: 1949-06-14
 ---
 
 # 211 Department of External Affairs to Massey

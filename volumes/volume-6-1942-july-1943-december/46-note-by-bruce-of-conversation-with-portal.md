@@ -3,7 +3,7 @@ title: "46 Note by Bruce of Conversation with Portal"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2337
 vol_id: 6
-date: 1942-09-14
+doc_date: 1942-09-14
 barcode: 242448
 ---
 

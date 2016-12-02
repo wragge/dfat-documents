@@ -3,7 +3,7 @@ title: "297 LETTER, JAMES TO O’NEILL"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10162
 vol_id: 27
-date: 1971-07-09
+doc_date: 1971-07-09
 ---
 
 # 297 LETTER, JAMES TO O’NEILL

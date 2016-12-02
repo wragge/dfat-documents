@@ -3,7 +3,7 @@ title: "46 Note Verbale From Japanese Foreign Ministry To Embassy In Tokyo"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7651
 vol_id: 19
-date: 1953-11-05
+doc_date: 1953-11-05
 ---
 
 # 46 Note Verbale From Japanese Foreign Ministry To Embassy In Tokyo

@@ -3,7 +3,7 @@ title: "308 Department of External Affairs to Eaton"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4492
 vol_id: 11
-date: 1947-09-01
+doc_date: 1947-09-01
 ---
 
 # 308 Department of External Affairs to Eaton

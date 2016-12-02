@@ -3,7 +3,7 @@ title: "508 LETTER, JAMES TO BEVAN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10375
 vol_id: 27
-date: 1975-12-20
+doc_date: 1975-12-20
 ---
 
 # 508 LETTER, JAMES TO BEVAN

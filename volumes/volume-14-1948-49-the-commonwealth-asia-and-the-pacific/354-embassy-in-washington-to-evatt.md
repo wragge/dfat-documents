@@ -3,7 +3,7 @@ title: "354 Embassy in Washington to Evatt"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6130
 vol_id: 14
-date: 1949-11-09
+doc_date: 1949-11-09
 ---
 
 # 354 Embassy in Washington to Evatt

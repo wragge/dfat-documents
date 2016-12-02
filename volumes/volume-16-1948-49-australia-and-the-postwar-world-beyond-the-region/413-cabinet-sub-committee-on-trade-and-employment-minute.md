@@ -3,7 +3,7 @@ title: "413 Cabinet Sub-Committee on Trade and Employment Minute"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7128
 vol_id: 16
-date: 1948-08-03
+doc_date: 1948-08-03
 barcode: 303040
 ---
 

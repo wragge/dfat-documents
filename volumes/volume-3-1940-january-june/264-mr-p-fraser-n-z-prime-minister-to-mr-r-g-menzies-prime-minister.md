@@ -3,7 +3,7 @@ title: "264 Mr P. Fraser, N.Z. Prime Minister, to Mr R. G. Menzies, Prime Minist
 volume: "Volume 3: 1940, January-June"
 doc_id: 1030
 vol_id: 3
-date: 1940-05-23
+doc_date: 1940-05-23
 ---
 
 # 264 Mr P. Fraser, N.Z. Prime Minister, to Mr R. G. Menzies, Prime Minister

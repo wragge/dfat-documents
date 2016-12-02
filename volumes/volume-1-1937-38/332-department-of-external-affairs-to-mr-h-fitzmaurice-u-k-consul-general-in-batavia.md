@@ -3,7 +3,7 @@ title: "332 Department of External Affairs to Mr H. Fitzmaurice, U.K. Consul-Gen
 volume: "Volume 1: 1937-38"
 doc_id: 331
 vol_id: 1
-date: 1938-12-08
+doc_date: 1938-12-08
 ---
 
 # 332 Department of External Affairs to Mr H. Fitzmaurice, U.K. Consul-General in Batavia

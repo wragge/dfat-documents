@@ -3,7 +3,7 @@ title: "393 Embassy in Washington to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5075
 vol_id: 12
-date: 1947-11-14
+doc_date: 1947-11-14
 barcode: 11210094
 ---
 

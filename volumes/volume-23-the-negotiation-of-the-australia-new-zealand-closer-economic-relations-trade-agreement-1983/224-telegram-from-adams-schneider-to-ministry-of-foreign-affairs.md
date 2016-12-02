@@ -3,7 +3,7 @@ title: "224 Telegram from Adams-Schneider to Ministry of Foreign Affairs"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9093
 vol_id: 23
-date: 1981-06-03
+doc_date: 1981-06-03
 ---
 
 # 224 Telegram from Adams-Schneider to Ministry of Foreign Affairs

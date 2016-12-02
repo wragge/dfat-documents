@@ -3,7 +3,7 @@ title: "76 CABINET DECISION NO. 403"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9941
 vol_id: 27
-date: 1967-07-04
+doc_date: 1967-07-04
 ---
 
 # 76 CABINET DECISION NO. 403

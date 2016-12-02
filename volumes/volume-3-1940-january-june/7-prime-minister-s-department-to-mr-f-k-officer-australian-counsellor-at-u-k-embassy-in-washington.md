@@ -3,7 +3,7 @@ title: "7 Prime Minister's Department to Mr F. K. Officer, Australian Counsellor
 volume: "Volume 3: 1940, January-June"
 doc_id: 773
 vol_id: 3
-date: 1940-01-08
+doc_date: 1940-01-08
 ---
 
 # 7 Prime Minister's Department to Mr F. K. Officer, Australian Counsellor at U.K. Embassy in Washington

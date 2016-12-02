@@ -3,7 +3,7 @@ title: "218 Dedman to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4900
 vol_id: 12
-date: 1947-11-12
+doc_date: 1947-11-12
 ---
 
 # 218 Dedman to Chifley

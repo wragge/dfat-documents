@@ -3,7 +3,7 @@ title: "33 Memorandum prepared by Delegation to Imperial Conference [1]"
 volume: "Volume 1: 1937-38"
 doc_id: 33
 vol_id: 1
-date: 1937-05-28
+doc_date: 1937-05-28
 ---
 
 # 33 Memorandum prepared by Delegation to Imperial Conference [1]

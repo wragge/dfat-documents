@@ -3,7 +3,7 @@ title: "60 Record Of Conversation In Department Of External Affairs"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7665
 vol_id: 19
-date: 1954-04-05
+doc_date: 1954-04-05
 ---
 
 # 60 Record Of Conversation In Department Of External Affairs

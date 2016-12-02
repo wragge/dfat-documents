@@ -3,7 +3,7 @@ title: "150 Minute, Swift To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9658
 vol_id: 26
-date: 1967-12-12
+doc_date: 1967-12-12
 barcode: 31698758
 ---
 

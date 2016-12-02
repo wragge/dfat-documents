@@ -3,7 +3,7 @@ title: "410 Quinn to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6579
 vol_id: 15
-date: 1949-05-19
+doc_date: 1949-05-19
 barcode: 644752
 ---
 

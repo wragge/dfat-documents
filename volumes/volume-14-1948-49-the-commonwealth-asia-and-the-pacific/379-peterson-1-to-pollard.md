@@ -3,7 +3,7 @@ title: "379 Peterson [1] to Pollard"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6155
 vol_id: 14
-date: 1949-10-28
+doc_date: 1949-10-28
 ---
 
 # 379 Peterson [1] to Pollard

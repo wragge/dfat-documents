@@ -3,7 +3,7 @@ title: "235 Department of External Affairs to Dixon"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2526
 vol_id: 6
-date: 1943-07-05
+doc_date: 1943-07-05
 ---
 
 # 235 Department of External Affairs to Dixon

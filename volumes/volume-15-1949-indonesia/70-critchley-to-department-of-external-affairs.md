@@ -3,7 +3,7 @@ title: "70 Critchley to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6239
 vol_id: 15
-date: 1949-01-12
+doc_date: 1949-01-12
 ---
 
 # 70 Critchley to Department of External Affairs

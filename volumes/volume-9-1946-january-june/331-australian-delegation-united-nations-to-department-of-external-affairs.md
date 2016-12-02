@@ -3,7 +3,7 @@ title: "331 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 9: 1946, January-June"
 doc_id: 3843
 vol_id: 9
-date: 1946-06-27
+doc_date: 1946-06-27
 ---
 
 # 331 Australian Delegation, United Nations, to Department of External Affairs

@@ -3,7 +3,7 @@ title: "55 Minute from Gate to Henderson"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8925
 vol_id: 23
-date: 1979-12-13
+doc_date: 1979-12-13
 ---
 
 # 55 Minute from Gate to Henderson

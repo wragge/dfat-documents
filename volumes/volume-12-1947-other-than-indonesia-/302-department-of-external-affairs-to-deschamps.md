@@ -3,7 +3,7 @@ title: "302 Department of External Affairs to Deschamps"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4984
 vol_id: 12
-date: 1947-04-10
+doc_date: 1947-04-10
 ---
 
 # 302 Department of External Affairs to Deschamps

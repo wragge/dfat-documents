@@ -3,7 +3,7 @@ title: "336 Memorandum from Bentley to Canberra - Historical Documents - Austral
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9466
 vol_id: 25
-date: 1965-10-15
+doc_date: 1965-10-15
 barcode: 583600
 ---
 

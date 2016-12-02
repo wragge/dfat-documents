@@ -3,7 +3,7 @@ title: "118 REPORT BY DEFENCE COMMITTEE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9983
 vol_id: 27
-date: 1973-06-01
+doc_date: 1973-06-01
 ---
 
 # 118 REPORT BY DEFENCE COMMITTEE

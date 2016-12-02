@@ -3,7 +3,7 @@ title: "140 Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to
 volume: "Volume 2: 1939"
 doc_id: 477
 vol_id: 2
-date: 1939-08-22
+doc_date: 1939-08-22
 ---
 
 # 140 Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to Mr A.T. Stirling, External Affairs Officer in London

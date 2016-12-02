@@ -3,7 +3,7 @@ title: "200 Bevin to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3231
 vol_id: 8
-date: 1945-08-17
+doc_date: 1945-08-17
 ---
 
 # 200 Bevin to Evatt

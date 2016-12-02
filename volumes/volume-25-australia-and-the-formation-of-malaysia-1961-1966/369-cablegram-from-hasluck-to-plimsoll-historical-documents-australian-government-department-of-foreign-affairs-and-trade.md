@@ -3,7 +3,7 @@ title: "369 Cablegram from Hasluck to Plimsoll - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9499
 vol_id: 25
-date: 1966-06-09
+doc_date: 1966-06-09
 barcode: 1160391
 ---
 

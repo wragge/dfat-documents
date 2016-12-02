@@ -3,7 +3,7 @@ title: "301 Minute, Ballard To Gutman"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9810
 vol_id: 26
-date: 1969-07-29
+doc_date: 1969-07-29
 barcode: 3118271
 ---
 

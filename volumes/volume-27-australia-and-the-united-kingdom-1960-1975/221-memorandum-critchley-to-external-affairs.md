@@ -3,7 +3,7 @@ title: "221 MEMORANDUM, CRITCHLEY TO EXTERNAL AFFAIRS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10086
 vol_id: 27
-date: 1966-12-22
+doc_date: 1966-12-22
 ---
 
 # 221 MEMORANDUM, CRITCHLEY TO EXTERNAL AFFAIRS

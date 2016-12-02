@@ -3,7 +3,7 @@ title: "339 Attlee to Chifley"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6508
 vol_id: 15
-date: 1949-04-05
+doc_date: 1949-04-05
 ---
 
 # 339 Attlee to Chifley

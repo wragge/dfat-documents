@@ -3,7 +3,7 @@ title: "22 Extract from Draft Report by Department of the Special Trade Represen
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8892
 vol_id: 23
-date: 1979-08-08
+doc_date: 1979-08-08
 ---
 
 # 22 Extract from Draft Report by Department of the Special Trade Representative

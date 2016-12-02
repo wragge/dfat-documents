@@ -3,7 +3,7 @@ title: "268 Fraser to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2915
 vol_id: 7
-date: 1944-09-04
+doc_date: 1944-09-04
 ---
 
 # 268 Fraser to Curtin

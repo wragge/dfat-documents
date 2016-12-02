@@ -3,7 +3,7 @@ title: "474 LETTER BRIMELOW TO CHARTERIS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10341
 vol_id: 27
-date: 1974-02-18
+doc_date: 1974-02-18
 ---
 
 # 474 LETTER BRIMELOW TO CHARTERIS

@@ -3,7 +3,7 @@ title: "192 Report of Meeting of Asia-Pacific Countries"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10566
 vol_id: 28
-date: 1973-09-21
+doc_date: 1973-09-21
 barcode: 546499
 ---
 

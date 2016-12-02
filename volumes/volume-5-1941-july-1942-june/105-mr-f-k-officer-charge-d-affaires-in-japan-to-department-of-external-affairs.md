@@ -3,7 +3,7 @@ title: "105 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of Exte
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1859
 vol_id: 5
-date: 1941-11-07
+doc_date: 1941-11-07
 ---
 
 # 105 Mr F. K. Officer, Charge' d'Affaires in Japan, to Department of External Affairs

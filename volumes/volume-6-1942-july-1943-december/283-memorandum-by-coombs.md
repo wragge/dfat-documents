@@ -3,7 +3,7 @@ title: "283 Memorandum by Coombs"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2574
 vol_id: 6
-date: 1943-09-27
+doc_date: 1943-09-27
 ---
 
 # 283 Memorandum by Coombs

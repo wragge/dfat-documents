@@ -3,7 +3,7 @@ title: "91 Bruce to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2382
 vol_id: 6
-date: 1942-12-12
+doc_date: 1942-12-12
 barcode: 11244644
 ---
 

@@ -3,7 +3,7 @@ title: "453 Department of External Affairs to Hasluck"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5135
 vol_id: 12
-date: 1947-02-18
+doc_date: 1947-02-18
 ---
 
 # 453 Department of External Affairs to Hasluck

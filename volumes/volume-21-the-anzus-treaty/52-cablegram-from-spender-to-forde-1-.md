@@ -3,7 +3,7 @@ title: "52 Cablegram From Spender to Forde[1]"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8403
 vol_id: 21
-date: 1951-02-22
+doc_date: 1951-02-22
 barcode: 699472
 ---
 

@@ -3,7 +3,7 @@ title: "136 Letter From Mcewen To Mcmahon"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7741
 vol_id: 19
-date: 1956-05-23
+doc_date: 1956-05-23
 ---
 
 # 136 Letter From Mcewen To Mcmahon

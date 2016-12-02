@@ -3,7 +3,7 @@ title: "12 Chifley to Beasley"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6727
 vol_id: 16
-date: 1949-02-04
+doc_date: 1949-02-04
 barcode: 1484770
 ---
 

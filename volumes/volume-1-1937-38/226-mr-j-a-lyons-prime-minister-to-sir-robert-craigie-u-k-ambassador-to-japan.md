@@ -3,7 +3,7 @@ title: "226 Mr J. A. Lyons, Prime Minister, to Sir Robert Craigie, U.K. Ambassad
 volume: "Volume 1: 1937-38"
 doc_id: 225
 vol_id: 1
-date: 1938-06-29
+doc_date: 1938-06-29
 ---
 
 # 226 Mr J. A. Lyons, Prime Minister, to Sir Robert Craigie, U.K. Ambassador to Japan

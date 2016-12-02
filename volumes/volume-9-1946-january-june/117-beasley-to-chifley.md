@@ -3,7 +3,7 @@ title: "117 Beasley to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3629
 vol_id: 9
-date: 1946-03-05
+doc_date: 1946-03-05
 ---
 
 # 117 Beasley to Chifley

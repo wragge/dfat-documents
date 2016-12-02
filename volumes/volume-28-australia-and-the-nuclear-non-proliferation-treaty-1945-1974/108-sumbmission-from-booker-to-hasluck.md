@@ -3,7 +3,7 @@ title: "108 Sumbmission from Booker to Hasluck"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10482
 vol_id: 28
-date: 1968-03-06
+doc_date: 1968-03-06
 barcode: 1725936
 ---
 

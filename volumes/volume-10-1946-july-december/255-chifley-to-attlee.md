@@ -3,7 +3,7 @@ title: "255 Chifley to Attlee"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4103
 vol_id: 10
-date: 1946-11-28
+doc_date: 1946-11-28
 ---
 
 # 255 Chifley to Attlee

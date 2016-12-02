@@ -3,7 +3,7 @@ title: "376 Department of External Affairs to Eaton"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4560
 vol_id: 11
-date: 1947-10-14
+doc_date: 1947-10-14
 ---
 
 # 376 Department of External Affairs to Eaton

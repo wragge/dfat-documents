@@ -3,7 +3,7 @@ title: "262 Prime Minister's Department to High Commissioner's Office in London"
 volume: "Volume 2: 1939"
 doc_id: 599
 vol_id: 2
-date: 1939-10-04
+doc_date: 1939-10-04
 ---
 
 # 262 Prime Minister's Department to High Commissioner's Office in London

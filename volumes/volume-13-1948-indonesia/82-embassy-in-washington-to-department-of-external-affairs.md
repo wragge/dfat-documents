@@ -3,7 +3,7 @@ title: "82 Embassy in Washington to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5349
 vol_id: 13
-date: 1948-02-21
+doc_date: 1948-02-21
 barcode: 1729706
 ---
 

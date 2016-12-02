@@ -3,7 +3,7 @@ title: "290 Cranborne to Curtin Circular cablegram D723"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2581
 vol_id: 6
-date: 1943-10-01
+doc_date: 1943-10-01
 ---
 
 # 290 Cranborne to Curtin Circular cablegram D723

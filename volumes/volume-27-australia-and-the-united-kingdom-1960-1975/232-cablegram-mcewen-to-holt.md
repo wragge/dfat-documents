@@ -3,7 +3,7 @@ title: "232 CABLEGRAM, MCEWEN TO HOLT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10097
 vol_id: 27
-date: 1967-06-08
+doc_date: 1967-06-08
 ---
 
 # 232 CABLEGRAM, MCEWEN TO HOLT

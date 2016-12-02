@@ -3,7 +3,7 @@ title: "499 Memorandum by Mr S. M. Bruce,"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2253
 vol_id: 5
-date: 1942-05-04
+doc_date: 1942-05-04
 barcode: 242444
 ---
 

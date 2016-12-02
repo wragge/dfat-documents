@@ -3,7 +3,7 @@ title: "129 REPORT BY ECONOMIC STEERING (EUROPE) COMMITTEE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9994
 vol_id: 27
-date: 1961-04-26
+doc_date: 1961-04-26
 ---
 
 # 129 REPORT BY ECONOMIC STEERING (EUROPE) COMMITTEE

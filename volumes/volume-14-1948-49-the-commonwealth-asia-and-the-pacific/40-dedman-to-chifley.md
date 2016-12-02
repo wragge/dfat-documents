@@ -3,7 +3,7 @@ title: "40 Dedman to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5816
 vol_id: 14
-date: 1949-07-15
+doc_date: 1949-07-15
 barcode: 1347967
 ---
 

@@ -3,7 +3,7 @@ title: "105 Curtin to Dixon"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2396
 vol_id: 6
-date: 1943-01-19
+doc_date: 1943-01-19
 ---
 
 # 105 Curtin to Dixon

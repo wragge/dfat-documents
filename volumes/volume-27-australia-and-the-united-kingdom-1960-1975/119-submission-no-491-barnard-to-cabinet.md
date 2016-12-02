@@ -3,7 +3,7 @@ title: "119 SUBMISSION NO. 491, BARNARD TO CABINET"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9984
 vol_id: 27
-date: 1973-06-29
+doc_date: 1973-06-29
 ---
 
 # 119 SUBMISSION NO. 491, BARNARD TO CABINET

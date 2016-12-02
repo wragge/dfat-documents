@@ -3,7 +3,7 @@ title: "532 Burton to Hankinson"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5214
 vol_id: 12
-date: 1947-10-17
+doc_date: 1947-10-17
 barcode: 197298
 ---
 

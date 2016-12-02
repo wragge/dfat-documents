@@ -3,7 +3,7 @@ title: "324 Embassy in Washington to Australian Government"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6100
 vol_id: 14
-date: 1948-06-08
+doc_date: 1948-06-08
 ---
 
 # 324 Embassy in Washington to Australian Government

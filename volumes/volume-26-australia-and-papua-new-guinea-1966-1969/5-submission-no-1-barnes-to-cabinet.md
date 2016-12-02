@@ -3,7 +3,7 @@ title: "5 Submission No. 1, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9514
 vol_id: 26
-date: 1966-01-27
+doc_date: 1966-01-27
 ---
 
 # 5 Submission No. 1, Barnes To Cabinet

@@ -3,7 +3,7 @@ title: "317 Letter, McMahon To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9826
 vol_id: 26
-date: 1969-09-19
+doc_date: 1969-09-19
 ---
 
 # 317 Letter, McMahon To Barnes

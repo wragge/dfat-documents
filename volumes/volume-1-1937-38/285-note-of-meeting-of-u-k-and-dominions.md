@@ -3,7 +3,7 @@ title: "285 Note of Meeting of U.K. and Dominions"
 volume: "Volume 1: 1937-38"
 doc_id: 284
 vol_id: 1
-date: 1938-09-27
+doc_date: 1938-09-27
 ---
 
 # 285 Note of Meeting of U.K. and Dominions

@@ -3,7 +3,7 @@ title: "432 Department of External Affairs to Mackay"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4616
 vol_id: 11
-date: 1947-11-24
+doc_date: 1947-11-24
 ---
 
 # 432 Department of External Affairs to Mackay

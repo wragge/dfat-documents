@@ -3,7 +3,7 @@ title: "227 CABLEGRAM, EXTERNAL AFFAIRS TO HARRY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10092
 vol_id: 27
-date: 1967-03-29
+doc_date: 1967-03-29
 ---
 
 # 227 CABLEGRAM, EXTERNAL AFFAIRS TO HARRY

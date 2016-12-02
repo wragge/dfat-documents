@@ -3,7 +3,7 @@ title: "127 Noel-Baker to Australian Government"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6296
 vol_id: 15
-date: 1949-01-20
+doc_date: 1949-01-20
 ---
 
 # 127 Noel-Baker to Australian Government

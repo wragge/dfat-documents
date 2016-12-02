@@ -3,7 +3,7 @@ title: "10 Cabinet Decision 184"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7615
 vol_id: 19
-date: 1951-10-02
+doc_date: 1951-10-02
 barcode: 238642
 ---
 

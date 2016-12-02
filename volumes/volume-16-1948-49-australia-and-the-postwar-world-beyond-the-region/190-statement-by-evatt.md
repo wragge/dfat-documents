@@ -3,7 +3,7 @@ title: "190 Statement by Evatt"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6905
 vol_id: 16
-date: 1948-08-25
+doc_date: 1948-08-25
 barcode: 566409
 ---
 

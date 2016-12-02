@@ -3,7 +3,7 @@ title: "299 Cablegram to Pritchett - Historical Documents - Australian Governmen
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9429
 vol_id: 25
-date: 1965-08-10
+doc_date: 1965-08-10
 barcode: 1345848
 ---
 

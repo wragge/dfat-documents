@@ -3,7 +3,7 @@ title: "371 MEMORANDUM BY BRITISH HIGHCOMMISSION"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10237
 vol_id: 27
-date: 1973-01-24
+doc_date: 1973-01-24
 ---
 
 # 371 MEMORANDUM BY BRITISH HIGHCOMMISSION

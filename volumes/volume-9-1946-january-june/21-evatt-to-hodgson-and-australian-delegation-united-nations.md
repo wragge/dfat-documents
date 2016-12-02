@@ -3,7 +3,7 @@ title: "21 Evatt to Hodgson and Australian Delegation, United Nations"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3533
 vol_id: 9
-date: 1946-01-11
+doc_date: 1946-01-11
 ---
 
 # 21 Evatt to Hodgson and Australian Delegation, United Nations

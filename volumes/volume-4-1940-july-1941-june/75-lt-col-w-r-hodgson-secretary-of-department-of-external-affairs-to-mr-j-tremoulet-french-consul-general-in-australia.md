@@ -3,7 +3,7 @@ title: "75 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1306
 vol_id: 4
-date: 1940-08-16
+doc_date: 1940-08-16
 ---
 
 # 75 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr J. Tremoulet, French Consul-General in Australia

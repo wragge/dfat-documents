@@ -3,7 +3,7 @@ title: "81 U.K. Dominions Office to Sir Geoffrey Whiskard, U.K. High Commissione
 volume: "Volume 2: 1939"
 doc_id: 418
 vol_id: 2
-date: 1939-05-08
+doc_date: 1939-05-08
 ---
 
 # 81 U.K. Dominions Office to Sir Geoffrey Whiskard, U.K. High Commissioner to Australia

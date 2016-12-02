@@ -3,7 +3,7 @@ title: "161 Critchley to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5428
 vol_id: 13
-date: 1948-06-03
+doc_date: 1948-06-03
 barcode: 1729706
 ---
 

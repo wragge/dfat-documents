@@ -3,7 +3,7 @@ title: "Note to Portuguese Government"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8338
 vol_id: 20
-date: 1950-03-07
+doc_date: 1950-03-07
 ---
 
 # Note to Portuguese Government

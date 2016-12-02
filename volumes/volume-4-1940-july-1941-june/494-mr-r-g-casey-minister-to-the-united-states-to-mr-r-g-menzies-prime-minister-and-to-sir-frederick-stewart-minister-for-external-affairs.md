@@ -3,7 +3,7 @@ title: "494 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1725
 vol_id: 4
-date: 1941-06-08
+doc_date: 1941-06-08
 ---
 
 # 494 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister, and to Sir Frederick Stewart, Minister for External Affairs

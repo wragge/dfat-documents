@@ -3,7 +3,7 @@ title: "45 Australian Government to Fraser"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3893
 vol_id: 10
-date: 1946-07-31
+doc_date: 1946-07-31
 barcode: 191264
 ---
 

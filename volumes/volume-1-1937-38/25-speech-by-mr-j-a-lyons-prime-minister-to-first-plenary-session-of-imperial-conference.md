@@ -3,7 +3,7 @@ title: "25 Speech by Mr J. A. Lyons, Prime Minister, to First Plenary Session of
 volume: "Volume 1: 1937-38"
 doc_id: 25
 vol_id: 1
-date: 1937-05-14
+doc_date: 1937-05-14
 ---
 
 # 25 Speech by Mr J. A. Lyons, Prime Minister, to First Plenary Session of Imperial Conference

@@ -3,7 +3,7 @@ title: "466 Department of External Affairs to Forde"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5733
 vol_id: 13
-date: 1948-12-25
+doc_date: 1948-12-25
 ---
 
 # 466 Department of External Affairs to Forde

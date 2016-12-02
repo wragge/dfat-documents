@@ -3,7 +3,7 @@ title: "30 Submission by Department of External Affairs for Mr W.M. Hughes, Mini
 volume: "Volume 2: 1939"
 doc_id: 367
 vol_id: 2
-date: 1939-02-24
+doc_date: 1939-02-24
 ---
 
 # 30 Submission by Department of External Affairs for Mr W.M. Hughes, Minister for External Affairs

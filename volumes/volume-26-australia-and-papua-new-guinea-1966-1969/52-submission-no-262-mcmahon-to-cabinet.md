@@ -3,7 +3,7 @@ title: "52 Submission No. 262, Mcmahon To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9560
 vol_id: 26
-date: 1966-07-19
+doc_date: 1966-07-19
 barcode: 1806744
 ---
 

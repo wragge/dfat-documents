@@ -3,7 +3,7 @@ title: "84 Memorandum by Lt Col W. R. Hodgson, Secretary of the Department of Ex
 volume: "Volume 1: 1937-38"
 doc_id: 83
 vol_id: 1
-date: 1937-10-20
+doc_date: 1937-10-20
 ---
 
 # 84 Memorandum by Lt Col W. R. Hodgson, Secretary of the Department of External Affairs

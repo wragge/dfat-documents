@@ -3,7 +3,7 @@ title: "26 Mr N. Chamberlain, U.K. Prime Minister, to Mr J.A. Lyons, Prime Minis
 volume: "Volume 2: 1939"
 doc_id: 363
 vol_id: 2
-date: 1939-02-16
+doc_date: 1939-02-16
 ---
 
 # 26 Mr N. Chamberlain, U.K. Prime Minister, to Mr J.A. Lyons, Prime Minister

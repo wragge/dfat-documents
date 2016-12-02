@@ -3,7 +3,7 @@ title: "397 Cabinet Submission by Drakeford"
 volume: "Volume 8: 1945"
 doc_id: 3428
 vol_id: 8
-date: 1945-11-16
+doc_date: 1945-11-16
 ---
 
 # 397 Cabinet Submission by Drakeford

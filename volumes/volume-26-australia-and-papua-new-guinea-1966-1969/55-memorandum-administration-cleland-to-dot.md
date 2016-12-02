@@ -3,7 +3,7 @@ title: "55 Memorandum, Administration (Cleland) To Dot"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9563
 vol_id: 26
-date: 1966-08-02
+doc_date: 1966-08-02
 barcode: 12030524
 ---
 

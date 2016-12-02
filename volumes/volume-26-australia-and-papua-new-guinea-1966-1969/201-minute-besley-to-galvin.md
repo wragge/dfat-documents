@@ -3,7 +3,7 @@ title: "201 Minute, Besley To Galvin"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9709
 vol_id: 26
-date: 1968-06-24
+doc_date: 1968-06-24
 ---
 
 # 201 Minute, Besley To Galvin

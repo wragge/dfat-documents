@@ -3,7 +3,7 @@ title: "17 Makin to Chifley and Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4699
 vol_id: 12
-date: 1947-11-26
+doc_date: 1947-11-26
 ---
 
 # 17 Makin to Chifley and Burton

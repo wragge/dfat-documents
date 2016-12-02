@@ -3,7 +3,7 @@ title: "283 Cablegram from Shann to Plimsoll - Historical Documents - Australian
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9413
 vol_id: 25
-date: 1965-07-15
+doc_date: 1965-07-15
 barcode: 1962755
 ---
 

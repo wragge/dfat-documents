@@ -3,7 +3,7 @@ title: "211 Hodgson to Watt"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4059
 vol_id: 10
-date: 1946-11-12
+doc_date: 1946-11-12
 barcode: 739160
 ---
 

@@ -3,7 +3,7 @@ title: "3 Kevin to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6172
 vol_id: 15
-date: 1949-01-02
+doc_date: 1949-01-02
 ---
 
 # 3 Kevin to Department of External Affairs

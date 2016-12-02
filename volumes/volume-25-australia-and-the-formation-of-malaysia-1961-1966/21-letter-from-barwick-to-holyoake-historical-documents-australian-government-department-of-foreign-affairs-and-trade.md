@@ -3,7 +3,7 @@ title: "21 Letter from Barwick to Holyoake - Historical Documents - Australian G
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9155
 vol_id: 25
-date: 1963-02-01
+doc_date: 1963-02-01
 barcode: 583683
 ---
 

@@ -3,7 +3,7 @@ title: "27 D'Alton to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3058
 vol_id: 8
-date: 1945-02-08
+doc_date: 1945-02-08
 ---
 
 # 27 D'Alton to Evatt

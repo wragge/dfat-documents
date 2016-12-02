@@ -3,7 +3,7 @@ title: "176 CABINET DECISION N0.158"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8659
 vol_id: 22
-date: 1971-05-05
+doc_date: 1971-05-05
 ---
 
 # 176 CABINET DECISION N0.158

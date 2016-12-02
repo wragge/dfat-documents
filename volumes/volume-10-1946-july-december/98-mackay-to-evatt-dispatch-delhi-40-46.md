@@ -3,7 +3,7 @@ title: "98 Mackay to Evatt Dispatch Delhi 40/46"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3946
 vol_id: 10
-date: 1946-09-02
+doc_date: 1946-09-02
 barcode: 189964
 ---
 

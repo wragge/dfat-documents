@@ -3,7 +3,7 @@ title: "298 MEMORANDUM, O'NEILL TO STATHAM AND TICKELL"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10163
 vol_id: 27
-date: 1971-07-16
+doc_date: 1971-07-16
 ---
 
 # 298 MEMORANDUM, O'NEILL TO STATHAM AND TICKELL

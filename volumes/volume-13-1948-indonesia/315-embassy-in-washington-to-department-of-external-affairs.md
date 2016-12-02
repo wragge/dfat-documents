@@ -3,7 +3,7 @@ title: "315 Embassy in Washington to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5582
 vol_id: 13
-date: 1948-11-16
+doc_date: 1948-11-16
 ---
 
 # 315 Embassy in Washington to Department of External Affairs

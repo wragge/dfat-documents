@@ -3,7 +3,7 @@ title: "104 Legation in Washington to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3616
 vol_id: 9
-date: 1946-02-21
+doc_date: 1946-02-21
 ---
 
 # 104 Legation in Washington to Department of External Affairs

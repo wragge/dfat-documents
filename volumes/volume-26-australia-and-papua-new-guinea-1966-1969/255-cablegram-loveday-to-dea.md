@@ -3,7 +3,7 @@ title: "255 Cablegram, Loveday To Dea"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9763
 vol_id: 26
-date: 1969-02-05
+doc_date: 1969-02-05
 barcode: 583792
 ---
 

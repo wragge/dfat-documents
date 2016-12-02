@@ -3,7 +3,7 @@ title: "196 Cablegram, Shaw To Canberra"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9704
 vol_id: 26
-date: 1968-06-04
+doc_date: 1968-06-04
 barcode: 546809
 ---
 

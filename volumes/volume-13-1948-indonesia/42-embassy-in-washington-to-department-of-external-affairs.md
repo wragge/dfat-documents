@@ -3,7 +3,7 @@ title: "42 Embassy in Washington to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5309
 vol_id: 13
-date: 1948-02-04
+doc_date: 1948-02-04
 ---
 
 # 42 Embassy in Washington to Department of External Affairs

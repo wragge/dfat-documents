@@ -3,7 +3,7 @@ title: "392 Robertson [1] to Sturdee [2]"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6168
 vol_id: 14
-date: 1949-09-05
+doc_date: 1949-09-05
 barcode: 240000
 ---
 

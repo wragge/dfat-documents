@@ -3,7 +3,7 @@ title: "32 Policy Planning Paperminutes of Special Meeting of the Foreign Affair
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9165
 vol_id: 25
-date: 1963-02-18
+doc_date: 1963-02-18
 barcode: 1500828
 ---
 

@@ -3,7 +3,7 @@ title: "314 Cranborne to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2605
 vol_id: 6
-date: 1943-10-26
+doc_date: 1943-10-26
 ---
 
 # 314 Cranborne to Curtin

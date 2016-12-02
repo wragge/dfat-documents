@@ -3,7 +3,7 @@ title: "450 DEPARTMENT OF FOREIGN AFFAIRS BRIEF FOR PRIME MINISTER’S"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10317
 vol_id: 27
-date: 1973-04-06
+doc_date: 1973-04-06
 ---
 
 # 450 DEPARTMENT OF FOREIGN AFFAIRS BRIEF FOR PRIME MINISTER’S

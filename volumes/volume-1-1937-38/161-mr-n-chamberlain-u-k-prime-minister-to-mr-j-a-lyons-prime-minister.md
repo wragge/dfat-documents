@@ -3,7 +3,7 @@ title: "161 Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Min
 volume: "Volume 1: 1937-38"
 doc_id: 160
 vol_id: 1
-date: 1938-03-24
+doc_date: 1938-03-24
 ---
 
 # 161 Mr N. Chamberlain, U.K. Prime Minister, to Mr J. A. Lyons, Prime Minister

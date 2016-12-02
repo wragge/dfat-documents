@@ -3,7 +3,7 @@ title: "271 Telex, Hay To Besley"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9779
 vol_id: 26
-date: 1969-05-16
+doc_date: 1969-05-16
 barcode: 3118091
 ---
 

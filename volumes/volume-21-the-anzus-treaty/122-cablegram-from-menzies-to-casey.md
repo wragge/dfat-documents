@@ -3,7 +3,7 @@ title: "122 Cablegram From Menzies to Casey"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8473
 vol_id: 21
-date: 1951-11-08
+doc_date: 1951-11-08
 ---
 
 # 122 Cablegram From Menzies to Casey

@@ -3,7 +3,7 @@ title: "366 Department of External Affairs to Mission in Tokyo"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5048
 vol_id: 12
-date: 1947-09-08
+doc_date: 1947-09-08
 ---
 
 # 366 Department of External Affairs to Mission in Tokyo

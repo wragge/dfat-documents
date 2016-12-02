@@ -3,7 +3,7 @@ title: "243 Evatt to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5510
 vol_id: 13
-date: 1948-09-15
+doc_date: 1948-09-15
 barcode: 8889006
 ---
 

@@ -3,7 +3,7 @@ title: "257 Mr A.T. Stirling, External Affairs Officer in London, to Lt Col W.R.
 volume: "Volume 2: 1939"
 doc_id: 594
 vol_id: 2
-date: 1939-09-30
+doc_date: 1939-09-30
 barcode: 205845
 ---
 

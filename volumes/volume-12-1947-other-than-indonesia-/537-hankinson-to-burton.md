@@ -3,7 +3,7 @@ title: "537 Hankinson to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5219
 vol_id: 12
-date: 1947-09-09
+doc_date: 1947-09-09
 ---
 
 # 537 Hankinson to Burton

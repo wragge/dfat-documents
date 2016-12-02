@@ -3,7 +3,7 @@ title: "106 Letter from Fairbairn to Gorton"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10480
 vol_id: 28
-date: 1968-02-16
+doc_date: 1968-02-16
 barcode: 1725936
 ---
 

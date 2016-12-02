@@ -3,7 +3,7 @@ title: "123 Beasley to Evatt"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3971
 vol_id: 10
-date: 1946-09-17
+doc_date: 1946-09-17
 barcode: 191209
 ---
 

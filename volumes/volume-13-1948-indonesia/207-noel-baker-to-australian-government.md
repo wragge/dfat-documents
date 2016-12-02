@@ -3,7 +3,7 @@ title: "207 Noel-Baker to Australian Government"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5474
 vol_id: 13
-date: 1948-07-08
+doc_date: 1948-07-08
 barcode: 1729706
 ---
 

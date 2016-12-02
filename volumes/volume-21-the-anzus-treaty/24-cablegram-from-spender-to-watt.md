@@ -3,7 +3,7 @@ title: "24 Cablegram From Spender to Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8375
 vol_id: 21
-date: 1950-11-01
+doc_date: 1950-11-01
 ---
 
 # 24 Cablegram From Spender to Watt

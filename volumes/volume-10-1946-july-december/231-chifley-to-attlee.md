@@ -3,7 +3,7 @@ title: "231 Chifley to Attlee"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4079
 vol_id: 10
-date: 1946-11-20
+doc_date: 1946-11-20
 barcode: 240033
 ---
 

@@ -3,7 +3,7 @@ title: "46 Mr N. Chamberlain, U.K. Prime Minister, to Mr J.A. Lyons, Prime Minis
 volume: "Volume 2: 1939"
 doc_id: 383
 vol_id: 2
-date: 1939-03-20
+doc_date: 1939-03-20
 ---
 
 # 46 Mr N. Chamberlain, U.K. Prime Minister, to Mr J.A. Lyons, Prime Minister

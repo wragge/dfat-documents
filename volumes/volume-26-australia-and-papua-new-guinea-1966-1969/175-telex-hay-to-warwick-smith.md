@@ -3,7 +3,7 @@ title: "175 Telex, Hay To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9683
 vol_id: 26
-date: 1968-04-23
+doc_date: 1968-04-23
 ---
 
 # 175 Telex, Hay To Warwick Smith

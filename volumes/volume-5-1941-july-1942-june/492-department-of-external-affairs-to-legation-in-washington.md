@@ -3,7 +3,7 @@ title: "492 Department of External Affairs to Legation in Washington"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2246
 vol_id: 5
-date: 1942-05-19
+doc_date: 1942-05-19
 ---
 
 # 492 Department of External Affairs to Legation in Washington

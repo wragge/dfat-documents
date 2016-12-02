@@ -3,7 +3,7 @@ title: "72 Dr C. J. Pao, Chinese Consul-General in Australia, to Mr R. G. Menzie
 volume: "Volume 3: 1940, January-June"
 doc_id: 838
 vol_id: 3
-date: 1940-02-22
+doc_date: 1940-02-22
 ---
 
 # 72 Dr C. J. Pao, Chinese Consul-General in Australia, to Mr R. G. Menzies, Prime Minister

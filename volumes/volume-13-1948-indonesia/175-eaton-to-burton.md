@@ -3,7 +3,7 @@ title: "175 Eaton to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5442
 vol_id: 13
-date: 1948-06-11
+doc_date: 1948-06-11
 ---
 
 # 175 Eaton to Burton

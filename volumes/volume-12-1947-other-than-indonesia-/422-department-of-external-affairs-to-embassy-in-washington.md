@@ -3,7 +3,7 @@ title: "422 Department of External Affairs to Embassy in Washington"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5104
 vol_id: 12
-date: 1947-07-24
+doc_date: 1947-07-24
 ---
 
 # 422 Department of External Affairs to Embassy in Washington

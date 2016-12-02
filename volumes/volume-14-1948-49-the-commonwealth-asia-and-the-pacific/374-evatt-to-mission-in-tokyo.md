@@ -3,7 +3,7 @@ title: "374 Evatt to Mission in Tokyo"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6150
 vol_id: 14
-date: 1948-06-04
+doc_date: 1948-06-04
 ---
 
 # 374 Evatt to Mission in Tokyo

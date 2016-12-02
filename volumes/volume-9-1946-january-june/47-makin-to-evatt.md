@@ -3,7 +3,7 @@ title: "47 Makin to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3559
 vol_id: 9
-date: 1946-01-23
+doc_date: 1946-01-23
 barcode: 194173
 ---
 

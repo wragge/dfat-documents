@@ -3,7 +3,7 @@ title: "97 Memorandum from Douglas-Scott to Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10471
 vol_id: 28
-date: 1967-11-17
+doc_date: 1967-11-17
 barcode: 583382
 ---
 

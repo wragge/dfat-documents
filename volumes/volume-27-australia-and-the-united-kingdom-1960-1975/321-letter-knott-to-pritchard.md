@@ -3,7 +3,7 @@ title: "321 LETTER, KNOTT TO PRITCHARD"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10187
 vol_id: 27
-date: 1966-12-07
+doc_date: 1966-12-07
 ---
 
 # 321 LETTER, KNOTT TO PRITCHARD

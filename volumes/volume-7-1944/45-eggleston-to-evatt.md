@@ -3,7 +3,7 @@ title: "45 Eggleston to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2692
 vol_id: 7
-date: 1944-02-08
+doc_date: 1944-02-08
 ---
 
 # 45 Eggleston to Evatt

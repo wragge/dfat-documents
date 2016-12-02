@@ -3,7 +3,7 @@ title: "6 Australian Government to Addison"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4688
 vol_id: 12
-date: 1947-03-25
+doc_date: 1947-03-25
 barcode: 649670
 ---
 

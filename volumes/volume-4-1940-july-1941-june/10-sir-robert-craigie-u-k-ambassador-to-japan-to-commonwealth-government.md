@@ -3,7 +3,7 @@ title: "10 Sir Robert Craigie, U.K. Ambassador to Japan, to Commonwealth Governm
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1241
 vol_id: 4
-date: 1940-07-04
+doc_date: 1940-07-04
 ---
 
 # 10 Sir Robert Craigie, U.K. Ambassador to Japan, to Commonwealth Government

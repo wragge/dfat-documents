@@ -3,7 +3,7 @@ title: "188 Australian Government to Addison, Fraser, External Affairs Departmen
 volume: "Volume 9: 1946, January-June"
 doc_id: 3700
 vol_id: 9
-date: 1946-04-12
+doc_date: 1946-04-12
 ---
 
 # 188 Australian Government to Addison, Fraser, External Affairs Department New Delhi

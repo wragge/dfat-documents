@@ -3,7 +3,7 @@ title: "41 MINUTE, HICKS TO MENZIES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9907
 vol_id: 27
-date: 1965-10-19
+doc_date: 1965-10-19
 ---
 
 # 41 MINUTE, HICKS TO MENZIES

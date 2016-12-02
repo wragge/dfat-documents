@@ -3,7 +3,7 @@ title: "184 Submission from Waller to Hasluck - Historical Documents - Australia
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9314
 vol_id: 25
-date: 1964-05-12
+doc_date: 1964-05-12
 barcode: 1500908
 ---
 

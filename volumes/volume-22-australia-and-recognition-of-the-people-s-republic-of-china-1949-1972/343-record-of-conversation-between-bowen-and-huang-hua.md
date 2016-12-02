@@ -3,7 +3,7 @@ title: "343 RECORD OF CONVERSATION BETWEEN BOWEN AND HUANG HUA"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8827
 vol_id: 22
-date: 1972-09-29
+doc_date: 1972-09-29
 ---
 
 # 343 RECORD OF CONVERSATION BETWEEN BOWEN AND HUANG HUA

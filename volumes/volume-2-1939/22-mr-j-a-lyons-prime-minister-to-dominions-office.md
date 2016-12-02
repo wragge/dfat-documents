@@ -3,7 +3,7 @@ title: "22 Mr J.A. Lyons, Prime Minister, to Dominions Office"
 volume: "Volume 2: 1939"
 doc_id: 359
 vol_id: 2
-date: 1939-02-14
+doc_date: 1939-02-14
 ---
 
 # 22 Mr J.A. Lyons, Prime Minister, to Dominions Office

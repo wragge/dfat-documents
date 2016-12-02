@@ -3,7 +3,7 @@ title: "181 Cabinet Decision no. 147 (FAD) - Historical Documents - Australian G
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9311
 vol_id: 25
-date: 1964-04-14
+doc_date: 1964-04-14
 ---
 
 # 181 Cabinet Decision no. 147 (FAD) - Historical Documents - Australian Government Department of Foreign Affairs and Trade

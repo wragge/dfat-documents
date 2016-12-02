@@ -3,7 +3,7 @@ title: "87 File Note by Beath"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8957
 vol_id: 23
-date: 1980-03-06
+doc_date: 1980-03-06
 ---
 
 # 87 File Note by Beath

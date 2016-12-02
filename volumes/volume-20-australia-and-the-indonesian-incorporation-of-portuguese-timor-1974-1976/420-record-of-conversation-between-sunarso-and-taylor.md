@@ -3,7 +3,7 @@ title: "420 Record of Conversation Between Sunarso and Taylor"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8258
 vol_id: 20
-date: 1976-02-06
+doc_date: 1976-02-06
 ---
 
 # 420 Record of Conversation Between Sunarso and Taylor

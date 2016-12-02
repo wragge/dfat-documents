@@ -3,7 +3,7 @@ title: "65 Cabinet Submission [1] by Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3577
 vol_id: 9
-date: 1946-02-01
+doc_date: 1946-02-01
 ---
 
 # 65 Cabinet Submission [1] by Evatt

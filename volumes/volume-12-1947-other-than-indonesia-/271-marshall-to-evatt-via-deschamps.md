@@ -3,7 +3,7 @@ title: "271 Marshall to Evatt via Deschamps"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4953
 vol_id: 12
-date: 1947-04-25
+doc_date: 1947-04-25
 barcode: 194631
 ---
 

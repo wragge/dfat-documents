@@ -3,7 +3,7 @@ title: "130 Captain H. A. Showers, Commanding Officer of H.M.A.S. Adelaide, to C
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1361
 vol_id: 4
-date: 1940-09-21
+doc_date: 1940-09-21
 ---
 
 # 130 Captain H. A. Showers, Commanding Officer of H.M.A.S. Adelaide, to Commonwealth Naval Board

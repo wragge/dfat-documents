@@ -3,7 +3,7 @@ title: "288 RECORD OF CONVERSATION BETWEEN RIPPON AND ANTHONY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10153
 vol_id: 27
-date: 1971-06-25
+doc_date: 1971-06-25
 ---
 
 # 288 RECORD OF CONVERSATION BETWEEN RIPPON AND ANTHONY

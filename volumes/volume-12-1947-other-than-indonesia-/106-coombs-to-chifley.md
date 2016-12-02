@@ -3,7 +3,7 @@ title: "106 Coombs to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4788
 vol_id: 12
-date: 1947-05-29
+doc_date: 1947-05-29
 barcode: 195036
 ---
 

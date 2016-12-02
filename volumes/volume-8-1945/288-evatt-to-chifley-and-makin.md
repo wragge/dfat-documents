@@ -3,7 +3,7 @@ title: "288 Evatt to Chifley and Makin"
 volume: "Volume 8: 1945"
 doc_id: 3319
 vol_id: 8
-date: 1945-10-03
+doc_date: 1945-10-03
 barcode: 188247
 ---
 

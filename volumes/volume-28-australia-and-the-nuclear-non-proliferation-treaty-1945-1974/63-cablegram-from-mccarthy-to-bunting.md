@@ -3,7 +3,7 @@ title: "63 Cablegram from McCarthy to Bunting"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10437
 vol_id: 28
-date: 1965-06-04
+doc_date: 1965-06-04
 barcode: 3055577
 ---
 

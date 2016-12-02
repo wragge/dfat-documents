@@ -3,7 +3,7 @@ title: "92 Minute From McIntyre to Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8443
 vol_id: 21
-date: 1951-06-08
+doc_date: 1951-06-08
 ---
 
 # 92 Minute From McIntyre to Watt

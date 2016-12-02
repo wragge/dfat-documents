@@ -3,7 +3,7 @@ title: "50 Mr R.R. Sedgwick, Official Secretary of U.K. High Commission in Austr
 volume: "Volume 2: 1939"
 doc_id: 387
 vol_id: 2
-date: 1939-03-21
+doc_date: 1939-03-21
 ---
 
 # 50 Mr R.R. Sedgwick, Official Secretary of U.K. High Commission in Australia, to Mr F. Strahan, Secretary of Prime Minister's Department

@@ -3,7 +3,7 @@ title: "100 Cablegram from Waller to Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10474
 vol_id: 28
-date: 1967-11-29
+doc_date: 1967-11-29
 barcode: 1730506
 ---
 

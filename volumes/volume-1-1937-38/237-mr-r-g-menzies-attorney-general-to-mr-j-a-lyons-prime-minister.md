@@ -3,7 +3,7 @@ title: "237 Mr R. G. Menzies, Attorney-General, to Mr J. A. Lyons, Prime Ministe
 volume: "Volume 1: 1937-38"
 doc_id: 236
 vol_id: 1
-date: 1938-08-06
+doc_date: 1938-08-06
 ---
 
 # 237 Mr R. G. Menzies, Attorney-General, to Mr J. A. Lyons, Prime Minister

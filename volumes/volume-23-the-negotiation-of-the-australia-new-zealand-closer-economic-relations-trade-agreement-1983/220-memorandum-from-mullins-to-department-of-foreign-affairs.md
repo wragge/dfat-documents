@@ -3,7 +3,7 @@ title: "220 Memorandum from Mullins to Department of Foreign Affairs"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9089
 vol_id: 23
-date: 1982-11-02
+doc_date: 1982-11-02
 ---
 
 # 220 Memorandum from Mullins to Department of Foreign Affairs

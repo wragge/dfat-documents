@@ -3,7 +3,7 @@ title: "35 Cabinet Submission by Chifley and Chambers"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4717
 vol_id: 12
-date: 1947-10-07
+doc_date: 1947-10-07
 ---
 
 # 35 Cabinet Submission by Chifley and Chambers

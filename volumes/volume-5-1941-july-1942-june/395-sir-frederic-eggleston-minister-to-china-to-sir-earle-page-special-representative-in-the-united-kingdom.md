@@ -3,7 +3,7 @@ title: "395 Sir Frederic Eggleston, Minister to China, to Sir Earle Page, Specia
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2149
 vol_id: 5
-date: 1942-03-07
+doc_date: 1942-03-07
 ---
 
 # 395 Sir Frederic Eggleston, Minister to China, to Sir Earle Page, Special Representative in the United Kingdom

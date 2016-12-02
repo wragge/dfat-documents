@@ -3,7 +3,7 @@ title: "158 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government"
 volume: "Volume 3: 1940, January-June"
 doc_id: 924
 vol_id: 3
-date: 1940-04-19
+doc_date: 1940-04-19
 ---
 
 # 158 Mr P. Fraser, N.Z. Prime Minister, to Commonwealth Government

@@ -3,7 +3,7 @@ title: "138 Cablegram from Barwick to Harrison - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9268
 vol_id: 25
-date: 1963-12-16
+doc_date: 1963-12-16
 barcode: 248086
 ---
 

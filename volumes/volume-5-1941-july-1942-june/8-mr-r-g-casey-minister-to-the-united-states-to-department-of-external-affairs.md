@@ -3,7 +3,7 @@ title: "8 Mr R. G. Casey, Minister to the United States, to Department of Extern
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1761
 vol_id: 5
-date: 1941-07-26
+doc_date: 1941-07-26
 ---
 
 # 8 Mr R. G. Casey, Minister to the United States, to Department of External Affairs

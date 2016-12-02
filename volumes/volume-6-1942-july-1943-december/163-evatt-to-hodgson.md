@@ -3,7 +3,7 @@ title: "163 Evatt to Hodgson"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2454
 vol_id: 6
-date: 1943-04-22
+doc_date: 1943-04-22
 barcode: 238608
 ---
 

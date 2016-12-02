@@ -3,7 +3,7 @@ title: "272 Cablegram to Canberra"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8110
 vol_id: 20
-date: 1975-10-18
+doc_date: 1975-10-18
 ---
 
 # 272 Cablegram to Canberra

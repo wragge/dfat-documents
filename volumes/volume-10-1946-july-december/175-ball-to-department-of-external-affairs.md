@@ -3,7 +3,7 @@ title: "175 Ball to Department of External Affairs"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4023
 vol_id: 10
-date: 1946-10-24
+doc_date: 1946-10-24
 barcode: 191475
 ---
 

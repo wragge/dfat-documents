@@ -3,7 +3,7 @@ title: "39 Critchley to Kirby [1]"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5306
 vol_id: 13
-date: 1948-02-03
+doc_date: 1948-02-03
 ---
 
 # 39 Critchley to Kirby [1]

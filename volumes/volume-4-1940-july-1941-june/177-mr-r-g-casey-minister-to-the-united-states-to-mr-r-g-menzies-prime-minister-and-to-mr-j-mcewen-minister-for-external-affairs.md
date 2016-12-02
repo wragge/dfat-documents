@@ -3,7 +3,7 @@ title: "177 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1408
 vol_id: 4
-date: 1940-10-17
+doc_date: 1940-10-17
 ---
 
 # 177 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister, and to Mr J. McEwen, Minister for External Affairs

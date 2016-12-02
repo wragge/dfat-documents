@@ -3,7 +3,7 @@ title: "195 Commonwealth Government to Attlee"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2486
 vol_id: 6
-date: 1913-05-15
+doc_date: 1913-05-15
 ---
 
 # 195 Commonwealth Government to Attlee

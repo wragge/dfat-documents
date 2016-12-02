@@ -3,7 +3,7 @@ title: "160 File Note by Hunn"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9029
 vol_id: 23
-date: 1981-02-16
+doc_date: 1981-02-16
 ---
 
 # 160 File Note by Hunn

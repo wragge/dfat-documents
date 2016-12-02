@@ -3,7 +3,7 @@ title: "58 Telegram From Australian Textile Workers'union To Menzies"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7663
 vol_id: 19
-date: 1954-03-31
+doc_date: 1954-03-31
 ---
 
 # 58 Telegram From Australian Textile Workers'union To Menzies

@@ -3,7 +3,7 @@ title: "441 Embassy in Washington to US Department of State"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5123
 vol_id: 12
-date: 1947-05-29
+doc_date: 1947-05-29
 ---
 
 # 441 Embassy in Washington to US Department of State

@@ -3,7 +3,7 @@ title: "403 Note by Pritchett"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6572
 vol_id: 15
-date: 1949-05-17
+doc_date: 1949-05-17
 ---
 
 # 403 Note by Pritchett

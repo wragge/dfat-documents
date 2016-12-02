@@ -3,7 +3,7 @@ title: "269 SPEECH BY RIPPON TO NATIONAL PRESS CLUB"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10134
 vol_id: 27
-date: 1970-09-10
+doc_date: 1970-09-10
 ---
 
 # 269 SPEECH BY RIPPON TO NATIONAL PRESS CLUB

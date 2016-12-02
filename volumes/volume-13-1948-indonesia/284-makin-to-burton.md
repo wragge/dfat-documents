@@ -3,7 +3,7 @@ title: "284 Makin to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5551
 vol_id: 13
-date: 1948-10-20
+doc_date: 1948-10-20
 ---
 
 # 284 Makin to Burton

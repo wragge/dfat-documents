@@ -3,7 +3,7 @@ title: "121 Department of External Affairs to Ball"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3969
 vol_id: 10
-date: 1946-09-17
+doc_date: 1946-09-17
 ---
 
 # 121 Department of External Affairs to Ball

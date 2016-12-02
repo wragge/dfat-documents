@@ -3,7 +3,7 @@ title: "403 Australian Delegation, Havana, to Cabinet Sub-Committee on Trade and
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7118
 vol_id: 16
-date: 1948-03-07
+doc_date: 1948-03-07
 barcode: 195066
 ---
 

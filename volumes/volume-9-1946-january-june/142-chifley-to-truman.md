@@ -3,7 +3,7 @@ title: "142 Chifley to Truman"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3654
 vol_id: 9
-date: 1946-03-25
+doc_date: 1946-03-25
 ---
 
 # 142 Chifley to Truman

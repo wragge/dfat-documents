@@ -3,7 +3,7 @@ title: "391 Sir Frederick Stewart, Minister for External Affairs, to Sir John La
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1622
 vol_id: 4
-date: 1941-04-08
+doc_date: 1941-04-08
 ---
 
 # 391 Sir Frederick Stewart, Minister for External Affairs, to Sir John Latham, Minister to Japan

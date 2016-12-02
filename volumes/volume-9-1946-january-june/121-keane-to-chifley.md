@@ -3,7 +3,7 @@ title: "121 Keane to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3633
 vol_id: 9
-date: 1946-03-08
+doc_date: 1946-03-08
 ---
 
 # 121 Keane to Chifley

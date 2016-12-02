@@ -3,7 +3,7 @@ title: "385 Plimsoll [1] to Burton"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6161
 vol_id: 14
-date: 1948-01-09
+doc_date: 1948-01-09
 ---
 
 # 385 Plimsoll [1] to Burton

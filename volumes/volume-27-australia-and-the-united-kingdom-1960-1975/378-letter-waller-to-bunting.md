@@ -3,7 +3,7 @@ title: "378 LETTER, WALLER TO BUNTING"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10244
 vol_id: 27
-date: 1971-10-07
+doc_date: 1971-10-07
 ---
 
 # 378 LETTER, WALLER TO BUNTING

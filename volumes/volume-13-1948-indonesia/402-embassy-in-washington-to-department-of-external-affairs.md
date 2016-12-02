@@ -3,7 +3,7 @@ title: "402 Embassy in Washington to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5669
 vol_id: 13
-date: 1948-12-19
+doc_date: 1948-12-19
 ---
 
 # 402 Embassy in Washington to Department of External Affairs

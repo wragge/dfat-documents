@@ -3,7 +3,7 @@ title: "106 Cabinet Decision No. 258"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9614
 vol_id: 26
-date: 1967-04-18
+doc_date: 1967-04-18
 barcode: 1858753
 ---
 

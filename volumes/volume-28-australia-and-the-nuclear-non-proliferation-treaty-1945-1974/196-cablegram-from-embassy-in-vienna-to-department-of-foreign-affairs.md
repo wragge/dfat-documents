@@ -3,7 +3,7 @@ title: "196 Cablegram from Embassy in Vienna to Department of Foreign Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10570
 vol_id: 28
-date: 1974-06-06
+doc_date: 1974-06-06
 barcode: 549329
 ---
 

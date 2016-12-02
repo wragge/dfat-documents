@@ -3,7 +3,7 @@ title: "337 Cabinet Decision No. 17"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9846
 vol_id: 26
-date: 1969-11-26
+doc_date: 1969-11-26
 barcode: 3325195
 ---
 

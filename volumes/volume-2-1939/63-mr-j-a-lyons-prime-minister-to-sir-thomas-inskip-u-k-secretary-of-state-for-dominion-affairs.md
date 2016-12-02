@@ -3,7 +3,7 @@ title: "63 Mr J.A. Lyons, Prime Minister, to Sir Thomas Inskip, U.K. Secretary o
 volume: "Volume 2: 1939"
 doc_id: 400
 vol_id: 2
-date: 1939-03-30
+doc_date: 1939-03-30
 ---
 
 # 63 Mr J.A. Lyons, Prime Minister, to Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs

@@ -3,7 +3,7 @@ title: "64 Letter From Barwick To Tunku Abdul Rahman - Historical Documents - Au
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9196
 vol_id: 25
-date: 1963-04-29
+doc_date: 1963-04-29
 barcode: 583271
 ---
 

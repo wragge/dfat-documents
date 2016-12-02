@@ -3,7 +3,7 @@ title: "172 Australian Government to Addison, Fraser, Mackenzie King, Australian
 volume: "Volume 10: 1946, July-December"
 doc_id: 4020
 vol_id: 10
-date: 1946-10-22
+doc_date: 1946-10-22
 ---
 
 # 172 Australian Government to Addison, Fraser, Mackenzie King, Australian Delegation at United Nations [1], Smuts and Mackay [2]

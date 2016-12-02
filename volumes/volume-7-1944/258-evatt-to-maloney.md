@@ -3,7 +3,7 @@ title: "258 Evatt to Maloney"
 volume: "Volume 7: 1944"
 doc_id: 2905
 vol_id: 7
-date: 1944-08-26
+doc_date: 1944-08-26
 ---
 
 # 258 Evatt to Maloney

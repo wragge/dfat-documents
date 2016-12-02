@@ -3,7 +3,7 @@ title: "522 Report by Stuart [1]"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5204
 vol_id: 12
-date: 1947-12-24
+doc_date: 1947-12-24
 ---
 
 # 522 Report by Stuart [1]

@@ -3,7 +3,7 @@ title: "151 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1382
 vol_id: 4
-date: 1940-10-01
+doc_date: 1940-10-01
 ---
 
 # 151 Mr R. G. Casey, Minister to the United States, to Mr R. G. Menzies, Prime Minister

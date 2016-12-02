@@ -3,7 +3,7 @@ title: "45 Cablegram to All Posts - Historical Documents - Australian Government
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9177
 vol_id: 25
-date: 1963-03-06
+doc_date: 1963-03-06
 barcode: 943617
 ---
 

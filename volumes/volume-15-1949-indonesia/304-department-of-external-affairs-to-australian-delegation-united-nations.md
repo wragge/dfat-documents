@@ -3,7 +3,7 @@ title: "304 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6473
 vol_id: 15
-date: 1949-03-21
+doc_date: 1949-03-21
 ---
 
 # 304 Department of External Affairs to Australian Delegation, United Nations

@@ -3,7 +3,7 @@ title: "30 Officer to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5297
 vol_id: 13
-date: 1948-01-22
+doc_date: 1948-01-22
 ---
 
 # 30 Officer to Department of External Affairs

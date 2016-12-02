@@ -3,7 +3,7 @@ title: "29 Mr L. R. Macgregor, Government Trade Commissioner in North America, t
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1783
 vol_id: 5
-date: 1941-08-04
+doc_date: 1941-08-04
 ---
 
 # 29 Mr L. R. Macgregor, Government Trade Commissioner in North America, to Mr R. G. Menzies, Prime Minister

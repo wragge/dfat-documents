@@ -3,7 +3,7 @@ title: "366 Cablegram from Eastman to Canberra - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9496
 vol_id: 25
-date: 1966-06-03
+doc_date: 1966-06-03
 barcode: 12102055
 ---
 

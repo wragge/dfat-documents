@@ -3,7 +3,7 @@ title: "248 Commonwealth Government to Attlee"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2539
 vol_id: 6
-date: 1943-07-21
+doc_date: 1943-07-21
 ---
 
 # 248 Commonwealth Government to Attlee

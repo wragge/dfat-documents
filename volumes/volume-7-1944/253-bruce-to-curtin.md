@@ -3,7 +3,7 @@ title: "253 Bruce to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2900
 vol_id: 7
-date: 1944-08-22
+doc_date: 1944-08-22
 ---
 
 # 253 Bruce to Curtin

@@ -3,7 +3,7 @@ title: "334 Department of External Affairs to Noel-Baker and Mission in Tokyo"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6110
 vol_id: 14
-date: 1948-08-16
+doc_date: 1948-08-16
 ---
 
 # 334 Department of External Affairs to Noel-Baker and Mission in Tokyo

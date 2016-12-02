@@ -3,7 +3,7 @@ title: "225 SAVINGRAM, HARRY TO EXTERNAL AFFAIRS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10090
 vol_id: 27
-date: 1967-02-10
+doc_date: 1967-02-10
 ---
 
 # 225 SAVINGRAM, HARRY TO EXTERNAL AFFAIRS

@@ -3,7 +3,7 @@ title: "418 Advisory War Council Minute 844"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2172
 vol_id: 5
-date: 1942-03-18
+doc_date: 1942-03-18
 ---
 
 # 418 Advisory War Council Minute 844

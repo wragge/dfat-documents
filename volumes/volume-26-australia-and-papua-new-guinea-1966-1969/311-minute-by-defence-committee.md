@@ -3,7 +3,7 @@ title: "311 Minute By Defence Committee"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9820
 vol_id: 26
-date: 1969-09-02
+doc_date: 1969-09-02
 barcode: 3053997
 ---
 

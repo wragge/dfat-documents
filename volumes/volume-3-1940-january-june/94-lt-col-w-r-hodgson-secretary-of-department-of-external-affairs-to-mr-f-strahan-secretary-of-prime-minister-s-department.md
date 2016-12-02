@@ -3,7 +3,7 @@ title: "94 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to
 volume: "Volume 3: 1940, January-June"
 doc_id: 860
 vol_id: 3
-date: 1940-03-08
+doc_date: 1940-03-08
 ---
 
 # 94 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, to Mr F. Strahan, Secretary of Prime Minister's Department

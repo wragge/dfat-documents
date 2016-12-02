@@ -3,7 +3,7 @@ title: "115 Sir Henry Gullett, Minister for External Affairs, to Mr E.T. Lambert
 volume: "Volume 2: 1939"
 doc_id: 452
 vol_id: 2
-date: 1939-07-04
+doc_date: 1939-07-04
 ---
 
 # 115 Sir Henry Gullett, Minister for External Affairs, to Mr E.T. Lambert, Acting U.K. Consul-General in Batavia

@@ -3,7 +3,7 @@ title: "99 Dr H. V. Evatt, Minister for External Affairs, to Mr M. de A. Ferreir
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1853
 vol_id: 5
-date: 1941-11-05
+doc_date: 1941-11-05
 ---
 
 # 99 Dr H. V. Evatt, Minister for External Affairs, to Mr M. de A. Ferreira de Carvalho, Governor of Portuguese Timor

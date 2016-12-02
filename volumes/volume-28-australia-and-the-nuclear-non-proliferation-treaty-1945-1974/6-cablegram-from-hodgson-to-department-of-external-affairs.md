@@ -3,7 +3,7 @@ title: "6 Cablegram from Hodgson to Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10381
 vol_id: 28
-date: 1947-06-02
+doc_date: 1947-06-02
 barcode: 427508
 ---
 

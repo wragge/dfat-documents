@@ -3,7 +3,7 @@ title: "310 Telex, Hay To Doet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9819
 vol_id: 26
-date: 1969-09-01
+doc_date: 1969-09-01
 barcode: 3118301
 ---
 

@@ -3,7 +3,7 @@ title: "23 Principles Forming an Agreed Basis for Political Discussions"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5290
 vol_id: 13
-date: 1948-01-17
+doc_date: 1948-01-17
 ---
 
 # 23 Principles Forming an Agreed Basis for Political Discussions

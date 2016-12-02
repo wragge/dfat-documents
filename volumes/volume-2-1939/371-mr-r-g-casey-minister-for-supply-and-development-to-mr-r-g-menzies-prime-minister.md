@@ -3,7 +3,7 @@ title: "371 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzi
 volume: "Volume 2: 1939"
 doc_id: 708
 vol_id: 2
-date: 1939-11-17
+doc_date: 1939-11-17
 ---
 
 # 371 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzies, Prime Minister

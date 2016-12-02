@@ -3,7 +3,7 @@ title: "253 Notes on Interdepartmental Meeting"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6968
 vol_id: 16
-date: 1949-05-24
+doc_date: 1949-05-24
 ---
 
 # 253 Notes on Interdepartmental Meeting

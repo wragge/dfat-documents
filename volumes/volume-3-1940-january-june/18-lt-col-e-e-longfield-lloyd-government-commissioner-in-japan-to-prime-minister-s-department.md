@@ -3,7 +3,7 @@ title: "18 Lt Col E. E. Longfield Lloyd, Government Commissioner in Japan, to Pr
 volume: "Volume 3: 1940, January-June"
 doc_id: 784
 vol_id: 3
-date: 1940-01-15
+doc_date: 1940-01-15
 ---
 
 # 18 Lt Col E. E. Longfield Lloyd, Government Commissioner in Japan, to Prime Minister's Department

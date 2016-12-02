@@ -3,7 +3,7 @@ title: "192 Record of Conversation Between Mcnamara and Hasluck - Historical Doc
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9322
 vol_id: 25
-date: 1964-07-16
+doc_date: 1964-07-16
 barcode: 1338484
 ---
 

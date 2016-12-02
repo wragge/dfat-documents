@@ -3,7 +3,7 @@ title: "427 Mr R.G. Menzies, Prime Minister, to Mr W.L. Mackenzie King, Prime Mi
 volume: "Volume 2: 1939"
 doc_id: 764
 vol_id: 2
-date: 1939-12-23
+doc_date: 1939-12-23
 barcode: 1495845
 ---
 

@@ -3,7 +3,7 @@ title: "156 Salim to Evatt"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5423
 vol_id: 13
-date: 1948-06-02
+doc_date: 1948-06-02
 barcode: 140067
 ---
 

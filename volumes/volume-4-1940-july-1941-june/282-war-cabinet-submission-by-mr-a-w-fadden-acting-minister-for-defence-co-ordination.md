@@ -3,7 +3,7 @@ title: "282 War Cabinet Submission by Mr A. W. Fadden, Acting Minister for Defen
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1513
 vol_id: 4
-date: 1941-02-11
+doc_date: 1941-02-11
 ---
 
 # 282 War Cabinet Submission by Mr A. W. Fadden, Acting Minister for Defence Co-ordination

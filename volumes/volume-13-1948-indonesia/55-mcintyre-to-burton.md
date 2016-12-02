@@ -3,7 +3,7 @@ title: "55 McIntyre to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5322
 vol_id: 13
-date: 1948-02-11
+doc_date: 1948-02-11
 ---
 
 # 55 McIntyre to Burton

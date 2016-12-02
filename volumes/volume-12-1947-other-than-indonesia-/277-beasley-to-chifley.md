@@ -3,7 +3,7 @@ title: "277 Beasley to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4959
 vol_id: 12
-date: 1947-05-01
+doc_date: 1947-05-01
 barcode: 195074
 ---
 

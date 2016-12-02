@@ -3,7 +3,7 @@ title: "211 SPEECH, MENZIES TO FEDERAL COUNCIL OF THE LIBERAL PARTY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10076
 vol_id: 27
-date: 1962-11-13
+doc_date: 1962-11-13
 ---
 
 # 211 SPEECH, MENZIES TO FEDERAL COUNCIL OF THE LIBERAL PARTY

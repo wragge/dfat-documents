@@ -3,7 +3,7 @@ title: "89 CABINET DECISION NO. 1245"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8572
 vol_id: 22
-date: 1961-03-02
+doc_date: 1961-03-02
 barcode: 1055966
 ---
 

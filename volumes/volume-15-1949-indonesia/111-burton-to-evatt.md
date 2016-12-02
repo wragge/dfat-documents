@@ -3,7 +3,7 @@ title: "111 Burton to Evatt"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6280
 vol_id: 15
-date: 1949-01-19
+doc_date: 1949-01-19
 barcode: 587590
 ---
 

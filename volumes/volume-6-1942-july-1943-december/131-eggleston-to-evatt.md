@@ -3,7 +3,7 @@ title: "131 Eggleston to Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2422
 vol_id: 6
-date: 1943-03-03
+doc_date: 1943-03-03
 ---
 
 # 131 Eggleston to Evatt

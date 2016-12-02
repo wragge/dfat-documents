@@ -3,7 +3,7 @@ title: "92 Harry to Wheeler"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5868
 vol_id: 14
-date: 1949-11-24
+doc_date: 1949-11-24
 ---
 
 # 92 Harry to Wheeler

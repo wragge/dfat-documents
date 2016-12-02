@@ -3,7 +3,7 @@ title: "22 Australian Government to Noel-Baker, Embassy in Washington and Fraser
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6191
 vol_id: 15
-date: 1949-01-05
+doc_date: 1949-01-05
 barcode: 587590
 ---
 

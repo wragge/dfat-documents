@@ -3,7 +3,7 @@ title: "285 Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secr
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1516
 vol_id: 4
-date: 1941-02-12
+doc_date: 1941-02-12
 ---
 
 # 285 Mr A. W. Fadden, Acting Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs

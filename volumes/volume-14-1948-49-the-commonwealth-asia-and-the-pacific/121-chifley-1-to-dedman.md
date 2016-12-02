@@ -3,7 +3,7 @@ title: "121 Chifley [1] to Dedman"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5897
 vol_id: 14
-date: 1948-10-06
+doc_date: 1948-10-06
 ---
 
 # 121 Chifley [1] to Dedman

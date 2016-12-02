@@ -3,7 +3,7 @@ title: "463 The MacArthur-Northcott Agreement"
 volume: "Volume 8: 1945"
 doc_id: 3494
 vol_id: 8
-date: 1945-12-18
+doc_date: 1945-12-18
 ---
 
 # 463 The MacArthur-Northcott Agreement

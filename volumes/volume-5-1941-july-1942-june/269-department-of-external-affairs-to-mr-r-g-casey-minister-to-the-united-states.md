@@ -3,7 +3,7 @@ title: "269 Department of External Affairs to Mr R. G. Casey, Minister to the Un
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2023
 vol_id: 5
-date: 1942-01-13
+doc_date: 1942-01-13
 ---
 
 # 269 Department of External Affairs to Mr R. G. Casey, Minister to the United States

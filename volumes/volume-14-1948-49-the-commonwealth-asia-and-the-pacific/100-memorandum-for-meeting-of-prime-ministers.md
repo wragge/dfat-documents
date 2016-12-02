@@ -3,7 +3,7 @@ title: "100 Memorandum for Meeting of Prime Ministers"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5876
 vol_id: 14
-date: 1948-09-23
+doc_date: 1948-09-23
 ---
 
 # 100 Memorandum for Meeting of Prime Ministers

@@ -3,7 +3,7 @@ title: "335 Van Aerssen to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2982
 vol_id: 7
-date: 1944-11-03
+doc_date: 1944-11-03
 ---
 
 # 335 Van Aerssen to Evatt

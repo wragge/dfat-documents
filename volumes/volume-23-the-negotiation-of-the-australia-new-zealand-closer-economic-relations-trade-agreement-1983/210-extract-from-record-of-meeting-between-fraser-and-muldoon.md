@@ -3,7 +3,7 @@ title: "210 Extract from Record of Meeting between Fraser and Muldoon"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9079
 vol_id: 23
-date: 1982-10-08
+doc_date: 1982-10-08
 ---
 
 # 210 Extract from Record of Meeting between Fraser and Muldoon

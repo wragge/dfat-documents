@@ -3,7 +3,7 @@ title: "401 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir
 volume: "Volume 3: 1940, January-June"
 doc_id: 1167
 vol_id: 3
-date: 1940-06-18
+doc_date: 1940-06-18
 ---
 
 # 401 Lord Caldecote, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia

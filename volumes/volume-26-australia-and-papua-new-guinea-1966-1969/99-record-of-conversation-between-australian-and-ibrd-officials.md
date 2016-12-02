@@ -3,7 +3,7 @@ title: "99 Record Of Conversation Between Australian And Ibrd Officials"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9607
 vol_id: 26
-date: 1967-03-28
+doc_date: 1967-03-28
 barcode: 1370831
 ---
 

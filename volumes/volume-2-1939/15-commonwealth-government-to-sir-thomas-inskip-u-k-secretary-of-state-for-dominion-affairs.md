@@ -3,7 +3,7 @@ title: "15 Commonwealth Government to Sir Thomas Inskip, U.K. Secretary of State
 volume: "Volume 2: 1939"
 doc_id: 352
 vol_id: 2
-date: 1939-01-31
+doc_date: 1939-01-31
 barcode: 206913
 ---
 

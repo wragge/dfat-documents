@@ -3,7 +3,7 @@ title: "103 Cablegram, Washington To Dea"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9611
 vol_id: 26
-date: 1967-04-07
+doc_date: 1967-04-07
 barcode: 3111684
 ---
 

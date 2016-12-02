@@ -3,7 +3,7 @@ title: "313 Evatt to Makin, Fraser and Shaw"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6089
 vol_id: 14
-date: 1948-04-22
+doc_date: 1948-04-22
 ---
 
 # 313 Evatt to Makin, Fraser and Shaw

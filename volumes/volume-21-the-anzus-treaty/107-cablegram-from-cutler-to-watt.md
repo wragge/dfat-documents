@@ -3,7 +3,7 @@ title: "107 Cablegram From Cutler to Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8458
 vol_id: 21
-date: 1951-07-13
+doc_date: 1951-07-13
 barcode: 271757
 ---
 

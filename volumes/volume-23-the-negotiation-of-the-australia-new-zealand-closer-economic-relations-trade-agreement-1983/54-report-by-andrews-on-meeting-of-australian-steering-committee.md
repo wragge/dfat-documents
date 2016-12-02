@@ -3,7 +3,7 @@ title: "54 Report by Andrews on Meeting of Australian Steering Committee"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8924
 vol_id: 23
-date: 1979-12-11
+doc_date: 1979-12-11
 ---
 
 # 54 Report by Andrews on Meeting of Australian Steering Committee

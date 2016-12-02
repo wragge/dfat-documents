@@ -3,7 +3,7 @@ title: "199 Sir Geoffrey Whiskard, U.K. High Commissioner to Australia, to Mr R.
 volume: "Volume 2: 1939"
 doc_id: 536
 vol_id: 2
-date: 1939-09-05
+doc_date: 1939-09-05
 barcode: 206126
 ---
 

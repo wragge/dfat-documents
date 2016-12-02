@@ -3,7 +3,7 @@ title: "342 Dispatch to Peacock"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8180
 vol_id: 20
-date: 1975-11-19
+doc_date: 1975-11-19
 ---
 
 # 342 Dispatch to Peacock

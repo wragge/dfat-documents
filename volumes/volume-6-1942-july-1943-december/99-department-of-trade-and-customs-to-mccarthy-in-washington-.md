@@ -3,7 +3,7 @@ title: "99 Department of Trade and Customs to McCarthy (in Washington)"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2390
 vol_id: 6
-date: 1943-01-13
+doc_date: 1943-01-13
 ---
 
 # 99 Department of Trade and Customs to McCarthy (in Washington)

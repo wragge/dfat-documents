@@ -3,7 +3,7 @@ title: "400 Mr R.G. Menzies, Prime Minister, to Mr R.G. Casey, Minister for Supp
 volume: "Volume 2: 1939"
 doc_id: 737
 vol_id: 2
-date: 1939-12-02
+doc_date: 1939-12-02
 barcode: 206513
 ---
 

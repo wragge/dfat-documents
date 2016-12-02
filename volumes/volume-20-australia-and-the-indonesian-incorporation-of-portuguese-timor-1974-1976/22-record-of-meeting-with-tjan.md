@@ -3,7 +3,7 @@ title: "22 Record of Meeting with Tjan"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7861
 vol_id: 20
-date: 1974-08-21
+doc_date: 1974-08-21
 ---
 
 # 22 Record of Meeting with Tjan

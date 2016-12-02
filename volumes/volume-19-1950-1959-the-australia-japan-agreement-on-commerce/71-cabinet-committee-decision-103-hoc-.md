@@ -3,7 +3,7 @@ title: "71 Cabinet Committee Decision 103(Hoc)"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7676
 vol_id: 19
-date: 1954-09-14
+doc_date: 1954-09-14
 ---
 
 # 71 Cabinet Committee Decision 103(Hoc)

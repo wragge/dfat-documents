@@ -3,7 +3,7 @@ title: "167 Telegram from Francis to Muldoon"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9036
 vol_id: 23
-date: 1981-04-30
+doc_date: 1981-04-30
 ---
 
 # 167 Telegram from Francis to Muldoon

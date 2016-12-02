@@ -3,7 +3,7 @@ title: "229 Mr E. E. Longfield Lloyd, Australian Government Commissioner in Japa
 volume: "Volume 1: 1937-38"
 doc_id: 228
 vol_id: 1
-date: 1938-07-11
+doc_date: 1938-07-11
 ---
 
 # 229 Mr E. E. Longfield Lloyd, Australian Government Commissioner in Japan, to Prime Minister's Department

@@ -3,7 +3,7 @@ title: "181 High Commission in New Delhi to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6350
 vol_id: 15
-date: 1949-02-02
+doc_date: 1949-02-02
 ---
 
 # 181 High Commission in New Delhi to Department of External Affairs

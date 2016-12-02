@@ -3,7 +3,7 @@ title: "299 Mr R. G. Casey, Minister to the United States, to Mr J. McEwen, Mini
 volume: "Volume 3: 1940, January-June"
 doc_id: 1065
 vol_id: 3
-date: 1940-05-28
+doc_date: 1940-05-28
 barcode: 235518
 ---
 

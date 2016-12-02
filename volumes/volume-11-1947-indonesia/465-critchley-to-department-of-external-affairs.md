@@ -3,7 +3,7 @@ title: "465 Critchley to Department of External Affairs"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4649
 vol_id: 11
-date: 1947-12-14
+doc_date: 1947-12-14
 ---
 
 # 465 Critchley to Department of External Affairs

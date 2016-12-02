@@ -3,7 +3,7 @@ title: "104 Submission, Jockel To Hasluck"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9612
 vol_id: 26
-date: 1967-04-10
+doc_date: 1967-04-10
 barcode: 584528
 ---
 

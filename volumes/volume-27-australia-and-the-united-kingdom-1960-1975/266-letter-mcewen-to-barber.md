@@ -3,7 +3,7 @@ title: "266 LETTER, MCEWEN TO BARBER"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10131
 vol_id: 27
-date: 1970-07-17
+doc_date: 1970-07-17
 ---
 
 # 266 LETTER, MCEWEN TO BARBER

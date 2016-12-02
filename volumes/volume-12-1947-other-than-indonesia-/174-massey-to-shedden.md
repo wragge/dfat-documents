@@ -3,7 +3,7 @@ title: "174 Massey to Shedden"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4856
 vol_id: 12
-date: 1947-06-07
+doc_date: 1947-06-07
 ---
 
 # 174 Massey to Shedden

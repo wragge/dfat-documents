@@ -3,7 +3,7 @@ title: "423 High Commissioner's Office in London to Prime Minister's Department"
 volume: "Volume 2: 1939"
 doc_id: 760
 vol_id: 2
-date: 1939-12-20
+doc_date: 1939-12-20
 ---
 
 # 423 High Commissioner's Office in London to Prime Minister's Department

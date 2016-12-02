@@ -3,7 +3,7 @@ title: "107 Attlee to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5883
 vol_id: 14
-date: 1949-01-31
+doc_date: 1949-01-31
 ---
 
 # 107 Attlee to Chifley

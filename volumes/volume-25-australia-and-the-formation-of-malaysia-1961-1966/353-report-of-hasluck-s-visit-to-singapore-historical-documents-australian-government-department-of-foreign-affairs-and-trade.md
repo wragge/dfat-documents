@@ -3,7 +3,7 @@ title: "353 Report of Hasluck�s Visit to Singapore - Historical Documents - Au
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9483
 vol_id: 25
-date: 1965-12-22
+doc_date: 1965-12-22
 barcode: 586494
 ---
 

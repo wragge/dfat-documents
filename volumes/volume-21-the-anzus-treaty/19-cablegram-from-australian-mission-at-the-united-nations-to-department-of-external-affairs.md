@@ -3,7 +3,7 @@ title: "19 Cablegram From Australian Mission at the United Nations to Department
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8370
 vol_id: 21
-date: 1950-09-22
+doc_date: 1950-09-22
 ---
 
 # 19 Cablegram From Australian Mission at the United Nations to Department of External Affairs

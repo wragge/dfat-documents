@@ -3,7 +3,7 @@ title: "345 Kennedy to Burton"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6121
 vol_id: 14
-date: 1948-11-05
+doc_date: 1948-11-05
 ---
 
 # 345 Kennedy to Burton

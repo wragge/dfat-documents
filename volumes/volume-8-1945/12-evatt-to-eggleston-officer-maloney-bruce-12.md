@@ -3,7 +3,7 @@ title: "12 Evatt to Eggleston, Officer, Maloney, Bruce 12"
 volume: "Volume 8: 1945"
 doc_id: 3043
 vol_id: 8
-date: 1945-01-17
+doc_date: 1945-01-17
 ---
 
 # 12 Evatt to Eggleston, Officer, Maloney, Bruce 12

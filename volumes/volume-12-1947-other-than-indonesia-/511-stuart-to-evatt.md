@@ -3,7 +3,7 @@ title: "511 Stuart to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5193
 vol_id: 12
-date: 1947-01-12
+doc_date: 1947-01-12
 ---
 
 # 511 Stuart to Evatt

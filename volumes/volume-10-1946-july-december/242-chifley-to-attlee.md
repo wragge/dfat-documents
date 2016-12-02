@@ -3,7 +3,7 @@ title: "242 Chifley to Attlee"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4090
 vol_id: 10
-date: 1946-11-23
+doc_date: 1946-11-23
 ---
 
 # 242 Chifley to Attlee

@@ -3,7 +3,7 @@ title: "113 Cablegram from Barwick to Menzies - Historical Documents - Australia
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9244
 vol_id: 25
-date: 1963-09-16
+doc_date: 1963-09-16
 barcode: 1517611
 ---
 

@@ -3,7 +3,7 @@ title: "197 Memorandum from Embassy in Tokyo to Renouf"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10571
 vol_id: 28
-date: 1974-06-28
+doc_date: 1974-06-28
 barcode: 1373509
 ---
 

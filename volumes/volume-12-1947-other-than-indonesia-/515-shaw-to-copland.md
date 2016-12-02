@@ -3,7 +3,7 @@ title: "515 Shaw to Copland"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5197
 vol_id: 12
-date: 1947-04-10
+doc_date: 1947-04-10
 ---
 
 # 515 Shaw to Copland

@@ -3,7 +3,7 @@ title: "307 Cabinet Submission by Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3819
 vol_id: 9
-date: 1946-06-13
+doc_date: 1946-06-13
 barcode: 192747
 ---
 

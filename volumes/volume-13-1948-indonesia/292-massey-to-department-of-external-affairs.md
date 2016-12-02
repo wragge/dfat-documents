@@ -3,7 +3,7 @@ title: "292 Massey to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5559
 vol_id: 13
-date: 1948-10-29
+doc_date: 1948-10-29
 barcode: 644752
 ---
 

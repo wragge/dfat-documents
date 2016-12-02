@@ -3,7 +3,7 @@ title: "81 Beasley and Makin to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3593
 vol_id: 9
-date: 1946-02-09
+doc_date: 1946-02-09
 ---
 
 # 81 Beasley and Makin to Evatt

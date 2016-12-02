@@ -3,7 +3,7 @@ title: "171 Bruce to Shedden (in London)"
 volume: "Volume 7: 1944"
 doc_id: 2818
 vol_id: 7
-date: 1944-05-27
+doc_date: 1944-05-27
 ---
 
 # 171 Bruce to Shedden (in London)

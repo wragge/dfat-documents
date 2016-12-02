@@ -3,7 +3,7 @@ title: "77 Watt to Ball"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3925
 vol_id: 10
-date: 1946-08-20
+doc_date: 1946-08-20
 ---
 
 # 77 Watt to Ball

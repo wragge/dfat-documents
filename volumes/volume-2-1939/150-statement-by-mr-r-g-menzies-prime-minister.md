@@ -3,7 +3,7 @@ title: "150 Statement by Mr R.G. Menzies, Prime Minister"
 volume: "Volume 2: 1939"
 doc_id: 487
 vol_id: 2
-date: 1939-08-25
+doc_date: 1939-08-25
 ---
 
 # 150 Statement by Mr R.G. Menzies, Prime Minister

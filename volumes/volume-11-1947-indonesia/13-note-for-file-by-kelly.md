@@ -3,7 +3,7 @@ title: "13 Note for File by Kelly"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4197
 vol_id: 11
-date: 1947-03-19
+doc_date: 1947-03-19
 ---
 
 # 13 Note for File by Kelly

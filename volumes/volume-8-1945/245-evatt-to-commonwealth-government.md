@@ -3,7 +3,7 @@ title: "245 Evatt to Commonwealth Government"
 volume: "Volume 8: 1945"
 doc_id: 3276
 vol_id: 8
-date: 1945-09-14
+doc_date: 1945-09-14
 ---
 
 # 245 Evatt to Commonwealth Government

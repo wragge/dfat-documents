@@ -3,7 +3,7 @@ title: "179 Curtin to Combined Chiefs of Staff"
 volume: "Volume 7: 1944"
 doc_id: 2826
 vol_id: 7
-date: 1944-06-02
+doc_date: 1944-06-02
 ---
 
 # 179 Curtin to Combined Chiefs of Staff

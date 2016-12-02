@@ -3,7 +3,7 @@ title: "12 Mr W.M. Hughes, Minister for External Affairs, to Lt Col W.R. Hodgson
 volume: "Volume 2: 1939"
 doc_id: 349
 vol_id: 2
-date: 1939-01-26
+doc_date: 1939-01-26
 ---
 
 # 12 Mr W.M. Hughes, Minister for External Affairs, to Lt Col W.R. Hodgson, Secretary of Department of External Affairs

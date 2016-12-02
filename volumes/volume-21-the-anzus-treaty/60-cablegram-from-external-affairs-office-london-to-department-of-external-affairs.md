@@ -3,7 +3,7 @@ title: "60 Cablegram From External Affairs Office, London to Department of Exter
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8411
 vol_id: 21
-date: 1951-03-13
+doc_date: 1951-03-13
 ---
 
 # 60 Cablegram From External Affairs Office, London to Department of External Affairs

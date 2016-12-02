@@ -3,7 +3,7 @@ title: "108 Bruce to Curtin"
 volume: "Volume 8: 1945"
 doc_id: 3139
 vol_id: 8
-date: 1945-06-11
+doc_date: 1945-06-11
 barcode: 561216
 ---
 

@@ -3,7 +3,7 @@ title: "72 Curtin to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3103
 vol_id: 8
-date: 1945-04-16
+doc_date: 1945-04-16
 ---
 
 # 72 Curtin to Evatt

@@ -3,7 +3,7 @@ title: "336 War Cabinet Minute"
 volume: "Volume 3: 1940, January-June"
 doc_id: 1102
 vol_id: 3
-date: 1940-06-04
+doc_date: 1940-06-04
 ---
 
 # 336 War Cabinet Minute

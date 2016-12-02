@@ -3,7 +3,7 @@ title: "160 Australia-Japan Trade Negotiations: The Initial Statement Of The Lea
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7765
 vol_id: 19
-date: 1956-11-01
+doc_date: 1956-11-01
 ---
 
 # 160 Australia-Japan Trade Negotiations: The Initial Statement Of The Leader Of The Japanese Trade Delegation

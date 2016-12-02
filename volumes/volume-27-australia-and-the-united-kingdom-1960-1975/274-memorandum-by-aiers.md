@@ -3,7 +3,7 @@ title: "274 MEMORANDUM BY AIERS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10139
 vol_id: 27
-date: 1970-10-02
+doc_date: 1970-10-02
 ---
 
 # 274 MEMORANDUM BY AIERS

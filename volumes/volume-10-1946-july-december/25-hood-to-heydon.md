@@ -3,7 +3,7 @@ title: "25 Hood to Heydon"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3873
 vol_id: 10
-date: 1946-07-12
+doc_date: 1946-07-12
 barcode: 191072
 ---
 

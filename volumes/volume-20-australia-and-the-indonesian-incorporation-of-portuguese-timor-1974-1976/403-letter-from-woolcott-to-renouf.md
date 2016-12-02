@@ -3,7 +3,7 @@ title: "403 Letter from Woolcott to Renouf"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8241
 vol_id: 20
-date: 1976-01-21
+doc_date: 1976-01-21
 ---
 
 # 403 Letter from Woolcott to Renouf

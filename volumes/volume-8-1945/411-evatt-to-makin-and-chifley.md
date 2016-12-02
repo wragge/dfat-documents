@@ -3,7 +3,7 @@ title: "411 Evatt to Makin and Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3442
 vol_id: 8
-date: 1945-11-23
+doc_date: 1945-11-23
 ---
 
 # 411 Evatt to Makin and Chifley

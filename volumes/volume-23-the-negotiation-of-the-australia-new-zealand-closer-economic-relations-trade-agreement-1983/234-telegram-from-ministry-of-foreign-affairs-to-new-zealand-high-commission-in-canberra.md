@@ -3,7 +3,7 @@ title: "234 Telegram from Ministry of Foreign Affairs to New Zealand High Commis
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9103
 vol_id: 23
-date: 1981-12-14
+doc_date: 1981-12-14
 ---
 
 # 234 Telegram from Ministry of Foreign Affairs to New Zealand High Commission in Canberra

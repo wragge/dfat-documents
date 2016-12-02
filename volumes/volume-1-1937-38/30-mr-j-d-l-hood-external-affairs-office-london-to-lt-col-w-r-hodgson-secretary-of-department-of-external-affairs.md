@@ -3,7 +3,7 @@ title: "30 Mr J. D. L. Hood, External Affairs Office, London, to Lt Col W. R. Ho
 volume: "Volume 1: 1937-38"
 doc_id: 30
 vol_id: 1
-date: 1937-05-22
+doc_date: 1937-05-22
 ---
 
 # 30 Mr J. D. L. Hood, External Affairs Office, London, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs

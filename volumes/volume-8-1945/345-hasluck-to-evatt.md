@@ -3,7 +3,7 @@ title: "345 Hasluck to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3376
 vol_id: 8
-date: 1945-10-26
+doc_date: 1945-10-26
 ---
 
 # 345 Hasluck to Evatt

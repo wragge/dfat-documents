@@ -3,7 +3,7 @@ title: "218 Brief for Anthony's Meeting with Muldoon"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9087
 vol_id: 23
-date: 1982-10-28
+doc_date: 1982-10-28
 ---
 
 # 218 Brief for Anthony's Meeting with Muldoon

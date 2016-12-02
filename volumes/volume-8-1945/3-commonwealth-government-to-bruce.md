@@ -3,7 +3,7 @@ title: "3 Commonwealth Government to Bruce"
 volume: "Volume 8: 1945"
 doc_id: 3034
 vol_id: 8
-date: 1945-01-08
+doc_date: 1945-01-08
 barcode: 188226
 ---
 

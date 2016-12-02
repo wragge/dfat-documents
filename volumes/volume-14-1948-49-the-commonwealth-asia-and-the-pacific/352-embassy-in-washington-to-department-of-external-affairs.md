@@ -3,7 +3,7 @@ title: "352 Embassy in Washington to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6128
 vol_id: 14
-date: 1949-05-04
+doc_date: 1949-05-04
 ---
 
 # 352 Embassy in Washington to Department of External Affairs

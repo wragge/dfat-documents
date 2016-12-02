@@ -3,7 +3,7 @@ title: "58 Sir Harry Luke, U.K. High Commissioner for the Western Pacific, to Lo
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1289
 vol_id: 4
-date: 1940-08-09
+doc_date: 1940-08-09
 ---
 
 # 58 Sir Harry Luke, U.K. High Commissioner for the Western Pacific, to Lord Lloyd, U.K. Secretary of State for the Colonies

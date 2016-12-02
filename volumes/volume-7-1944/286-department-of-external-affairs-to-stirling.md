@@ -3,7 +3,7 @@ title: "286 Department of External Affairs to Stirling"
 volume: "Volume 7: 1944"
 doc_id: 2933
 vol_id: 7
-date: 1944-09-18
+doc_date: 1944-09-18
 ---
 
 # 286 Department of External Affairs to Stirling

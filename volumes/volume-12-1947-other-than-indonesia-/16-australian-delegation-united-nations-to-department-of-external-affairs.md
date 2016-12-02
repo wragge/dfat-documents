@@ -3,7 +3,7 @@ title: "16 Australian Delegation, United Nations, to Department of External Affa
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4698
 vol_id: 12
-date: 1947-11-25
+doc_date: 1947-11-25
 ---
 
 # 16 Australian Delegation, United Nations, to Department of External Affairs

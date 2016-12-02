@@ -3,7 +3,7 @@ title: "259 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2013
 vol_id: 5
-date: 1942-01-06
+doc_date: 1942-01-06
 ---
 
 # 259 Mr John Curtin, Prime Minister, to Mr Winston Churchill, U.K. Prime Minister (in the United States)

@@ -3,7 +3,7 @@ title: "183 Submission No. 188 from Paltridge to Cabinet - Historical Documents 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9313
 vol_id: 25
-date: 1964-05-08
+doc_date: 1964-05-08
 ---
 
 # 183 Submission No. 188 from Paltridge to Cabinet - Historical Documents - Australian Government Department of Foreign Affairs and Trade

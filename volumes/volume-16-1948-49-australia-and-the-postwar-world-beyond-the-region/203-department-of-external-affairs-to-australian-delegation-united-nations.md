@@ -3,7 +3,7 @@ title: "203 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6918
 vol_id: 16
-date: 1948-09-22
+doc_date: 1948-09-22
 ---
 
 # 203 Department of External Affairs to Australian Delegation, United Nations

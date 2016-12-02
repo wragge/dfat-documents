@@ -3,7 +3,7 @@ title: "455 War Cabinet Submission by Mr A. W. Fadden, Acting Minister for Defen
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1686
 vol_id: 4
-date: 1941-05-14
+doc_date: 1941-05-14
 ---
 
 # 455 War Cabinet Submission by Mr A. W. Fadden, Acting Minister for Defence Co-ordination

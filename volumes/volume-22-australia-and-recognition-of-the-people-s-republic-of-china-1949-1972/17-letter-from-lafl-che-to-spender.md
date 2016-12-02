@@ -3,7 +3,7 @@ title: "17 LETTER FROM LAFL�CHE TO SPENDER"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8501
 vol_id: 22
-date: 1950-06-07
+doc_date: 1950-06-07
 barcode: 140331
 ---
 

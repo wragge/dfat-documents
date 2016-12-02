@@ -3,7 +3,7 @@ title: "104 Department of External Affairs to Stirling"
 volume: "Volume 7: 1944"
 doc_id: 2751
 vol_id: 7
-date: 1944-03-30
+doc_date: 1944-03-30
 ---
 
 # 104 Department of External Affairs to Stirling

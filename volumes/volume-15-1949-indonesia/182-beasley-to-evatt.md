@@ -3,7 +3,7 @@ title: "182 Beasley to Evatt"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6351
 vol_id: 15
-date: 1949-02-02
+doc_date: 1949-02-02
 ---
 
 # 182 Beasley to Evatt

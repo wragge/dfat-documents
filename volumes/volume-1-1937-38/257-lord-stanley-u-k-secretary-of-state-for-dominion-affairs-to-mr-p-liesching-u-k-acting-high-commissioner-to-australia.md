@@ -3,7 +3,7 @@ title: "257 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Mr P.
 volume: "Volume 1: 1937-38"
 doc_id: 256
 vol_id: 1
-date: 1938-09-15
+doc_date: 1938-09-15
 ---
 
 # 257 Lord Stanley, U.K. Secretary of State for Dominion Affairs, to Mr P. Liesching, U.K. Acting High Commissioner to Australia

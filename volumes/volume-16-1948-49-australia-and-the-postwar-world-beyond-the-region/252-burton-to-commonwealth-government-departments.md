@@ -3,7 +3,7 @@ title: "252 Burton to Commonwealth Government Departments"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6967
 vol_id: 16
-date: 1949-05-06
+doc_date: 1949-05-06
 ---
 
 # 252 Burton to Commonwealth Government Departments

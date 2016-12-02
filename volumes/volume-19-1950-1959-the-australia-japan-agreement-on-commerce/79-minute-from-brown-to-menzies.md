@@ -3,7 +3,7 @@ title: "79 Minute From Brown To Menzies"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7684
 vol_id: 19
-date: 1954-10-14
+doc_date: 1954-10-14
 barcode: 209115
 ---
 

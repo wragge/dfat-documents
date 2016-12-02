@@ -3,7 +3,7 @@ title: "24 Evatt to King"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2315
 vol_id: 6
-date: 1942-08-14
+doc_date: 1942-08-14
 ---
 
 # 24 Evatt to King

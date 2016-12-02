@@ -3,7 +3,7 @@ title: "61 Mr H. Fitzmaurice, U.K. Consul-General in Batavia, to Mr J. A. Lyons,
 volume: "Volume 1: 1937-38"
 doc_id: 61
 vol_id: 1
-date: 1937-08-31
+doc_date: 1937-08-31
 ---
 
 # 61 Mr H. Fitzmaurice, U.K. Consul-General in Batavia, to Mr J. A. Lyons, Prime Minister [1]

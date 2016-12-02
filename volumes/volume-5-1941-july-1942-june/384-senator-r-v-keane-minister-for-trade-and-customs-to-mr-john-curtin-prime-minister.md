@@ -3,7 +3,7 @@ title: "384 Senator R. V. Keane, Minister for Trade and Customs, to Mr John Curt
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2138
 vol_id: 5
-date: 1942-02-28
+doc_date: 1942-02-28
 ---
 
 # 384 Senator R. V. Keane, Minister for Trade and Customs, to Mr John Curtin, Prime Minister

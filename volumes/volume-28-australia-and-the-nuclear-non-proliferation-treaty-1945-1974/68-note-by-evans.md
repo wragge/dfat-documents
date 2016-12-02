@@ -3,7 +3,7 @@ title: "68 Note by Evans"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10442
 vol_id: 28
-date: 1965-06-30
+doc_date: 1965-06-30
 barcode: 1730506
 ---
 

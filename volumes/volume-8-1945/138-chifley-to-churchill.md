@@ -3,7 +3,7 @@ title: "138 Chifley to Churchill"
 volume: "Volume 8: 1945"
 doc_id: 3169
 vol_id: 8
-date: 1945-07-20
+doc_date: 1945-07-20
 ---
 
 # 138 Chifley to Churchill

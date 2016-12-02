@@ -3,7 +3,7 @@ title: "213 General Assembly Resolution on Reduction of Armaments"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6928
 vol_id: 16
-date: 1948-11-19
+doc_date: 1948-11-19
 barcode: 169724
 ---
 

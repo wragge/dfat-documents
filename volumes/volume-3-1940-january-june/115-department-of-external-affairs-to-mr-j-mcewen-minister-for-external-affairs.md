@@ -3,7 +3,7 @@ title: "115 Department of External Affairs to Mr J. McEwen, Minister for Externa
 volume: "Volume 3: 1940, January-June"
 doc_id: 881
 vol_id: 3
-date: 1940-03-27
+doc_date: 1940-03-27
 ---
 
 # 115 Department of External Affairs to Mr J. McEwen, Minister for External Affairs

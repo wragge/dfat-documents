@@ -3,7 +3,7 @@ title: "340 Addison to Commonwealth Government"
 volume: "Volume 8: 1945"
 doc_id: 3371
 vol_id: 8
-date: 1945-10-23
+doc_date: 1945-10-23
 ---
 
 # 340 Addison to Commonwealth Government

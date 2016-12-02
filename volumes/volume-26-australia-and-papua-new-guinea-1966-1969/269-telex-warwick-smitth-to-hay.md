@@ -3,7 +3,7 @@ title: "269 Telex, Warwick Smitth To Hay"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9777
 vol_id: 26
-date: 1969-05-12
+doc_date: 1969-05-12
 barcode: 11340888
 ---
 

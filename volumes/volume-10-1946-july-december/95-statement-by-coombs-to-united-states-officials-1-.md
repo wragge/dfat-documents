@@ -3,7 +3,7 @@ title: "95 Statement by Coombs to United States Officials [1]"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3943
 vol_id: 10
-date: 1946-08-30
+doc_date: 1946-08-30
 ---
 
 # 95 Statement by Coombs to United States Officials [1]

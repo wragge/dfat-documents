@@ -3,7 +3,7 @@ title: "206 Department of External Affairs to Mr V. G. Bowden, Official Represen
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1960
 vol_id: 5
-date: 1941-12-19
+doc_date: 1941-12-19
 barcode: 1158278
 ---
 

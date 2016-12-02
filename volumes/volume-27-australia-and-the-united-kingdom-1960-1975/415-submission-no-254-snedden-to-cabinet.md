@@ -3,7 +3,7 @@ title: "415 SUBMISSION NO.254 SNEDDEN TO CABINET"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10281
 vol_id: 27
-date: 1966-06-30
+doc_date: 1966-06-30
 ---
 
 # 415 SUBMISSION NO.254 SNEDDEN TO CABINET

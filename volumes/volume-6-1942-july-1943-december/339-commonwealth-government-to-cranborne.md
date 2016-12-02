@@ -3,7 +3,7 @@ title: "339 Commonwealth Government to Cranborne"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2630
 vol_id: 6
-date: 1943-12-01
+doc_date: 1943-12-01
 ---
 
 # 339 Commonwealth Government to Cranborne

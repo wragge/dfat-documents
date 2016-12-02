@@ -3,7 +3,7 @@ title: "124 Minute From McNicol to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8475
 vol_id: 21
-date: 1951-12-11
+doc_date: 1951-12-11
 ---
 
 # 124 Minute From McNicol to Spender

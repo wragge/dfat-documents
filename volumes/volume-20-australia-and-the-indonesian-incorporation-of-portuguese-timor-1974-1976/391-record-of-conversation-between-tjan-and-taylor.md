@@ -3,7 +3,7 @@ title: "391 Record of Conversation Between Tjan and Taylor"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8229
 vol_id: 20
-date: 1975-12-23
+doc_date: 1975-12-23
 ---
 
 # 391 Record of Conversation Between Tjan and Taylor

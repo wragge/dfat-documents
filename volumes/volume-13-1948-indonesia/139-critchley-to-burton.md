@@ -3,7 +3,7 @@ title: "139 Critchley to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5406
 vol_id: 13
-date: 1948-05-21
+doc_date: 1948-05-21
 barcode: 216963
 ---
 

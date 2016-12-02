@@ -3,7 +3,7 @@ title: "416 Kirby to Burton"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4600
 vol_id: 11
-date: 1947-11-12
+doc_date: 1947-11-12
 ---
 
 # 416 Kirby to Burton

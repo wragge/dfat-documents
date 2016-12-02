@@ -3,7 +3,7 @@ title: "126 Critchley to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5393
 vol_id: 13
-date: 1948-05-06
+doc_date: 1948-05-06
 barcode: 216921
 ---
 

@@ -3,7 +3,7 @@ title: "317 Maloney to Department of External Affairs"
 volume: "Volume 7: 1944"
 doc_id: 2964
 vol_id: 7
-date: 1944-10-12
+doc_date: 1944-10-12
 ---
 
 # 317 Maloney to Department of External Affairs

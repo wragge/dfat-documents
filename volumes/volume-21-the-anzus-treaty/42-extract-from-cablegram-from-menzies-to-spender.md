@@ -3,7 +3,7 @@ title: "42 Extract From Cablegram From Menzies to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8393
 vol_id: 21
-date: 1951-02-06
+doc_date: 1951-02-06
 barcode: 271757
 ---
 

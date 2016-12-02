@@ -3,7 +3,7 @@ title: "125 Department of External Affairs to Stirling [1], Cutler and Hood"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3973
 vol_id: 10
-date: 1946-09-18
+doc_date: 1946-09-18
 barcode: 193476
 ---
 

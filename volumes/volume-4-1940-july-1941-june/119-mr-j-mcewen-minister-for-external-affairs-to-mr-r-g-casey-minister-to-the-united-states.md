@@ -3,7 +3,7 @@ title: "119 Mr J. McEwen, Minister for External Affairs, to Mr R. G. Casey, Mini
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1350
 vol_id: 4
-date: 1940-09-14
+doc_date: 1940-09-14
 barcode: 235517
 ---
 

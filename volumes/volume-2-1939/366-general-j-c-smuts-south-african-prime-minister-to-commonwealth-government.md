@@ -3,7 +3,7 @@ title: "366 General J.C. Smuts, South African Prime Minister, to Commonwealth Go
 volume: "Volume 2: 1939"
 doc_id: 703
 vol_id: 2
-date: 1939-11-16
+doc_date: 1939-11-16
 barcode: 206102
 ---
 

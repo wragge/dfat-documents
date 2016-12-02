@@ -3,7 +3,7 @@ title: "345 Glasgow to Evatt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2636
 vol_id: 6
-date: 1943-12-06
+doc_date: 1943-12-06
 ---
 
 # 345 Glasgow to Evatt

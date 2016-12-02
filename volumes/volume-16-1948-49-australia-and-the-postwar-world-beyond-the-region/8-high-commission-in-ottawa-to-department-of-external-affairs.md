@@ -3,7 +3,7 @@ title: "8 High Commission in Ottawa to Department of External Affairs"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6723
 vol_id: 16
-date: 1948-09-10
+doc_date: 1948-09-10
 barcode: 702968
 ---
 

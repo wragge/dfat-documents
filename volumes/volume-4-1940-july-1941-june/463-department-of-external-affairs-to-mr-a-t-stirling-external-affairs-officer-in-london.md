@@ -3,7 +3,7 @@ title: "463 Department of External Affairs to Mr A. T. Stirling, External Affair
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1694
 vol_id: 4
-date: 1941-05-21
+doc_date: 1941-05-21
 ---
 
 # 463 Department of External Affairs to Mr A. T. Stirling, External Affairs Officer in London

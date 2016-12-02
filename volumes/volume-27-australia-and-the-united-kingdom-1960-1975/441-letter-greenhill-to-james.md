@@ -3,7 +3,7 @@ title: "441 LETTER GREENHILL TO JAMES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10308
 vol_id: 27
-date: 1973-01-25
+doc_date: 1973-01-25
 ---
 
 # 441 LETTER GREENHILL TO JAMES

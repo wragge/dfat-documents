@@ -3,7 +3,7 @@ title: "165 TELEGRAM, HEATH TO FOREIGN OFFICE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10030
 vol_id: 27
-date: 1962-02-23
+doc_date: 1962-02-23
 ---
 
 # 165 TELEGRAM, HEATH TO FOREIGN OFFICE

@@ -3,7 +3,7 @@ title: "142 Cablegram From High Commission In London To Departments [1]"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7747
 vol_id: 19
-date: 1956-07-04
+doc_date: 1956-07-04
 ---
 
 # 142 Cablegram From High Commission In London To Departments [1]

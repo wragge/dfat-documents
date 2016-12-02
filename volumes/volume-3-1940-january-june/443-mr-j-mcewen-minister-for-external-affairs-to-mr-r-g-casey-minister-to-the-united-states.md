@@ -3,7 +3,7 @@ title: "443 Mr J. McEwen, Minister for External Affairs, to Mr R. G. Casey, Mini
 volume: "Volume 3: 1940, January-June"
 doc_id: 1209
 vol_id: 3
-date: 1940-06-26
+doc_date: 1940-06-26
 ---
 
 # 443 Mr J. McEwen, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States

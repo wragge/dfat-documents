@@ -3,7 +3,7 @@ title: "310 Chifley to Attlee"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4158
 vol_id: 10
-date: 1946-12-11
+doc_date: 1946-12-11
 ---
 
 # 310 Chifley to Attlee

@@ -3,7 +3,7 @@ title: "338 Mr W. L. Mackenzie King, Canadian Secretary of State for External Af
 volume: "Volume 1: 1937-38"
 doc_id: 337
 vol_id: 1
-date: 1938-12-29
+doc_date: 1938-12-29
 ---
 
 # 338 Mr W. L. Mackenzie King, Canadian Secretary of State for External Affairs, to Commonwealth Government

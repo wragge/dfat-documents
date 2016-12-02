@@ -3,7 +3,7 @@ title: "402 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr R.
 volume: "Volume 3: 1940, January-June"
 doc_id: 1168
 vol_id: 3
-date: 1940-06-18
+doc_date: 1940-06-18
 ---
 
 # 402 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr R. G. Menzies, Prime Minister

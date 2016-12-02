@@ -3,7 +3,7 @@ title: "229 High Commission in London to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6398
 vol_id: 15
-date: 1949-02-18
+doc_date: 1949-02-18
 ---
 
 # 229 High Commission in London to Department of External Affairs

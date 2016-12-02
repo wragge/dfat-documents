@@ -3,7 +3,7 @@ title: "216 Ball to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3728
 vol_id: 9
-date: 1946-04-26
+doc_date: 1946-04-26
 barcode: 191472
 ---
 

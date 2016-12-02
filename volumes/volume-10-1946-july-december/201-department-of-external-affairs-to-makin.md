@@ -3,7 +3,7 @@ title: "201 Department of External Affairs to Makin"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4049
 vol_id: 10
-date: 1946-11-08
+doc_date: 1946-11-08
 ---
 
 # 201 Department of External Affairs to Makin

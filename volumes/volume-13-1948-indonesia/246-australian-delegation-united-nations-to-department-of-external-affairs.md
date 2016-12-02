@@ -3,7 +3,7 @@ title: "246 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5513
 vol_id: 13
-date: 1948-09-17
+doc_date: 1948-09-17
 ---
 
 # 246 Australian Delegation, United Nations, to Department of External Affairs

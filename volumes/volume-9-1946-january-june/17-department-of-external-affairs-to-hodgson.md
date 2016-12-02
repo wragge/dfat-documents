@@ -3,7 +3,7 @@ title: "17 Department of External Affairs to Hodgson"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3529
 vol_id: 9
-date: 1946-01-10
+doc_date: 1946-01-10
 ---
 
 # 17 Department of External Affairs to Hodgson

@@ -3,7 +3,7 @@ title: "246 Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary 
 volume: "Volume 3: 1940, January-June"
 doc_id: 1012
 vol_id: 3
-date: 1940-05-16
+doc_date: 1940-05-16
 ---
 
 # 246 Mr R. G. Menzies, Prime Minister, to Lord Caldecote, U.K. Secretary of State for Dominion Affairs

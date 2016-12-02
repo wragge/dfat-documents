@@ -3,7 +3,7 @@ title: "6 Mr W.M. Hughes, Minister for External Affairs, to Mr J.A. Lyons, Prime
 volume: "Volume 2: 1939"
 doc_id: 343
 vol_id: 2
-date: 1939-01-17
+doc_date: 1939-01-17
 barcode: 206202
 ---
 

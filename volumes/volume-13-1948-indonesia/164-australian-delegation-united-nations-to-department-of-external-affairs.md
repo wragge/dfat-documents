@@ -3,7 +3,7 @@ title: "164 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5431
 vol_id: 13
-date: 1948-06-04
+doc_date: 1948-06-04
 barcode: 1729706
 ---
 

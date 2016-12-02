@@ -3,7 +3,7 @@ title: "120 Mr N.C. Tritton, Private Secretary to Prime Minister, to Sir Henry G
 volume: "Volume 2: 1939"
 doc_id: 457
 vol_id: 2
-date: 1939-07-14
+doc_date: 1939-07-14
 ---
 
 # 120 Mr N.C. Tritton, Private Secretary to Prime Minister, to Sir Henry Gullett, Minister for External Affairs

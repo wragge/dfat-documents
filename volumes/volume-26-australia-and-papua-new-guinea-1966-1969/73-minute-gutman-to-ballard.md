@@ -3,7 +3,7 @@ title: "73 Minute, Gutman To Ballard"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9581
 vol_id: 26
-date: 1966-09-26
+doc_date: 1966-09-26
 barcode: 12030516
 ---
 

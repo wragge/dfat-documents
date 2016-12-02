@@ -3,7 +3,7 @@ title: "341 Saltzman to Makin"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6117
 vol_id: 14
-date: 1948-07-08
+doc_date: 1948-07-08
 ---
 
 # 341 Saltzman to Makin

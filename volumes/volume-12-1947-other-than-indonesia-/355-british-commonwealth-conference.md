@@ -3,7 +3,7 @@ title: "355 British Commonwealth Conference"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5037
 vol_id: 12
-date: 1945-07-26
+doc_date: 1945-07-26
 ---
 
 # 355 British Commonwealth Conference

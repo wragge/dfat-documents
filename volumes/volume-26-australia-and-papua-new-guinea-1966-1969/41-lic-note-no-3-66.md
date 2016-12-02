@@ -3,7 +3,7 @@ title: "41 LIC Note No. 3/66"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9549
 vol_id: 26
-date: 1966-05-10
+doc_date: 1966-05-10
 barcode: 3111097
 ---
 

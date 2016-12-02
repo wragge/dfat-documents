@@ -3,7 +3,7 @@ title: "443 SUBMISSION NO. 102 GRASSBY TO CABINET"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10310
 vol_id: 27
-date: 1973-02-13
+doc_date: 1973-02-13
 ---
 
 # 443 SUBMISSION NO. 102 GRASSBY TO CABINET

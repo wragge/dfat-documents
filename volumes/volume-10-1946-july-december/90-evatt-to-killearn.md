@@ -3,7 +3,7 @@ title: "90 Evatt to Killearn"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3938
 vol_id: 10
-date: 1946-08-28
+doc_date: 1946-08-28
 ---
 
 # 90 Evatt to Killearn

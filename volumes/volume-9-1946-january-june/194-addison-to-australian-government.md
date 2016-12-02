@@ -3,7 +3,7 @@ title: "194 Addison to Australian Government"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3706
 vol_id: 9
-date: 1946-04-16
+doc_date: 1946-04-16
 barcode: 193424
 ---
 

@@ -3,7 +3,7 @@ title: "21 Major B. Combes, General Staff, Army Headquarters, to Mr H. A. Peters
 volume: "Volume 1: 1937-38"
 doc_id: 21
 vol_id: 1
-date: 1937-04-29
+doc_date: 1937-04-29
 ---
 
 # 21 Major B. Combes, General Staff, Army Headquarters, to Mr H. A. Peterson, Department of External Affairs

@@ -3,7 +3,7 @@ title: "411 Prime Minister's Department to Mr H.A. Peterson, Australian Governme
 volume: "Volume 2: 1939"
 doc_id: 748
 vol_id: 2
-date: 1939-12-07
+doc_date: 1939-12-07
 barcode: 205384
 ---
 

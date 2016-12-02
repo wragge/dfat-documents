@@ -3,7 +3,7 @@ title: "168 Amery to Curtin (in London)"
 volume: "Volume 7: 1944"
 doc_id: 2815
 vol_id: 7
-date: 1944-05-26
+doc_date: 1944-05-26
 ---
 
 # 168 Amery to Curtin (in London)

@@ -3,7 +3,7 @@ title: "11 Note by Australian Delegation, United Nations"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10386
 vol_id: 28
-date: 1951-02-09
+doc_date: 1951-02-09
 barcode: 471019
 ---
 

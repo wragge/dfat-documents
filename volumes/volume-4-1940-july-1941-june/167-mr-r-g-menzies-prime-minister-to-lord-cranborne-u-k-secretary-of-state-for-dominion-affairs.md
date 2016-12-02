@@ -3,7 +3,7 @@ title: "167 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1398
 vol_id: 4
-date: 1940-10-10
+doc_date: 1940-10-10
 ---
 
 # 167 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs

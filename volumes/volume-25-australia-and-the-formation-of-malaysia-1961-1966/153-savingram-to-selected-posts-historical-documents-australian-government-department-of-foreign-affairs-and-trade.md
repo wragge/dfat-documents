@@ -3,7 +3,7 @@ title: "153 Savingram to Selected Posts - Historical Documents - Australian Gove
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9283
 vol_id: 25
-date: 1964-02-04
+doc_date: 1964-02-04
 barcode: 1500904
 ---
 

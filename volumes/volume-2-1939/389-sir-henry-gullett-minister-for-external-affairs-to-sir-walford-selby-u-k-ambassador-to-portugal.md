@@ -3,7 +3,7 @@ title: "389 Sir Henry Gullett, Minister for External Affairs, to Sir Walford Sel
 volume: "Volume 2: 1939"
 doc_id: 726
 vol_id: 2
-date: 1939-11-28
+doc_date: 1939-11-28
 barcode: 206913
 ---
 

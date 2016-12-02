@@ -3,7 +3,7 @@ title: "297 Macgregor to Division of Import Procurement"
 volume: "Volume 7: 1944"
 doc_id: 2944
 vol_id: 7
-date: 1944-09-22
+doc_date: 1944-09-22
 ---
 
 # 297 Macgregor to Division of Import Procurement

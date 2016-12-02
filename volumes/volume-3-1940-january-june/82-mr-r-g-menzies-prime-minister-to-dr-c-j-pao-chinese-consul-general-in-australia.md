@@ -3,7 +3,7 @@ title: "82 Mr R. G. Menzies, Prime Minister, to Dr C. J. Pao, Chinese Consul-Gen
 volume: "Volume 3: 1940, January-June"
 doc_id: 848
 vol_id: 3
-date: 1940-02-28
+doc_date: 1940-02-28
 ---
 
 # 82 Mr R. G. Menzies, Prime Minister, to Dr C. J. Pao, Chinese Consul-General in Australia

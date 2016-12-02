@@ -3,7 +3,7 @@ title: "81 Message[1] From Spender to Dulles"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8432
 vol_id: 21
-date: 1951-04-13
+doc_date: 1951-04-13
 ---
 
 # 81 Message[1] From Spender to Dulles

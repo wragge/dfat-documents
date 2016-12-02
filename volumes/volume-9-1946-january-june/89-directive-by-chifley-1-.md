@@ -3,7 +3,7 @@ title: "89 Directive by Chifley [1]"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3601
 vol_id: 9
-date: 1945-12-14
+doc_date: 1945-12-14
 ---
 
 # 89 Directive by Chifley [1]

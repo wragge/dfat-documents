@@ -3,7 +3,7 @@ title: "80 Dr H. V. Evatt, Minister for External Affairs, to Mr V. G. Bowden, Of
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1834
 vol_id: 5
-date: 1941-10-13
+doc_date: 1941-10-13
 ---
 
 # 80 Dr H. V. Evatt, Minister for External Affairs, to Mr V. G. Bowden, Official Representative in Singapore

@@ -3,7 +3,7 @@ title: "1 Address by Evatt to the United Nations General Assembly"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4683
 vol_id: 12
-date: 1947-09-18
+doc_date: 1947-09-18
 ---
 
 # 1 Address by Evatt to the United Nations General Assembly

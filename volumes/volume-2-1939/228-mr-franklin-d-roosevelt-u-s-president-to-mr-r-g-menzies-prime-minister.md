@@ -3,7 +3,7 @@ title: "228 Mr Franklin D. Roosevelt, U.S. President, to Mr R.G. Menzies, Prime 
 volume: "Volume 2: 1939"
 doc_id: 565
 vol_id: 2
-date: 1939-09-16
+doc_date: 1939-09-16
 ---
 
 # 228 Mr Franklin D. Roosevelt, U.S. President, to Mr R.G. Menzies, Prime Minister

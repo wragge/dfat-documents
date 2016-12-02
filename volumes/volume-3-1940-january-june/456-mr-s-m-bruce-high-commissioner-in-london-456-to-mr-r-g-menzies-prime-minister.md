@@ -3,7 +3,7 @@ title: "456 Mr S. M. Bruce, High Commissioner in London, 456 to Mr R. G. Menzies
 volume: "Volume 3: 1940, January-June"
 doc_id: 1222
 vol_id: 3
-date: 1940-06-27
+doc_date: 1940-06-27
 ---
 
 # 456 Mr S. M. Bruce, High Commissioner in London, 456 to Mr R. G. Menzies, Prime Minister

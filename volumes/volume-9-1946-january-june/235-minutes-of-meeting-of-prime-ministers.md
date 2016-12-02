@@ -3,7 +3,7 @@ title: "235 Minutes of Meeting of Prime Ministers"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3747
 vol_id: 9
-date: 1946-05-06
+doc_date: 1946-05-06
 barcode: 694890
 ---
 

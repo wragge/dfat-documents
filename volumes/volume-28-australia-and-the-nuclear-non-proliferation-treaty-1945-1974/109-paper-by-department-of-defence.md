@@ -3,7 +3,7 @@ title: "109 Paper by Department of Defence"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10483
 vol_id: 28
-date: 1968-03-06
+doc_date: 1968-03-06
 barcode: 1725936
 ---
 

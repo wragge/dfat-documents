@@ -3,7 +3,7 @@ title: "81 Note by Department of Defence for Cabinet"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10455
 vol_id: 28
-date: 1966-03-24
+doc_date: 1966-03-24
 barcode: 1342340
 ---
 

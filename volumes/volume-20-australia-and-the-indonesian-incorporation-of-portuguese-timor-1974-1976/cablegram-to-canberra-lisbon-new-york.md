@@ -3,7 +3,7 @@ title: "Cablegram to Canberra, Lisbon, New York"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8345
 vol_id: 20
-date: 1977-05-26
+doc_date: 1977-05-26
 ---
 
 # Cablegram to Canberra, Lisbon, New York

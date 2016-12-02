@@ -3,7 +3,7 @@ title: "304 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner
 volume: "Volume 2: 1939"
 doc_id: 641
 vol_id: 2
-date: 1939-10-21
+doc_date: 1939-10-21
 ---
 
 # 304 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner in London

@@ -3,7 +3,7 @@ title: "151 Cabinet Decision No. 39 - Historical Documents - Australian Governme
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9281
 vol_id: 25
-date: 1964-01-28
+doc_date: 1964-01-28
 ---
 
 # 151 Cabinet Decision No. 39 - Historical Documents - Australian Government Department of Foreign Affairs and Trade

@@ -3,7 +3,7 @@ title: "67 Blamey to Curtin"
 volume: "Volume 8: 1945"
 doc_id: 3098
 vol_id: 8
-date: 1945-04-05
+doc_date: 1945-04-05
 ---
 
 # 67 Blamey to Curtin

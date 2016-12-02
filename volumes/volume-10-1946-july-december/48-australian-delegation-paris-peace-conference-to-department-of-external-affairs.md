@@ -3,7 +3,7 @@ title: "48 Australian Delegation, Paris Peace Conference, to Department of Exter
 volume: "Volume 10: 1946, July-December"
 doc_id: 3896
 vol_id: 10
-date: 1946-08-01
+doc_date: 1946-08-01
 barcode: 191209
 ---
 

@@ -3,7 +3,7 @@ title: "102 Letter from Menzies to Oliver - Historical Documents - Australian Go
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9233
 vol_id: 25
-date: 1963-08-22
+doc_date: 1963-08-22
 barcode: 1343637
 ---
 

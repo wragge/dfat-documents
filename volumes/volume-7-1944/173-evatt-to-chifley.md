@@ -3,7 +3,7 @@ title: "173 Evatt to Chifley"
 volume: "Volume 7: 1944"
 doc_id: 2820
 vol_id: 7
-date: 1944-05-30
+doc_date: 1944-05-30
 ---
 
 # 173 Evatt to Chifley

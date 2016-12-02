@@ -3,7 +3,7 @@ title: "159 Burton to Hood"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6328
 vol_id: 15
-date: 1949-01-26
+doc_date: 1949-01-26
 ---
 
 # 159 Burton to Hood

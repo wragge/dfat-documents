@@ -3,7 +3,7 @@ title: "300 Department of External Affairs to Posts"
 volume: "Volume 8: 1945"
 doc_id: 3331
 vol_id: 8
-date: 1945-10-10
+doc_date: 1945-10-10
 ---
 
 # 300 Department of External Affairs to Posts

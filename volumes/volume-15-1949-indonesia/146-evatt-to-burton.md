@@ -3,7 +3,7 @@ title: "146 Evatt to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6315
 vol_id: 15
-date: 1949-01-23
+doc_date: 1949-01-23
 ---
 
 # 146 Evatt to Burton

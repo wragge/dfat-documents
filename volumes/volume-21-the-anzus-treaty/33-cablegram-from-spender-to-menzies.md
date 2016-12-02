@@ -3,7 +3,7 @@ title: "33 Cablegram From Spender to Menzies"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8384
 vol_id: 21
-date: 1951-01-18
+doc_date: 1951-01-18
 barcode: 3529283
 ---
 

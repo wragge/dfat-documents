@@ -3,7 +3,7 @@ title: "191 Cablegram from McEwen to Menzies - Historical Documents - Australian
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9321
 vol_id: 25
-date: 1964-07-03
+doc_date: 1964-07-03
 barcode: 1688909
 ---
 

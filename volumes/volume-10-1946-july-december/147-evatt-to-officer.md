@@ -3,7 +3,7 @@ title: "147 Evatt to Officer"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3995
 vol_id: 10
-date: 1946-10-01
+doc_date: 1946-10-01
 ---
 
 # 147 Evatt to Officer

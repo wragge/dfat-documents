@@ -3,7 +3,7 @@ title: "249 Minute, Corkery To Shann"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9757
 vol_id: 26
-date: 1969-01-01
+doc_date: 1969-01-01
 barcode: 580753
 ---
 

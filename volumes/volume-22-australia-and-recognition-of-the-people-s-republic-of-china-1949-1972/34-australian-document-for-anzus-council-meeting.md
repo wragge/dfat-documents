@@ -3,7 +3,7 @@ title: "34 AUSTRALIAN DOCUMENT FOR ANZUS COUNCIL MEETING"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8517
 vol_id: 22
-date: 1952-08-06
+doc_date: 1952-08-06
 ---
 
 # 34 AUSTRALIAN DOCUMENT FOR ANZUS COUNCIL MEETING

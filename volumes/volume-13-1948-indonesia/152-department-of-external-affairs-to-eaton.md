@@ -3,7 +3,7 @@ title: "152 Department of External Affairs to Eaton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5419
 vol_id: 13
-date: 1948-06-01
+doc_date: 1948-06-01
 ---
 
 # 152 Department of External Affairs to Eaton

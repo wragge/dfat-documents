@@ -3,7 +3,7 @@ title: "506 Mr D. Ross, Department of Civil Aviation Representative in Dili, to 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1737
 vol_id: 4
-date: 1941-06-17
+doc_date: 1941-06-17
 ---
 
 # 506 Mr D. Ross, Department of Civil Aviation Representative in Dili, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs

@@ -3,7 +3,7 @@ title: "75 Churchill to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2722
 vol_id: 7
-date: 1944-03-11
+doc_date: 1944-03-11
 barcode: 170642
 ---
 

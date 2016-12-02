@@ -3,7 +3,7 @@ title: "41 Brief for Casey by Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10415
 vol_id: 28
-date: 1961-02-21
+doc_date: 1961-02-21
 barcode: 1381319
 ---
 

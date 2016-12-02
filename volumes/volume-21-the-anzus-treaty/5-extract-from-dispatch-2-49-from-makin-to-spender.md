@@ -3,7 +3,7 @@ title: "5 Extract From Dispatch 2/49 From Makin to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8356
 vol_id: 21
-date: 1949-12-23
+doc_date: 1949-12-23
 ---
 
 # 5 Extract From Dispatch 2/49 From Makin to Spender

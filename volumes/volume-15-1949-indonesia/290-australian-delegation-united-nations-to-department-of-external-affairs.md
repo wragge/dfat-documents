@@ -3,7 +3,7 @@ title: "290 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6459
 vol_id: 15
-date: 1949-03-10
+doc_date: 1949-03-10
 ---
 
 # 290 Australian Delegation, United Nations, to Department of External Affairs

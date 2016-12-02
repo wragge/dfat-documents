@@ -3,7 +3,7 @@ title: "245 Submission to Cabinet Economic Committee"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9114
 vol_id: 23
-date: 1982-05-28
+doc_date: 1982-05-28
 ---
 
 # 245 Submission to Cabinet Economic Committee

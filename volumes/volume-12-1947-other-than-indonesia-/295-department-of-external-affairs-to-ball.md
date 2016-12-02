@@ -3,7 +3,7 @@ title: "295 Department of External Affairs to Ball"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4977
 vol_id: 12
-date: 1947-02-28
+doc_date: 1947-02-28
 ---
 
 # 295 Department of External Affairs to Ball

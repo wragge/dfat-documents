@@ -3,7 +3,7 @@ title: "272 Submission, Reseigh To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9780
 vol_id: 26
-date: 1969-05-19
+doc_date: 1969-05-19
 barcode: 32756829
 ---
 

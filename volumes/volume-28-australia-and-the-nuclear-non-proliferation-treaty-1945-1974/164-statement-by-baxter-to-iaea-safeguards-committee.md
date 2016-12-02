@@ -3,7 +3,7 @@ title: "164 Statement by Baxter to IAEA Safeguards Committee"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10538
 vol_id: 28
-date: 1970-06-12
+doc_date: 1970-06-12
 barcode: 555695
 ---
 

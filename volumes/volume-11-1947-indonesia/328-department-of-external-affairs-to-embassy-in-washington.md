@@ -3,7 +3,7 @@ title: "328 Department of External Affairs to Embassy in Washington"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4512
 vol_id: 11
-date: 1947-09-11
+doc_date: 1947-09-11
 ---
 
 # 328 Department of External Affairs to Embassy in Washington

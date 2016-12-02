@@ -3,7 +3,7 @@ title: "520 Dr H. V. Evatt, Minister for External Affairs, to Commonwealth Gover
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2274
 vol_id: 5
-date: 1942-06-06
+doc_date: 1942-06-06
 ---
 
 # 520 Dr H. V. Evatt, Minister for External Affairs, to Commonwealth Government

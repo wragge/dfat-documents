@@ -3,7 +3,7 @@ title: "88 Kirby to Burton"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5355
 vol_id: 13
-date: 1948-02-24
+doc_date: 1948-02-24
 ---
 
 # 88 Kirby to Burton

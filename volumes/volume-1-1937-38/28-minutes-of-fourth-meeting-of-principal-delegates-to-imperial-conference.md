@@ -3,7 +3,7 @@ title: "28 Minutes of Fourth Meeting of Principal Delegates to Imperial Conferen
 volume: "Volume 1: 1937-38"
 doc_id: 28
 vol_id: 1
-date: 1937-05-22
+doc_date: 1937-05-22
 ---
 
 # 28 Minutes of Fourth Meeting of Principal Delegates to Imperial Conference

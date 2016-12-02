@@ -3,7 +3,7 @@ title: "322 Mr V. G. Bowden, Official Representative in Singapore, to Department
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2076
 vol_id: 5
-date: 1942-02-09
+doc_date: 1942-02-09
 ---
 
 # 322 Mr V. G. Bowden, Official Representative in Singapore, to Department of External Affairs

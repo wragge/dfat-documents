@@ -3,7 +3,7 @@ title: "132 Submission No. 401, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9640
 vol_id: 26
-date: 1967-07-11
+doc_date: 1967-07-11
 ---
 
 # 132 Submission No. 401, Barnes To Cabinet

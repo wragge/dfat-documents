@@ -3,7 +3,7 @@ title: "316 Bruce to Prime Minister's Department"
 volume: "Volume 7: 1944"
 doc_id: 2963
 vol_id: 7
-date: 1944-10-12
+doc_date: 1944-10-12
 ---
 
 # 316 Bruce to Prime Minister's Department

@@ -3,7 +3,7 @@ title: "111 MINUTE, BUNTING TO MCMAHON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9976
 vol_id: 27
-date: 1971-06-07
+doc_date: 1971-06-07
 ---
 
 # 111 MINUTE, BUNTING TO MCMAHON

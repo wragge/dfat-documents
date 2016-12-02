@@ -3,7 +3,7 @@ title: "262 SUBMISSION NO. 258, MCEWEN TO CABINET"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10127
 vol_id: 27
-date: 1970-02-19
+doc_date: 1970-02-19
 ---
 
 # 262 SUBMISSION NO. 258, MCEWEN TO CABINET

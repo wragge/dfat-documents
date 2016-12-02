@@ -3,7 +3,7 @@ title: "185 Chifley to Attlee"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4867
 vol_id: 12
-date: 1947-09-16
+doc_date: 1947-09-16
 ---
 
 # 185 Chifley to Attlee

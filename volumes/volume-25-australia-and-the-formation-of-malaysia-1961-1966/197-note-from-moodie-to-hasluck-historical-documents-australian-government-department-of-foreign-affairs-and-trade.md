@@ -3,7 +3,7 @@ title: "197 Note from Moodie to Hasluck - Historical Documents - Australian Gove
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9327
 vol_id: 25
-date: 1964-08-17
+doc_date: 1964-08-17
 barcode: 1835724
 ---
 

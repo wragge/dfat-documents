@@ -3,7 +3,7 @@ title: "259 Submission to Willesee"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8097
 vol_id: 20
-date: 1975-10-14
+doc_date: 1975-10-14
 ---
 
 # 259 Submission to Willesee

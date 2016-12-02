@@ -3,7 +3,7 @@ title: "259 Addison to Commonwealth Government"
 volume: "Volume 8: 1945"
 doc_id: 3290
 vol_id: 8
-date: 1945-09-20
+doc_date: 1945-09-20
 ---
 
 # 259 Addison to Commonwealth Government

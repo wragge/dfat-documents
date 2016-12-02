@@ -3,7 +3,7 @@ title: "145 Commonwealth Government to Mr P. Fraser, N.Z. Prime Minister"
 volume: "Volume 3: 1940, January-June"
 doc_id: 911
 vol_id: 3
-date: 1940-04-15
+doc_date: 1940-04-15
 ---
 
 # 145 Commonwealth Government to Mr P. Fraser, N.Z. Prime Minister

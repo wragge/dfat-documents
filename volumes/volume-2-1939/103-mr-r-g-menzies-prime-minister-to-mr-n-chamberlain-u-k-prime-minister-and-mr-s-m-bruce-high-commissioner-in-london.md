@@ -3,7 +3,7 @@ title: "103 Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Mi
 volume: "Volume 2: 1939"
 doc_id: 440
 vol_id: 2
-date: 1939-06-15
+doc_date: 1939-06-15
 ---
 
 # 103 Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister, and Mr S.M. Bruce, High Commissioner in London

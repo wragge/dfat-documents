@@ -3,7 +3,7 @@ title: "194 Australia-Japan Trade Negotiations: Second Plenary Meeting"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7799
 vol_id: 19
-date: 1957-03-25
+doc_date: 1957-03-25
 ---
 
 # 194 Australia-Japan Trade Negotiations: Second Plenary Meeting

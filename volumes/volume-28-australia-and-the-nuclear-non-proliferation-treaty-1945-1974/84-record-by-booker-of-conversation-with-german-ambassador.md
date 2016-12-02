@@ -3,7 +3,7 @@ title: "84 Record by Booker of Conversation with German Ambassador"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10458
 vol_id: 28
-date: 1967-02-02
+doc_date: 1967-02-02
 barcode: 546404
 ---
 

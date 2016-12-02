@@ -3,7 +3,7 @@ title: "70-Record-of-Conversation-with-Habib-and-Moerdani"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7909
 vol_id: 20
-date: 1975-01-06
+doc_date: 1975-01-06
 ---
 
 # 70-Record-of-Conversation-with-Habib-and-Moerdani

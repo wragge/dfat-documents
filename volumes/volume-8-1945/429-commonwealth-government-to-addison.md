@@ -3,7 +3,7 @@ title: "429 Commonwealth Government to Addison"
 volume: "Volume 8: 1945"
 doc_id: 3460
 vol_id: 8
-date: 1945-12-04
+doc_date: 1945-12-04
 ---
 
 # 429 Commonwealth Government to Addison

@@ -3,7 +3,7 @@ title: "431 Embassy in Washington to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5113
 vol_id: 12
-date: 1947-02-17
+doc_date: 1947-02-17
 ---
 
 # 431 Embassy in Washington to Department of External Affairs

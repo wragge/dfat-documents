@@ -3,7 +3,7 @@ title: "163 TIC Paper No. 268"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9671
 vol_id: 26
-date: 1968-03-08
+doc_date: 1968-03-08
 ---
 
 # 163 TIC Paper No. 268

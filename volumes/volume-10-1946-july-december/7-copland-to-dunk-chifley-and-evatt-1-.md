@@ -3,7 +3,7 @@ title: "7 Copland to Dunk, Chifley and Evatt [1]"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3855
 vol_id: 10
-date: 1946-07-02
+doc_date: 1946-07-02
 ---
 
 # 7 Copland to Dunk, Chifley and Evatt [1]

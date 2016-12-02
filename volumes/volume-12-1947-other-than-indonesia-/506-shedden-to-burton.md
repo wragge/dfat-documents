@@ -3,7 +3,7 @@ title: "506 Shedden to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5188
 vol_id: 12
-date: 1947-07-17
+doc_date: 1947-07-17
 ---
 
 # 506 Shedden to Burton

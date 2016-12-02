@@ -3,7 +3,7 @@ title: "15 Memorandum By Department Of Commerce & Agriculture"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7620
 vol_id: 19
-date: 1952-07-03
+doc_date: 1952-07-03
 ---
 
 # 15 Memorandum By Department Of Commerce & Agriculture

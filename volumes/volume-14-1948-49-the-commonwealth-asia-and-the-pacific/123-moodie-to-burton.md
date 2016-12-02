@@ -3,7 +3,7 @@ title: "123 Moodie to Burton"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5899
 vol_id: 14
-date: 1948-11-24
+doc_date: 1948-11-24
 ---
 
 # 123 Moodie to Burton

@@ -3,7 +3,7 @@ title: "366 RECORD OF CONVERSATION BETWEEN WHITLAM AND JAMES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10232
 vol_id: 27
-date: 1972-12-20
+doc_date: 1972-12-20
 ---
 
 # 366 RECORD OF CONVERSATION BETWEEN WHITLAM AND JAMES

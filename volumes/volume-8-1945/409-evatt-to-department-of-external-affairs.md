@@ -3,7 +3,7 @@ title: "409 Evatt to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3440
 vol_id: 8
-date: 1945-11-23
+doc_date: 1945-11-23
 ---
 
 # 409 Evatt to Department of External Affairs

@@ -3,7 +3,7 @@ title: "96 DESPATCH, DEAN TO STEWART"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9961
 vol_id: 27
-date: 1968-05-10
+doc_date: 1968-05-10
 ---
 
 # 96 DESPATCH, DEAN TO STEWART

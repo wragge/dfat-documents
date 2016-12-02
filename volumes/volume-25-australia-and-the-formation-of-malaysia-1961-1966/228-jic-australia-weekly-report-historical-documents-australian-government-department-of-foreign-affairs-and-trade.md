@@ -3,7 +3,7 @@ title: "228 Jic (Australia) Weekly Report - Historical Documents - Australian Go
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9358
 vol_id: 25
-date: 1964-12-15
+doc_date: 1964-12-15
 barcode: 1500920
 ---
 

@@ -3,7 +3,7 @@ title: "171 Legge to Burton"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4355
 vol_id: 11
-date: 1947-07-28
+doc_date: 1947-07-28
 ---
 
 # 171 Legge to Burton

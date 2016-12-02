@@ -3,7 +3,7 @@ title: "274 Note of Meeting of U.K. and Dominions 274 Representatives"
 volume: "Volume 1: 1937-38"
 doc_id: 273
 vol_id: 1
-date: 1938-09-24
+doc_date: 1938-09-24
 ---
 
 # 274 Note of Meeting of U.K. and Dominions 274 Representatives

@@ -3,7 +3,7 @@ title: "496 Burton to Kirby"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4680
 vol_id: 11
-date: 1947-12-31
+doc_date: 1947-12-31
 ---
 
 # 496 Burton to Kirby

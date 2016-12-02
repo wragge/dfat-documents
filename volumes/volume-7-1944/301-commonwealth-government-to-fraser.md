@@ -3,7 +3,7 @@ title: "301 Commonwealth Government to Fraser"
 volume: "Volume 7: 1944"
 doc_id: 2948
 vol_id: 7
-date: 1944-09-26
+doc_date: 1944-09-26
 ---
 
 # 301 Commonwealth Government to Fraser

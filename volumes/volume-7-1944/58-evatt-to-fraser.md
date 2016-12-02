@@ -3,7 +3,7 @@ title: "58 Evatt to Fraser"
 volume: "Volume 7: 1944"
 doc_id: 2705
 vol_id: 7
-date: 1944-02-28
+doc_date: 1944-02-28
 ---
 
 # 58 Evatt to Fraser

@@ -3,7 +3,7 @@ title: "275 Bulcock to Scully"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3787
 vol_id: 9
-date: 1946-05-28
+doc_date: 1946-05-28
 barcode: 191302
 ---
 

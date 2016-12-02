@@ -3,7 +3,7 @@ title: "130 Memorandum by Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8481
 vol_id: 21
-date: 1952-03-21
+doc_date: 1952-03-21
 barcode: 271999
 ---
 

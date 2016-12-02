@@ -3,7 +3,7 @@ title: "313 Legation in Washington to Commonwealth"
 volume: "Volume 7: 1944"
 doc_id: 2960
 vol_id: 7
-date: 1944-10-10
+doc_date: 1944-10-10
 ---
 
 # 313 Legation in Washington to Commonwealth

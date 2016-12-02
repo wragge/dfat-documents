@@ -3,7 +3,7 @@ title: "76 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to S
 volume: "Volume 2: 1939"
 doc_id: 413
 vol_id: 2
-date: 1939-04-29
+doc_date: 1939-04-29
 ---
 
 # 76 Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner to Australia

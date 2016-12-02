@@ -3,7 +3,7 @@ title: "13 Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to 
 volume: "Volume 2: 1939"
 doc_id: 350
 vol_id: 2
-date: 1939-01-27
+doc_date: 1939-01-27
 ---
 
 # 13 Lt Col W.R. Hodgson, Secretary of Department of External Affairs, to External Affairs Office, London

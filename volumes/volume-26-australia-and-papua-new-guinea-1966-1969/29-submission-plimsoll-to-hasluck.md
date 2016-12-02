@@ -3,7 +3,7 @@ title: "29 Submission, Plimsoll To Hasluck"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9808
 vol_id: 26
-date: 1966-03-14
+doc_date: 1966-03-14
 barcode: 1730563
 ---
 

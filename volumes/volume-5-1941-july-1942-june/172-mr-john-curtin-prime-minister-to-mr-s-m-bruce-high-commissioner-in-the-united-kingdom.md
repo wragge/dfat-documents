@@ -3,7 +3,7 @@ title: "172 Mr John Curtin, Prime Minister, to Mr S. M. Bruce, High Commissioner
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1926
 vol_id: 5
-date: 1941-12-08
+doc_date: 1941-12-08
 ---
 
 # 172 Mr John Curtin, Prime Minister, to Mr S. M. Bruce, High Commissioner in the United Kingdom

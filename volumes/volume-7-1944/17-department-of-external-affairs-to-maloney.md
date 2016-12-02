@@ -3,7 +3,7 @@ title: "17 Department of External Affairs to Maloney"
 volume: "Volume 7: 1944"
 doc_id: 2664
 vol_id: 7
-date: 1944-01-16
+doc_date: 1944-01-16
 ---
 
 # 17 Department of External Affairs to Maloney

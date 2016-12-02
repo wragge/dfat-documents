@@ -3,7 +3,7 @@ title: "196 Extracts from Cablegram from Department of Foreign Affairs to Posts"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9065
 vol_id: 23
-date: 1982-06-10
+doc_date: 1982-06-10
 ---
 
 # 196 Extracts from Cablegram from Department of Foreign Affairs to Posts

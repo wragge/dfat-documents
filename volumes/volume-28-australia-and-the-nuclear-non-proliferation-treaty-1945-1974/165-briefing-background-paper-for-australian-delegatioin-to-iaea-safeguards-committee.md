@@ -3,7 +3,7 @@ title: "165 Briefing Background Paper for Australian Delegatioin to IAEA Safegua
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10539
 vol_id: 28
-date: 1970-06-17
+doc_date: 1970-06-17
 barcode: 555695
 ---
 

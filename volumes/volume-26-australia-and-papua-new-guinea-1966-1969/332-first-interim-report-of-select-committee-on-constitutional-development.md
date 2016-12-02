@@ -3,7 +3,7 @@ title: "332 First Interim Report Of Select Committee On Constitutional Developme
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9841
 vol_id: 26
-date: 1969-11-13
+doc_date: 1969-11-13
 barcode: 3118271
 ---
 

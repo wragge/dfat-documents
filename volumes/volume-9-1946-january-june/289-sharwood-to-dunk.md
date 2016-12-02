@@ -3,7 +3,7 @@ title: "289 Sharwood to Dunk"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3801
 vol_id: 9
-date: 1946-06-03
+doc_date: 1946-06-03
 barcode: 191564
 ---
 

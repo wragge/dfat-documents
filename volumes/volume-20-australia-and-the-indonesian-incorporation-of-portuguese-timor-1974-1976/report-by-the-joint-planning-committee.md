@@ -3,7 +3,7 @@ title: "Report by the Joint Planning Committee"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8339
 vol_id: 20
-date: 1965-05-27
+doc_date: 1965-05-27
 ---
 
 # Report by the Joint Planning Committee

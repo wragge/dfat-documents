@@ -3,7 +3,7 @@ title: "210 Evatt to Roosevelt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2501
 vol_id: 6
-date: 1943-06-03
+doc_date: 1943-06-03
 ---
 
 # 210 Evatt to Roosevelt

@@ -3,7 +3,7 @@ title: "46 Cablegram from Shann to Tange - Historical Documents - Australian Gov
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9178
 vol_id: 25
-date: 1963-03-06
+doc_date: 1963-03-06
 barcode: 1517614
 ---
 

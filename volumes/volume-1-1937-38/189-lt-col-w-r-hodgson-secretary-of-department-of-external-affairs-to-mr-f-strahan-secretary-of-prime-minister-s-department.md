@@ -3,7 +3,7 @@ title: "189 Lt Col W. R. Hodgson, Secretary of Department of External Affairs, t
 volume: "Volume 1: 1937-38"
 doc_id: 188
 vol_id: 1
-date: 1938-04-19
+doc_date: 1938-04-19
 barcode: 206889
 ---
 

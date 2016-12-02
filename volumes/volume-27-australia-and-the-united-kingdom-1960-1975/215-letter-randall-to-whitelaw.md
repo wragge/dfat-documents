@@ -3,7 +3,7 @@ title: "215 LETTER, RANDALL TO WHITELAW"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10080
 vol_id: 27
-date: 1963-02-08
+doc_date: 1963-02-08
 ---
 
 # 215 LETTER, RANDALL TO WHITELAW

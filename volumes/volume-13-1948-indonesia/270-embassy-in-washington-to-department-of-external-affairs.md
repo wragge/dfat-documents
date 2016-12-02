@@ -3,7 +3,7 @@ title: "270 Embassy in Washington to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5537
 vol_id: 13
-date: 1948-10-08
+doc_date: 1948-10-08
 ---
 
 # 270 Embassy in Washington to Department of External Affairs

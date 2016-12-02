@@ -3,7 +3,7 @@ title: "174 Cablegram from Embassy in Tokyo to Department of Foreign Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10548
 vol_id: 28
-date: 1971-07-06
+doc_date: 1971-07-06
 barcode: 549300
 ---
 

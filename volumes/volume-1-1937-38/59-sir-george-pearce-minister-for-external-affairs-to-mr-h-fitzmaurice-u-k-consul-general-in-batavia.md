@@ -3,7 +3,7 @@ title: "59 Sir George Pearce, Minister for External Affairs, to Mr H. Fitzmauric
 volume: "Volume 1: 1937-38"
 doc_id: 59
 vol_id: 1
-date: 1937-08-18
+doc_date: 1937-08-18
 ---
 
 # 59 Sir George Pearce, Minister for External Affairs, to Mr H. Fitzmaurice, U.K. Consul-General in Batavia

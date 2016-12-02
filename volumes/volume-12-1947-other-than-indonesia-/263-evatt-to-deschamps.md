@@ -3,7 +3,7 @@ title: "263 Evatt to Deschamps"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4945
 vol_id: 12
-date: 1947-03-27
+doc_date: 1947-03-27
 barcode: 194631
 ---
 

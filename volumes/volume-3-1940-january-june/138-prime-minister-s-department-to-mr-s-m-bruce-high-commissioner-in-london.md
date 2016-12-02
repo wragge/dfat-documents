@@ -3,7 +3,7 @@ title: "138 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in 
 volume: "Volume 3: 1940, January-June"
 doc_id: 904
 vol_id: 3
-date: 1940-04-12
+doc_date: 1940-04-12
 ---
 
 # 138 Prime Minister's Department to Mr S. M. Bruce, High Commissioner in London

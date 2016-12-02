@@ -3,7 +3,7 @@ title: "52 Australian Government to Posts [1]"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5828
 vol_id: 14
-date: 1949-09-19
+doc_date: 1949-09-19
 ---
 
 # 52 Australian Government to Posts [1]

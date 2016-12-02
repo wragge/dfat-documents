@@ -3,7 +3,7 @@ title: "98 MINUTE, FAIRHALL TO CABINET"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9963
 vol_id: 27
-date: 1968-08-22
+doc_date: 1968-08-22
 ---
 
 # 98 MINUTE, FAIRHALL TO CABINET

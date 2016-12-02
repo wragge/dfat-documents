@@ -3,7 +3,7 @@ title: "307 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1538
 vol_id: 4
-date: 1941-02-18
+doc_date: 1941-02-18
 ---
 
 # 307 Note by Mr S. M. Bruce, High Commissioner in London, of Conversation with Jonkheer E. Michiels van Verduynen, Netherlands Minister to the United Kingdom

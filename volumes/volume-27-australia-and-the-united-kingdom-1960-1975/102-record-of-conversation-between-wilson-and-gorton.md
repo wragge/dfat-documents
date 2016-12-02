@@ -3,7 +3,7 @@ title: "102 RECORD OF CONVERSATION BETWEEN WILSON AND GORTON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9967
 vol_id: 27
-date: 1969-01-07
+doc_date: 1969-01-07
 ---
 
 # 102 RECORD OF CONVERSATION BETWEEN WILSON AND GORTON

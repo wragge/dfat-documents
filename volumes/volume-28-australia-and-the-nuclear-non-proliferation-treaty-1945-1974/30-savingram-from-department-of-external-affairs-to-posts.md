@@ -3,7 +3,7 @@ title: "30 Savingram from Department of External Affairs to Posts"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10405
 vol_id: 28
-date: 1958-04-08
+doc_date: 1958-04-08
 barcode: 586747
 ---
 

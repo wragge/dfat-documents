@@ -3,7 +3,7 @@ title: "97 Conclusions of the Council of Defence"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5873
 vol_id: 14
-date: 1948-04-20
+doc_date: 1948-04-20
 barcode: 523923
 ---
 

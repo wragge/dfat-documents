@@ -3,7 +3,7 @@ title: "188 Minute, Ballard To Warwick Smith"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9696
 vol_id: 26
-date: 1968-05-29
+doc_date: 1968-05-29
 barcode: 31698760
 ---
 

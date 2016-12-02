@@ -3,7 +3,7 @@ title: "102 Department of External Affairs to Mansfield"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3614
 vol_id: 9
-date: 1946-02-21
+doc_date: 1946-02-21
 barcode: 194084
 ---
 

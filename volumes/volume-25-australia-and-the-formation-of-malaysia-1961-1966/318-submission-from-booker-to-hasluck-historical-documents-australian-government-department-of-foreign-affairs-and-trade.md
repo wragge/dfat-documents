@@ -3,7 +3,7 @@ title: "318 Submission from Booker to Hasluck - Historical Documents - Australia
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9448
 vol_id: 25
-date: 1965-08-18
+doc_date: 1965-08-18
 barcode: 1758802
 ---
 

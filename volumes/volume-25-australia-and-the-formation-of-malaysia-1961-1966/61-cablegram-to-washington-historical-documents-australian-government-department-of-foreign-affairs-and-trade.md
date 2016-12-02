@@ -3,7 +3,7 @@ title: "61 Cablegram To Washington - Historical Documents - Australian Governmen
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9193
 vol_id: 25
-date: 1963-04-01
+doc_date: 1963-04-01
 ---
 
 # 61 Cablegram To Washington - Historical Documents - Australian Government Department of Foreign Affairs and Trade

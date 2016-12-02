@@ -3,7 +3,7 @@ title: "32 Letter From Farmers & Settlers'association To Department Of Commerce 
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7637
 vol_id: 19
-date: 1953-06-17
+doc_date: 1953-06-17
 ---
 
 # 32 Letter From Farmers & Settlers'association To Department Of Commerce & Agriculture

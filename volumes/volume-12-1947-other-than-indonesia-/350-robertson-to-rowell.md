@@ -3,7 +3,7 @@ title: "350 Robertson to Rowell"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5032
 vol_id: 12
-date: 1947-08-06
+doc_date: 1947-08-06
 ---
 
 # 350 Robertson to Rowell

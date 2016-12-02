@@ -3,7 +3,7 @@ title: "96 War Cabinet Submission by Dr H. V. Evatt, Minister for External Affai
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1850
 vol_id: 5
-date: 1941-11-04
+doc_date: 1941-11-04
 ---
 
 # 96 War Cabinet Submission by Dr H. V. Evatt, Minister for External Affairs

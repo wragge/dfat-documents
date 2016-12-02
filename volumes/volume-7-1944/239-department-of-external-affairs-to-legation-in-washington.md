@@ -3,7 +3,7 @@ title: "239 Department of External Affairs to Legation in Washington"
 volume: "Volume 7: 1944"
 doc_id: 2886
 vol_id: 7
-date: 1944-07-28
+doc_date: 1944-07-28
 barcode: 12082258
 ---
 

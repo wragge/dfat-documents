@@ -3,7 +3,7 @@ title: "153 Watt to Hodgson"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3665
 vol_id: 9
-date: 1946-03-29
+doc_date: 1946-03-29
 ---
 
 # 153 Watt to Hodgson

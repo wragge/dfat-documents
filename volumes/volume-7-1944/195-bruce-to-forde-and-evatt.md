@@ -3,7 +3,7 @@ title: "195 Bruce to Forde and Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2842
 vol_id: 7
-date: 1944-06-13
+doc_date: 1944-06-13
 ---
 
 # 195 Bruce to Forde and Evatt

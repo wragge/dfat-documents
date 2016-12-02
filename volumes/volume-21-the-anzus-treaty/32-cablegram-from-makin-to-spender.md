@@ -3,7 +3,7 @@ title: "32 Cablegram From Makin to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8383
 vol_id: 21
-date: 1951-01-15
+doc_date: 1951-01-15
 barcode: 271757
 ---
 

@@ -3,7 +3,7 @@ title: "37 Cranborne to Commonwealth Government"
 volume: "Volume 7: 1944"
 doc_id: 2684
 vol_id: 7
-date: 1944-01-31
+doc_date: 1944-01-31
 ---
 
 # 37 Cranborne to Commonwealth Government

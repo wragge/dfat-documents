@@ -3,7 +3,7 @@ title: "86 Mr H. C. Smart, Department of Information Liaison Officer in London, 
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1317
 vol_id: 4
-date: 1940-08-29
+doc_date: 1940-08-29
 ---
 
 # 86 Mr H. C. Smart, Department of Information Liaison Officer in London, to Department of Information

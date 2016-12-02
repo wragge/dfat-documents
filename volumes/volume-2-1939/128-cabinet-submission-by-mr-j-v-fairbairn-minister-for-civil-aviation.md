@@ -3,7 +3,7 @@ title: "128 Cabinet Submission by Mr J.V. Fairbairn, Minister for Civil Aviation
 volume: "Volume 2: 1939"
 doc_id: 465
 vol_id: 2
-date: 1939-08-03
+doc_date: 1939-08-03
 ---
 
 # 128 Cabinet Submission by Mr J.V. Fairbairn, Minister for Civil Aviation

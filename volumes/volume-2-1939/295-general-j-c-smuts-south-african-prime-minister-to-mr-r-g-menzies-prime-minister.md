@@ -3,7 +3,7 @@ title: "295 General J.C. Smuts, South African Prime Minister, to Mr R.G. Menzies
 volume: "Volume 2: 1939"
 doc_id: 632
 vol_id: 2
-date: 1939-10-14
+doc_date: 1939-10-14
 ---
 
 # 295 General J.C. Smuts, South African Prime Minister, to Mr R.G. Menzies, Prime Minister

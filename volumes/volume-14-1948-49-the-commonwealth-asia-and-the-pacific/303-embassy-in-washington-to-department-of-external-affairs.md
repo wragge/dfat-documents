@@ -3,7 +3,7 @@ title: "303 Embassy in Washington to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6079
 vol_id: 14
-date: 1948-05-08
+doc_date: 1948-05-08
 ---
 
 # 303 Embassy in Washington to Department of External Affairs

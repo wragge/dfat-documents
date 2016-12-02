@@ -3,7 +3,7 @@ title: "281 Department of External Affairs to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3793
 vol_id: 9
-date: 1946-05-30
+doc_date: 1946-05-30
 ---
 
 # 281 Department of External Affairs to Evatt

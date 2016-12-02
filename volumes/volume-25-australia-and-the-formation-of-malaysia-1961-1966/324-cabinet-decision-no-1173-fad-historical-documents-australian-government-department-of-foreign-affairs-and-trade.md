@@ -3,7 +3,7 @@ title: "324 Cabinet Decision No. 1173 (FAD) - Historical Documents - Australian 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9454
 vol_id: 25
-date: 1965-08-26
+doc_date: 1965-08-26
 barcode: 1345813
 ---
 

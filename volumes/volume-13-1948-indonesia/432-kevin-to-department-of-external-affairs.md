@@ -3,7 +3,7 @@ title: "432 Kevin to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5699
 vol_id: 13
-date: 1948-12-22
+doc_date: 1948-12-22
 ---
 
 # 432 Kevin to Department of External Affairs

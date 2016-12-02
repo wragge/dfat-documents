@@ -3,7 +3,7 @@ title: "283 Ball to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3795
 vol_id: 9
-date: 1946-05-30
+doc_date: 1946-05-30
 barcode: 193423
 ---
 

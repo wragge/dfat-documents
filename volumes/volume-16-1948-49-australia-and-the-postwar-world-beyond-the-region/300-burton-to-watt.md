@@ -3,7 +3,7 @@ title: "300 Burton to Watt"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7015
 vol_id: 16
-date: 1948-09-07
+doc_date: 1948-09-07
 barcode: 139807
 ---
 

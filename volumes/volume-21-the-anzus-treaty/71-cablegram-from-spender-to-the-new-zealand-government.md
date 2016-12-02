@@ -3,7 +3,7 @@ title: "71 Cablegram From Spender to the New Zealand Government"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8422
 vol_id: 21
-date: 1951-03-21
+doc_date: 1951-03-21
 ---
 
 # 71 Cablegram From Spender to the New Zealand Government

@@ -3,7 +3,7 @@ title: "260 Evatt to Glasgow"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2551
 vol_id: 6
-date: 1943-08-24
+doc_date: 1943-08-24
 ---
 
 # 260 Evatt to Glasgow

@@ -3,7 +3,7 @@ title: "237 Australian Government to Addison, Australian Delegation at United Na
 volume: "Volume 10: 1946, July-December"
 doc_id: 4085
 vol_id: 10
-date: 1946-11-22
+doc_date: 1946-11-22
 ---
 
 # 237 Australian Government to Addison, Australian Delegation at United Nations and Cutler

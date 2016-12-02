@@ -3,7 +3,7 @@ title: "336 LETTER FROM WALLER TO DUNN"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8820
 vol_id: 22
-date: 1972-07-12
+doc_date: 1972-07-12
 ---
 
 # 336 LETTER FROM WALLER TO DUNN

@@ -3,7 +3,7 @@ title: "166 Australian Delegation United Nations, to Department of External Affa
 volume: "Volume 9: 1946, January-June"
 doc_id: 3678
 vol_id: 9
-date: 1946-04-03
+doc_date: 1946-04-03
 ---
 
 # 166 Australian Delegation United Nations, to Department of External Affairs

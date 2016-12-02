@@ -3,7 +3,7 @@ title: "68 Department of External Affairs to Legation in Paris"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3916
 vol_id: 10
-date: 1946-08-14
+doc_date: 1946-08-14
 barcode: 191202
 ---
 

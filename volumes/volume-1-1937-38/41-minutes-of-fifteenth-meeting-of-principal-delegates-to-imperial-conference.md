@@ -3,7 +3,7 @@ title: "41 Minutes of Fifteenth Meeting of Principal Delegates to Imperial Confe
 volume: "Volume 1: 1937-38"
 doc_id: 41
 vol_id: 1
-date: 1937-06-08
+doc_date: 1937-06-08
 ---
 
 # 41 Minutes of Fifteenth Meeting of Principal Delegates to Imperial Conference

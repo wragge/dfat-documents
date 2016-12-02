@@ -3,7 +3,7 @@ title: "32 Cablegram from Beale to Menzies and Casey"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10407
 vol_id: 28
-date: 1958-04-14
+doc_date: 1958-04-14
 barcode: 842824
 ---
 

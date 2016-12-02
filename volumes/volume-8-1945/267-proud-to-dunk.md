@@ -3,7 +3,7 @@ title: "267 Proud to Dunk"
 volume: "Volume 8: 1945"
 doc_id: 3298
 vol_id: 8
-date: 1945-09-25
+doc_date: 1945-09-25
 ---
 
 # 267 Proud to Dunk

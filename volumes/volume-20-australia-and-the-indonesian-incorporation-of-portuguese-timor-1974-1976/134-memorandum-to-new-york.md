@@ -3,7 +3,7 @@ title: "134 Memorandum to New York"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7973
 vol_id: 20
-date: 1975-05-26
+doc_date: 1975-05-26
 ---
 
 # 134 Memorandum to New York

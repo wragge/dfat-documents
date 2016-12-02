@@ -3,7 +3,7 @@ title: "83 Cablegram To Upton - Historical Documents - Australian Government Dep
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9214
 vol_id: 25
-date: 1963-07-11
+doc_date: 1963-07-11
 barcode: 583147
 ---
 

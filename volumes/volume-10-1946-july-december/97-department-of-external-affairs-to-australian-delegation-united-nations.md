@@ -3,7 +3,7 @@ title: "97 Department of External Affairs to Australian Delegation, United Natio
 volume: "Volume 10: 1946, July-December"
 doc_id: 3945
 vol_id: 10
-date: 1946-09-02
+doc_date: 1946-09-02
 ---
 
 # 97 Department of External Affairs to Australian Delegation, United Nations

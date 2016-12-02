@@ -3,7 +3,7 @@ title: "182 Sturdee to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3694
 vol_id: 9
-date: 1946-04-10
+doc_date: 1946-04-10
 ---
 
 # 182 Sturdee to Chifley

@@ -3,7 +3,7 @@ title: "421 NOTE BY CABINET LEGISLATION COMMITTEE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10287
 vol_id: 27
-date: 1967-08-18
+doc_date: 1967-08-18
 ---
 
 # 421 NOTE BY CABINET LEGISLATION COMMITTEE

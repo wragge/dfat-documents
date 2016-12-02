@@ -3,7 +3,7 @@ title: "157 Memorandum From Stuart To Phillips"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7762
 vol_id: 19
-date: 1956-10-18
+doc_date: 1956-10-18
 ---
 
 # 157 Memorandum From Stuart To Phillips

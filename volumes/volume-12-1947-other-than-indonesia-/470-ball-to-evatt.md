@@ -3,7 +3,7 @@ title: "470 Ball to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5152
 vol_id: 12
-date: 1947-02-08
+doc_date: 1947-02-08
 ---
 
 # 470 Ball to Evatt

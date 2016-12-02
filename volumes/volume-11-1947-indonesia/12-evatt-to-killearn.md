@@ -3,7 +3,7 @@ title: "12 Evatt to Killearn"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4196
 vol_id: 11
-date: 1947-03-16
+doc_date: 1947-03-16
 ---
 
 # 12 Evatt to Killearn

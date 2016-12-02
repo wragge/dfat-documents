@@ -3,7 +3,7 @@ title: "302 Mr R. G. Casey, Minister to the United States, to Department of Exte
 volume: "Volume 3: 1940, January-June"
 doc_id: 1068
 vol_id: 3
-date: 1940-05-28
+doc_date: 1940-05-28
 barcode: 235518
 ---
 

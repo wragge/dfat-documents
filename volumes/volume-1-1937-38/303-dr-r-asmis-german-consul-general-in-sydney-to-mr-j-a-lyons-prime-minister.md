@@ -3,7 +3,7 @@ title: "303 Dr R. Asmis, German Consul-General in Sydney, to Mr J. A. Lyons, Pri
 volume: "Volume 1: 1937-38"
 doc_id: 302
 vol_id: 1
-date: 1938-10-24
+doc_date: 1938-10-24
 ---
 
 # 303 Dr R. Asmis, German Consul-General in Sydney, to Mr J. A. Lyons, Prime Minister

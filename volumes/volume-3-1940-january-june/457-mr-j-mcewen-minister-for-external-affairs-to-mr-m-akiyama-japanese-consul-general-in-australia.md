@@ -3,7 +3,7 @@ title: "457 Mr J. McEwen, Minister for External Affairs, to Mr M. Akiyama, Japan
 volume: "Volume 3: 1940, January-June"
 doc_id: 1223
 vol_id: 3
-date: 1940-06-28
+doc_date: 1940-06-28
 ---
 
 # 457 Mr J. McEwen, Minister for External Affairs, to Mr M. Akiyama, Japanese Consul-General in Australia

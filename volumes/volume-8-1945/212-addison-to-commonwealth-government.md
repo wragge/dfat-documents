@@ -3,7 +3,7 @@ title: "212 Addison to Commonwealth Government"
 volume: "Volume 8: 1945"
 doc_id: 3243
 vol_id: 8
-date: 1945-08-24
+doc_date: 1945-08-24
 barcode: 190059
 ---
 

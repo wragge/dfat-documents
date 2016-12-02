@@ -3,7 +3,7 @@ title: "555 Australian Government to Addison and Fraser"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5237
 vol_id: 12
-date: 1947-09-03
+doc_date: 1947-09-03
 barcode: 550067
 ---
 

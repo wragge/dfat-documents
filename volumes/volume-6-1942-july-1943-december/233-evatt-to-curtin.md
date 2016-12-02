@@ -3,7 +3,7 @@ title: "233 Evatt to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2524
 vol_id: 6
-date: 1943-07-01
+doc_date: 1943-07-01
 barcode: 238611
 ---
 

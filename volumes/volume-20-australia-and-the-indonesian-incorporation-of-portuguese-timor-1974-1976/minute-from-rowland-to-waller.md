@@ -3,7 +3,7 @@ title: "Minute from Rowland to Waller"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8335
 vol_id: 20
-date: 1963-01-14
+doc_date: 1963-01-14
 ---
 
 # Minute from Rowland to Waller

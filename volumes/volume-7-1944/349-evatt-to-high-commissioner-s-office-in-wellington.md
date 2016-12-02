@@ -3,7 +3,7 @@ title: "349 Evatt to High Commissioner's Office in Wellington"
 volume: "Volume 7: 1944"
 doc_id: 2996
 vol_id: 7
-date: 1944-11-16
+doc_date: 1944-11-16
 ---
 
 # 349 Evatt to High Commissioner's Office in Wellington

@@ -3,7 +3,7 @@ title: "345 Dexter to McIntyre"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6514
 vol_id: 15
-date: 1949-04-08
+doc_date: 1949-04-08
 ---
 
 # 345 Dexter to McIntyre

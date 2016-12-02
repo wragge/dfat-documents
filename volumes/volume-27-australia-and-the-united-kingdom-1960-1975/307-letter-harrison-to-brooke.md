@@ -3,7 +3,7 @@ title: "307 LETTER, HARRISON TO BROOKE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10173
 vol_id: 27
-date: 1962-10-19
+doc_date: 1962-10-19
 ---
 
 # 307 LETTER, HARRISON TO BROOKE

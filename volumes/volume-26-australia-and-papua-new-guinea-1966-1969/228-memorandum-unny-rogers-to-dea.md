@@ -3,7 +3,7 @@ title: "228 Memorandum, Unny (Rogers) To Dea"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9736
 vol_id: 26
-date: 1968-10-05
+doc_date: 1968-10-05
 ---
 
 # 228 Memorandum, Unny (Rogers) To Dea

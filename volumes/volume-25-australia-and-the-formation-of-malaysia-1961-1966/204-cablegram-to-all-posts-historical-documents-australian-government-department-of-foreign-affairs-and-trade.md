@@ -3,7 +3,7 @@ title: "204 Cablegram to all Posts - Historical Documents - Australian Governmen
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9334
 vol_id: 25
-date: 1964-09-11
+doc_date: 1964-09-11
 barcode: 1505563
 ---
 

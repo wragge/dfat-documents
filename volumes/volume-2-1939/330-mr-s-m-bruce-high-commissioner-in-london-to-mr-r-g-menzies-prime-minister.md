@@ -3,7 +3,7 @@ title: "330 Mr S.M. Bruce, High Commissioner in London, to Mr R.G. Menzies, Prim
 volume: "Volume 2: 1939"
 doc_id: 667
 vol_id: 2
-date: 1939-11-06
+doc_date: 1939-11-06
 barcode: 242414
 ---
 

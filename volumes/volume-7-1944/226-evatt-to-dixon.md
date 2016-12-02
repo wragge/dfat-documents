@@ -3,7 +3,7 @@ title: "226 Evatt to Dixon"
 volume: "Volume 7: 1944"
 doc_id: 2873
 vol_id: 7
-date: 1944-07-18
+doc_date: 1944-07-18
 ---
 
 # 226 Evatt to Dixon

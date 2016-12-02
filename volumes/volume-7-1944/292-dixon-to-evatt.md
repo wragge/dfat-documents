@@ -3,7 +3,7 @@ title: "292 Dixon to Evatt"
 volume: "Volume 7: 1944"
 doc_id: 2939
 vol_id: 7
-date: 1944-09-19
+doc_date: 1944-09-19
 ---
 
 # 292 Dixon to Evatt

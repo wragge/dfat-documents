@@ -3,7 +3,7 @@ title: "74 Record of Meeting Held at Department of External Affairs"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10448
 vol_id: 28
-date: 1965-09-10
+doc_date: 1965-09-10
 barcode: 546498
 ---
 

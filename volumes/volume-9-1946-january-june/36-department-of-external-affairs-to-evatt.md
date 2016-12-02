@@ -3,7 +3,7 @@ title: "36 Department of External Affairs to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3548
 vol_id: 9
-date: 1946-01-18
+doc_date: 1946-01-18
 barcode: 194084
 ---
 

@@ -3,7 +3,7 @@ title: "253 LETTER, JOHNSTON TO THOMSON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10118
 vol_id: 27
-date: 1967-12-01
+doc_date: 1967-12-01
 ---
 
 # 253 LETTER, JOHNSTON TO THOMSON

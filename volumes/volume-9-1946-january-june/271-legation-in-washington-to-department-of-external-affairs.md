@@ -3,7 +3,7 @@ title: "271 Legation in Washington to Department of External Affairs"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3783
 vol_id: 9
-date: 1946-05-27
+doc_date: 1946-05-27
 barcode: 191302
 ---
 

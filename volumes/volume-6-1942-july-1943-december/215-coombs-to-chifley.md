@@ -3,7 +3,7 @@ title: "215 Coombs to Chifley"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2506
 vol_id: 6
-date: 1943-06-07
+doc_date: 1943-06-07
 ---
 
 # 215 Coombs to Chifley

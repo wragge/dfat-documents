@@ -3,7 +3,7 @@ title: "150 Williams to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4832
 vol_id: 12
-date: 1947-01-29
+doc_date: 1947-01-29
 barcode: 195312
 ---
 

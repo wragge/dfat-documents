@@ -3,7 +3,7 @@ title: "34 Cabinet Decision No. 138"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9542
 vol_id: 26
-date: 1966-03-29
+doc_date: 1966-03-29
 barcode: 1885894
 ---
 

@@ -3,7 +3,7 @@ title: "243 Department of External Affairs to Hodgson, Makin, Beasley and Office
 volume: "Volume 10: 1946, July-December"
 doc_id: 4091
 vol_id: 10
-date: 1946-11-25
+doc_date: 1946-11-25
 ---
 
 # 243 Department of External Affairs to Hodgson, Makin, Beasley and Officer

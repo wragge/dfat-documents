@@ -3,7 +3,7 @@ title: "311 LETTER, LARMOUR TO HEYDON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10177
 vol_id: 27
-date: 1963-04-11
+doc_date: 1963-04-11
 ---
 
 # 311 LETTER, LARMOUR TO HEYDON

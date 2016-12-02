@@ -3,7 +3,7 @@ title: "233 Note, Warwick Smith To Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9741
 vol_id: 26
-date: 1968-10-15
+doc_date: 1968-10-15
 barcode: 8811106
 ---
 

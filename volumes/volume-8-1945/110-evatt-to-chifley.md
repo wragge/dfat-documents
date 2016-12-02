@@ -3,7 +3,7 @@ title: "110 Evatt to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3141
 vol_id: 8
-date: 1945-06-13
+doc_date: 1945-06-13
 barcode: 188012
 ---
 

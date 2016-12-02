@@ -3,7 +3,7 @@ title: "279 PRESS STATEMENT BY ANTHONY"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10144
 vol_id: 27
-date: 1971-06-04
+doc_date: 1971-06-04
 ---
 
 # 279 PRESS STATEMENT BY ANTHONY

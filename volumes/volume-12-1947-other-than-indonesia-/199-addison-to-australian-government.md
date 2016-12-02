@@ -3,7 +3,7 @@ title: "199 Addison to Australian Government"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4881
 vol_id: 12
-date: 1947-08-01
+doc_date: 1947-08-01
 ---
 
 # 199 Addison to Australian Government

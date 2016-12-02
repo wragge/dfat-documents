@@ -3,7 +3,7 @@ title: "195 Note from Butler to Curtis"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10569
 vol_id: 28
-date: 1974-05-20
+doc_date: 1974-05-20
 barcode: 549329
 ---
 

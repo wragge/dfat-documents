@@ -3,7 +3,7 @@ title: "372 Note by Sir Frederick Stewart, Minister for External Affairs, of Con
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1603
 vol_id: 4
-date: 1941-03-28
+doc_date: 1941-03-28
 ---
 
 # 372 Note by Sir Frederick Stewart, Minister for External Affairs, of Conversation with Mr T. Kawai, Japanese Minister to Australia

@@ -3,7 +3,7 @@ title: "43 Cabinet Decision 833"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7648
 vol_id: 19
-date: 1953-09-02
+doc_date: 1953-09-02
 ---
 
 # 43 Cabinet Decision 833

@@ -3,7 +3,7 @@ title: "299 Mr R.G. Menzies, Prime Minister, to Mr S.M. Bruce, High Commissioner
 volume: "Volume 2: 1939"
 doc_id: 636
 vol_id: 2
-date: 1939-10-18
+doc_date: 1939-10-18
 barcode: 242413
 ---
 

@@ -3,7 +3,7 @@ title: "371 Smuts to Makin"
 volume: "Volume 8: 1945"
 doc_id: 3402
 vol_id: 8
-date: 1945-11-07
+doc_date: 1945-11-07
 barcode: 190020
 ---
 

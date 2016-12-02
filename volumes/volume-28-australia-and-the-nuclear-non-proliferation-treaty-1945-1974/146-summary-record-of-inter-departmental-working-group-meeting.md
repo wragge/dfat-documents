@@ -3,7 +3,7 @@ title: "146 Summary Record of Inter-Departmental Working Group Meeting"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10520
 vol_id: 28
-date: 1968-07-23
+doc_date: 1968-07-23
 barcode: 1725940
 ---
 

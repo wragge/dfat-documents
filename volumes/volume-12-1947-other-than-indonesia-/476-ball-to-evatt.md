@@ -3,7 +3,7 @@ title: "476 Ball to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5158
 vol_id: 12
-date: 1947-03-28
+doc_date: 1947-03-28
 barcode: 446699
 ---
 

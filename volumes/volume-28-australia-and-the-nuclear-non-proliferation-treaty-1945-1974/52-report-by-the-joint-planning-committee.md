@@ -3,7 +3,7 @@ title: "52 Report by the Joint Planning Committee"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10426
 vol_id: 28
-date: 1961-09-28
+doc_date: 1961-09-28
 barcode: 841958
 ---
 

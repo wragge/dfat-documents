@@ -3,7 +3,7 @@ title: "501 Burton to Shedden"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5183
 vol_id: 12
-date: 1947-02-28
+doc_date: 1947-02-28
 barcode: 446699
 ---
 

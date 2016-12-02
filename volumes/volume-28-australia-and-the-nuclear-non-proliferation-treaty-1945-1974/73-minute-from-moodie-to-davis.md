@@ -3,7 +3,7 @@ title: "73 Minute from Moodie to Davis"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10447
 vol_id: 28
-date: 1965-08-27
+doc_date: 1965-08-27
 barcode: 1726046
 ---
 

@@ -3,7 +3,7 @@ title: "201 Chifley to Addison"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4883
 vol_id: 12
-date: 1947-09-09
+doc_date: 1947-09-09
 ---
 
 # 201 Chifley to Addison

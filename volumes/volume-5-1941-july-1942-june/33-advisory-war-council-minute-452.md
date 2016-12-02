@@ -3,7 +3,7 @@ title: "33 Advisory War Council Minute 452"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1787
 vol_id: 5
-date: 1941-08-06
+doc_date: 1941-08-06
 ---
 
 # 33 Advisory War Council Minute 452

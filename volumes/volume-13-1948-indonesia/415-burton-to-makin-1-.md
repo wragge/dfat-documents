@@ -3,7 +3,7 @@ title: "415 Burton to Makin [1]"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5682
 vol_id: 13
-date: 1948-12-21
+doc_date: 1948-12-21
 ---
 
 # 415 Burton to Makin [1]

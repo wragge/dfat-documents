@@ -3,7 +3,7 @@ title: "217 Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. E
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1971
 vol_id: 5
-date: 1941-12-23
+doc_date: 1941-12-23
 ---
 
 # 217 Mr V. G. Bowden, Official Representative in Singapore, to Dr H. V. Evatt, Minister for External Affairs

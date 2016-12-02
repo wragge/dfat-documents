@@ -3,7 +3,7 @@ title: "162 Cabinet Minute"
 volume: "Volume 2: 1939"
 doc_id: 499
 vol_id: 2
-date: 1939-08-29
+doc_date: 1939-08-29
 ---
 
 # 162 Cabinet Minute

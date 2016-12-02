@@ -3,7 +3,7 @@ title: "273 Mr Winston Churchill, U.K. Prime Minister (in the United States), to
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2027
 vol_id: 5
-date: 1942-01-12
+doc_date: 1942-01-12
 ---
 
 # 273 Mr Winston Churchill, U.K. Prime Minister (in the United States), to Mr John Curtin, Prime Minister

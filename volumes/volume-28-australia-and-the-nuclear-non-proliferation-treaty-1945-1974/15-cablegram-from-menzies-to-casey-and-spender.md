@@ -3,7 +3,7 @@ title: "15 Cablegram from Menzies to Casey and Spender"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10390
 vol_id: 28
-date: 1954-10-15
+doc_date: 1954-10-15
 barcode: 504945
 ---
 

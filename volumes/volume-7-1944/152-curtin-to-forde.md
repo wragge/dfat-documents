@@ -3,7 +3,7 @@ title: "152 Curtin to Forde"
 volume: "Volume 7: 1944"
 doc_id: 2799
 vol_id: 7
-date: 1944-05-16
+doc_date: 1944-05-16
 ---
 
 # 152 Curtin to Forde

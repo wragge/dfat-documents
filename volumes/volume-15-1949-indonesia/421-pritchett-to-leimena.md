@@ -3,7 +3,7 @@ title: "421 Pritchett to Leimena"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6590
 vol_id: 15
-date: 1949-05-26
+doc_date: 1949-05-26
 ---
 
 # 421 Pritchett to Leimena

@@ -3,7 +3,7 @@ title: "179 Ward to Australian Government"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5955
 vol_id: 14
-date: 1949-03-29
+doc_date: 1949-03-29
 ---
 
 # 179 Ward to Australian Government

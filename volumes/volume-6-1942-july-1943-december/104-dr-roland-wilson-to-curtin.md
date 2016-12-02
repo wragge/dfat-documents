@@ -3,7 +3,7 @@ title: "104 Dr Roland Wilson to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2395
 vol_id: 6
-date: 1943-01-18
+doc_date: 1943-01-18
 ---
 
 # 104 Dr Roland Wilson to Curtin

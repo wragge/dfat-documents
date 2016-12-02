@@ -3,7 +3,7 @@ title: "193 Record Of Discussion Between Westerman And Burgess [1]"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7798
 vol_id: 19
-date: 1957-03-13
+doc_date: 1957-03-13
 ---
 
 # 193 Record Of Discussion Between Westerman And Burgess [1]

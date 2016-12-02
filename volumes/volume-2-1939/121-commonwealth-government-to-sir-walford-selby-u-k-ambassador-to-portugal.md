@@ -3,7 +3,7 @@ title: "121 Commonwealth Government to Sir Walford Selby, U.K. Ambassador to Por
 volume: "Volume 2: 1939"
 doc_id: 458
 vol_id: 2
-date: 1939-07-18
+doc_date: 1939-07-18
 barcode: 206913
 ---
 

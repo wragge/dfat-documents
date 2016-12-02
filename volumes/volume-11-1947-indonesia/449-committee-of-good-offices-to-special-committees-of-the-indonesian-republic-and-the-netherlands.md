@@ -3,7 +3,7 @@ title: "449 Committee of Good Offices to Special Committees of the Indonesian Re
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4633
 vol_id: 11
-date: 1947-12-03
+doc_date: 1947-12-03
 ---
 
 # 449 Committee of Good Offices to Special Committees of the Indonesian Republic and the Netherlands

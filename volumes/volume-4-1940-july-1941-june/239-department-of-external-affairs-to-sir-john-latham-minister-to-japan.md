@@ -3,7 +3,7 @@ title: "239 Department of External Affairs to Sir John Latham, Minister to Japan
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1470
 vol_id: 4
-date: 1940-12-29
+doc_date: 1940-12-29
 barcode: 171448
 ---
 

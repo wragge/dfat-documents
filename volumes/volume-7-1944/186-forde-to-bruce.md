@@ -3,7 +3,7 @@ title: "186 Forde to Bruce"
 volume: "Volume 7: 1944"
 doc_id: 2833
 vol_id: 7
-date: 1944-06-08
+doc_date: 1944-06-08
 ---
 
 # 186 Forde to Bruce

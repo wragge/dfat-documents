@@ -3,7 +3,7 @@ title: "98 CABLEGRAM TO CANBERRA"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8581
 vol_id: 22
-date: 1961-08-12
+doc_date: 1961-08-12
 ---
 
 # 98 CABLEGRAM TO CANBERRA

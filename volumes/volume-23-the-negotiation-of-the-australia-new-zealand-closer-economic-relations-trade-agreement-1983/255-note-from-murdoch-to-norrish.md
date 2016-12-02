@@ -3,7 +3,7 @@ title: "255 Note from Murdoch to Norrish"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9124
 vol_id: 23
-date: 1982-10-18
+doc_date: 1982-10-18
 ---
 
 # 255 Note from Murdoch to Norrish

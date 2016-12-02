@@ -3,7 +3,7 @@ title: "54 Mr H.F. Farrands, Assistant Secretary of Prime Minister's Department,
 volume: "Volume 2: 1939"
 doc_id: 391
 vol_id: 2
-date: 1939-03-23
+doc_date: 1939-03-23
 ---
 
 # 54 Mr H.F. Farrands, Assistant Secretary of Prime Minister's Department, to Mr R.R. Sedgwick, Official Secretary of U.K. High Commission in Australia

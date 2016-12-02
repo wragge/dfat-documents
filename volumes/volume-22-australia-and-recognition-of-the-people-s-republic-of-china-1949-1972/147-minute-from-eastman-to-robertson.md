@@ -3,7 +3,7 @@ title: "147 MINUTE FROM EASTMAN TO ROBERTSON"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8630
 vol_id: 22
-date: 1970-12-03
+doc_date: 1970-12-03
 barcode: 1730898
 ---
 

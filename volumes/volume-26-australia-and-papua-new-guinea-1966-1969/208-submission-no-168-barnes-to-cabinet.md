@@ -3,7 +3,7 @@ title: "208 Submission No. 168, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9716
 vol_id: 26
-date: 1968-07-09
+doc_date: 1968-07-09
 barcode: 3068325
 ---
 

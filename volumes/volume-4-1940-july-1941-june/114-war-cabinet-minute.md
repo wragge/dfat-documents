@@ -3,7 +3,7 @@ title: "114 War Cabinet Minute"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1345
 vol_id: 4
-date: 1940-09-10
+doc_date: 1940-09-10
 ---
 
 # 114 War Cabinet Minute

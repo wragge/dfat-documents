@@ -3,7 +3,7 @@ title: "133 Note By Deane On Cabinet Submission No. 320<sup>1</sup>"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9641
 vol_id: 26
-date: 1967-07-13
+doc_date: 1967-07-13
 ---
 
 # 133 Note By Deane On Cabinet Submission No. 320<sup>1</sup>

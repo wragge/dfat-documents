@@ -3,7 +3,7 @@ title: "489 Full Cabinet Submission by Mr John Curtin, Prime Minister and Acting
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2243
 vol_id: 5
-date: 1942-05-15
+doc_date: 1942-05-15
 ---
 
 # 489 Full Cabinet Submission by Mr John Curtin, Prime Minister and Acting Minister for External Affairs

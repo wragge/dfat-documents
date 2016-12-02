@@ -3,7 +3,7 @@ title: "366 Legation in Washington to Department of External Affairs"
 volume: "Volume 3: 1940, January-June"
 doc_id: 1132
 vol_id: 3
-date: 1940-06-12
+doc_date: 1940-06-12
 ---
 
 # 366 Legation in Washington to Department of External Affairs

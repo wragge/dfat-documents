@@ -3,7 +3,7 @@ title: "111 Attlee to Chifley"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3623
 vol_id: 9
-date: 1946-02-25
+doc_date: 1946-02-25
 ---
 
 # 111 Attlee to Chifley

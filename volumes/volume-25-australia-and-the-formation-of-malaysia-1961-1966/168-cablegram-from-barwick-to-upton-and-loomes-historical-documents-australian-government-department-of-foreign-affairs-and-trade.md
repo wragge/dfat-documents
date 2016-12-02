@@ -3,7 +3,7 @@ title: "168 Cablegram from Barwick to Upton and Loomes - Historical Documents - 
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9298
 vol_id: 25
-date: 1964-03-06
+doc_date: 1964-03-06
 barcode: 1500906
 ---
 

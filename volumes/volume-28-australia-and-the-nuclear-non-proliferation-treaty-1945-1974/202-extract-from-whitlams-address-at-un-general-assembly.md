@@ -3,7 +3,7 @@ title: "202 Extract from Whitlam's Address at UN General Assembly"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10576
 vol_id: 28
-date: 1974-09-30
+doc_date: 1974-09-30
 barcode: 546374
 ---
 

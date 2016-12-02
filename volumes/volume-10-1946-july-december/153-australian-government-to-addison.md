@@ -3,7 +3,7 @@ title: "153 Australian Government to Addison"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4001
 vol_id: 10
-date: 1946-10-04
+doc_date: 1946-10-04
 ---
 
 # 153 Australian Government to Addison

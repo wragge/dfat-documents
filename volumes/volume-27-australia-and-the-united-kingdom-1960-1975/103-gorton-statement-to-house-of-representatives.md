@@ -3,7 +3,7 @@ title: "103 GORTON, STATEMENT TO HOUSE OF REPRESENTATIVES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9968
 vol_id: 27
-date: 1969-02-25
+doc_date: 1969-02-25
 ---
 
 # 103 GORTON, STATEMENT TO HOUSE OF REPRESENTATIVES

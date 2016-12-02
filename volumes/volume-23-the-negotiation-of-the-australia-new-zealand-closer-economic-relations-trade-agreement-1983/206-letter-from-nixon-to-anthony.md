@@ -3,7 +3,7 @@ title: "206 Letter from Nixon to Anthony"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9075
 vol_id: 23
-date: 1982-09-01
+doc_date: 1982-09-01
 ---
 
 # 206 Letter from Nixon to Anthony

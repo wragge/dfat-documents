@@ -3,7 +3,7 @@ title: "351 Hasluck to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3382
 vol_id: 8
-date: 1945-10-29
+doc_date: 1945-10-29
 barcode: 187979
 ---
 

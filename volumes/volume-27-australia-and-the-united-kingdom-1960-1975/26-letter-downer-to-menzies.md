@@ -3,7 +3,7 @@ title: "26 LETTER, DOWNER TO MENZIES"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9893
 vol_id: 27
-date: 1964-11-13
+doc_date: 1964-11-13
 ---
 
 # 26 LETTER, DOWNER TO MENZIES

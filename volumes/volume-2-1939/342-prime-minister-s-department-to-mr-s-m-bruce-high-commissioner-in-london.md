@@ -3,7 +3,7 @@ title: "342 Prime Minister's Department to Mr S.M. Bruce, High Commissioner in L
 volume: "Volume 2: 1939"
 doc_id: 679
 vol_id: 2
-date: 1939-11-10
+doc_date: 1939-11-10
 barcode: 205845
 ---
 

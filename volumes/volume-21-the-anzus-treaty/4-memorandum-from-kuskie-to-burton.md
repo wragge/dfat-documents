@@ -3,7 +3,7 @@ title: "4 Memorandum From Kuskie to Burton"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8355
 vol_id: 21
-date: 1949-07-25
+doc_date: 1949-07-25
 ---
 
 # 4 Memorandum From Kuskie to Burton

@@ -3,7 +3,7 @@ title: "78 Letter from Timbs to Plimsoll"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10452
 vol_id: 28
-date: 1965-12-31
+doc_date: 1965-12-31
 barcode: 546497
 ---
 

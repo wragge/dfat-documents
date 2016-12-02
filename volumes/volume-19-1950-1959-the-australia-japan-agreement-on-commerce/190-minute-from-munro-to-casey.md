@@ -3,7 +3,7 @@ title: "190 Minute From Munro To Casey"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7795
 vol_id: 19
-date: 1957-02-13
+doc_date: 1957-02-13
 ---
 
 # 190 Minute From Munro To Casey

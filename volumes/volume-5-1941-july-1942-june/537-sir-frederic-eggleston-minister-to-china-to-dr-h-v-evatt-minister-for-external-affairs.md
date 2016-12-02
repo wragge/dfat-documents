@@ -3,7 +3,7 @@ title: "537 Sir Frederic Eggleston, Minister to China, to Dr H. V. Evatt, Minist
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2291
 vol_id: 5
-date: 1942-06-30
+doc_date: 1942-06-30
 ---
 
 # 537 Sir Frederic Eggleston, Minister to China, to Dr H. V. Evatt, Minister for External Affairs

@@ -3,7 +3,7 @@ title: "194 High Commission in New Delhi to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6363
 vol_id: 15
-date: 1949-02-04
+doc_date: 1949-02-04
 barcode: 587590
 ---
 

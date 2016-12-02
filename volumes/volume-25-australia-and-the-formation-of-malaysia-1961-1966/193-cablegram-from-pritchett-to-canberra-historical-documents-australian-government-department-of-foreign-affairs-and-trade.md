@@ -3,7 +3,7 @@ title: "193 Cablegram from Pritchett to Canberra - Historical Documents - Austra
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9323
 vol_id: 25
-date: 1964-07-27
+doc_date: 1964-07-27
 barcode: 1511291
 ---
 

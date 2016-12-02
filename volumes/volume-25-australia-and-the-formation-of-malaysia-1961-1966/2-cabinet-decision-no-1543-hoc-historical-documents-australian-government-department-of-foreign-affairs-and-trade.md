@@ -3,7 +3,7 @@ title: "2 Cabinet Decision No. 1543 (hoc) - Historical Documents - Australian Go
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9136
 vol_id: 25
-date: 1961-08-16
+doc_date: 1961-08-16
 barcode: 1343637
 ---
 

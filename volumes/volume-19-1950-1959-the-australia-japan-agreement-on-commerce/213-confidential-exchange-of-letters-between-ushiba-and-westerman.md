@@ -3,7 +3,7 @@ title: "213 Confidential Exchange Of Letters Between Ushiba And Westerman"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7818
 vol_id: 19
-date: 1957-06-18
+doc_date: 1957-06-18
 ---
 
 # 213 Confidential Exchange Of Letters Between Ushiba And Westerman

@@ -3,7 +3,7 @@ title: "128 War Cabinet Minute 1522"
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1882
 vol_id: 5
-date: 1941-11-26
+doc_date: 1941-11-26
 ---
 
 # 128 War Cabinet Minute 1522

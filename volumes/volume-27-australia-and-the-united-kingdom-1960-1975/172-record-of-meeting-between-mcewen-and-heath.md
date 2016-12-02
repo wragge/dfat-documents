@@ -3,7 +3,7 @@ title: "172 RECORD OF MEETING BETWEEN MCEWEN AND HEATH"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10037
 vol_id: 27
-date: 1962-03-21
+doc_date: 1962-03-21
 ---
 
 # 172 RECORD OF MEETING BETWEEN MCEWEN AND HEATH

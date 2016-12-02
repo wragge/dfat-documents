@@ -3,7 +3,7 @@ title: "120 Telex, Hay To Dot"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9628
 vol_id: 26
-date: 1967-06-13
+doc_date: 1967-06-13
 barcode: 3111707
 ---
 

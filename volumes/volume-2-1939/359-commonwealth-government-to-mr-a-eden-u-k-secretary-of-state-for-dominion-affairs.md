@@ -3,7 +3,7 @@ title: "359 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for D
 volume: "Volume 2: 1939"
 doc_id: 696
 vol_id: 2
-date: 1939-11-14
+doc_date: 1939-11-14
 ---
 
 # 359 Commonwealth Government to Mr A. Eden, U.K. Secretary of State for Dominion Affairs

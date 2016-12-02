@@ -3,7 +3,7 @@ title: "144 Statement by Mr R.G. Menzies, Prime Minister"
 volume: "Volume 2: 1939"
 doc_id: 481
 vol_id: 2
-date: 1939-08-23
+doc_date: 1939-08-23
 ---
 
 # 144 Statement by Mr R.G. Menzies, Prime Minister

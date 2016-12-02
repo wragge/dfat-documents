@@ -3,7 +3,7 @@ title: "202 File Note by Lind"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9071
 vol_id: 23
-date: 1982-08-17
+doc_date: 1982-08-17
 ---
 
 # 202 File Note by Lind

@@ -3,7 +3,7 @@ title: "167 LETTER, WESTERMAN TO LINTOTT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10032
 vol_id: 27
-date: 1962-03-13
+doc_date: 1962-03-13
 ---
 
 # 167 LETTER, WESTERMAN TO LINTOTT

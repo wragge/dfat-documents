@@ -3,7 +3,7 @@ title: "61 Message From Gordon Walker to Menzies"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8412
 vol_id: 21
-date: 1951-03-14
+doc_date: 1951-03-14
 barcode: 3001619
 ---
 

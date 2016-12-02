@@ -3,7 +3,7 @@ title: "376 Mr R.G. Casey, Minister for Supply and Development, to Mr R.G. Menzi
 volume: "Volume 2: 1939"
 doc_id: 713
 vol_id: 2
-date: 1939-11-20
+doc_date: 1939-11-20
 barcode: 206513
 ---
 

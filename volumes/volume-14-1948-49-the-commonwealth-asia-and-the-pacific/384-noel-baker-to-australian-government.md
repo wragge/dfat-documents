@@ -3,7 +3,7 @@ title: "384 Noel-Baker to Australian Government"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6160
 vol_id: 14
-date: 1949-12-09
+doc_date: 1949-12-09
 ---
 
 # 384 Noel-Baker to Australian Government

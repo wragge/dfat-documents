@@ -3,7 +3,7 @@ title: "49 Curtin to MacArthur"
 volume: "Volume 8: 1945"
 doc_id: 3080
 vol_id: 8
-date: 1945-02-27
+doc_date: 1945-02-27
 ---
 
 # 49 Curtin to MacArthur

@@ -3,7 +3,7 @@ title: "56 U.K. Embassy, Tokyo, 56 to Commonwealth Government"
 volume: "Volume 2: 1939"
 doc_id: 393
 vol_id: 2
-date: 1939-03-24
+doc_date: 1939-03-24
 ---
 
 # 56 U.K. Embassy, Tokyo, 56 to Commonwealth Government

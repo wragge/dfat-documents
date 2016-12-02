@@ -3,7 +3,7 @@ title: "353 Chifley to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3384
 vol_id: 8
-date: 1945-10-31
+doc_date: 1945-10-31
 ---
 
 # 353 Chifley to Evatt

@@ -3,7 +3,7 @@ title: "76 Working Note by Chairman of the Inter-Departmental Working Party"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8946
 vol_id: 23
-date: 1979-11-21
+doc_date: 1979-11-21
 ---
 
 # 76 Working Note by Chairman of the Inter-Departmental Working Party

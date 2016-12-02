@@ -3,7 +3,7 @@ title: "83 Cablegram From Spender to Doidge"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8434
 vol_id: 21
-date: 1951-04-16
+doc_date: 1951-04-16
 ---
 
 # 83 Cablegram From Spender to Doidge

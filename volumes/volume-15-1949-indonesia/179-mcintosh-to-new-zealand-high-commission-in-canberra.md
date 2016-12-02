@@ -3,7 +3,7 @@ title: "179 McIntosh to New Zealand High Commission in Canberra"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6348
 vol_id: 15
-date: 1949-02-02
+doc_date: 1949-02-02
 ---
 
 # 179 McIntosh to New Zealand High Commission in Canberra

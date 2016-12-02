@@ -3,7 +3,7 @@ title: "210 Submission No. 234, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9718
 vol_id: 26
-date: 1968-07-12
+doc_date: 1968-07-12
 barcode: 3068575
 ---
 

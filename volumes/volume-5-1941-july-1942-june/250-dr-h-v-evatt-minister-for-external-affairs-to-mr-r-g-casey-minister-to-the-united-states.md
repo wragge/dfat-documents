@@ -3,7 +3,7 @@ title: "250 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Mi
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2004
 vol_id: 5
-date: 1942-01-03
+doc_date: 1942-01-03
 ---
 
 # 250 Dr H. V. Evatt, Minister for External Affairs, to Mr R. G. Casey, Minister to the United States

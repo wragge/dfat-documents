@@ -3,7 +3,7 @@ title: "436 Sir Earle Page, Special Representative in the United Kingdom, to Mr 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2190
 vol_id: 5
-date: 1942-03-22
+doc_date: 1942-03-22
 ---
 
 # 436 Sir Earle Page, Special Representative in the United Kingdom, to Mr John Curtin, Prime Minister

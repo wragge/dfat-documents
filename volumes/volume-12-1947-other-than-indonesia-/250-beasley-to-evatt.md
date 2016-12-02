@@ -3,7 +3,7 @@ title: "250 Beasley to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4932
 vol_id: 12
-date: 1947-02-14
+doc_date: 1947-02-14
 ---
 
 # 250 Beasley to Evatt

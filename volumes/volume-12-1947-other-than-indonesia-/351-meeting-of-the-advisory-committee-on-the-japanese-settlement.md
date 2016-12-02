@@ -3,7 +3,7 @@ title: "351 Meeting of the Advisory Committee on the Japanese Settlement"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5033
 vol_id: 12
-date: 1947-08-13
+doc_date: 1947-08-13
 barcode: 551611
 ---
 

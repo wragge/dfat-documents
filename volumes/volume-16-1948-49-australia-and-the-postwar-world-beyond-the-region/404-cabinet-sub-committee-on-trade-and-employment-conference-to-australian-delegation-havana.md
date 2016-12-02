@@ -3,7 +3,7 @@ title: "404 Cabinet Sub-Committee on Trade and Employment Conference to Australi
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7119
 vol_id: 16
-date: 1948-03-11
+doc_date: 1948-03-11
 barcode: 195067
 ---
 

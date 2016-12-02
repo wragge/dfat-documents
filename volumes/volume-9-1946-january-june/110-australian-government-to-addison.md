@@ -3,7 +3,7 @@ title: "110 Australian Government to Addison"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3622
 vol_id: 9
-date: 1946-02-25
+doc_date: 1946-02-25
 barcode: 191105
 ---
 

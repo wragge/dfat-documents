@@ -3,7 +3,7 @@ title: "9 Kirby to Evatt and Dunk"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3857
 vol_id: 10
-date: 1946-07-04
+doc_date: 1946-07-04
 ---
 
 # 9 Kirby to Evatt and Dunk

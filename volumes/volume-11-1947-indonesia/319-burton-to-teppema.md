@@ -3,7 +3,7 @@ title: "319 Burton to Teppema"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4503
 vol_id: 11
-date: 1947-09-08
+doc_date: 1947-09-08
 ---
 
 # 319 Burton to Teppema

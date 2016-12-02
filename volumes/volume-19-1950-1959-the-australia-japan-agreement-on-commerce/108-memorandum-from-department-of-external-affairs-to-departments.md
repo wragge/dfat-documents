@@ -3,7 +3,7 @@ title: "108 Memorandum From Department Of External Affairs To Departments"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7713
 vol_id: 19
-date: 1955-08-05
+doc_date: 1955-08-05
 ---
 
 # 108 Memorandum From Department Of External Affairs To Departments

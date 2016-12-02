@@ -3,7 +3,7 @@ title: "124 Record of Conversation Between Murtopo, Moerdani, Feakes and Curtin"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7963
 vol_id: 20
-date: 1975-04-04
+doc_date: 1975-04-04
 ---
 
 # 124 Record of Conversation Between Murtopo, Moerdani, Feakes and Curtin

@@ -3,7 +3,7 @@ title: "429 Department of External Affairs to High Commission in Ottawa"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5696
 vol_id: 13
-date: 1948-12-22
+doc_date: 1948-12-22
 ---
 
 # 429 Department of External Affairs to High Commission in Ottawa

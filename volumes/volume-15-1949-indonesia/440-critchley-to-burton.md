@@ -3,7 +3,7 @@ title: "440 Critchley to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6609
 vol_id: 15
-date: 1949-06-17
+doc_date: 1949-06-17
 ---
 
 # 440 Critchley to Burton

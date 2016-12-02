@@ -3,7 +3,7 @@ title: "30 Department of External Affairs to Legation in Moscow"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4712
 vol_id: 12
-date: 1947-08-08
+doc_date: 1947-08-08
 ---
 
 # 30 Department of External Affairs to Legation in Moscow

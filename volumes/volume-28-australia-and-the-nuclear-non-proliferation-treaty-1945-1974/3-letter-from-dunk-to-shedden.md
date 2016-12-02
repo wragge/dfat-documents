@@ -3,7 +3,7 @@ title: "3 Letter from Dunk to Shedden"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10379
 vol_id: 28
-date: 1946-03-07
+doc_date: 1946-03-07
 barcode: 446179
 ---
 

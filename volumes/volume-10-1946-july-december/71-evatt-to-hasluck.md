@@ -3,7 +3,7 @@ title: "71 Evatt to Hasluck"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3919
 vol_id: 10
-date: 1946-08-16
+doc_date: 1946-08-16
 ---
 
 # 71 Evatt to Hasluck

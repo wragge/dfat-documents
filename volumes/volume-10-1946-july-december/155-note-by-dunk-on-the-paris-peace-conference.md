@@ -3,7 +3,7 @@ title: "155 Note by Dunk on the Paris Peace Conference"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4003
 vol_id: 10
-date: 1946-10-05
+doc_date: 1946-10-05
 ---
 
 # 155 Note by Dunk on the Paris Peace Conference

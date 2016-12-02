@@ -3,7 +3,7 @@ title: "280 Letter, Warwick Smith To Bland"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9788
 vol_id: 26
-date: 1969-06-05
+doc_date: 1969-06-05
 barcode: 3125870
 ---
 

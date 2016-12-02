@@ -3,7 +3,7 @@ title: "75 LETTER, HOLT TO WILSON"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9940
 vol_id: 27
-date: 1967-06-16
+doc_date: 1967-06-16
 ---
 
 # 75 LETTER, HOLT TO WILSON

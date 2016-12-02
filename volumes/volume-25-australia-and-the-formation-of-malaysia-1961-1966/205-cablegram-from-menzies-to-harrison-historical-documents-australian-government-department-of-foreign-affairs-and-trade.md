@@ -3,7 +3,7 @@ title: "205 Cablegram from Menzies to Harrison - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9335
 vol_id: 25
-date: 1964-09-11
+doc_date: 1964-09-11
 barcode: 1340686
 ---
 

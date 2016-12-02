@@ -3,7 +3,7 @@ title: "355 High Commissioner's Office in London to Commonwealth Government"
 volume: "Volume 7: 1944"
 doc_id: 3002
 vol_id: 7
-date: 1944-11-20
+doc_date: 1944-11-20
 ---
 
 # 355 High Commissioner's Office in London to Commonwealth Government

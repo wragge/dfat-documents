@@ -3,7 +3,7 @@ title: "156 Forde to Curtin (in London)"
 volume: "Volume 7: 1944"
 doc_id: 2803
 vol_id: 7
-date: 1944-05-19
+doc_date: 1944-05-19
 ---
 
 # 156 Forde to Curtin (in London)

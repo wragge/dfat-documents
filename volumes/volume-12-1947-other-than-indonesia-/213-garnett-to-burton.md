@@ -3,7 +3,7 @@ title: "213 Garnett to Burton"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4895
 vol_id: 12
-date: 1947-12-01
+doc_date: 1947-12-01
 ---
 
 # 213 Garnett to Burton

@@ -3,7 +3,7 @@ title: "22 Sir John Latham, Minister to Japan, to Department of External Affairs
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1776
 vol_id: 5
-date: 1941-07-29
+doc_date: 1941-07-29
 ---
 
 # 22 Sir John Latham, Minister to Japan, to Department of External Affairs

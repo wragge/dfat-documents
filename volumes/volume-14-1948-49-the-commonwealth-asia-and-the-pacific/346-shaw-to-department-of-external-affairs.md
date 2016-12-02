@@ -3,7 +3,7 @@ title: "346 Shaw to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6122
 vol_id: 14
-date: 1948-11-20
+doc_date: 1948-11-20
 ---
 
 # 346 Shaw to Department of External Affairs

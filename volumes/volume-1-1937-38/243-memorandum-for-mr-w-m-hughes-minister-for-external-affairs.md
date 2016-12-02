@@ -3,7 +3,7 @@ title: "243 Memorandum for Mr W. M. Hughes, Minister for External Affairs"
 volume: "Volume 1: 1937-38"
 doc_id: 242
 vol_id: 1
-date: 1938-09-01
+doc_date: 1938-09-01
 ---
 
 # 243 Memorandum for Mr W. M. Hughes, Minister for External Affairs

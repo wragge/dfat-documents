@@ -3,7 +3,7 @@ title: "82 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr 
 volume: "Volume 1: 1937-38"
 doc_id: 81
 vol_id: 1
-date: 1937-10-18
+doc_date: 1937-10-18
 ---
 
 # 82 Mr M. MacDonald, U.K. Secretary of State for Dominion Affairs, to Mr J. A. Lyons, Prime Minister

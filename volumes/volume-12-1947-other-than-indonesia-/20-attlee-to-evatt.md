@@ -3,7 +3,7 @@ title: "20 Attlee to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4702
 vol_id: 12
-date: 1947-12-27
+doc_date: 1947-12-27
 ---
 
 # 20 Attlee to Evatt

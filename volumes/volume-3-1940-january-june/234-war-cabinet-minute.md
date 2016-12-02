@@ -3,7 +3,7 @@ title: "234 War Cabinet Minute"
 volume: "Volume 3: 1940, January-June"
 doc_id: 1000
 vol_id: 3
-date: 1940-05-13
+doc_date: 1940-05-13
 ---
 
 # 234 War Cabinet Minute

@@ -3,7 +3,7 @@ title: "193 Stirling to Department of External Affairs"
 volume: "Volume 8: 1945"
 doc_id: 3224
 vol_id: 8
-date: 1945-08-16
+doc_date: 1945-08-16
 ---
 
 # 193 Stirling to Department of External Affairs

@@ -3,7 +3,7 @@ title: "1 Commonwealth Government to Cranborne"
 volume: "Volume 7: 1944"
 doc_id: 2648
 vol_id: 7
-date: 1944-01-02
+doc_date: 1944-01-02
 ---
 
 # 1 Commonwealth Government to Cranborne

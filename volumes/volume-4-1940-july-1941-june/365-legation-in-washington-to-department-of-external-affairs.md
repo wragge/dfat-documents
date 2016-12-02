@@ -3,7 +3,7 @@ title: "365 Legation in Washington to Department of External Affairs"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1596
 vol_id: 4
-date: 1941-03-25
+doc_date: 1941-03-25
 ---
 
 # 365 Legation in Washington to Department of External Affairs

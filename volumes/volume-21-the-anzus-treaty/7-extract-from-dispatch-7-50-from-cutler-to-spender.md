@@ -3,7 +3,7 @@ title: "7 Extract From Dispatch 7/50 From Cutler to Spender"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8358
 vol_id: 21
-date: 1950-05-15
+doc_date: 1950-05-15
 barcode: 699472
 ---
 

@@ -3,7 +3,7 @@ title: "318 Mr John Curtin, Prime Minister, to General Sir Archibald Wavell, All
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2072
 vol_id: 5
-date: 1942-02-06
+doc_date: 1942-02-06
 ---
 
 # 318 Mr John Curtin, Prime Minister, to General Sir Archibald Wavell, Allied Supreme Commander of the A.B.D.A. Area

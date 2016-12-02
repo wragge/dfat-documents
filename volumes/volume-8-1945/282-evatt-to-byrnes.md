@@ -3,7 +3,7 @@ title: "282 Evatt to Byrnes"
 volume: "Volume 8: 1945"
 doc_id: 3313
 vol_id: 8
-date: 1945-10-01
+doc_date: 1945-10-01
 ---
 
 # 282 Evatt to Byrnes

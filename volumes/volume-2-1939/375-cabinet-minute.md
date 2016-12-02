@@ -3,7 +3,7 @@ title: "375 Cabinet Minute"
 volume: "Volume 2: 1939"
 doc_id: 712
 vol_id: 2
-date: 1939-11-20
+doc_date: 1939-11-20
 ---
 
 # 375 Cabinet Minute

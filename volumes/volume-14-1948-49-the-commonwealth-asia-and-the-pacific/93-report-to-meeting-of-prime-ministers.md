@@ -3,7 +3,7 @@ title: "93 Report to Meeting of Prime Ministers"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5869
 vol_id: 14
-date: 1948-10-19
+doc_date: 1948-10-19
 barcode: 651255
 ---
 

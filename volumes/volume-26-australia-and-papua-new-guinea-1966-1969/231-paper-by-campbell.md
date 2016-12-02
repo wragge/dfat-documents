@@ -3,7 +3,7 @@ title: "231 Paper By Campbell"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9739
 vol_id: 26
-date: 1968-10-08
+doc_date: 1968-10-08
 barcode: 5036516
 ---
 

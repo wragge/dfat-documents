@@ -3,7 +3,7 @@ title: "413 Evatt to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3444
 vol_id: 8
-date: 1945-11-24
+doc_date: 1945-11-24
 barcode: 171294
 ---
 

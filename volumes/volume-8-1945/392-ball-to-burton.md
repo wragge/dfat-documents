@@ -3,7 +3,7 @@ title: "392 Ball to Burton"
 volume: "Volume 8: 1945"
 doc_id: 3423
 vol_id: 8
-date: 1945-11-14
+doc_date: 1945-11-14
 ---
 
 # 392 Ball to Burton

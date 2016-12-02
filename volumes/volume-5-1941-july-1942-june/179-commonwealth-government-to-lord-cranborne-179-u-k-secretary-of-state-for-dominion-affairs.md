@@ -3,7 +3,7 @@ title: "179 Commonwealth Government to Lord Cranborne, 179 U.K. Secretary of Sta
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1933
 vol_id: 5
-date: 1941-12-11
+doc_date: 1941-12-11
 ---
 
 # 179 Commonwealth Government to Lord Cranborne, 179 U.K. Secretary of State for Dominion Affairs

@@ -3,7 +3,7 @@ title: "98 Cabinet Submission by Sir Henry Gullett, Minister for External Affair
 volume: "Volume 3: 1940, January-June"
 doc_id: 864
 vol_id: 3
-date: 1940-03-13
+doc_date: 1940-03-13
 ---
 
 # 98 Cabinet Submission by Sir Henry Gullett, Minister for External Affairs

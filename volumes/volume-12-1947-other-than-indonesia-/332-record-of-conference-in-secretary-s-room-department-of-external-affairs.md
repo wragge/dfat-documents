@@ -3,7 +3,7 @@ title: "332 Record of Conference in Secretary's Room, Department of External Aff
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5014
 vol_id: 12
-date: 1947-07-08
+doc_date: 1947-07-08
 ---
 
 # 332 Record of Conference in Secretary's Room, Department of External Affairs

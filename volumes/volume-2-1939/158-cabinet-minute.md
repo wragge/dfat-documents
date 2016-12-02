@@ -3,7 +3,7 @@ title: "158 Cabinet Minute"
 volume: "Volume 2: 1939"
 doc_id: 495
 vol_id: 2
-date: 1939-08-28
+doc_date: 1939-08-28
 ---
 
 # 158 Cabinet Minute

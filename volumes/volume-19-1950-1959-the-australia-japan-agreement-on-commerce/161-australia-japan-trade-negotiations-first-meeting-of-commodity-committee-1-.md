@@ -3,7 +3,7 @@ title: "161 Australia-Japan Trade Negotiations: First Meeting Of Commodity Commi
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7766
 vol_id: 19
-date: 1956-11-01
+doc_date: 1956-11-01
 ---
 
 # 161 Australia-Japan Trade Negotiations: First Meeting Of Commodity Committee [1]

@@ -3,7 +3,7 @@ title: "312 Commonwealth Government to Cranborne"
 volume: "Volume 7: 1944"
 doc_id: 2959
 vol_id: 7
-date: 1944-10-10
+doc_date: 1944-10-10
 barcode: 171834
 ---
 

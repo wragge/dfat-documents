@@ -3,7 +3,7 @@ title: "148 Dedman to Chifley and Department of External Affairs Received 27 Dec
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4830
 vol_id: 12
-date: 1947-12-24
+doc_date: 1947-12-24
 barcode: 195066
 ---
 

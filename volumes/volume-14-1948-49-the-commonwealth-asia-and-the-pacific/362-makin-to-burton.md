@@ -3,7 +3,7 @@ title: "362 Makin to Burton"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6138
 vol_id: 14
-date: 1949-09-09
+doc_date: 1949-09-09
 barcode: 140167
 ---
 

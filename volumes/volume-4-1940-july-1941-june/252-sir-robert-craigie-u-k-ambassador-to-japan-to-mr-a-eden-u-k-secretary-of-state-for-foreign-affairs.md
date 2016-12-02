@@ -3,7 +3,7 @@ title: "252 Sir Robert Craigie, U.K. Ambassador to Japan, to Mr A. Eden, U.K. Se
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1483
 vol_id: 4
-date: 1941-01-21
+doc_date: 1941-01-21
 ---
 
 # 252 Sir Robert Craigie, U.K. Ambassador to Japan, to Mr A. Eden, U.K. Secretary of State for Foreign Affairs

@@ -3,7 +3,7 @@ title: "332 Department of External Affairs to Hood"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4180
 vol_id: 10
-date: 1946-12-24
+doc_date: 1946-12-24
 barcode: 194149
 ---
 

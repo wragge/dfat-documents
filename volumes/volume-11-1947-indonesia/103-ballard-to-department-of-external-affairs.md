@@ -3,7 +3,7 @@ title: "103 Ballard to Department of External Affairs"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4287
 vol_id: 11
-date: 1947-06-29
+doc_date: 1947-06-29
 ---
 
 # 103 Ballard to Department of External Affairs

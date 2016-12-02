@@ -3,7 +3,7 @@ title: "16 Bruce to Curtin"
 volume: "Volume 8: 1945"
 doc_id: 3047
 vol_id: 8
-date: 1945-01-26
+doc_date: 1945-01-26
 ---
 
 # 16 Bruce to Curtin

@@ -3,7 +3,7 @@ title: "234 Jic (Australia) Report - Historical Documents - Australian Governmen
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9364
 vol_id: 25
-date: 1965-01-13
+doc_date: 1965-01-13
 barcode: 1345374
 ---
 

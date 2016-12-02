@@ -3,7 +3,7 @@ title: "76 Evatt to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5852
 vol_id: 14
-date: 1948-10-17
+doc_date: 1948-10-17
 barcode: 8889006
 ---
 

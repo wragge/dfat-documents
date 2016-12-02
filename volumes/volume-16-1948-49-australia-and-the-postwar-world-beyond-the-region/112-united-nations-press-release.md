@@ -3,7 +3,7 @@ title: "112 United Nations Press Release"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6827
 vol_id: 16
-date: 1949-05-19
+doc_date: 1949-05-19
 ---
 
 # 112 United Nations Press Release

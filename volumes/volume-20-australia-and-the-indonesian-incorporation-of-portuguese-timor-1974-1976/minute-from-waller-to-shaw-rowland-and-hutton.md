@@ -3,7 +3,7 @@ title: "Minute from Waller to Shaw, Rowland and Hutton"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8336
 vol_id: 20
-date: 1963-01-11
+doc_date: 1963-01-11
 ---
 
 # Minute from Waller to Shaw, Rowland and Hutton

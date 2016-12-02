@@ -3,7 +3,7 @@ title: "2 Mr R.G. Menzies, Attorney-General and Minister for Industry, to Mr J.A
 volume: "Volume 2: 1939"
 doc_id: 339
 vol_id: 2
-date: 1939-01-05
+doc_date: 1939-01-05
 barcode: 206202
 ---
 

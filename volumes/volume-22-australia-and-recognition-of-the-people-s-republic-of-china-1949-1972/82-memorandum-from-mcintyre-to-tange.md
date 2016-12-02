@@ -3,7 +3,7 @@ title: "82 MEMORANDUM FROM McINTYRE TO TANGE"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8565
 vol_id: 22
-date: 1960-08-08
+doc_date: 1960-08-08
 ---
 
 # 82 MEMORANDUM FROM McINTYRE TO TANGE

@@ -3,7 +3,7 @@ title: "1 Cablegram from Makin to Chifley and Burton"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8352
 vol_id: 21
-date: 1949-03-16
+doc_date: 1949-03-16
 barcode: 247276
 ---
 

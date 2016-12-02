@@ -3,7 +3,7 @@ title: "360 Cranborne to Commonwealth Government"
 volume: "Volume 7: 1944"
 doc_id: 3007
 vol_id: 7
-date: 1944-11-24
+doc_date: 1944-11-24
 barcode: 549823
 ---
 

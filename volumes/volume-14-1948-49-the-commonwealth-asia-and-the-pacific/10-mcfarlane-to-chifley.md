@@ -3,7 +3,7 @@ title: "10 McFarlane to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5786
 vol_id: 14
-date: 1948-04-02
+doc_date: 1948-04-02
 ---
 
 # 10 McFarlane to Chifley

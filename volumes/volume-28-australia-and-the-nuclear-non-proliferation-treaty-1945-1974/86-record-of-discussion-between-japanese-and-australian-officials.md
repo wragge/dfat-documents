@@ -3,7 +3,7 @@ title: "86 Record of Discussion between Japanese and Australian Officials"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10460
 vol_id: 28
-date: 1967-03-31
+doc_date: 1967-03-31
 barcode: 546404
 ---
 

@@ -3,7 +3,7 @@ title: "89 Coombs to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4771
 vol_id: 12
-date: 1947-03-24
+doc_date: 1947-03-24
 ---
 
 # 89 Coombs to Chifley

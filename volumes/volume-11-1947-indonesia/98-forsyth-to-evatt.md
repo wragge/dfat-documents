@@ -3,7 +3,7 @@ title: "98 Forsyth to Evatt"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4282
 vol_id: 11
-date: 1947-06-25
+doc_date: 1947-06-25
 ---
 
 # 98 Forsyth to Evatt

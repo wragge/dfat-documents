@@ -3,7 +3,7 @@ title: "210 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Mini
 volume: "Volume 1: 1937-38"
 doc_id: 209
 vol_id: 1
-date: 1938-05-25
+doc_date: 1938-05-25
 ---
 
 # 210 Sir Earle Page, Minister for Commerce, to Mr J. A. Lyons, Prime Minister

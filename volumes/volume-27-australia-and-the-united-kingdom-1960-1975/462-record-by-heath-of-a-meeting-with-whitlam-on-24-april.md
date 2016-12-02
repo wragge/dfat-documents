@@ -3,7 +3,7 @@ title: "462 RECORD BY HEATH OF A MEETING WITH WHITLAM ON 24 APRIL"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10329
 vol_id: 27
-date: 1973-05-08
+doc_date: 1973-05-08
 ---
 
 # 462 RECORD BY HEATH OF A MEETING WITH WHITLAM ON 24 APRIL

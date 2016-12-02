@@ -3,7 +3,7 @@ title: "236 Mr A. T. Stirling, External Affairs Officer in London, to Lt Col W. 
 volume: "Volume 1: 1937-38"
 doc_id: 235
 vol_id: 1
-date: 1938-08-03
+doc_date: 1938-08-03
 ---
 
 # 236 Mr A. T. Stirling, External Affairs Officer in London, to Lt Col W. R. Hodgson, Secretary of Department of External Affairs

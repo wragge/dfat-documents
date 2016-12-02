@@ -3,7 +3,7 @@ title: "529 Embassy in Washington to Department of External Affairs"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6698
 vol_id: 15
-date: 1949-11-10
+doc_date: 1949-11-10
 ---
 
 # 529 Embassy in Washington to Department of External Affairs

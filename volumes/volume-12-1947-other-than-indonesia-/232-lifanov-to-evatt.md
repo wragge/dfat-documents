@@ -3,7 +3,7 @@ title: "232 Lifanov to Evatt"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4914
 vol_id: 12
-date: 1947-05-23
+doc_date: 1947-05-23
 ---
 
 # 232 Lifanov to Evatt

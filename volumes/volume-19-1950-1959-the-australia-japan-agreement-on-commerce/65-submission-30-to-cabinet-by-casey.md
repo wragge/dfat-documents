@@ -3,7 +3,7 @@ title: "65 Submission 30 To Cabinet By Casey"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7670
 vol_id: 19
-date: 1954-07-28
+doc_date: 1954-07-28
 ---
 
 # 65 Submission 30 To Cabinet By Casey

@@ -3,7 +3,7 @@ title: "139 Submission No. 440, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9647
 vol_id: 26
-date: 1967-08-21
+doc_date: 1967-08-21
 ---
 
 # 139 Submission No. 440, Barnes To Cabinet

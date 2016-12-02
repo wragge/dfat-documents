@@ -3,7 +3,7 @@ title: "10 Hood to Department of External Affairs"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4692
 vol_id: 12
-date: 1947-08-28
+doc_date: 1947-08-28
 barcode: 554524
 ---
 

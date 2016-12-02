@@ -3,7 +3,7 @@ title: "117 Note by Department of Defence"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10491
 vol_id: 28
-date: 1968-03-22
+doc_date: 1968-03-22
 barcode: 1725937
 ---
 

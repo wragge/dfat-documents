@@ -3,7 +3,7 @@ title: "190 Cablegram to Kuala Lumpur - Historical Documents - Australian Govern
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9320
 vol_id: 25
-date: 1964-06-27
+doc_date: 1964-06-27
 ---
 
 # 190 Cablegram to Kuala Lumpur - Historical Documents - Australian Government Department of Foreign Affairs and Trade

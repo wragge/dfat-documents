@@ -3,7 +3,7 @@ title: "83 Heydon to Burton"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5859
 vol_id: 14
-date: 1948-01-29
+doc_date: 1948-01-29
 ---
 
 # 83 Heydon to Burton

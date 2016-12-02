@@ -3,7 +3,7 @@ title: "72 Background Paper For Discussion With Barnes"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9580
 vol_id: 26
-date: 1966-09-28
+doc_date: 1966-09-28
 ---
 
 # 72 Background Paper For Discussion With Barnes

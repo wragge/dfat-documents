@@ -3,7 +3,7 @@ title: "9 MINUTE, SAMUEL TO DE ZULUETA"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9876
 vol_id: 27
-date: 1961-07-24
+doc_date: 1961-07-24
 ---
 
 # 9 MINUTE, SAMUEL TO DE ZULUETA

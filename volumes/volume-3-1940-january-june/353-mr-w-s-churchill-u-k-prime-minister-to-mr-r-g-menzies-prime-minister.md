@@ -3,7 +3,7 @@ title: "353 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime 
 volume: "Volume 3: 1940, January-June"
 doc_id: 1119
 vol_id: 3
-date: 1940-06-10
+doc_date: 1940-06-10
 ---
 
 # 353 Mr W. S. Churchill, U.K. Prime Minister, to Mr R. G. Menzies, Prime Minister

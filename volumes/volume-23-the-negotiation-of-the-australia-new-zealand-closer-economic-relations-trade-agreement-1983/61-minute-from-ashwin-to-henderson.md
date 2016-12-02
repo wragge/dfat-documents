@@ -3,7 +3,7 @@ title: "61 Minute from Ashwin to Henderson"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 8931
 vol_id: 23
-date: 1980-02-12
+doc_date: 1980-02-12
 ---
 
 # 61 Minute from Ashwin to Henderson

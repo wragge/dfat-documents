@@ -3,7 +3,7 @@ title: "323 Department of External Affairs to Mr V. G. Bowden, Official Represen
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2077
 vol_id: 5
-date: 1942-02-10
+doc_date: 1942-02-10
 ---
 
 # 323 Department of External Affairs to Mr V. G. Bowden, Official Representative in Singapore

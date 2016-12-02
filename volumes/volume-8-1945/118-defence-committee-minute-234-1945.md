@@ -3,7 +3,7 @@ title: "118 Defence Committee Minute 234/1945"
 volume: "Volume 8: 1945"
 doc_id: 3149
 vol_id: 8
-date: 1945-06-19
+doc_date: 1945-06-19
 ---
 
 # 118 Defence Committee Minute 234/1945

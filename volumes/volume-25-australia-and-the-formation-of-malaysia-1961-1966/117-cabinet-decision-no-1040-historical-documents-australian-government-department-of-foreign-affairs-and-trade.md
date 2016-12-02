@@ -3,7 +3,7 @@ title: "117 Cabinet Decision No. 1040 - Historical Documents - Australian Govern
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9248
 vol_id: 25
-date: 1963-09-24
+doc_date: 1963-09-24
 barcode: 1726025
 ---
 

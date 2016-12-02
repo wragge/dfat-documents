@@ -3,7 +3,7 @@ title: "304 SUBMISSION NO. 21, DOWNER TO CABINET"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10170
 vol_id: 27
-date: 1962-01-12
+doc_date: 1962-01-12
 ---
 
 # 304 SUBMISSION NO. 21, DOWNER TO CABINET

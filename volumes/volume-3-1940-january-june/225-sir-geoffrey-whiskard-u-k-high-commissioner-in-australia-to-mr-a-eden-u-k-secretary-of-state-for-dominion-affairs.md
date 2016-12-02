@@ -3,7 +3,7 @@ title: "225 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr A.
 volume: "Volume 3: 1940, January-June"
 doc_id: 991
 vol_id: 3
-date: 1940-05-10
+doc_date: 1940-05-10
 ---
 
 # 225 Sir Geoffrey Whiskard, U.K. High Commissioner in Australia, to Mr A. Eden, U.K. Secretary of State for Dominion Affairs

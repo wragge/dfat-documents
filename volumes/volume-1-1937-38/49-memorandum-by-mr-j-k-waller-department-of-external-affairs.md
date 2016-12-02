@@ -3,7 +3,7 @@ title: "49 Memorandum by Mr J. K. Waller, Department of External Affairs"
 volume: "Volume 1: 1937-38"
 doc_id: 49
 vol_id: 1
-date: 1937-07-09
+doc_date: 1937-07-09
 ---
 
 # 49 Memorandum by Mr J. K. Waller, Department of External Affairs

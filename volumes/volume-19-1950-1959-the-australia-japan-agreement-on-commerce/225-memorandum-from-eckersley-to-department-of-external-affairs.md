@@ -3,7 +3,7 @@ title: "225 Memorandum From Eckersley To Department Of External Affairs"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7830
 vol_id: 19
-date: 1957-07-10
+doc_date: 1957-07-10
 ---
 
 # 225 Memorandum From Eckersley To Department Of External Affairs

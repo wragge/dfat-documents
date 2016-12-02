@@ -3,7 +3,7 @@ title: "8 Kelly to Burton"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4192
 vol_id: 11
-date: 1947-03-10
+doc_date: 1947-03-10
 ---
 
 # 8 Kelly to Burton

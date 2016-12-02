@@ -3,7 +3,7 @@ title: "193 MINUTES, COMMON MARKET NEGOTIATIONS COMMITTEE MEETING"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10058
 vol_id: 27
-date: 1962-07-23
+doc_date: 1962-07-23
 ---
 
 # 193 MINUTES, COMMON MARKET NEGOTIATIONS COMMITTEE MEETING

@@ -3,7 +3,7 @@ title: "459 War Cabinet Minute 4601"
 volume: "Volume 8: 1945"
 doc_id: 3490
 vol_id: 8
-date: 1945-12-18
+doc_date: 1945-12-18
 ---
 
 # 459 War Cabinet Minute 4601

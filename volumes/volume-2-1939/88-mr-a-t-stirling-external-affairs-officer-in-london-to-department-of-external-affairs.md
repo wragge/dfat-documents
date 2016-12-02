@@ -3,7 +3,7 @@ title: "88 Mr A.T. Stirling, External Affairs Officer in London, to Department o
 volume: "Volume 2: 1939"
 doc_id: 425
 vol_id: 2
-date: 1939-05-16
+doc_date: 1939-05-16
 ---
 
 # 88 Mr A.T. Stirling, External Affairs Officer in London, to Department of External Affairs

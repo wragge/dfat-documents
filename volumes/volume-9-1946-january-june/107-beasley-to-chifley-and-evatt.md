@@ -3,7 +3,7 @@ title: "107 Beasley to Chifley and Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3619
 vol_id: 9
-date: 1946-02-23
+doc_date: 1946-02-23
 ---
 
 # 107 Beasley to Chifley and Evatt

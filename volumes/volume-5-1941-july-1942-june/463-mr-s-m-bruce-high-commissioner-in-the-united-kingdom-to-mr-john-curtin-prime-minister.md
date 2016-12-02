@@ -3,7 +3,7 @@ title: "463 Mr S. M. Bruce, High Commissioner in the United Kingdom, to Mr John 
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2217
 vol_id: 5
-date: 1942-04-11
+doc_date: 1942-04-11
 barcode: 242443
 ---
 

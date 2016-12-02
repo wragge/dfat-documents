@@ -3,7 +3,7 @@ title: "3 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 1756
 vol_id: 5
-date: 1941-07-10
+doc_date: 1941-07-10
 ---
 
 # 3 Mr R. G. Menzies, Prime Minister, to Lord Cranborne, U.K. Secretary of State for Dominion Affairs

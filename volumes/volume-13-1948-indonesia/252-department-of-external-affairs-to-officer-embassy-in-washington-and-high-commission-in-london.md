@@ -3,7 +3,7 @@ title: "252 Department of External Affairs to Officer, Embassy in Washington and
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5519
 vol_id: 13
-date: 1948-09-23
+doc_date: 1948-09-23
 ---
 
 # 252 Department of External Affairs to Officer, Embassy in Washington and High Commission in London

@@ -3,7 +3,7 @@ title: "117 Summary of Proceedings of Council of Defence Meeting"
 volume: "Volume 2: 1939"
 doc_id: 454
 vol_id: 2
-date: 1939-07-05
+doc_date: 1939-07-05
 ---
 
 # 117 Summary of Proceedings of Council of Defence Meeting

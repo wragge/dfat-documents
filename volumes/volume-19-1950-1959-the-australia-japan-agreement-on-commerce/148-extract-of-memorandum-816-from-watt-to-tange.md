@@ -3,7 +3,7 @@ title: "148 Extract Of Memorandum 816 From Watt To Tange"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7753
 vol_id: 19
-date: 1956-09-27
+doc_date: 1956-09-27
 ---
 
 # 148 Extract Of Memorandum 816 From Watt To Tange

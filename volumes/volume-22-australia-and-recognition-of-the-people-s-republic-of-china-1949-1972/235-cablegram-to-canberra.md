@@ -3,7 +3,7 @@ title: "235 CABLEGRAM TO CANBERRA"
 volume: "Volume 22: Australia and Recognition of the People’s Republic of China, 1949–1972"
 doc_id: 8718
 vol_id: 22
-date: 1971-08-11
+doc_date: 1971-08-11
 barcode: 1730898
 ---
 

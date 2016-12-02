@@ -3,7 +3,7 @@ title: "472 LETTER BUNTING TO QIARTERIS"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10339
 vol_id: 27
-date: 1973-09-10
+doc_date: 1973-09-10
 ---
 
 # 472 LETTER BUNTING TO QIARTERIS

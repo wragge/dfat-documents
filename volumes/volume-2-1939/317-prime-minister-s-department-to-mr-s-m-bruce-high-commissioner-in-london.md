@@ -3,7 +3,7 @@ title: "317 Prime Minister's Department to Mr S.M. Bruce, High Commissioner in L
 volume: "Volume 2: 1939"
 doc_id: 654
 vol_id: 2
-date: 1939-10-31
+doc_date: 1939-10-31
 barcode: 205845
 ---
 

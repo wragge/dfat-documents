@@ -3,7 +3,7 @@ title: "219 Commonwealth Government to Fraser"
 volume: "Volume 7: 1944"
 doc_id: 2866
 vol_id: 7
-date: 1944-07-12
+doc_date: 1944-07-12
 ---
 
 # 219 Commonwealth Government to Fraser

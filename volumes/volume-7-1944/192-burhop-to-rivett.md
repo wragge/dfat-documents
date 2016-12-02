@@ -3,7 +3,7 @@ title: "192 Burhop to Rivett"
 volume: "Volume 7: 1944"
 doc_id: 2839
 vol_id: 7
-date: 1944-06-10
+doc_date: 1944-06-10
 ---
 
 # 192 Burhop to Rivett

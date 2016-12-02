@@ -3,7 +3,7 @@ title: "503 Department of External Affairs to Cutler"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5185
 vol_id: 12
-date: 1947-03-19
+doc_date: 1947-03-19
 ---
 
 # 503 Department of External Affairs to Cutler

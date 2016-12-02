@@ -3,7 +3,7 @@ title: "140 Prime Minister's Department to Mr E. E. Longfield Lloyd, Australian 
 volume: "Volume 1: 1937-38"
 doc_id: 139
 vol_id: 1
-date: 1938-03-17
+doc_date: 1938-03-17
 ---
 
 # 140 Prime Minister's Department to Mr E. E. Longfield Lloyd, Australian Government Commissioner in Japan

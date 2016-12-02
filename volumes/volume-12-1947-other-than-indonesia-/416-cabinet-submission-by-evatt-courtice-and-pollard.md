@@ -3,7 +3,7 @@ title: "416 Cabinet Submission by Evatt, Courtice and Pollard"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5098
 vol_id: 12
-date: 1947-05-26
+doc_date: 1947-05-26
 ---
 
 # 416 Cabinet Submission by Evatt, Courtice and Pollard

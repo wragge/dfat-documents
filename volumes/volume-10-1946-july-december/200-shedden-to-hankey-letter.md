@@ -3,7 +3,7 @@ title: "200 Shedden to Hankey Letter"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4048
 vol_id: 10
-date: 1946-11-06
+doc_date: 1946-11-06
 barcode: 240170
 ---
 

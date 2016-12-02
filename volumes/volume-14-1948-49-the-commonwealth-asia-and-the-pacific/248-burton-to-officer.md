@@ -3,7 +3,7 @@ title: "248 Burton to Officer"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6024
 vol_id: 14
-date: 1949-03-29
+doc_date: 1949-03-29
 barcode: 237733
 ---
 

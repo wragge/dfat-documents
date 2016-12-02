@@ -3,7 +3,7 @@ title: "18 Cablegram From Walker To Department Of External Affairs"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7623
 vol_id: 19
-date: 1953-01-30
+doc_date: 1953-01-30
 ---
 
 # 18 Cablegram From Walker To Department Of External Affairs

@@ -3,7 +3,7 @@ title: "288 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 9: 1946, January-June"
 doc_id: 3800
 vol_id: 9
-date: 1946-06-01
+doc_date: 1946-06-01
 barcode: 187433
 ---
 

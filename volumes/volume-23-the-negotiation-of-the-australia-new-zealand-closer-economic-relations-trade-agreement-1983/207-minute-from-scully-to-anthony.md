@@ -3,7 +3,7 @@ title: "207 Minute from Scully to Anthony"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9076
 vol_id: 23
-date: 1982-09-17
+doc_date: 1982-09-17
 ---
 
 # 207 Minute from Scully to Anthony

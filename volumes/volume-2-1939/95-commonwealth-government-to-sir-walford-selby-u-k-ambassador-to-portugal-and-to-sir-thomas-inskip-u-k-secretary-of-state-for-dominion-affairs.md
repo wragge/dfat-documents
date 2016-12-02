@@ -3,7 +3,7 @@ title: "95 Commonwealth Government to Sir Walford Selby, U.K. Ambassador to Port
 volume: "Volume 2: 1939"
 doc_id: 432
 vol_id: 2
-date: 1939-05-25
+doc_date: 1939-05-25
 ---
 
 # 95 Commonwealth Government to Sir Walford Selby, U.K. Ambassador to Portugal, and to Sir Thomas Inskip, U.K. Secretary of State for Dominion Affairs

@@ -3,7 +3,7 @@ title: "220 Letter from Hasluck to Critchley - Historical Documents - Australian
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9350
 vol_id: 25
-date: 1964-10-16
+doc_date: 1964-10-16
 barcode: 1727130
 ---
 

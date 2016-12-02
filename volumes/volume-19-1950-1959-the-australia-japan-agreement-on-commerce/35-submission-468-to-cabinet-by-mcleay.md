@@ -3,7 +3,7 @@ title: "35 Submission 468 To Cabinet By Mcleay"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7640
 vol_id: 19
-date: 1953-07-01
+doc_date: 1953-07-01
 ---
 
 # 35 Submission 468 To Cabinet By Mcleay

@@ -3,7 +3,7 @@ title: "132 Department of External Affairs to Spender"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 6847
 vol_id: 16
-date: 1949-12-20
+doc_date: 1949-12-20
 ---
 
 # 132 Department of External Affairs to Spender

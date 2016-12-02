@@ -3,7 +3,7 @@ title: "9 Mr A. T. Stirling, External Affairs Officer in London, to Department o
 volume: "Volume 3: 1940, January-June"
 doc_id: 775
 vol_id: 3
-date: 1940-01-09
+doc_date: 1940-01-09
 ---
 
 # 9 Mr A. T. Stirling, External Affairs Officer in London, to Department of External Affairs

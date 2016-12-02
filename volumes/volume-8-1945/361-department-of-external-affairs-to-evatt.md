@@ -3,7 +3,7 @@ title: "361 Department of External Affairs to Evatt"
 volume: "Volume 8: 1945"
 doc_id: 3392
 vol_id: 8
-date: 1945-11-04
+doc_date: 1945-11-04
 ---
 
 # 361 Department of External Affairs to Evatt

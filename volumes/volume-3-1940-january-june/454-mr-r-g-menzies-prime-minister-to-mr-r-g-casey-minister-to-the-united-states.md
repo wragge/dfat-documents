@@ -3,7 +3,7 @@ title: "454 Mr R. G. Menzies, Prime Minister, to Mr R. G. Casey, Minister to the
 volume: "Volume 3: 1940, January-June"
 doc_id: 1220
 vol_id: 3
-date: 1940-06-28
+doc_date: 1940-06-28
 ---
 
 # 454 Mr R. G. Menzies, Prime Minister, to Mr R. G. Casey, Minister to the United States

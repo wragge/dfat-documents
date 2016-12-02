@@ -3,7 +3,7 @@ title: "109 Note by Loomes [1]"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4791
 vol_id: 12
-date: 1947-06-06
+doc_date: 1947-06-06
 ---
 
 # 109 Note by Loomes [1]

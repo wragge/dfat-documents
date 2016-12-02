@@ -3,7 +3,7 @@ title: "514 Mr R. G. Menzies, Prime Minister, to Lt Gen Sir Thomas Blamey, G.O.C
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1745
 vol_id: 4
-date: 1941-06-21
+doc_date: 1941-06-21
 ---
 
 # 514 Mr R. G. Menzies, Prime Minister, to Lt Gen Sir Thomas Blamey, G.O.C. 2nd A.I.F. in the Middle East

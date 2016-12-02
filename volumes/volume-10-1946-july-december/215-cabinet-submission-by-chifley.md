@@ -3,7 +3,7 @@ title: "215 Cabinet Submission by Chifley"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4063
 vol_id: 10
-date: 1944-08-28
+doc_date: 1944-08-28
 ---
 
 # 215 Cabinet Submission by Chifley

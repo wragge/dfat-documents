@@ -3,7 +3,7 @@ title: "134 Cranborne to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3165
 vol_id: 8
-date: 1945-07-17
+doc_date: 1945-07-17
 ---
 
 # 134 Cranborne to Chifley

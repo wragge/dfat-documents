@@ -3,7 +3,7 @@ title: "30 Cablegram From Walker To Watt"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7635
 vol_id: 19
-date: 1953-06-09
+doc_date: 1953-06-09
 ---
 
 # 30 Cablegram From Walker To Watt

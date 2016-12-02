@@ -3,7 +3,7 @@ title: "58 Kirby to Department of External Affairs"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5325
 vol_id: 13
-date: 1948-02-11
+doc_date: 1948-02-11
 ---
 
 # 58 Kirby to Department of External Affairs

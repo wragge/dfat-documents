@@ -3,7 +3,7 @@ title: "507 Attlee to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5189
 vol_id: 12
-date: 1947-09-28
+doc_date: 1947-09-28
 barcode: 471010
 ---
 

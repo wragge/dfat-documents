@@ -3,7 +3,7 @@ title: "48 Attlee to Chifley"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5824
 vol_id: 14
-date: 1949-08-16
+doc_date: 1949-08-16
 ---
 
 # 48 Attlee to Chifley

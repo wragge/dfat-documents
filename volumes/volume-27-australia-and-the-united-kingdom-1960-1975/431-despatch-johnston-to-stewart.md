@@ -3,7 +3,7 @@ title: "431 DESPATCH JOHNSTON TO STEWART"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10298
 vol_id: 27
-date: 1970-05-13
+doc_date: 1970-05-13
 ---
 
 # 431 DESPATCH JOHNSTON TO STEWART

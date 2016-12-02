@@ -3,7 +3,7 @@ title: "275 Attlee to Curtin"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2566
 vol_id: 6
-date: 1943-09-08
+doc_date: 1943-09-08
 ---
 
 # 275 Attlee to Curtin

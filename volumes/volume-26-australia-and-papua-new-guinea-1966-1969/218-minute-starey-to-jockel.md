@@ -3,7 +3,7 @@ title: "218 Minute, Starey To Jockel"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9726
 vol_id: 26
-date: 1968-08-21
+doc_date: 1968-08-21
 barcode: 546867
 ---
 

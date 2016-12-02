@@ -3,7 +3,7 @@ title: "157 Brief for Gorton by Prime Minister's Department"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10531
 vol_id: 28
-date: 1969-04-18
+doc_date: 1969-04-18
 barcode: 1730537
 ---
 

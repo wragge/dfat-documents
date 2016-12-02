@@ -3,7 +3,7 @@ title: "201 Anderson to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2848
 vol_id: 7
-date: 1944-06-21
+doc_date: 1944-06-21
 ---
 
 # 201 Anderson to Curtin

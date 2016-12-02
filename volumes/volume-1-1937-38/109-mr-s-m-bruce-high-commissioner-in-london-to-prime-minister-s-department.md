@@ -3,7 +3,7 @@ title: "109 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Dep
 volume: "Volume 1: 1937-38"
 doc_id: 108
 vol_id: 1
-date: 1937-11-22
+doc_date: 1937-11-22
 ---
 
 # 109 Mr S. M. Bruce, High Commissioner in London, to Prime Minister's Department

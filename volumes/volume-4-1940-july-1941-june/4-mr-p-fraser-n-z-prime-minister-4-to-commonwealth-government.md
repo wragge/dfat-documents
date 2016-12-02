@@ -3,7 +3,7 @@ title: "4 Mr P. Fraser, N.Z. Prime Minister, 4 to Commonwealth Government"
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1235
 vol_id: 4
-date: 1940-07-03
+doc_date: 1940-07-03
 ---
 
 # 4 Mr P. Fraser, N.Z. Prime Minister, 4 to Commonwealth Government

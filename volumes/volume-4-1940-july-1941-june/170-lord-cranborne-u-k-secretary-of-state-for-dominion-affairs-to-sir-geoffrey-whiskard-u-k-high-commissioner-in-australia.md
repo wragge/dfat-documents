@@ -3,7 +3,7 @@ title: "170 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1401
 vol_id: 4
-date: 1940-10-10
+doc_date: 1940-10-10
 ---
 
 # 170 Lord Cranborne, U.K. Secretary of State for Dominion Affairs, to Sir Geoffrey Whiskard, U.K. High Commissioner in Australia

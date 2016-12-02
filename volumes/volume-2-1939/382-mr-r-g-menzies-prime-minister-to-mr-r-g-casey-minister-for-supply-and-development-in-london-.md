@@ -3,7 +3,7 @@ title: "382 Mr R.G. Menzies, Prime Minister, to Mr R.G. Casey, Minister for Supp
 volume: "Volume 2: 1939"
 doc_id: 719
 vol_id: 2
-date: 1939-11-23
+doc_date: 1939-11-23
 ---
 
 # 382 Mr R.G. Menzies, Prime Minister, to Mr R.G. Casey, Minister for Supply and Development (in London)

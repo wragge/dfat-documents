@@ -3,7 +3,7 @@ title: "143 Churchill to Chifley"
 volume: "Volume 8: 1945"
 doc_id: 3174
 vol_id: 8
-date: 1945-07-26
+doc_date: 1945-07-26
 ---
 
 # 143 Churchill to Chifley

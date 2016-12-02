@@ -3,7 +3,7 @@ title: "291 Sir William Glasgow, High Commissioner in Canada, to Mr A. W. Fadden
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1522
 vol_id: 4
-date: 1941-02-12
+doc_date: 1941-02-12
 ---
 
 # 291 Sir William Glasgow, High Commissioner in Canada, to Mr A. W. Fadden, Acting Prime Minister

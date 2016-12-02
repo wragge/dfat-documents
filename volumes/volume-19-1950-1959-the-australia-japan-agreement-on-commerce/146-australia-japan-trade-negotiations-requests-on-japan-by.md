@@ -3,7 +3,7 @@ title: "146 Australia-Japan Trade Negotiations: Requests On Japan By"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7751
 vol_id: 19
-date: 1956-08-29
+doc_date: 1956-08-29
 ---
 
 # 146 Australia-Japan Trade Negotiations: Requests On Japan By

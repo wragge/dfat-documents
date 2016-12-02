@@ -3,7 +3,7 @@ title: "250 LETTER, DOWNER TO HOLT"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10115
 vol_id: 27
-date: 1967-11-28
+doc_date: 1967-11-28
 ---
 
 # 250 LETTER, DOWNER TO HOLT

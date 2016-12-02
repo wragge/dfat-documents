@@ -3,7 +3,7 @@ title: "171 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5947
 vol_id: 14
-date: 1948-03-01
+doc_date: 1948-03-01
 barcode: 572706
 ---
 

@@ -3,7 +3,7 @@ title: "94 Commonwealth Government to Attlee"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2385
 vol_id: 6
-date: 1943-01-02
+doc_date: 1943-01-02
 barcode: 11244644
 ---
 

@@ -3,7 +3,7 @@ title: "65 Cablegram from Plimsoll to High Commission in London"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10439
 vol_id: 28
-date: 1965-06-16
+doc_date: 1965-06-16
 barcode: 3055577
 ---
 

@@ -3,7 +3,7 @@ title: "112 Beasley to Evatt"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3960
 vol_id: 10
-date: 1946-09-10
+doc_date: 1946-09-10
 barcode: 191209
 ---
 

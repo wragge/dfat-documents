@@ -3,7 +3,7 @@ title: "269 Evatt to Bevin"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6045
 vol_id: 14
-date: 1949-10-04
+doc_date: 1949-10-04
 ---
 
 # 269 Evatt to Bevin

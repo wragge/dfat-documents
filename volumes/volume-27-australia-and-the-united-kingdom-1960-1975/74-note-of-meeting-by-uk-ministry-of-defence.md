@@ -3,7 +3,7 @@ title: "74 NOTE OF MEETING BY UK MINISTRY OF DEFENCE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9939
 vol_id: 27
-date: 1967-06-14
+doc_date: 1967-06-14
 ---
 
 # 74 NOTE OF MEETING BY UK MINISTRY OF DEFENCE

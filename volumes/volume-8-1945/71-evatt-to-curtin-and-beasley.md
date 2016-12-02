@@ -3,7 +3,7 @@ title: "71 Evatt to Curtin and Beasley"
 volume: "Volume 8: 1945"
 doc_id: 3102
 vol_id: 8
-date: 1945-04-13
+doc_date: 1945-04-13
 ---
 
 # 71 Evatt to Curtin and Beasley

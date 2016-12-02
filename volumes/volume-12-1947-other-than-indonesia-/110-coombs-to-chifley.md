@@ -3,7 +3,7 @@ title: "110 Coombs to Chifley"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4792
 vol_id: 12
-date: 1947-06-09
+doc_date: 1947-06-09
 ---
 
 # 110 Coombs to Chifley

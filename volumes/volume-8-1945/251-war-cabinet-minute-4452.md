@@ -3,7 +3,7 @@ title: "251 War Cabinet Minute 4452"
 volume: "Volume 8: 1945"
 doc_id: 3282
 vol_id: 8
-date: 1945-09-19
+doc_date: 1945-09-19
 ---
 
 # 251 War Cabinet Minute 4452

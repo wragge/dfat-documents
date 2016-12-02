@@ -3,7 +3,7 @@ title: "232 Officer to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6008
 vol_id: 14
-date: 1949-01-22
+doc_date: 1949-01-22
 ---
 
 # 232 Officer to Department of External Affairs

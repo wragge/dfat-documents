@@ -3,7 +3,7 @@ title: "106 Shedden to Wilson"
 volume: "Volume 7: 1944"
 doc_id: 2753
 vol_id: 7
-date: 1944-04-01
+doc_date: 1944-04-01
 ---
 
 # 106 Shedden to Wilson

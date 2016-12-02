@@ -3,7 +3,7 @@ title: "135 Minute from Bunting to Menzies - Historical Documents - Australian G
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9265
 vol_id: 25
-date: 1963-12-05
+doc_date: 1963-12-05
 barcode: 1328060
 ---
 

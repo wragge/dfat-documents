@@ -3,7 +3,7 @@ title: "224 Statement By Mcewen"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7829
 vol_id: 19
-date: 1957-07-06
+doc_date: 1957-07-06
 ---
 
 # 224 Statement By Mcewen

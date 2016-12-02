@@ -3,7 +3,7 @@ title: "209 Cablegram from Hay to Canberra - Historical Documents - Australian G
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9339
 vol_id: 25
-date: 1964-09-17
+doc_date: 1964-09-17
 barcode: 1500846
 ---
 

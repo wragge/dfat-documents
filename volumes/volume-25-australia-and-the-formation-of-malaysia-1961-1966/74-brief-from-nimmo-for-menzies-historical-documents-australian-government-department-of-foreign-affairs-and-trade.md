@@ -3,7 +3,7 @@ title: "74 Brief From Nimmo For Menzies - Historical Documents - Australian Gove
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9206
 vol_id: 25
-date: 1963-06-13
+doc_date: 1963-06-13
 barcode: 1335337
 ---
 

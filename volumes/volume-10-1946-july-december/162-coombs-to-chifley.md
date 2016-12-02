@@ -3,7 +3,7 @@ title: "162 Coombs to Chifley"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4010
 vol_id: 10
-date: 1946-10-14
+doc_date: 1946-10-14
 barcode: 191253
 ---
 

@@ -3,7 +3,7 @@ title: "380 Department of External Affairs to Beasley and Hood"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6549
 vol_id: 15
-date: 1949-05-07
+doc_date: 1949-05-07
 ---
 
 # 380 Department of External Affairs to Beasley and Hood

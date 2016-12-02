@@ -3,7 +3,7 @@ title: "340 Quinn to Hood"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5607
 vol_id: 13
-date: 1948-12-02
+doc_date: 1948-12-02
 ---
 
 # 340 Quinn to Hood

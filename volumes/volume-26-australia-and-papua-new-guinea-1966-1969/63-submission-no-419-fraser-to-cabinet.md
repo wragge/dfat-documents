@@ -3,7 +3,7 @@ title: "63 Submission No. 419, Fraser To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9571
 vol_id: 26
-date: 1966-08-25
+doc_date: 1966-08-25
 barcode: 1807720
 ---
 

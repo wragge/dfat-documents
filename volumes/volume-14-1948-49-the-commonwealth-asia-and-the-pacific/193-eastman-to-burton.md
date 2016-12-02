@@ -3,7 +3,7 @@ title: "193 Eastman to Burton"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5969
 vol_id: 14
-date: 1948-06-18
+doc_date: 1948-06-18
 ---
 
 # 193 Eastman to Burton

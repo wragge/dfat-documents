@@ -3,7 +3,7 @@ title: "45 TELEGRAM, JOHNSTON TO COMMONWEALTH RELATIONS OFFICE"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9910
 vol_id: 27
-date: 1965-11-24
+doc_date: 1965-11-24
 ---
 
 # 45 TELEGRAM, JOHNSTON TO COMMONWEALTH RELATIONS OFFICE

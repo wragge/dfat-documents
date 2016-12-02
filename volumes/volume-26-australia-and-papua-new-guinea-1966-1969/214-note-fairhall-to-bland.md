@@ -3,7 +3,7 @@ title: "214 Note, Fairhall To Bland"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9722
 vol_id: 26
-date: 1968-08-05
+doc_date: 1968-08-05
 barcode: 3125736
 ---
 

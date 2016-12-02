@@ -3,7 +3,7 @@ title: "166 Record of Meeting between Officials and New Zealand Dairy Board Repr
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9035
 vol_id: 23
-date: 1981-04-23
+doc_date: 1981-04-23
 ---
 
 # 166 Record of Meeting between Officials and New Zealand Dairy Board Representatives

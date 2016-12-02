@@ -3,7 +3,7 @@ title: "137 Oldham to Evatt"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3649
 vol_id: 9
-date: 1946-03-20
+doc_date: 1946-03-20
 ---
 
 # 137 Oldham to Evatt

@@ -3,7 +3,7 @@ title: "196 Australian Delegation, United Nations, to Department of External Aff
 volume: "Volume 10: 1946, July-December"
 doc_id: 4044
 vol_id: 10
-date: 1946-11-03
+doc_date: 1946-11-03
 ---
 
 # 196 Australian Delegation, United Nations, to Department of External Affairs

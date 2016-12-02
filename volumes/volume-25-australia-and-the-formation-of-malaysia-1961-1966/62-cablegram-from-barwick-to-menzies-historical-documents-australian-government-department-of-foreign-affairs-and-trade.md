@@ -3,7 +3,7 @@ title: "62 Cablegram From Barwick To Menzies - Historical Documents - Australian
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9194
 vol_id: 25
-date: 1963-04-05
+doc_date: 1963-04-05
 ---
 
 # 62 Cablegram From Barwick To Menzies - Historical Documents - Australian Government Department of Foreign Affairs and Trade

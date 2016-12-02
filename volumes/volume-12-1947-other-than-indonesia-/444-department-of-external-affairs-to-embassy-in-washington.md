@@ -3,7 +3,7 @@ title: "444 Department of External Affairs to Embassy in Washington"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5126
 vol_id: 12
-date: 1947-08-14
+doc_date: 1947-08-14
 ---
 
 # 444 Department of External Affairs to Embassy in Washington

@@ -3,7 +3,7 @@ title: "29 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Pri
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1260
 vol_id: 4
-date: 1940-07-18
+doc_date: 1940-07-18
 ---
 
 # 29 Mr S. M. Bruce, High Commissioner in London, to Mr R. G. Menzies, Prime Minister

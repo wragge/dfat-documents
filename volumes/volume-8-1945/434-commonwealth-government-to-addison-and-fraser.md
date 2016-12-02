@@ -3,7 +3,7 @@ title: "434 Commonwealth Government to Addison and Fraser"
 volume: "Volume 8: 1945"
 doc_id: 3465
 vol_id: 8
-date: 1945-12-06
+doc_date: 1945-12-06
 barcode: 188014
 ---
 

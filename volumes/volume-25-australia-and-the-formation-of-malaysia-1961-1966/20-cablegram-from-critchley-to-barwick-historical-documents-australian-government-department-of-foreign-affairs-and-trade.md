@@ -3,7 +3,7 @@ title: "20 Cablegram from Critchley to Barwick - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9154
 vol_id: 25
-date: 1963-01-28
+doc_date: 1963-01-28
 ---
 
 # 20 Cablegram from Critchley to Barwick - Historical Documents - Australian Government Department of Foreign Affairs and Trade

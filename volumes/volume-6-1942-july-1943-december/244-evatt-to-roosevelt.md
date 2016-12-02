@@ -3,7 +3,7 @@ title: "244 Evatt to Roosevelt"
 volume: "Volume 6: 1942, July - 1943, December"
 doc_id: 2535
 vol_id: 6
-date: 1943-07-13
+doc_date: 1943-07-13
 ---
 
 # 244 Evatt to Roosevelt

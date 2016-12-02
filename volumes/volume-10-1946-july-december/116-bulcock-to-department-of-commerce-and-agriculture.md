@@ -3,7 +3,7 @@ title: "116 Bulcock to Department of Commerce and Agriculture"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3964
 vol_id: 10
-date: 1946-09-13
+doc_date: 1946-09-13
 barcode: 191304
 ---
 

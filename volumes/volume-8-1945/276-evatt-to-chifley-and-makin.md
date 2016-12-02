@@ -3,7 +3,7 @@ title: "276 Evatt to Chifley and Makin"
 volume: "Volume 8: 1945"
 doc_id: 3307
 vol_id: 8
-date: 1945-10-01
+doc_date: 1945-10-01
 barcode: 187171
 ---
 

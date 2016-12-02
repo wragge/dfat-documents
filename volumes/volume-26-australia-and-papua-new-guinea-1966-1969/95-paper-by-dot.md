@@ -3,7 +3,7 @@ title: "95 Paper By Dot"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9603
 vol_id: 26
-date: 1967-03-03
+doc_date: 1967-03-03
 ---
 
 # 95 Paper By Dot

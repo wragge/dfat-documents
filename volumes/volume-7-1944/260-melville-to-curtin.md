@@ -3,7 +3,7 @@ title: "260 Melville to Curtin"
 volume: "Volume 7: 1944"
 doc_id: 2907
 vol_id: 7
-date: 1944-08-26
+doc_date: 1944-08-26
 ---
 
 # 260 Melville to Curtin

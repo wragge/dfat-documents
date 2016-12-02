@@ -3,7 +3,7 @@ title: "270 Department of External Affairs to Australian Delegation, United Nati
 volume: "Volume 10: 1946, July-December"
 doc_id: 4118
 vol_id: 10
-date: 1946-12-02
+doc_date: 1946-12-02
 ---
 
 # 270 Department of External Affairs to Australian Delegation, United Nations

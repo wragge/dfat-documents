@@ -3,7 +3,7 @@ title: "332 Cablegram to New York"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 8170
 vol_id: 20
-date: 1975-11-10
+doc_date: 1975-11-10
 ---
 
 # 332 Cablegram to New York

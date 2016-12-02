@@ -3,7 +3,7 @@ title: "112 Record of Meeting held in U.K. Prime Minister's Room at House of Com
 volume: "Volume 2: 1939"
 doc_id: 449
 vol_id: 2
-date: 1939-06-28
+doc_date: 1939-06-28
 ---
 
 # 112 Record of Meeting held in U.K. Prime Minister's Room at House of Commons

@@ -3,7 +3,7 @@ title: "387 Mr A. W. Fadden, Acting Prime Minister, to Mr R. G. Menzies, Prime M
 volume: "Volume 4: 1940, July - 1941, June"
 doc_id: 1618
 vol_id: 4
-date: 1941-04-06
+doc_date: 1941-04-06
 ---
 
 # 387 Mr A. W. Fadden, Acting Prime Minister, to Mr R. G. Menzies, Prime Minister (in London)

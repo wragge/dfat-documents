@@ -3,7 +3,7 @@ title: "348 Usman to Burton"
 volume: "Volume 15: 1949, Indonesia"
 doc_id: 6517
 vol_id: 15
-date: 1949-04-09
+doc_date: 1949-04-09
 barcode: 550321
 ---
 

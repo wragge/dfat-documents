@@ -3,7 +3,7 @@ title: "268 MINUTE, STATHAM TO TICKELL"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10133
 vol_id: 27
-date: 1970-09-09
+doc_date: 1970-09-09
 ---
 
 # 268 MINUTE, STATHAM TO TICKELL

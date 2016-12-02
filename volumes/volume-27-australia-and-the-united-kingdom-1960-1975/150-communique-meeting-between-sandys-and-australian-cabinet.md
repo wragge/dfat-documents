@@ -3,7 +3,7 @@ title: "150 COMMUNIQUE, MEETING BETWEEN SANDYS AND AUSTRALIAN CABINET"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 10015
 vol_id: 27
-date: 1961-07-11
+doc_date: 1961-07-11
 ---
 
 # 150 COMMUNIQUE, MEETING BETWEEN SANDYS AND AUSTRALIAN CABINET

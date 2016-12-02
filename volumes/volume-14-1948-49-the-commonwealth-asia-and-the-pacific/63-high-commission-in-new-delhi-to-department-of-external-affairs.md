@@ -3,7 +3,7 @@ title: "63 High Commission in New Delhi to Department of External Affairs"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5839
 vol_id: 14
-date: 1948-11-09
+doc_date: 1948-11-09
 ---
 
 # 63 High Commission in New Delhi to Department of External Affairs

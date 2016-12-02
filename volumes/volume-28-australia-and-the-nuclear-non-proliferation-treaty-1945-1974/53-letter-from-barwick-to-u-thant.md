@@ -3,7 +3,7 @@ title: "53 Letter from Barwick to U Thant"
 volume: "Volume 28: Australia and the Nuclear Non-Proliferation Treaty 1945-1974"
 doc_id: 10427
 vol_id: 28
-date: 1962-03-15
+doc_date: 1962-03-15
 barcode: 1730506
 ---
 

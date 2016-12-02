@@ -3,7 +3,7 @@ title: "362 Cablegram from Loveday to Canberra - Historical Documents - Australi
 volume: "Volume 25: Australia and the Formation of Malaysia, 1961–1966"
 doc_id: 9492
 vol_id: 25
-date: 1966-05-23
+doc_date: 1966-05-23
 barcode: 1941080
 ---
 

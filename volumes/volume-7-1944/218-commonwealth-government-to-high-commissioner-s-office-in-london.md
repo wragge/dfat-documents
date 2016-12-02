@@ -3,7 +3,7 @@ title: "218 Commonwealth Government to High Commissioner's Office in London"
 volume: "Volume 7: 1944"
 doc_id: 2865
 vol_id: 7
-date: 1944-07-10
+doc_date: 1944-07-10
 ---
 
 # 218 Commonwealth Government to High Commissioner's Office in London

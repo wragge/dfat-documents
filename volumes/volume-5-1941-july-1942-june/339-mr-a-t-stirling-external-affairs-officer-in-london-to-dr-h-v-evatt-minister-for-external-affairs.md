@@ -3,7 +3,7 @@ title: "339 Mr A. T. Stirling, External Affairs Officer in London, to Dr H. V. E
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2093
 vol_id: 5
-date: 1942-02-17
+doc_date: 1942-02-17
 ---
 
 # 339 Mr A. T. Stirling, External Affairs Officer in London, to Dr H. V. Evatt, Minister for External Affairs

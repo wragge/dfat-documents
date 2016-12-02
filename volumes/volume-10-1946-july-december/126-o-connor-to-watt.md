@@ -3,7 +3,7 @@ title: "126 O'Connor to Watt"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3974
 vol_id: 10
-date: 1946-09-19
+doc_date: 1946-09-19
 barcode: 191462
 ---
 

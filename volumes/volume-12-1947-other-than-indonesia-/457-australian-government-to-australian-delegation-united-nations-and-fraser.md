@@ -3,7 +3,7 @@ title: "457 Australian Government to Australian Delegation, United Nations, and 
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5139
 vol_id: 12
-date: 1947-03-06
+doc_date: 1947-03-06
 ---
 
 # 457 Australian Government to Australian Delegation, United Nations, and Fraser

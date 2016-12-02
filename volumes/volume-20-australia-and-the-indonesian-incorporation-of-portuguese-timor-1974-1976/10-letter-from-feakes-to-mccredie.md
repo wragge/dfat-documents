@@ -3,7 +3,7 @@ title: "10 Letter from Feakes to McCredie"
 volume: "Volume 20: Australia and the Indonesian Incorporation of Portuguese Timor, 1974-1976"
 doc_id: 7849
 vol_id: 20
-date: 1974-06-06
+doc_date: 1974-06-06
 ---
 
 # 10 Letter from Feakes to McCredie

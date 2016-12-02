@@ -3,7 +3,7 @@ title: "299 Letter; Barnes To Hay"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9807
 vol_id: 26
-date: 1969-07-24
+doc_date: 1969-07-24
 barcode: 4027872
 ---
 

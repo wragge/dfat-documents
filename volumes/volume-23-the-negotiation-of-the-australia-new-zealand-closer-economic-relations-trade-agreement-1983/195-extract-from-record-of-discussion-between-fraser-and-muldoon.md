@@ -3,7 +3,7 @@ title: "195 Extract from Record of Discussion Between Fraser and Muldoon"
 volume: "Volume 23: The Negotiation of the Australia New Zealand Closer Economic Relations Trade Agreement 1983"
 doc_id: 9064
 vol_id: 23
-date: 1982-06-10
+doc_date: 1982-06-10
 ---
 
 # 195 Extract from Record of Discussion Between Fraser and Muldoon

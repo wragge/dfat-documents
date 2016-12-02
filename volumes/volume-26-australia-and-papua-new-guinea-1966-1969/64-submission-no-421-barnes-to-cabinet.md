@@ -3,7 +3,7 @@ title: "64 Submission No. 421, Barnes To Cabinet"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9572
 vol_id: 26
-date: 1966-08-29
+doc_date: 1966-08-29
 ---
 
 # 64 Submission No. 421, Barnes To Cabinet

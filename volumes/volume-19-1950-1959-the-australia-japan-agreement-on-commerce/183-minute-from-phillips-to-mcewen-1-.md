@@ -3,7 +3,7 @@ title: "183 Minute From Phillips To Mcewen [1]"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7788
 vol_id: 19
-date: 1956-12-12
+doc_date: 1956-12-12
 ---
 
 # 183 Minute From Phillips To Mcewen [1]

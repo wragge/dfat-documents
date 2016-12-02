@@ -3,7 +3,7 @@ title: "33 Tange to Burton"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 5809
 vol_id: 14
-date: 1948-10-28
+doc_date: 1948-10-28
 ---
 
 # 33 Tange to Burton

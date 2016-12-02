@@ -3,7 +3,7 @@ title: "419 Department of External Affairs to Officer"
 volume: "Volume 11: 1947, Indonesia"
 doc_id: 4603
 vol_id: 11
-date: 1947-11-14
+doc_date: 1947-11-14
 ---
 
 # 419 Department of External Affairs to Officer

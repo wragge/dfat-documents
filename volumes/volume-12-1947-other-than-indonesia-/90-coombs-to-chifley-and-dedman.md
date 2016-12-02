@@ -3,7 +3,7 @@ title: "90 Coombs to Chifley and Dedman"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 4772
 vol_id: 12
-date: 1947-03-25
+doc_date: 1947-03-25
 barcode: 195040
 ---
 

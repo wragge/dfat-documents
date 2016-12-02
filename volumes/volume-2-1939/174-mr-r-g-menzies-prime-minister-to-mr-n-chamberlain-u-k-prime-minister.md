@@ -3,7 +3,7 @@ title: "174 Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Mi
 volume: "Volume 2: 1939"
 doc_id: 511
 vol_id: 2
-date: 1939-09-01
+doc_date: 1939-09-01
 ---
 
 # 174 Mr R.G. Menzies, Prime Minister, to Mr N. Chamberlain, U.K. Prime Minister

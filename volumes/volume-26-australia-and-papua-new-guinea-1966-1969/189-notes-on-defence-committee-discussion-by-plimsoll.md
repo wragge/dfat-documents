@@ -3,7 +3,7 @@ title: "189 Notes On Defence Committee Discussion By Plimsoll"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9697
 vol_id: 26
-date: 1968-05-30
+doc_date: 1968-05-30
 barcode: 1727616
 ---
 

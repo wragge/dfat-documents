@@ -3,7 +3,7 @@ title: "304 Department of External Affairs to Hood"
 volume: "Volume 10: 1946, July-December"
 doc_id: 4152
 vol_id: 10
-date: 1946-12-10
+doc_date: 1946-12-10
 ---
 
 # 304 Department of External Affairs to Hood

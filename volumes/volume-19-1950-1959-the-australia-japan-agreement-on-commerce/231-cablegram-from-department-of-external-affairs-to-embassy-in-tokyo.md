@@ -3,7 +3,7 @@ title: "231 Cablegram From Department Of External Affairs To Embassy In Tokyo"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7836
 vol_id: 19
-date: 1957-09-06
+doc_date: 1957-09-06
 ---
 
 # 231 Cablegram From Department Of External Affairs To Embassy In Tokyo

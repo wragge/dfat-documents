@@ -3,7 +3,7 @@ title: "339 G.P.N. Watt to McFarlane"
 volume: "Volume 16: 1948-49, Australia and the Postwar World - Beyond the Region"
 doc_id: 7054
 vol_id: 16
-date: 1948-05-19
+doc_date: 1948-05-19
 ---
 
 # 339 G.P.N. Watt to McFarlane

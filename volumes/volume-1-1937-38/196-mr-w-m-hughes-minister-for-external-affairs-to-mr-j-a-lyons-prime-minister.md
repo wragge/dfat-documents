@@ -3,7 +3,7 @@ title: "196 Mr W. M. Hughes, Minister for External Affairs, to Mr J. A. Lyons, P
 volume: "Volume 1: 1937-38"
 doc_id: 195
 vol_id: 1
-date: 1938-05-13
+doc_date: 1938-05-13
 barcode: 206889
 ---
 

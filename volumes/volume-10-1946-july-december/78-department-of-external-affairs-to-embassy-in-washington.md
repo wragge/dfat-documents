@@ -3,7 +3,7 @@ title: "78 Department of External Affairs to Embassy in Washington"
 volume: "Volume 10: 1946, July-December"
 doc_id: 3926
 vol_id: 10
-date: 1946-08-21
+doc_date: 1946-08-21
 ---
 
 # 78 Department of External Affairs to Embassy in Washington

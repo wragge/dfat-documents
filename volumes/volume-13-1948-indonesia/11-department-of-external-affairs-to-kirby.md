@@ -3,7 +3,7 @@ title: "11 Department of External Affairs to Kirby"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5278
 vol_id: 13
-date: 1948-01-10
+doc_date: 1948-01-10
 ---
 
 # 11 Department of External Affairs to Kirby

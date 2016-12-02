@@ -3,7 +3,7 @@ title: "86 Submission 184 To Cabinet By Menzies"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7691
 vol_id: 19
-date: 1954-11-10
+doc_date: 1954-11-10
 ---
 
 # 86 Submission 184 To Cabinet By Menzies

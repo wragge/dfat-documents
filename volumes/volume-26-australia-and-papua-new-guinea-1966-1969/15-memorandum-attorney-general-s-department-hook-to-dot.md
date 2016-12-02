@@ -3,7 +3,7 @@ title: "15 Memorandum, Attorney-General’s Department (Hook) To Dot"
 volume: "Volume 26: Australia and Papua New Guinea, 1966–1969"
 doc_id: 9524
 vol_id: 26
-date: 1966-02-17
+doc_date: 1966-02-17
 barcode: 3112512
 ---
 

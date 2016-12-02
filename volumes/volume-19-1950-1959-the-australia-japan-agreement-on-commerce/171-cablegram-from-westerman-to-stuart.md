@@ -3,7 +3,7 @@ title: "171 Cablegram From Westerman To Stuart"
 volume: "Volume 19: 1950 - 1959, The Australia Japan Agreement on Commerce"
 doc_id: 7776
 vol_id: 19
-date: 1956-11-22
+doc_date: 1956-11-22
 ---
 
 # 171 Cablegram From Westerman To Stuart

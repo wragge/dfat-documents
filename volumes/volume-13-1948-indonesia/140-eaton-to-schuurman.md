@@ -3,7 +3,7 @@ title: "140 Eaton to Schuurman"
 volume: "Volume 13: 1948, Indonesia"
 doc_id: 5407
 vol_id: 13
-date: 1948-05-22
+doc_date: 1948-05-22
 ---
 
 # 140 Eaton to Schuurman

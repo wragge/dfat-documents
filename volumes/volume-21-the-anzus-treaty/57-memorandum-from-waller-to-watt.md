@@ -3,7 +3,7 @@ title: "57 Memorandum From Waller to Watt"
 volume: "Volume 21: The ANZUS Treaty"
 doc_id: 8408
 vol_id: 21
-date: 1951-03-08
+doc_date: 1951-03-08
 ---
 
 # 57 Memorandum From Waller to Watt

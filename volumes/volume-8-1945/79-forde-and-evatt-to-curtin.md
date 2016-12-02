@@ -3,7 +3,7 @@ title: "79 Forde and Evatt to Curtin"
 volume: "Volume 8: 1945"
 doc_id: 3110
 vol_id: 8
-date: 1945-04-28
+doc_date: 1945-04-28
 barcode: 188012
 ---
 

@@ -3,7 +3,7 @@ title: "224 Note by Mr S. M. Bruce, High Commissioner in London, of Meeting of D
 volume: "Volume 3: 1940, January-June"
 doc_id: 990
 vol_id: 3
-date: 1940-05-10
+doc_date: 1940-05-10
 barcode: 242420
 ---
 

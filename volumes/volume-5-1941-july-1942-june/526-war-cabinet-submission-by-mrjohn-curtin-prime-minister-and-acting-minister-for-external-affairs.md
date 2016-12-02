@@ -3,7 +3,7 @@ title: "526 War Cabinet Submission by MrJohn Curtin, Prime Minister and Acting M
 volume: "Volume 5: 1941, July - 1942, June"
 doc_id: 2280
 vol_id: 5
-date: 1942-06-16
+doc_date: 1942-06-16
 ---
 
 # 526 War Cabinet Submission by MrJohn Curtin, Prime Minister and Acting Minister for External Affairs

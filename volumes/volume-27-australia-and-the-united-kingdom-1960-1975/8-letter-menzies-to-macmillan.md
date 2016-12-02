@@ -3,7 +3,7 @@ title: "8 LETTER, MENZIES TO MACMILLAN"
 volume: "Volume 27: Australia and the United Kingdom, 1960–1975"
 doc_id: 9875
 vol_id: 27
-date: 1961-06-29
+doc_date: 1961-06-29
 ---
 
 # 8 LETTER, MENZIES TO MACMILLAN

@@ -3,7 +3,7 @@ title: "254 Department of External Affairs to Embassy in Washington"
 volume: "Volume 14: 1948-49, The Commonwealth, Asia and the Pacific"
 doc_id: 6030
 vol_id: 14
-date: 1949-05-31
+doc_date: 1949-05-31
 ---
 
 # 254 Department of External Affairs to Embassy in Washington

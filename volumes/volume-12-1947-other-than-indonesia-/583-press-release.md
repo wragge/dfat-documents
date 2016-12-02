@@ -3,7 +3,7 @@ title: "583 Press Release"
 volume: "Volume 12: 1947, (other than Indonesia)"
 doc_id: 5265
 vol_id: 12
-date: 1947-12-21
+doc_date: 1947-12-21
 barcode: 194405
 ---
 

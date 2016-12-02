@@ -3,7 +3,7 @@ title: "211 Evatt to Makin"
 volume: "Volume 9: 1946, January-June"
 doc_id: 3723
 vol_id: 9
-date: 1946-04-25
+doc_date: 1946-04-25
 barcode: 191472
 ---
 
