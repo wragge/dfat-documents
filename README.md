@@ -1,6 +1,6 @@
 # DFAT Documents
 
-Code to harvest DFAT's collection of Historical Documents and extract a bit of metadata. It was developed as a quick demonstration only, so it could be improved and extended in many ways.
+Code to harvest DFAT's collection of [Historical Documents](http://dfat.gov.au/about-us/publications/historical-documents/Pages/historical-documents.aspx) and extract a bit of metadata. It was developed as a quick demonstration only, so it could be improved and extended in many ways.
 
 Content on the DFAT website is made available under a [CC-BY licence](http://dfat.gov.au/about-us/about-this-website/Pages/copyright.aspx).
 
